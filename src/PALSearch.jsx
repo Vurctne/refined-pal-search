@@ -1220,11 +1220,35 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy#rpl-main' }
   ],
 },
-  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy' },
+  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, mobile, phones, student', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy#rpl-main' }
+  ],
+},
 
   // Infrastructure
-  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy' },
-  { id: 90, title: 'School Maintenance Plans and Rolling Facilities Evaluations', category: 'Infrastructure', tags: ['smp', 'rfe', 'maintenance plan', 'aims', 'facilities'], summary: 'SMP managed in AIMS. Onsite RFE every 5 years.', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy' },
+  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy#rpl-main' }
+  ],
+},
+  { id: 90, title: 'School Maintenance Plans and Rolling Facilities Evaluations', category: 'Infrastructure', tags: ['smp', 'rfe', 'maintenance plan', 'aims', 'facilities'], summary: 'SMP managed in AIMS. Onsite RFE every 5 years.', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, school, maintenance, plans', href: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy#rpl-main' }
+  ],
+},
   // IT & Privacy
   { id: 91, title: 'Privacy and Information Sharing', category: 'IT & Privacy', tags: ['privacy', 'pia', 'privacy impact assessment', 'information sharing', 'data', 'privacy matrix', 'health information', 'biometric', 'schools privacy policy', 'ovic', 'privacy complaint', 'privacy incident', 'consent', 'collection notice', 'photographs filming'], summary: 'PIAs required for software handling personal/sensitive/health info. Contact privacy@education.vic.gov.au. Regulated by the Privacy and Data Protection Act 2014 (Vic).', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy', guidance: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance', resources: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/resources' },

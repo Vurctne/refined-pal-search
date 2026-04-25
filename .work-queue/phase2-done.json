@@ -1178,6 +1178,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T01:14:43.7520606+10:00"
+                  },
+                  {
+                      "db_id":  88,
+                      "title":  "Mobile Phones — Student Use",
+                      "url":  "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:16:43.9334143+10:00"
+                  },
+                  {
+                      "db_id":  89,
+                      "title":  "Buildings and Grounds Maintenance and Compliance",
+                      "url":  "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:16:43.9354116+10:00"
+                  },
+                  {
+                      "db_id":  90,
+                      "title":  "School Maintenance Plans and Rolling Facilities Evaluations",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:16:43.9364109+10:00"
                   }
               ]
 }
