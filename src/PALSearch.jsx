@@ -612,7 +612,15 @@ const PAL_POLICIES = [
     ]
   },
   // School Council
-  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true },
+  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true,
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, school, council, powers', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy#rpl-main' }
+  ],
+},
   { id: 54.5, title: 'School Council — Meetings', category: 'School Council', tags: ['school council', 'meetings', 'agenda', 'minutes', 'templates', 'chair', 'president', 'extraordinary meeting', 'public meeting'], summary: '8 sample agenda and minutes templates (one per regular meeting). Meetings chaired by president. Records must be kept: agendas, reports, minutes, correspondence.', url: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', guidance: 'https://www2.education.vic.gov.au/pal/school-council-meetings/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-meetings/resources' },
     chapters: [
@@ -739,7 +747,15 @@ const PAL_POLICIES = [
       { title: 'CASES21 or eCASES21', note: 'required for attendance recording (or CASES21-compatible third party)' }
     ]
   },
-  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy' },
+  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy#rpl-main' }
+  ],
+},
   { id: 59, title: 'Suspensions', category: 'Students', tags: ['suspension', 'discipline', 'behaviour', 'ministerial order 1125', 'notice of suspension', 'relevant person', 'regional director approval', '5 days', '15 days', 'grounds for suspension', 'exceptional grounds', 'outside school activity', '7 years'], summary: 'Student suspension under Ministerial Order 1125. Must consider alternatives first. Principal authority (cannot be delegated). RD approval required for >5 consecutive days or >15 days total in a year. Records retained 7 years.', url: 'https://www2.education.vic.gov.au/pal/suspensions/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/suspensions/policy', guidance: 'https://www2.education.vic.gov.au/pal/suspensions/guidance', resources: 'https://www2.education.vic.gov.au/pal/suspensions/resources' },
     chapters: [
