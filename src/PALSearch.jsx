@@ -414,9 +414,33 @@ const PAL_POLICIES = [
       { title: 'Contact: vicgovernmentservice@westpac.com.au', note: 'Westpac general enquiries' }
     ]
   },
-  { id: 38, title: 'Finance Manual — Section 9 Funding Sources', category: 'Finance', tags: ['funding', 'sources', 'contributions', 'building fund', 'library fund', 'dgr', 'srp', 'cash grant', '70001', 'schools targeted funding portal', '74408', '74409', '74410'], summary: 'SRP, targeted funding, parent contributions. Use CASES21 GL code 70001 for SRP Cash Grant receipts. DGR endorsement required for building/library funds. Curriculum Contributions GL 74408, Extra-Curricular 74409, Other 74410.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources' },
-  { id: 39, title: 'Finance Manual — Section 11 Expenditure Management', category: 'Finance', tags: ['expenditure', 'purchase order', 'petty cash', 'purchasing card', 'imprest', 'delegations', 'reimbursement request form', 'payment voucher', 'accounts payable'], summary: 'Expenditure controls, purchase orders, purchasing cards, petty cash (imprest system). Use Reimbursement Request Form before processing in CASES21. Attach POs, invoices, quotes to payment vouchers and mark paid immediately.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management' },
-  { id: 40, title: 'Finance Manual — Section 12 Trading Operations', category: 'Finance', tags: ['trading operations', 'canteen', 'uniform shop', 'gst', 'taxation'], summary: 'Trading operations and taxation treatment. School council must nominate tax treatment annually.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations' },
+  { id: 38, title: 'Finance Manual — Section 9 Funding Sources', category: 'Finance', tags: ['funding', 'sources', 'contributions', 'building fund', 'library fund', 'dgr', 'srp', 'cash grant', '70001', 'schools targeted funding portal', '74408', '74409', '74410'], summary: 'SRP, targeted funding, parent contributions. Use CASES21 GL code 70001 for SRP Cash Grant receipts. DGR endorsement required for building/library funds. Curriculum Contributions GL 74408, Extra-Curricular 74409, Other 74410.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources#rpl-main' }
+  ],
+},
+  { id: 39, title: 'Finance Manual — Section 11 Expenditure Management', category: 'Finance', tags: ['expenditure', 'purchase order', 'petty cash', 'purchasing card', 'imprest', 'delegations', 'reimbursement request form', 'payment voucher', 'accounts payable'], summary: 'Expenditure controls, purchase orders, purchasing cards, petty cash (imprest system). Use Reimbursement Request Form before processing in CASES21. Attach POs, invoices, quotes to payment vouchers and mark paid immediately.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management#rpl-main' }
+  ],
+},
+  { id: 40, title: 'Finance Manual — Section 12 Trading Operations', category: 'Finance', tags: ['trading operations', 'canteen', 'uniform shop', 'gst', 'taxation'], summary: 'Trading operations and taxation treatment. School council must nominate tax treatment annually.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations#rpl-main' }
+  ],
+},
   { id: 41, title: 'Finance Manual — Section 13 Asset and Inventory Management', category: 'Finance', tags: ['assets', 'inventory', 'cases21', 'asset register', 'depreciation', '5000', 'asset status change'], summary: 'Asset management. Add to CASES21 Asset Register within 30 days. Portable/attractive items $5,000+ tracked. Use Asset status change request form.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management' },
   { id: 41.5, title: 'Finance Manual — Section 6 Budget Management', category: 'Finance', tags: ['budget', 'indicative budget', 'confirmed srp', 'cash flow budget', 'variance analysis', 'finance committee'], summary: 'Budget process. Enter indicative cash budget into CASES21 before first school council meeting; update once Confirmed SRP is released. Reconcile CASES21 budget to school council-approved budget.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management' },
   { id: 41.6, title: 'Finance Manual — Section 7 Chart of Accounts', category: 'Finance', tags: ['chart of accounts', 'coding', 'cases21', 'sub program', 'general ledger', 'schools finance and resources branch'], summary: 'All schools must adopt the standard Chart of Accounts for Victorian Government Schools. Correct coding is critical for reporting accuracy. Do not create Sub Program codes that already exist at GL level.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts' },

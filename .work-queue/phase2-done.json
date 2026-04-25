@@ -584,6 +584,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T00:55:21.0730328+10:00"
+                  },
+                  {
+                      "db_id":  38,
+                      "title":  "Finance Manual — Section 9 Funding Sources",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:56:44.2065631+10:00"
+                  },
+                  {
+                      "db_id":  39,
+                      "title":  "Finance Manual — Section 11 Expenditure Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:56:44.2095632+10:00"
+                  },
+                  {
+                      "db_id":  40,
+                      "title":  "Finance Manual — Section 12 Trading Operations",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:56:44.2095632+10:00"
                   }
               ]
 }

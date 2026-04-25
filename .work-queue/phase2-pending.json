@@ -1,71 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-25T08:47:03.344871+00:00",
-    "total":  69,
+    "total":  66,
     "items":  [
-                  {
-                      "db_id":  38,
-                      "title":  "Finance Manual — Section 9 Funding Sources",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  39,
-                      "title":  "Finance Manual — Section 11 Expenditure Management",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  40,
-                      "title":  "Finance Manual — Section 12 Trading Operations",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  41,
                       "title":  "Finance Manual — Section 13 Asset and Inventory Management",
