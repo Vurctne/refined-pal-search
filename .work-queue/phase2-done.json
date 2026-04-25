@@ -716,6 +716,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T00:58:44.4929208+10:00"
+                  },
+                  {
+                      "db_id":  41.7,
+                      "title":  "Finance Manual — Section 17 End of Year (31 December)",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:00:44.3228290+10:00"
+                  },
+                  {
+                      "db_id":  41.8,
+                      "title":  "Finance Manual — Section 19 Financial Handover",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:00:44.3258250+10:00"
+                  },
+                  {
+                      "db_id":  43,
+                      "title":  "Travel",
+                      "url":  "https://www2.education.vic.gov.au/pal/travel/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:00:44.3268261+10:00"
                   }
               ]
 }

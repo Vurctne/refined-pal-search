@@ -468,8 +468,24 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts#rpl-main' }
   ],
 },
-  { id: 41.7, title: 'Finance Manual — Section 17 End of Year (31 December)', category: 'Finance', tags: ['end of year', 'eoy', '31 december', 'rollover', 'balance day adjustment', 'p drive', 'creditors'], summary: 'EOY financial policy. Review/clean up Families module for exiting students before Admin EOY. EOY rollover not before 1 Jan. Store EOY files on P drive. Enter all unpaid December invoices into CASES21 creditors.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december' },
-  { id: 41.8, title: 'Finance Manual — Section 19 Financial Handover', category: 'Finance', tags: ['handover', 'financial handover statement', 'outgoing principal', 'stocktake', 'incoming principal'], summary: 'Outgoing principals ensure CASES21 records (including asset register) are up to date and reflect the handover statement. Incoming principals verify correctness and stocktake major accountable items.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover' },
+  { id: 41.7, title: 'Finance Manual — Section 17 End of Year (31 December)', category: 'Finance', tags: ['end of year', 'eoy', '31 december', 'rollover', 'balance day adjustment', 'p drive', 'creditors'], summary: 'EOY financial policy. Review/clean up Families module for exiting students before Admin EOY. EOY rollover not before 1 Jan. Store EOY files on P drive. Enter all unpaid December invoices into CASES21 creditors.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december#rpl-main' }
+  ],
+},
+  { id: 41.8, title: 'Finance Manual — Section 19 Financial Handover', category: 'Finance', tags: ['handover', 'financial handover statement', 'outgoing principal', 'stocktake', 'incoming principal'], summary: 'Outgoing principals ensure CASES21 records (including asset register) are up to date and reflect the handover statement. Incoming principals verify correctness and stocktake major accountable items.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover#rpl-main' }
+  ],
+},
   { id: 42, title: 'Procurement — Schools', category: 'Finance', tags: ['procurement', 'purchasing', 'suppliers', 'tender', 'quotes', 'value for money', 'probity', 'accountability', 'capability', 'department-managed panels', 'contract templates', 'short form goods', 'short form services', 'uniform supplier', 'child safety attestation'], summary: 'Mandatory procurement policy. Four principles: value for money, probity, accountability, capability. Use department-managed panels and contract templates.', url: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/resources' },
     resources: [
@@ -486,7 +502,15 @@ const PAL_POLICIES = [
       { title: 'Department-managed panels', note: 'staff login required — agreements with panels of suppliers across multiple categories' }
     ]
   },
-  { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true },
+  { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true,
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/travel/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/travel/policy#rpl-main' }
+  ],
+},
   { id: 44, title: 'Travel and Personal Expenses — Teaching Service', category: 'Finance', tags: ['travel', 'expenses', 'reimbursement', 'accommodation', 'meals', 'relocation', 'private vehicle', '24km', 're-establishment allowance', 'ministerial order 1388', 'ato rates', 'travel insurance', 'vmia'], summary: 'Travel and personal expense reimbursement. Must travel 24km+ from base location. Rates capped at ATO limits. Re-establishment allowance: $1,083 with dependants / $541 without. Travel insurance via VMIA.', url: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview',
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/overview', resources: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/resources' },
     chapters: [
