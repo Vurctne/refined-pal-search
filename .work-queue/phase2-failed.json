@@ -148,6 +148,28 @@
                       "failed_at":  "2026-04-26T00:21:57.4447754+10:00",
                       "_failure_reason":  "PAL URL persistently returns 500 -- likely page removed; flag for Phase 4 cleanup",
                       "_marked_failed_at":  "2026-04-25T14:24:55+00:00"
+                  },
+                  {
+                      "db_id":  10,
+                      "title":  "Leave Without Pay — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T00:33:17.5473996+10:00"
                   }
               ]
 }

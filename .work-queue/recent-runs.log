@@ -279,3 +279,14 @@
 2026-04-26T00:21:57.4246088+10:00 TIMEOUT -- stopping batch early
 2026-04-26T00:21:57.4266087+10:00 NO_ENRICHMENTS -- skipping build
 2026-04-26T00:21:57.4722872+10:00 RUN_END succeeded=0 failed=1 remaining=91
+2026-04-26T00:32:48.2386536+10:00 RUN_START
+2026-04-26T00:32:48.3226798+10:00 BATCH_TAKEN size=3 ids=10,11,12
+2026-04-26T00:32:48.3302461+10:00 PROCESSING id=10 url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy
+2026-04-26T00:33:09.7774831+10:00 FAILED id=10 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T00:33:09.7907753+10:00 PROCESSING id=11 url=https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines
+2026-04-26T00:33:12.0982180+10:00 ENRICHED id=11
+2026-04-26T00:33:12.1002183+10:00 PROCESSING id=12 url=https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave
+2026-04-26T00:33:14.3041990+10:00 ENRICHED id=12
+2026-04-26T00:33:14.3064479+10:00 BUILD_START
+2026-04-26T00:33:17.5153961+10:00 BUILD_OK
+2026-04-26T00:33:17.5493979+10:00 COMMIT_START ids=11,12
