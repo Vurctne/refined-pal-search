@@ -1029,8 +1029,11 @@ const PAL_POLICIES = [
       { title: 'Guidance for child safety champions', note: '' },
       { title: 'Template newsletter and website text', note: 'staff login required — to support community consultation on child safety policies' },
       { title: 'Contact: child.safe.schools@education.vic.gov.au', note: 'for help meeting the Standards' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, child, safe, standards', href: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy#rpl-main' }
+  ],
+},
   { id: 76, title: 'Child Abuse (including grooming) — Identification and Response', category: 'Child Safety', tags: ['child abuse', 'grooming', 'protect', 'critical actions', 'reportable conduct', '4 critical actions', 'mandatory reporting', 'disclosure', 'victoria police', 'child protection', 'failure to disclose', 'maram', 'fviss', 'orange door'], summary: 'Use the 4 Critical Actions to identify and respond to child abuse (including grooming). Failure to report physical or sexual abuse may be a criminal offence. Report staff-involved abuse to Victoria Police (000).', url: 'https://www2.education.vic.gov.au/pal/protecting-children/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/protecting-children/policy', guidance: 'https://www2.education.vic.gov.au/pal/protecting-children/guidance/', resources: 'https://www2.education.vic.gov.au/pal/protecting-children/resources' },
     chapters: [
