@@ -1056,8 +1056,24 @@ const PAL_POLICIES = [
       { title: 'Contact: employeehealth@education.vic.gov.au', note: 'for following up Converge complaints' }
     ]
   },
-  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy' },
-  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy' },
+  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy#rpl-main' }
+  ],
+},
+  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy#rpl-main' }
+  ],
+},
   { id: 80, title: 'Workers Compensation — Workplace Injury', category: 'OHS', tags: ['workcover', 'workers compensation', 'injury', 'mup', 'make up pay', 'rtw', 'return to work coordinator', '1984 hours', '52 weeks', 'provisional payments', 'claim', 'certificates of capacity', 'significant contributing factor'], summary: 'WorkCover claims, Make Up Pay (MUP), return-to-work. MUP = 52 weeks / 1,984 hours full-time (pro-rata part-time); ceases after. Reimbursement sought within 3 months.', url: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy', guidance: 'https://www2.education.vic.gov.au/pal/workers-compensation/guidance', resources: 'https://www2.education.vic.gov.au/pal/workers-compensation/resources' },
     chapters: [
@@ -1082,7 +1098,15 @@ const PAL_POLICIES = [
       { title: 'Workers Compensation Team — Injury Management Specialist', note: 'for support during inspector visits and RTW planning' }
     ]
   },
-  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy' },
+  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy#rpl-main' }
+  ],
+},
   { id: 82, title: 'OHS Induction and Training for School Staff', category: 'OHS', tags: ['induction', 'training', 'ohs induction', 'crt'], summary: 'OHS induction and training requirements including for CRTs.', url: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy' },
   { id: 83, title: 'First Aid for Students and Staff', category: 'OHS', tags: ['first aid', 'medical', 'emergency', 'cpr'], summary: 'First aid requirements for students and staff in schools.', url: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy' },
 
