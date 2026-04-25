@@ -1334,9 +1334,33 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy#rpl-main' }
   ],
 },
-  { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy' },
-  { id: 100, title: 'Work Experience', category: 'Curriculum', tags: ['work experience', 'workplace', 'students'], summary: 'Student work experience arrangements, approvals and workplace safety.', url: 'https://www2.education.vic.gov.au/pal/work-experience/policy' },
-  { id: 101, title: 'Structured Workplace Learning', category: 'Curriculum', tags: ['swl', 'structured workplace learning', 'workplace'], summary: 'Structured workplace learning arrangements for VET and VM students.', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy' }
+  { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/international-student-program/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/international-student-program/policy#rpl-main' }
+  ],
+},
+  { id: 100, title: 'Work Experience', category: 'Curriculum', tags: ['work experience', 'workplace', 'students'], summary: 'Student work experience arrangements, approvals and workplace safety.', url: 'https://www2.education.vic.gov.au/pal/work-experience/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/work-experience/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/work-experience/policy#rpl-main' }
+  ],
+},
+  { id: 101, title: 'Structured Workplace Learning', category: 'Curriculum', tags: ['swl', 'structured workplace learning', 'workplace'], summary: 'Structured workplace learning arrangements for VET and VM students.', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy#rpl-main' }
+  ],
+}
 ];
 
 const CATEGORIES = [
