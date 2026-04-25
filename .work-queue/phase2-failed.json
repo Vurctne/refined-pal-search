@@ -407,6 +407,106 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T01:32:38.5791431+10:00"
+                  },
+                  {
+                      "db_id":  44,
+                      "title":  "Travel and Personal Expenses — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  6,
+                                            "chapters_have_tails":  true
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:36:33.6519041+10:00"
+                  },
+                  {
+                      "db_id":  53,
+                      "title":  "Forms — Teaching Service and HR Administration",
+                      "url":  "https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  19,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:38:33.6374796+10:00"
+                  },
+                  {
+                      "db_id":  53.5,
+                      "title":  "Principal Selection",
+                      "url":  "https://www2.education.vic.gov.au/pal/principal-selection/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:40:33.6423358+10:00"
+                  },
+                  {
+                      "db_id":  54.5,
+                      "title":  "School Council — Meetings",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-council-meetings/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:42:33.6671264+10:00"
+                  },
+                  {
+                      "db_id":  55,
+                      "title":  "Student Engagement",
+                      "url":  "https://www2.education.vic.gov.au/pal/student-engagement/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:44:38.5572351+10:00"
                   }
               ]
 }
