@@ -301,7 +301,15 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview#rpl-main' }
   ],
 },
-  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy' },
+  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy#rpl-main' }
+  ],
+},
   { id: 33, title: 'Equal Opportunity — Employees', category: 'HR - Conduct', tags: ['equal opportunity', 'discrimination', 'victimisation', 'vilification', 'protected attributes'], summary: 'Equal opportunity obligations, protected attributes and avoiding discrimination or victimisation.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity/policy' },
   { id: 34, title: 'Inclusive Workplaces', category: 'HR - Conduct', tags: ['inclusive', 'diversity', 'disability', 'accessibility', 'workforce diversity'], summary: 'Creating inclusive workplaces for employees with disabilities and from diverse backgrounds.', url: 'https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy' },
   { id: 35, title: 'Respectful Workplaces', category: 'HR - Conduct', tags: ['respectful', 'bullying', 'harassment', 'discrimination'], summary: 'Reporting bullying, harassment, discrimination or victimisation. Contact Conduct and Integrity Division 03 7034 6768.', url: 'https://www2.education.vic.gov.au/pal/respectful-workplaces/policy' },

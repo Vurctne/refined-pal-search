@@ -236,6 +236,28 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T00:45:36.4493716+10:00"
+                  },
+                  {
+                      "db_id":  29,
+                      "title":  "Human Rights Charter",
+                      "url":  "https://www2.education.vic.gov.au/pal/human-rights-charter/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T00:49:20.6679829+10:00"
                   }
               ]
 }

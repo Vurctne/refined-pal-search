@@ -540,6 +540,28 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T00:47:00.9182938+10:00"
+                  },
+                  {
+                      "db_id":  32,
+                      "title":  "Workplace Bullying",
+                      "url":  "https://www2.education.vic.gov.au/pal/workplace-bullying/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:49:20.6619611+10:00"
                   }
               ]
 }
