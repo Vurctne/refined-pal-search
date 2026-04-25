@@ -803,8 +803,11 @@ const PAL_POLICIES = [
       { title: 'Ministerial Order 1125 (PDF)', note: 'Procedures for Suspension and Expulsion of Students in Government Schools' },
       { title: 'Exceptional Grounds — outside school activity quick reference guide (PDF)', note: 'staff login required' },
       { title: 'Legal Division: 03 9637 3146', note: 'legal.services@education.vic.gov.au' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/expulsions/policy#rpl-main' }
+  ],
+},
   { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy',
   tabs: [ 'Skip to main content' ],
   chapters: [

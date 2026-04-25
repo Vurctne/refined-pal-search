@@ -507,6 +507,26 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T01:44:38.5572351+10:00"
+                  },
+                  {
+                      "db_id":  55.5,
+                      "title":  "Behaviour — Students",
+                      "url":  "https://www2.education.vic.gov.au/pal/behaviour-students/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  9,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:46:38.6229400+10:00"
                   }
               ]
 }
