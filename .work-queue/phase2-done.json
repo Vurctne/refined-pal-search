@@ -1742,6 +1742,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T01:54:37.5173704+10:00"
+                  },
+                  {
+                      "db_id":  76.5,
+                      "title":  "Reportable and Notifiable Conduct",
+                      "url":  "https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:56:37.7097084+10:00"
                   }
               ]
 }

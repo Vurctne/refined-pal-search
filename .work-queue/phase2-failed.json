@@ -547,6 +547,26 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T01:50:40.1949119+10:00"
+                  },
+                  {
+                      "db_id":  70,
+                      "title":  "Mental Health Fund and Menu",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  2,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T01:56:37.7197082+10:00"
                   }
               ]
 }
