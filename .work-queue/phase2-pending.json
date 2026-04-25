@@ -1,7 +1,7 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-25T08:47:03.344871+00:00",
-    "total":  36,
+    "total":  34,
     "items":  [
                   {
                       "db_id":  93,
@@ -21,49 +21,7 @@
                                              "needs_tabs"
                                          ],
                       "priority":  2,
-                      "attempts":  1,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  95,
-                      "title":  "Records Management",
-                      "url":  "https://www2.education.vic.gov.au/pal/records-management/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  96,
-                      "title":  "Curriculum Programs Foundation to 10",
-                      "url":  "https://www2.education.vic.gov.au/pal/curriculum-programs/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
+                      "attempts":  2,
                       "status":  "pending"
                   },
                   {

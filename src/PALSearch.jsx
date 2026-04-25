@@ -1296,10 +1296,26 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy#rpl-main' }
   ],
 },
-  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy' },
+  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/records-management/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/records-management/policy#rpl-main' }
+  ],
+},
 
   // Curriculum
-  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy' },
+  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy#rpl-main' }
+  ],
+},
   { id: 97, title: 'Assessment of Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['assessment', 'student achievement', 'f-10', 'fiso'], summary: 'Assessment of student achievement aligned to FISO 2.0.', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy' },
   { id: 98, title: 'Reporting Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['reporting', 'student reports', '5-point scale', 'vcaa', 'semester'], summary: 'Reporting using a 5-point scale against VCAA achievement standards.', url: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy' },
   { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy' },
