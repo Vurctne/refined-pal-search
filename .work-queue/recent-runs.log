@@ -320,3 +320,18 @@
 2026-04-26T00:36:38.1509159+10:00 BUILD_START
 2026-04-26T00:36:41.3595466+10:00 BUILD_OK
 2026-04-26T00:36:41.3935397+10:00 COMMIT_START ids=16,18,19
+2026-04-26T00:36:41.6046315+10:00 COMMITTED ids=16,18,19
+2026-04-26T00:36:41.6128999+10:00 DEPLOY_START
+2026-04-26T00:36:54.8035660+10:00 DEPLOYED
+2026-04-26T00:36:54.8095636+10:00 RUN_END succeeded=3 failed=0 remaining=82
+2026-04-26T00:38:33.2604365+10:00 RUN_START
+2026-04-26T00:38:33.3371778+10:00 BATCH_TAKEN size=3 ids=20,21,22
+2026-04-26T00:38:33.3441784+10:00 PROCESSING id=20 url=https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines
+2026-04-26T00:38:35.8177470+10:00 ENRICHED id=20
+2026-04-26T00:38:35.8197480+10:00 PROCESSING id=21 url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy
+2026-04-26T00:39:16.2255171+10:00 FAILED id=21 error=fetch_failed url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T00:39:16.2394707+10:00 PROCESSING id=22 url=https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements
+2026-04-26T00:39:18.8911936+10:00 ENRICHED id=22
+2026-04-26T00:39:18.8931919+10:00 BUILD_START
+2026-04-26T00:39:21.9386247+10:00 BUILD_OK
+2026-04-26T00:39:21.9706192+10:00 COMMIT_START ids=20,22

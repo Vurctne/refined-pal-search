@@ -454,6 +454,50 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T00:36:41.3905432+10:00"
+                  },
+                  {
+                      "db_id":  20,
+                      "title":  "Transfer and Promotion for Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:39:21.9636378+10:00"
+                  },
+                  {
+                      "db_id":  22,
+                      "title":  "Flexible Work",
+                      "url":  "https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:39:21.9676333+10:00"
                   }
               ]
 }

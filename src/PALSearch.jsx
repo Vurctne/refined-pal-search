@@ -172,9 +172,25 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview#rpl-main' }
   ],
 },
-  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines' },
+  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, transfer, promotion, teaching', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines#rpl-main' }
+  ],
+},
   { id: 21, title: 'Suitability for Child Connected Work', category: 'HR - Recruitment', tags: ['wwcc', 'working with children', 'child connected', 'screening', 'ministerial order 1359'], summary: 'Ministerial Order 1359 Clause 10.2(d)(ii). Suitability check required for preferred candidate before offer.', url: 'https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy', popular: true },
-  { id: 22, title: 'Flexible Work', category: 'HR - Recruitment', tags: ['flexible work', 'part-time', 'job share', 'remote', 'fwct', 'working remotely'], summary: 'Flexible work arrangements including part-time, job-share, remote work and the Flexible Work for Classroom Teachers pilot (launched 2025).', url: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements' },
+  { id: 22, title: 'Flexible Work', category: 'HR - Recruitment', tags: ['flexible work', 'part-time', 'job share', 'remote', 'fwct', 'working remotely'], summary: 'Flexible work arrangements including part-time, job-share, remote work and the Flexible Work for Classroom Teachers pilot (launched 2025).', url: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements#rpl-main' }
+  ],
+},
   { id: 23, title: 'Employment and Sponsorship of Overseas Workers', category: 'HR - Recruitment', tags: ['overseas', 'sponsorship', 'visa', 'international', 'migration'], summary: 'Sponsoring and employing overseas workers including migration support for international teachers.', url: 'https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy' },
   { id: 53, title: 'Forms — Teaching Service and HR Administration', category: 'HR - Recruitment', tags: ['forms', 'hr forms', 'offer letters', 'selection reports', 'employment forms', 'national police record', 'superannuation', 'prior service', 'compassionate transfer', 'excess', 'additional access', 'mss security'], summary: 'All HR/recruitment/employment forms including offer letters, selection panel reports, staff management forms, and eduPay access management.', url: 'https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources',
     tabs: { resources: 'https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources' },
