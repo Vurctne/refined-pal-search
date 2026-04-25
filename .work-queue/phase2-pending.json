@@ -1,68 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-25T08:47:03.344871+00:00",
-    "total":  85,
+    "total":  82,
     "items":  [
-                  {
-                      "db_id":  16,
-                      "title":  "Study Leave — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  18,
-                      "title":  "Workforce Support and Initiatives for Schools",
-                      "url":  "https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  19,
-                      "title":  "Workforce Planning for Schools",
-                      "url":  "https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  20,
                       "title":  "Transfer and Promotion for Teaching Service",
