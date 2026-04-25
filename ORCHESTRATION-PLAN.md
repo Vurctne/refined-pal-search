@@ -204,4 +204,37 @@ Stored in `TEST-QUERIES.md` — created Phase 5.
 2. **Phase 5 file split.** Default: split policy data into `src/data/policies.js` if `PALSearch.jsx` >2,500 lines.
 3. **`popular` flag for new entries.** Default: `false` unless PAL marks featured or evidence of high-traffic.
 4. **Commit cadence.** Default: one commit per merged batch.
-5. **Coverage scope confirmation.** V26 lists 10 specific gaps — should Phase 3 stop there, or go beyond if Phase 1 inventory finds more?
+5. **Coverage scope confirmation.** V26 lists 10 specific gaps — should Phase 3 stop there, or go beyond if Phase 1 inventory finds more? Default: include everything Phase 1 finds, but flag for Ivan's per-item OK if a gap looks low-value.
+
+Default to my judgment if unanswered — logged in `ORCHESTRATION-STATUS.md`.
+
+---
+
+## Appendix A: Constraints (verbatim — propagated to all sub-agent prompts)
+
+1. **`highlightMatch` regex-free** (uses `indexOf`). V1-V15 had repeated parser breaks from regex char class `/[.*+?^${}()|[\]\\]/g` + `'\\$&'` replacement. Do not refactor.
+2. No new dependencies — React + Tailwind core + lucide-react only.
+3. No `localStorage` / `sessionStorage`.
+4. No `<form>` tags.
+5. New ids decimal continuation (102.1, 102.2, ...). Don't renumber existing.
+6. Every URL fetched and verified (HTTP 200 within 5s).
+7. Style: em-dash separator, lowercase tags, summary 1-2 sentences.
+8. Project-wide concurrent fetches ≤3, ≥200ms between.
+9. 429/5xx → 30s→90s→180s backoff, 3 retries, then log + skip.
+10. Sub-agents stay within phase scope. No cross-phase work.
+11. Sub-agents requested at Sonnet 4.6 (prompt-level fallback).
+
+## Appendix B: V26 Priority Map (what this project completes)
+
+- ✅ V26 Priority 3 #4 — Migrate out of artifact (Vite + React + Tailwind, deployed to Cloudflare Pages `pal.schooltool.com.au`)
+- ⏳ V26 Priority 1 #1 — URL validator (covered by Phase 5 QA URL spot-check)
+- ⏳ V26 Priority 1 #2 — Systematic chapter-title enrichment (Phase 2 main work)
+- ⏳ V26 Priority 2 #3 — Coverage gaps (Phase 3)
+- ⏳ V26 Priority 4 #9 — `CLAUDE.md` (Phase 5 deliverable)
+
+Out of scope for this project (V26 backlog deferred):
+- V26 Priority 3 #5 — Tune fuzzy search per-field Levenshtein thresholds
+- V26 Priority 3 #6 — Auto-scroll selectedIndex
+- V26 Priority 3 #7 — Mobile category dropdown
+- V26 Priority 3 #8 — Report-broken-link mailto button
+- V26 Priority 4 #10 — Reproducible scraping workflow doc

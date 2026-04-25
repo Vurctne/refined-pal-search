@@ -25,3 +25,12 @@ Thumbs.db
 # Vite transient config-timestamp files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# scratch / uploaded handoff docs
+x26 handoff.md
+*.upload.md
+
+# WSL phantom lock files (defensive — never commit these)
+.git/index.lock
+.git/HEAD.lock
+*.lock.old

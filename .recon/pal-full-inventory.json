@@ -1,0 +1,2737 @@
+{
+  "crawled_at": "2026-04-25T08:14:28Z",
+  "source": "https://www2.education.vic.gov.au/pal/",
+  "nav_structure_summary": "PAL uses a Drupal JSON:API (node/publication?site=5) exposing all published policy publications with PAL category taxonomy. The frontend A-Z listing (/filter-az) is currently in maintenance mode; the API is the authoritative source of all 453 policy records.",
+  "total_policies": 453,
+  "categories": {
+    "Human resources: HRWeb": 137,
+    "Infrastructure and facilities": 48,
+    "School operations and student administration": 61,
+    "Occupational health and safety": 44,
+    "Student health, safety, wellbeing and engagement": 49,
+    "School councils": 16,
+    "Learning, teaching, curriculum and improvement": 51,
+    "Information management, technology and security": 20,
+    "Finance and procurement": 27
+  },
+  "policies": [
+    {
+      "title": "Aboriginal Employment",
+      "url": "https://www2.education.vic.gov.au/pal/aboriginal-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-13"
+    },
+    {
+      "title": "Absent Without Leave – Unauthorised Absences",
+      "url": "https://www2.education.vic.gov.au/pal/absent-without-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-12-03"
+    },
+    {
+      "title": "Acceptable Use Policy for ICT Resources",
+      "url": "https://www2.education.vic.gov.au/pal/ict-acceptable-use",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-06"
+    },
+    {
+      "title": "Access to Health Information — Employees",
+      "url": "https://www2.education.vic.gov.au/pal/access-health-information",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Accessible Buildings Program",
+      "url": "https://www2.education.vic.gov.au/pal/accessible-buildings-program",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Acknowledgement of Traditional Owners and Welcome to Country in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Advertising",
+      "url": "https://www2.education.vic.gov.au/pal/advertising",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Air Quality – Impact of Smoke on Health",
+      "url": "https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health",
+      "category": "Occupational health and safety",
+      "last_updated": "2021-11-04"
+    },
+    {
+      "title": "Alcohol and Other Drugs – Students",
+      "url": "https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-07-09"
+    },
+    {
+      "title": "Alcohol at School Events",
+      "url": "https://www2.education.vic.gov.au/pal/alcohol-school-events",
+      "category": "School councils",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Allergies",
+      "url": "https://www2.education.vic.gov.au/pal/allergies",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Allowances — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/allowances-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Amusement Rides, Attractions and Fireworks",
+      "url": "https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-10-10"
+    },
+    {
+      "title": "Anaphylaxis",
+      "url": "https://www2.education.vic.gov.au/pal/anaphylaxis",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Animals – Wellbeing and Engagement",
+      "url": "https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-10-08"
+    },
+    {
+      "title": "Annual Implementation Plan (AIP)",
+      "url": "https://www2.education.vic.gov.au/pal/annual-implementation-plan",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-09-01"
+    },
+    {
+      "title": "Annual Leave — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/annual-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Annual Report to the School Community",
+      "url": "https://www2.education.vic.gov.au/pal/annual-report-schools-community",
+      "category": "School councils",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Asbestos Management",
+      "url": "https://www2.education.vic.gov.au/pal/asbestos",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Assessment of Student Achievement and Progress Foundation to 10",
+      "url": "https://www2.education.vic.gov.au/pal/assessment-student-achievement",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-21"
+    },
+    {
+      "title": "Asset Information Management System (AIMS)",
+      "url": "https://www2.education.vic.gov.au/pal/asset-information-management-system",
+      "category": "Information management, technology and security",
+      "last_updated": "2021-05-28"
+    },
+    {
+      "title": "Asset Management Planning – School Upgrades",
+      "url": "https://www2.education.vic.gov.au/pal/asset-management-planning",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-05-22"
+    },
+    {
+      "title": "Asset Management Roles and Responsibilities Framework",
+      "url": "https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-08-26"
+    },
+    {
+      "title": "Assistant Principal Contract Renewal",
+      "url": "https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-08-31"
+    },
+    {
+      "title": "Asthma",
+      "url": "https://www2.education.vic.gov.au/pal/asthma",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-05-11"
+    },
+    {
+      "title": "Attendance",
+      "url": "https://www2.education.vic.gov.au/pal/attendance",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Attendance and Working Hours — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Audits, Reviews and Assurance Programs in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools",
+      "category": "Finance and procurement",
+      "last_updated": "2021-10-26"
+    },
+    {
+      "title": "Behaviour – Students",
+      "url": "https://www2.education.vic.gov.au/pal/behaviour-students",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2023-05-26"
+    },
+    {
+      "title": "Bereavement Leave",
+      "url": "https://www2.education.vic.gov.au/pal/bereavement-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Biological Materials Used in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/biological-materials-used-schools",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-17"
+    },
+    {
+      "title": "Blood Donation Leave",
+      "url": "https://www2.education.vic.gov.au/pal/blood-donation-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Blood Spills and Open Wounds Management",
+      "url": "https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Blood-borne viruses",
+      "url": "https://www2.education.vic.gov.au/pal/blood-borne-viruses",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Building Quality Standards Handbook (BQSH) – School Construction and Design Standards",
+      "url": "https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-05-31"
+    },
+    {
+      "title": "Buildings and Grounds Maintenance and Compliance",
+      "url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-08-26"
+    },
+    {
+      "title": "Bullying Prevention and Response",
+      "url": "https://www2.education.vic.gov.au/pal/bullying-prevention-response",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Buses – Owned, Hired or Chartered by a School",
+      "url": "https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school",
+      "category": "Finance and procurement",
+      "last_updated": "2022-10-24"
+    },
+    {
+      "title": "Bushfire and Grassfire Preparedness",
+      "url": "https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-17"
+    },
+    {
+      "title": "Calculators and Ready Reckoners — HR Administration",
+      "url": "https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Calendars — HR Administration",
+      "url": "https://www2.education.vic.gov.au/pal/calendars-hr-administration",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Camps, Sports and Excursions Fund (CSEF)",
+      "url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund",
+      "category": "Finance and procurement",
+      "last_updated": "2020-05-26"
+    },
+    {
+      "title": "Canteens",
+      "url": "https://www2.education.vic.gov.au/pal/canteens",
+      "category": "Finance and procurement",
+      "last_updated": "2020-05-26"
+    },
+    {
+      "title": "Canteens, Healthy Eating and Other Food Services",
+      "url": "https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Capacity and Area Allocation",
+      "url": "https://www2.education.vic.gov.au/pal/capacity-and-area-allocation",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "Capital Building Projects in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/capital-building-projects",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "Career Education Funding",
+      "url": "https://www2.education.vic.gov.au/pal/career-education-funding",
+      "category": "Finance and procurement",
+      "last_updated": "2024-02-23"
+    },
+    {
+      "title": "Career Start",
+      "url": "https://www2.education.vic.gov.au/pal/career-start",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-11-09"
+    },
+    {
+      "title": "Career Structure — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/career-structure-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Careers and Recruitment",
+      "url": "https://www2.education.vic.gov.au/pal/careers-and-recruitment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Casual Relief Teachers (CRTs)",
+      "url": "https://www2.education.vic.gov.au/pal/casual-relief-teachers",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "CCTV in Schools – Installation and Management",
+      "url": "https://www2.education.vic.gov.au/pal/cctv-in-schools",
+      "category": "Information management, technology and security",
+      "last_updated": "2021-12-06"
+    },
+    {
+      "title": "Certification of Documents",
+      "url": "https://www2.education.vic.gov.au/pal/certification-documents",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Cessation of Employment – Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-12-03"
+    },
+    {
+      "title": "Chaplaincy",
+      "url": "https://www2.education.vic.gov.au/pal/chaplaincy",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Chemical Management",
+      "url": "https://www2.education.vic.gov.au/pal/chemical-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-03-15"
+    },
+    {
+      "title": "Child Abuse (including grooming) – Identification and Response",
+      "url": "https://www2.education.vic.gov.au/pal/child-abuse-including-grooming-identification-response",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-03-24"
+    },
+    {
+      "title": "Child and Family Violence Information Sharing Schemes",
+      "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-03-17"
+    },
+    {
+      "title": "Child Link",
+      "url": "https://www2.education.vic.gov.au/pal/child-link",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-12"
+    },
+    {
+      "title": "Child Safe Standards",
+      "url": "https://www2.education.vic.gov.au/pal/child-safe-standards",
+      "category": "School councils",
+      "last_updated": "2020-08-05"
+    },
+    {
+      "title": "Claims for Property Damage and Medical Expenses",
+      "url": "https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses",
+      "category": "School operations and student administration",
+      "last_updated": "2025-11-25"
+    },
+    {
+      "title": "Cleaning",
+      "url": "https://www2.education.vic.gov.au/pal/cleaning",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Code of Conduct",
+      "url": "https://www2.education.vic.gov.au/pal/code-conduct",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01"
+    },
+    {
+      "title": "Collection of Students",
+      "url": "https://www2.education.vic.gov.au/pal/collection-students",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Community Use of Schools – Community Joint Use Agreements",
+      "url": "https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-11-16"
+    },
+    {
+      "title": "Community Use of Schools – Hiring and Licensing",
+      "url": "https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-11-15"
+    },
+    {
+      "title": "Compassionate Transfer — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-31"
+    },
+    {
+      "title": "Competition Grade Sporting Facilities",
+      "url": "https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "Complaint Resolution",
+      "url": "https://www2.education.vic.gov.au/pal/complaint-resolution",
+      "category": "School operations and student administration",
+      "last_updated": "2025-06-02"
+    },
+    {
+      "title": "Complaints – Information for Employees",
+      "url": "https://www2.education.vic.gov.au/pal/complaints-information-employees",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01"
+    },
+    {
+      "title": "Confined Spaces",
+      "url": "https://www2.education.vic.gov.au/pal/confined-spaces",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Conflict of Interest",
+      "url": "https://www2.education.vic.gov.au/pal/conflict-interest",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-03-03"
+    },
+    {
+      "title": "Congestion Levy Fees",
+      "url": "https://www2.education.vic.gov.au/pal/congestion-levy",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-25"
+    },
+    {
+      "title": "Consultation with School Based Staff",
+      "url": "https://www2.education.vic.gov.au/pal/consultation-school-based-staff",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Continence Care",
+      "url": "https://www2.education.vic.gov.au/pal/continence",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Contract of Employment",
+      "url": "https://www2.education.vic.gov.au/pal/contract-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Contractor OHS Management",
+      "url": "https://www2.education.vic.gov.au/pal/contractor-ohs-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Contractors – Insurance and Contract Arrangements",
+      "url": "https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements",
+      "category": "Finance and procurement",
+      "last_updated": "2024-05-31"
+    },
+    {
+      "title": "Conveyance Allowance Program",
+      "url": "https://www2.education.vic.gov.au/pal/conveyance-allowance",
+      "category": "Finance and procurement",
+      "last_updated": "2020-05-26"
+    },
+    {
+      "title": "Cooling Towers",
+      "url": "https://www2.education.vic.gov.au/pal/cooling-towers",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Councillors, Mayors and Shire Presidents Leave or Voluntary Community Activities Leave",
+      "url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Court Appointments",
+      "url": "https://www2.education.vic.gov.au/pal/court-appointments",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-02"
+    },
+    {
+      "title": "Court Attendance Leave",
+      "url": "https://www2.education.vic.gov.au/pal/court-attendance-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-01"
+    },
+    {
+      "title": "COVID-19 Special Leave – Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2022-10-18"
+    },
+    {
+      "title": "COVID-19 – School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/covid-19-school-operations",
+      "category": "Occupational health and safety",
+      "last_updated": "2024-05-03"
+    },
+    {
+      "title": "Crime Prevention in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/crime-prevention-schools",
+      "category": "School councils",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "Cultural and Ceremonial Leave – Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-12-03"
+    },
+    {
+      "title": "Curriculum Programs Foundation to 10",
+      "url": "https://www2.education.vic.gov.au/pal/curriculum-programs",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Cycling to and from School",
+      "url": "https://www2.education.vic.gov.au/pal/cycling-and-school",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Data Collection and Surveys",
+      "url": "https://www2.education.vic.gov.au/pal/data-collection-surveys",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Decision Making Responsibilities for Students",
+      "url": "https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students",
+      "category": "School operations and student administration",
+      "last_updated": "2020-06-09"
+    },
+    {
+      "title": "Deductions From Salary",
+      "url": "https://www2.education.vic.gov.au/pal/deductions",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Delegations",
+      "url": "https://www2.education.vic.gov.au/pal/delegations",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Demolition",
+      "url": "https://www2.education.vic.gov.au/pal/demolition",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Dental Services",
+      "url": "https://www2.education.vic.gov.au/pal/dental-services",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27"
+    },
+    {
+      "title": "Designated Purpose Settings",
+      "url": "https://www2.education.vic.gov.au/pal/designated-purpose-settings",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-18"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://www2.education.vic.gov.au/pal/diabetes",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "Digital Learning",
+      "url": "https://www2.education.vic.gov.au/pal/digital-learning",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-09-02"
+    },
+    {
+      "title": "Digital Technologies – Responsible Use",
+      "url": "https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-12-04"
+    },
+    {
+      "title": "Dimensions of Work — Education Support Class",
+      "url": "https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Direct Crediting of Salary",
+      "url": "https://www2.education.vic.gov.au/pal/direct-crediting-salary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-08"
+    },
+    {
+      "title": "Disability and Reasonable Adjustments – Staff",
+      "url": "https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-05-27"
+    },
+    {
+      "title": "Disability Inclusion Funding and Support",
+      "url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-09-15"
+    },
+    {
+      "title": "Disability Inclusion Profile",
+      "url": "https://www2.education.vic.gov.au/pal/disability-inclusion-profile",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-09-14"
+    },
+    {
+      "title": "Doctors in Secondary Schools",
+      "url": "https://www2.education.vic.gov.au/pal/doctors-secondary-schools",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27"
+    },
+    {
+      "title": "Domain (URL) names",
+      "url": "https://www2.education.vic.gov.au/pal/domain-url-names",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-02-17"
+    },
+    {
+      "title": "Donating Furniture and Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/donating-furniture-equipment",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-06-24"
+    },
+    {
+      "title": "Drones",
+      "url": "https://www2.education.vic.gov.au/pal/drones",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-01-22"
+    },
+    {
+      "title": "Duty of Care",
+      "url": "https://www2.education.vic.gov.au/pal/duty-of-care",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-09"
+    },
+    {
+      "title": "EAL Support and Funding",
+      "url": "https://www2.education.vic.gov.au/pal/eal-support",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-01"
+    },
+    {
+      "title": "EAL – Provision for Newly Arrived Students",
+      "url": "https://www2.education.vic.gov.au/pal/eal-provision",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-05-24"
+    },
+    {
+      "title": "Early Childhood Education and Care Services at Schools",
+      "url": "https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2025-10-22"
+    },
+    {
+      "title": "Early Education Programs",
+      "url": "https://www2.education.vic.gov.au/pal/early-education-programs",
+      "category": "School operations and student administration",
+      "last_updated": "2022-02-16"
+    },
+    {
+      "title": "Eating and Drinking Supervision",
+      "url": "https://www2.education.vic.gov.au/pal/eating-drinking-supervision",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27"
+    },
+    {
+      "title": "Education Support Staff Working in Classroom Support Roles",
+      "url": "https://www2.education.vic.gov.au/pal/es-staff-classroom-support",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-11-13"
+    },
+    {
+      "title": "eduMail (employee email)",
+      "url": "https://www2.education.vic.gov.au/pal/edumail",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-29"
+    },
+    {
+      "title": "eduPay and eduPay Help",
+      "url": "https://www2.education.vic.gov.au/pal/edupay-and-edupay-help",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-08"
+    },
+    {
+      "title": "Elections – Schools as Voting Centres and Polling Places",
+      "url": "https://www2.education.vic.gov.au/pal/polling-places",
+      "category": "School operations and student administration",
+      "last_updated": "2022-09-07"
+    },
+    {
+      "title": "Elections — Employees Contesting Parliamentary Elections",
+      "url": "https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Emergency and Critical Incident Management Planning",
+      "url": "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-06-22"
+    },
+    {
+      "title": "Emergency Services Leave",
+      "url": "https://www2.education.vic.gov.au/pal/emergency-services-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Employment and Sponsorship of Overseas Workers",
+      "url": "https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-03"
+    },
+    {
+      "title": "Employment Limitation",
+      "url": "https://www2.education.vic.gov.au/pal/employment-limitation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01"
+    },
+    {
+      "title": "Employment — Legal Basis",
+      "url": "https://www2.education.vic.gov.au/pal/employment-legal-basis",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Employment-Based Degrees: Teach Today and Teach Tomorrow Programs",
+      "url": "https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-02-01"
+    },
+    {
+      "title": "Enrolment",
+      "url": "https://www2.education.vic.gov.au/pal/enrolment",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-06"
+    },
+    {
+      "title": "Enterprise Bargaining",
+      "url": "https://www2.education.vic.gov.au/pal/enterprise-bargaining",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-08-28"
+    },
+    {
+      "title": "Environmental Hygiene",
+      "url": "https://www2.education.vic.gov.au/pal/environmental-hygiene",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-04"
+    },
+    {
+      "title": "Environmental Sustainability in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/environmental-sustainability-schools",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-09-19"
+    },
+    {
+      "title": "Epilepsy and Seizures",
+      "url": "https://www2.education.vic.gov.au/pal/epilepsy-and-seizures",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-20"
+    },
+    {
+      "title": "Equal Opportunity and Human Rights – Students",
+      "url": "https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2023-04-26"
+    },
+    {
+      "title": "Equal Opportunity – Employees",
+      "url": "https://www2.education.vic.gov.au/pal/equal-opportunity",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-04-16"
+    },
+    {
+      "title": "Equipment Isolation and Tag Out",
+      "url": "https://www2.education.vic.gov.au/pal/equipment-isolation",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Ergonomics and Workspace",
+      "url": "https://www2.education.vic.gov.au/pal/ergonomics",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-20"
+    },
+    {
+      "title": "Excess Procedures — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Excursions",
+      "url": "https://www2.education.vic.gov.au/pal/excursions",
+      "category": "School operations and student administration",
+      "last_updated": "2023-03-10"
+    },
+    {
+      "title": "Exemption from School Attendance and Enrolment",
+      "url": "https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-23"
+    },
+    {
+      "title": "Expulsions",
+      "url": "https://www2.education.vic.gov.au/pal/expulsions",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Family Violence Support",
+      "url": "https://www2.education.vic.gov.au/pal/family-violence-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2022-06-24"
+    },
+    {
+      "title": "Family Violence – Information for Employees",
+      "url": "https://www2.education.vic.gov.au/pal/family-violence-information-employees",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-08-01"
+    },
+    {
+      "title": "Fences",
+      "url": "https://www2.education.vic.gov.au/pal/fences",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-01-09"
+    },
+    {
+      "title": "Finance Manual – Financial Management for Schools",
+      "url": "https://www2.education.vic.gov.au/pal/finance-manual",
+      "category": "Finance and procurement",
+      "last_updated": "2024-08-02"
+    },
+    {
+      "title": "Financial Help for Families",
+      "url": "https://www2.education.vic.gov.au/pal/financial-help-families",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-27"
+    },
+    {
+      "title": "Financial Literacy",
+      "url": "https://www2.education.vic.gov.au/pal/financial-literacy",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-02-19"
+    },
+    {
+      "title": "First Aid for Students and Staff",
+      "url": "https://www2.education.vic.gov.au/pal/first-aid-students-and-staff",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Fitness for Duty",
+      "url": "https://www2.education.vic.gov.au/pal/fitness-duty",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-07"
+    },
+    {
+      "title": "Flags and Patriotic Ceremonies",
+      "url": "https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies",
+      "category": "School operations and student administration",
+      "last_updated": "2022-12-12"
+    },
+    {
+      "title": "Flexible Learning Options (FLOs)",
+      "url": "https://www2.education.vic.gov.au/pal/flexible-learning-options",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-31"
+    },
+    {
+      "title": "Flexible Work",
+      "url": "https://www2.education.vic.gov.au/pal/flexible-work",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-03"
+    },
+    {
+      "title": "Flexible Work for Principals",
+      "url": "https://www2.education.vic.gov.au/pal/flexible-work-principals",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-08-15"
+    },
+    {
+      "title": "Food Handling in Canteens",
+      "url": "https://www2.education.vic.gov.au/pal/food-handling",
+      "category": "School operations and student administration",
+      "last_updated": "2020-02-28"
+    },
+    {
+      "title": "Forms — Teaching Service and HR Administration",
+      "url": "https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Framework for Improving Student Outcomes (FISO 2.0)",
+      "url": "https://www2.education.vic.gov.au/pal/fiso",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-10-19"
+    },
+    {
+      "title": "Fraud and Corruption Control",
+      "url": "https://www2.education.vic.gov.au/pal/fraud-and-corruption-control",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-09"
+    },
+    {
+      "title": "Freedom of Information",
+      "url": "https://www2.education.vic.gov.au/pal/freedom-of-information",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-16"
+    },
+    {
+      "title": "Fundraising Activities (including fetes)",
+      "url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes",
+      "category": "Finance and procurement",
+      "last_updated": "2025-11-25"
+    },
+    {
+      "title": "Gas Heater Management",
+      "url": "https://www2.education.vic.gov.au/pal/gas-heater-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Generative Artificial Intelligence",
+      "url": "https://www2.education.vic.gov.au/pal/generative-artificial-intelligence",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-06-20"
+    },
+    {
+      "title": "Gifts, Benefits and Hospitality",
+      "url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality",
+      "category": "Finance and procurement",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Graffiti – Prevention and Management",
+      "url": "https://www2.education.vic.gov.au/pal/graffiti-prevention-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-01-19"
+    },
+    {
+      "title": "Grievances – Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/grievances-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-08-12"
+    },
+    {
+      "title": "Head Lice",
+      "url": "https://www2.education.vic.gov.au/pal/head-lice",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-28"
+    },
+    {
+      "title": "Health Care Needs",
+      "url": "https://www2.education.vic.gov.au/pal/health-care-needs",
+      "category": "School operations and student administration",
+      "last_updated": "2025-08-06"
+    },
+    {
+      "title": "Health, Safety and Wellbeing",
+      "url": "https://www2.education.vic.gov.au/pal/health-safety-wellbeing",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-04-22"
+    },
+    {
+      "title": "Health, Wellbeing and Inclusion Workforces",
+      "url": "https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-12-20"
+    },
+    {
+      "title": "Heritage Buildings",
+      "url": "https://www2.education.vic.gov.au/pal/heritage-buildings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-03"
+    },
+    {
+      "title": "Higher Duties — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/higher-duties-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-03"
+    },
+    {
+      "title": "Historical Child Sexual Abuse in Victorian Government Schools",
+      "url": "https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-12-03"
+    },
+    {
+      "title": "Holocaust Education – Delivery Requirements",
+      "url": "https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-05-29"
+    },
+    {
+      "title": "Home Schooling and Partial Enrolments",
+      "url": "https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-02-24"
+    },
+    {
+      "title": "Homework",
+      "url": "https://www2.education.vic.gov.au/pal/homework",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-01-09"
+    },
+    {
+      "title": "Hot Work",
+      "url": "https://www2.education.vic.gov.au/pal/hot-work",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-03"
+    },
+    {
+      "title": "Human Rights Charter",
+      "url": "https://www2.education.vic.gov.au/pal/human-rights-charter",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Immunisation",
+      "url": "https://www2.education.vic.gov.au/pal/immunisation",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-01-09"
+    },
+    {
+      "title": "Inclusive Workplaces",
+      "url": "https://www2.education.vic.gov.au/pal/inclusive-workplaces",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2021-01-14"
+    },
+    {
+      "title": "Income Statement/PAYG Payment Summary",
+      "url": "https://www2.education.vic.gov.au/pal/payg-payment-summary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-06-30"
+    },
+    {
+      "title": "Individual Education Plans (IEPs)",
+      "url": "https://www2.education.vic.gov.au/pal/individual-education-plans-ieps",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-07-13"
+    },
+    {
+      "title": "Industrial Action — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/industrial-action-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Industrial Agreements",
+      "url": "https://www2.education.vic.gov.au/pal/industrial-agreements",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-13"
+    },
+    {
+      "title": "Industrial Awards",
+      "url": "https://www2.education.vic.gov.au/pal/industrial-awards",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Infectious Diseases",
+      "url": "https://www2.education.vic.gov.au/pal/infectious-diseases",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Infectious Diseases Leave — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Information Security",
+      "url": "https://www2.education.vic.gov.au/pal/information-security",
+      "category": "Information management, technology and security",
+      "last_updated": "2025-01-24"
+    },
+    {
+      "title": "Insurance for Schools",
+      "url": "https://www2.education.vic.gov.au/pal/insurance",
+      "category": "Finance and procurement",
+      "last_updated": "2020-03-03"
+    },
+    {
+      "title": "Intellectual Property and Copyright",
+      "url": "https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-13"
+    },
+    {
+      "title": "International Delegations – Visits to Victorian Schools",
+      "url": "https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2023-06-21"
+    },
+    {
+      "title": "International Student Program (ISP)",
+      "url": "https://www2.education.vic.gov.au/pal/international-student-program",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Interpreting and Translation Services",
+      "url": "https://www2.education.vic.gov.au/pal/interpreting-and-translation-services",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Intervention Orders",
+      "url": "https://www2.education.vic.gov.au/pal/intervention-orders",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Jobs, Skills and Pathways Coordination",
+      "url": "https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2022-10-17"
+    },
+    {
+      "title": "Jury Service",
+      "url": "https://www2.education.vic.gov.au/pal/jury-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Koorie Education",
+      "url": "https://www2.education.vic.gov.au/pal/koorie-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Land Acquisition",
+      "url": "https://www2.education.vic.gov.au/pal/land-acquisition",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "Land Disposal",
+      "url": "https://www2.education.vic.gov.au/pal/land-disposal",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "Languages Education",
+      "url": "https://www2.education.vic.gov.au/pal/languages-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-01"
+    },
+    {
+      "title": "Leading Teachers and Learning Specialists",
+      "url": "https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Leave for Defence Reserve Service",
+      "url": "https://www2.education.vic.gov.au/pal/leave-defence-reserve-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Leave Without Pay — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Leave — Bushfire, Flood or Other Severe Weather Event",
+      "url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Legal Claims, Subpoenas, Summonses and Other Legal Documents",
+      "url": "https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents",
+      "category": "School operations and student administration",
+      "last_updated": "2025-11-25"
+    },
+    {
+      "title": "Legislation — Employment Topics",
+      "url": "https://www2.education.vic.gov.au/pal/legislation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "LGBTIQA+ Student Support",
+      "url": "https://www2.education.vic.gov.au/pal/lgbtiq-student-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2023-12-05"
+    },
+    {
+      "title": "Long Service Leave — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Management of Modular Classrooms and Facilities",
+      "url": "https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2025-10-31"
+    },
+    {
+      "title": "Managing and Reporting School Incidents (Including Emergencies)",
+      "url": "https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-12-22"
+    },
+    {
+      "title": "Managing Conduct and Unsatisfactory Performance in the Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-12-03"
+    },
+    {
+      "title": "Managing Extreme Heat",
+      "url": "https://www2.education.vic.gov.au/pal/managing-extreme-heat",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-10-23"
+    },
+    {
+      "title": "Manual Handling",
+      "url": "https://www2.education.vic.gov.au/pal/manual-handling",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Mature Minors and Decision Making",
+      "url": "https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making",
+      "category": "School operations and student administration",
+      "last_updated": "2020-04-29"
+    },
+    {
+      "title": "Meal Allowances — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Media Requests and Attendance at Schools",
+      "url": "https://www2.education.vic.gov.au/pal/media-requests",
+      "category": "School operations and student administration",
+      "last_updated": "2020-04-06"
+    },
+    {
+      "title": "Medical Advisory Service",
+      "url": "https://www2.education.vic.gov.au/pal/medical-advisory-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-12-02"
+    },
+    {
+      "title": "Medication",
+      "url": "https://www2.education.vic.gov.au/pal/medication",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Members of Parliament and Candidates Visiting and Corresponding with Schools",
+      "url": "https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2025-10-10"
+    },
+    {
+      "title": "Mental Health Fund and Menu",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-fund-menu",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-10-14"
+    },
+    {
+      "title": "Mental Health in Primary Schools initiative",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-02-13"
+    },
+    {
+      "title": "Mental Health in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-schools",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Mental Health Practitioners initiative",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-01-29"
+    },
+    {
+      "title": "Merit Protection Boards",
+      "url": "https://www2.education.vic.gov.au/pal/merit-protection-boards",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Military Service Sick Leave",
+      "url": "https://www2.education.vic.gov.au/pal/military-service-sick-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Minimum Standards and School Registration",
+      "url": "https://www2.education.vic.gov.au/pal/minimum-standards",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Ministerial Orders — Employment",
+      "url": "https://www2.education.vic.gov.au/pal/ministerial-orders-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Mobile Area Resource Centre and Mobile Art Craft Centre Services",
+      "url": "https://www2.education.vic.gov.au/pal/marc-macc-services",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-01-25"
+    },
+    {
+      "title": "Mobile Phones – Student Use",
+      "url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones",
+      "category": "Information management, technology and security",
+      "last_updated": "2023-12-05"
+    },
+    {
+      "title": "Mobility Assistance",
+      "url": "https://www2.education.vic.gov.au/pal/mobility-assistance",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-30"
+    },
+    {
+      "title": "Modified (Reduced Hours) Timetable",
+      "url": "https://www2.education.vic.gov.au/modified-reduced-hours-timetable",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-10-20"
+    },
+    {
+      "title": "Mosquito Risk Management",
+      "url": "https://www2.education.vic.gov.au/pal/mosquito-risk-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-01-29"
+    },
+    {
+      "title": "Nationally Consistent Collection of Data on School Students with Disability",
+      "url": "https://www2.education.vic.gov.au/pal/nccd-students-with-disability",
+      "category": "School operations and student administration",
+      "last_updated": "2024-03-22"
+    },
+    {
+      "title": "Navigator Program",
+      "url": "https://www2.education.vic.gov.au/pal/navigator-program",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-12-05"
+    },
+    {
+      "title": "NBN Installation",
+      "url": "https://www2.education.vic.gov.au/pal/nbn-installation",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-25"
+    },
+    {
+      "title": "NDIS Funded Therapy in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/ndis-funded-therapy",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-06"
+    },
+    {
+      "title": "NDIS Navigators",
+      "url": "https://www2.education.vic.gov.au/pal/ndis-navigators",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2023-09-05"
+    },
+    {
+      "title": "Noise Management",
+      "url": "https://www2.education.vic.gov.au/pal/noise-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Notebooks for School Staff Program",
+      "url": "https://www2.education.vic.gov.au/pal/notebook-program",
+      "category": "Information management, technology and security",
+      "last_updated": "2023-01-24"
+    },
+    {
+      "title": "Nurses – Transfer to the Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2021-10-13"
+    },
+    {
+      "title": "Occupational Health, Safety and Wellbeing Management in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2023-01-19"
+    },
+    {
+      "title": "OHS Consultation and Communication",
+      "url": "https://www2.education.vic.gov.au/pal/ohs-consultation-communication",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-17"
+    },
+    {
+      "title": "OHS Induction and Training for School Staff",
+      "url": "https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff",
+      "category": "Occupational health and safety",
+      "last_updated": "2025-07-07"
+    },
+    {
+      "title": "OHS Purchasing",
+      "url": "https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "OHS Risk Planning and Management",
+      "url": "https://www2.education.vic.gov.au/pal/ohs-risk-management-planning",
+      "category": "Occupational health and safety",
+      "last_updated": "2024-04-19"
+    },
+    {
+      "title": "Other Employment",
+      "url": "https://www2.education.vic.gov.au/pal/other-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Outdoor Activities and Working Outdoors",
+      "url": "https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-04-15"
+    },
+    {
+      "title": "Outdoor Education Schools",
+      "url": "https://www2.education.vic.gov.au/pal/outdoor-education-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2021-11-04"
+    },
+    {
+      "title": "Outside School Hours Care – Decision Making Regarding the Provision of OSHC",
+      "url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc",
+      "category": "School councils",
+      "last_updated": "2023-03-24"
+    },
+    {
+      "title": "Overpayments",
+      "url": "https://www2.education.vic.gov.au/pal/overpayments",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Parent Payments",
+      "url": "https://www2.education.vic.gov.au/pal/parent-payment",
+      "category": "Finance and procurement",
+      "last_updated": "2021-08-25"
+    },
+    {
+      "title": "Parental Absence — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/parental-absence-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Parents' Clubs",
+      "url": "https://www2.education.vic.gov.au/pal/parent-clubs",
+      "category": "School operations and student administration",
+      "last_updated": "2020-06-11"
+    },
+    {
+      "title": "Part-time Employment — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Participating in Parliamentary Inquiries and Royal Commissions",
+      "url": "https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Pay Advice Online",
+      "url": "https://www2.education.vic.gov.au/pal/pay-advice-online",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Performance and Development for Education Support Class Employees",
+      "url": "https://www2.education.vic.gov.au/pal/performance-development-education-support",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "Performance and Development for Principal Class Employees",
+      "url": "https://www2.education.vic.gov.au/pal/performance-and-development-principal-class",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Performance and Development for Teacher Class Employees",
+      "url": "https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Personal Details Changes",
+      "url": "https://www2.education.vic.gov.au/pal/personal-details-changes",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Personal Hygiene",
+      "url": "https://www2.education.vic.gov.au/pal/personal-hygiene",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2023-04-26"
+    },
+    {
+      "title": "Personal Leave — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/personal-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Personal Liability of School Employees and Volunteers",
+      "url": "https://www2.education.vic.gov.au/pal/personal-liability-school-employees",
+      "category": "School operations and student administration",
+      "last_updated": "2024-08-06"
+    },
+    {
+      "title": "Philanthropic Partnerships",
+      "url": "https://www2.education.vic.gov.au/pal/philanthropic-partnerships",
+      "category": "School councils",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Photographing, Filming and Recording Staff and Other Adults",
+      "url": "https://www2.education.vic.gov.au/pal/photographing-staff",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Photographing, Filming and Recording Students",
+      "url": "https://www2.education.vic.gov.au/pal/photographing-students",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Physical and Sport Education – Safety",
+      "url": "https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety",
+      "category": "Occupational health and safety",
+      "last_updated": "2023-09-27"
+    },
+    {
+      "title": "Physical and Sport Education — Delivery Requirements",
+      "url": "https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Physical Security",
+      "url": "https://www2.education.vic.gov.au/pal/physical-security",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2025-07-18"
+    },
+    {
+      "title": "Planned Maintenance Program",
+      "url": "https://www2.education.vic.gov.au/pal/planned-maintenance-program",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-01-08"
+    },
+    {
+      "title": "Plant and Equipment Management",
+      "url": "https://www2.education.vic.gov.au/pal/plant-and-equipment-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Plantations",
+      "url": "https://www2.education.vic.gov.au/pal/plantations",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-01-09"
+    },
+    {
+      "title": "Police and Child Protection Interviews",
+      "url": "https://www2.education.vic.gov.au/pal/police-child-protection-interviews",
+      "category": "School operations and student administration",
+      "last_updated": "2021-06-02"
+    },
+    {
+      "title": "Police – Department Protocol on Reporting Criminal Activity",
+      "url": "https://www2.education.vic.gov.au/pal/reporting-criminal-activity",
+      "category": "School operations and student administration",
+      "last_updated": "2022-09-28"
+    },
+    {
+      "title": "Political Activities",
+      "url": "https://www2.education.vic.gov.au/pal/political-activities",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-20"
+    },
+    {
+      "title": "Practice (Student) Teaching Supervision Payments",
+      "url": "https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Pre-service Teacher Placement Grant Program",
+      "url": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2026-01-13"
+    },
+    {
+      "title": "Pre-service Teacher Placements in Victorian Government Schools",
+      "url": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placements",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2021-08-09"
+    },
+    {
+      "title": "Pre-service Teachers Working with Permission to Teach (General)",
+      "url": "https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-08-29"
+    },
+    {
+      "title": "Pregnancy and Parenting – Students",
+      "url": "https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students",
+      "category": "School operations and student administration",
+      "last_updated": "2023-06-22"
+    },
+    {
+      "title": "Preventing and Addressing Racism in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/preventing-addressing-racism-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2025-06-03"
+    },
+    {
+      "title": "Prevention of Falls when Working at Heights",
+      "url": "https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-20"
+    },
+    {
+      "title": "Primary to Secondary School Transition",
+      "url": "https://www2.education.vic.gov.au/pal/primary-secondary-school-transition",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-07-29"
+    },
+    {
+      "title": "Principal Health and Wellbeing",
+      "url": "https://www2.education.vic.gov.au/pal/principal-health-and-wellbeing",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-20"
+    },
+    {
+      "title": "Principal Selection",
+      "url": "https://www2.education.vic.gov.au/pal/principal-selection",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-11"
+    },
+    {
+      "title": "Privacy and Information Sharing",
+      "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Private Vehicle Use",
+      "url": "https://www2.education.vic.gov.au/pal/private-vehicle-use",
+      "category": "Finance and procurement",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Probation — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Procurement – Schools",
+      "url": "https://www2.education.vic.gov.au/pal/procurement-in-schools",
+      "category": "Finance and procurement",
+      "last_updated": "2025-04-09"
+    },
+    {
+      "title": "Procuring Low-value Construction Works or Services",
+      "url": "https://www2.education.vic.gov.au/pal/procuring-low-value-construction",
+      "category": "Finance and procurement",
+      "last_updated": "2023-12-15"
+    },
+    {
+      "title": "Professional Learning Communities",
+      "url": "https://www2.education.vic.gov.au/pal/professional-learning-communities",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-09-12"
+    },
+    {
+      "title": "Professional Practice Days",
+      "url": "https://www2.education.vic.gov.au/pal/professional-practice-days",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Psychological Health and Safety for School Staff",
+      "url": "https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff",
+      "category": "Occupational health and safety",
+      "last_updated": "2025-12-02"
+    },
+    {
+      "title": "Public Holidays",
+      "url": "https://www2.education.vic.gov.au/pal/public-holidays",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-02-26"
+    },
+    {
+      "title": "Public Service Medal",
+      "url": "https://www2.education.vic.gov.au/pal/public-service-medal",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "Purchasing Vocational Education and Training",
+      "url": "https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-12-01"
+    },
+    {
+      "title": "Re-engagement Programs (Years 7 to 10)",
+      "url": "https://www2.education.vic.gov.au/pal/re-engagement-programs",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-04-27"
+    },
+    {
+      "title": "Recognition of Prior Service for Leave Purposes — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-25"
+    },
+    {
+      "title": "Records Management",
+      "url": "https://www2.education.vic.gov.au/pal/records-management",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-10-01"
+    },
+    {
+      "title": "Records Management — Employee Information",
+      "url": "https://www2.education.vic.gov.au/pal/records-management-employee-information",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-01"
+    },
+    {
+      "title": "Recruitment in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/recruitment-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Release of Staff to Non-school Locations",
+      "url": "https://www2.education.vic.gov.au/pal/release-non-school-locations",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Religious Observance",
+      "url": "https://www2.education.vic.gov.au/pal/religious-observance",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-09"
+    },
+    {
+      "title": "Remuneration — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/remuneration-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Repeating a Year Level",
+      "url": "https://www2.education.vic.gov.au/pal/repeating-year-level",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-10-06"
+    },
+    {
+      "title": "Report Fraud or Corruption",
+      "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-04-16"
+    },
+    {
+      "title": "Reportable and Notifiable Conduct",
+      "url": "https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-04-10"
+    },
+    {
+      "title": "Reporting Student Achievement and Progress Foundation to 10",
+      "url": "https://www2.education.vic.gov.au/pal/reporting-student-achievement",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-04-14"
+    },
+    {
+      "title": "Repurposing and Renaming School Spaces",
+      "url": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-23"
+    },
+    {
+      "title": "Requests for Information about Students",
+      "url": "https://www2.education.vic.gov.au/pal/requests-about-students",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Research and Evaluation in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/research-in-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2024-01-19"
+    },
+    {
+      "title": "Respectful Workplaces",
+      "url": "https://www2.education.vic.gov.au/pal/respectful-workplaces",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Restraint and Seclusion",
+      "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-04"
+    },
+    {
+      "title": "Right to Disconnect",
+      "url": "https://www2.education.vic.gov.au/right-to-disconnect",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-10-22"
+    },
+    {
+      "title": "Risk Management – Schools",
+      "url": "https://www2.education.vic.gov.au/pal/risk-management-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2023-05-11"
+    },
+    {
+      "title": "Roles and Responsibilities — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Sabbatical Leave — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Salary Packaging — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Salary Rates",
+      "url": "https://www2.education.vic.gov.au/pal/salary-rates",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Scholarships for Secondary Teaching Degrees",
+      "url": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2026-01-07"
+    },
+    {
+      "title": "School and Campus Naming",
+      "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-26"
+    },
+    {
+      "title": "School Bus Program",
+      "url": "https://www2.education.vic.gov.au/pal/school-bus-program",
+      "category": "Finance and procurement",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "School Communications Toolkit",
+      "url": "https://www2.education.vic.gov.au/pal/school-communications-toolkit",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-24"
+    },
+    {
+      "title": "School Community Safety Orders",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-07-11"
+    },
+    {
+      "title": "School Community Work",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-work",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-25"
+    },
+    {
+      "title": "School Council Employment",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-02-27"
+    },
+    {
+      "title": "School Council – Composition, Eligibility and Office Bearers",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers",
+      "category": "School councils",
+      "last_updated": "2026-02-09"
+    },
+    {
+      "title": "School Council – Conduct and Conflict of Interest",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-conduct",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Elections",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-elections",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Establishing a New School Council",
+      "url": "https://www2.education.vic.gov.au/pal/establishing-new-school-council",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Liability and Legal Proceedings",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-liability",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Meetings",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-meetings",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Overview",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-overview",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Powers and Functions",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-powers-and-functions",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Subcommittees",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-subcommittees",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Council – Training and Good Governance",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-training",
+      "category": "School councils",
+      "last_updated": "2023-04-13"
+    },
+    {
+      "title": "School Crossings",
+      "url": "https://www2.education.vic.gov.au/pal/school-crossings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "School Dates",
+      "url": "https://www2.education.vic.gov.au/pal/school-dates",
+      "category": "School operations and student administration",
+      "last_updated": "2020-04-20"
+    },
+    {
+      "title": "School Hours (including variation to hours)",
+      "url": "https://www2.education.vic.gov.au/pal/school-hours",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "School Maintenance Plans and Rolling Facilities Evaluations",
+      "url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-07-27"
+    },
+    {
+      "title": "School Merger or Closure — Staffing",
+      "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "School Networks",
+      "url": "https://www2.education.vic.gov.au/pal/school-networks",
+      "category": "School operations and student administration",
+      "last_updated": "2025-06-13"
+    },
+    {
+      "title": "School Performance Reporting and Data",
+      "url": "https://www2.education.vic.gov.au/pal/performance-reporting",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-10-05"
+    },
+    {
+      "title": "School Review",
+      "url": "https://www2.education.vic.gov.au/pal/school-review",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "School Strategic Plan",
+      "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-10-05"
+    },
+    {
+      "title": "School-Based Apprenticeships and Traineeships",
+      "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-02-28"
+    },
+    {
+      "title": "School-funded Capital Projects",
+      "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Self-Harm and Attempted Suicide Response",
+      "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-10-14"
+    },
+    {
+      "title": "Sensory Rooms and Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/sensory-rooms",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-02-14"
+    },
+    {
+      "title": "Sexual Harassment – Employees",
+      "url": "https://www2.education.vic.gov.au/pal/sexual-harassment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-08-01"
+    },
+    {
+      "title": "Sexuality and Consent Education",
+      "url": "https://www2.education.vic.gov.au/pal/sexuality-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-04-16"
+    },
+    {
+      "title": "Shade Sails",
+      "url": "https://www2.education.vic.gov.au/pal/shade-sails",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26"
+    },
+    {
+      "title": "Shelter-in-Place Buildings",
+      "url": "https://www2.education.vic.gov.au/pal/shelter-place-buildings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26"
+    },
+    {
+      "title": "Shipping Containers",
+      "url": "https://www2.education.vic.gov.au/pal/shipping-containers",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26"
+    },
+    {
+      "title": "Single-Use Plastics Ban",
+      "url": "https://www2.education.vic.gov.au/pal/single-use-plastics-ban",
+      "category": "School operations and student administration",
+      "last_updated": "2022-11-28"
+    },
+    {
+      "title": "Sister School Partnerships",
+      "url": "https://www2.education.vic.gov.au/pal/sister-school-partnerships",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04"
+    },
+    {
+      "title": "Slips, Trips and Falls Prevention",
+      "url": "https://www2.education.vic.gov.au/pal/slips-trips-and-falls",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-06-24"
+    },
+    {
+      "title": "Smoking and Vaping Ban",
+      "url": "https://www2.education.vic.gov.au/pal/smoking-vaping-ban",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-01-27"
+    },
+    {
+      "title": "Software and Administration Systems",
+      "url": "https://www2.education.vic.gov.au/pal/software-administration-systems",
+      "category": "Information management, technology and security",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Soil, Mulch or Loose Fill",
+      "url": "https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill",
+      "category": "Occupational health and safety",
+      "last_updated": "2024-03-04"
+    },
+    {
+      "title": "Special Payments",
+      "url": "https://www2.education.vic.gov.au/pal/special-payments",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-10"
+    },
+    {
+      "title": "Special Religious Instruction",
+      "url": "https://www2.education.vic.gov.au/pal/special-religious-instruction",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Sponsorship",
+      "url": "https://www2.education.vic.gov.au/pal/sponsorship",
+      "category": "Finance and procurement",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Sporting Competitions Leave for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Spouse Leave for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-10"
+    },
+    {
+      "title": "State Schools’ Relief",
+      "url": "https://www2.education.vic.gov.au/pal/state-schools-relief",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Statutory Declarations and Affidavits",
+      "url": "https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Stop Pay",
+      "url": "https://www2.education.vic.gov.au/pal/stop-pay",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Structured Workplace Learning",
+      "url": "https://www2.education.vic.gov.au/pal/structured-workplace-learning",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Student Dress Code",
+      "url": "https://www2.education.vic.gov.au/pal/student-dress-code",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Student Engagement",
+      "url": "https://www2.education.vic.gov.au/pal/student-engagement",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-09"
+    },
+    {
+      "title": "Student Enrolment Census",
+      "url": "https://www2.education.vic.gov.au/pal/student-enrolment-census",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-06"
+    },
+    {
+      "title": "Student Exchange Programs",
+      "url": "https://www2.education.vic.gov.au/pal/student-exchange-programs",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04"
+    },
+    {
+      "title": "Student Resource Package – Core Student Learning Allocation Funding (Student-Based Funding)",
+      "url": "https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – Equity Funding (Student-Based Funding)",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – Managing the Budget",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – Overview",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – School Infrastructure",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – School Specific Programs",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Resource Package – Targeted Initiatives",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives",
+      "category": "Finance and procurement",
+      "last_updated": "2023-09-13"
+    },
+    {
+      "title": "Student Support Groups",
+      "url": "https://www2.education.vic.gov.au/pal/student-support-groups",
+      "category": "School operations and student administration",
+      "last_updated": "2020-02-26"
+    },
+    {
+      "title": "Student Support Services",
+      "url": "https://www2.education.vic.gov.au/pal/student-support-services",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-04-02"
+    },
+    {
+      "title": "Student Voice, Agency and Leadership",
+      "url": "https://www2.education.vic.gov.au/pal/student-voice-agency-leadership",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2022-09-29"
+    },
+    {
+      "title": "Student-to-Student Abuse and Harmful Sexual Behaviour",
+      "url": "https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-03-24"
+    },
+    {
+      "title": "Students Absconding or Going Missing from School",
+      "url": "https://www2.education.vic.gov.au/pal/students-absconding",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Students with Disabilities Transport Program (SDTP)",
+      "url": "https://www2.education.vic.gov.au/pal/transport-students-disabilities",
+      "category": "Finance and procurement",
+      "last_updated": "2020-03-10"
+    },
+    {
+      "title": "Students with Disability",
+      "url": "https://www2.education.vic.gov.au/pal/students-disability",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-26"
+    },
+    {
+      "title": "Study Leave for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/study-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14"
+    },
+    {
+      "title": "Study Tours",
+      "url": "https://www2.education.vic.gov.au/pal/study-tours",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04"
+    },
+    {
+      "title": "Suicide Response (Postvention)",
+      "url": "https://www2.education.vic.gov.au/pal/suicide-response-postvention",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-10-14"
+    },
+    {
+      "title": "Suitability for Employment Checks",
+      "url": "https://www2.education.vic.gov.au/pal/suitability-employment-checks",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01"
+    },
+    {
+      "title": "Sun and UV Protection",
+      "url": "https://www2.education.vic.gov.au/pal/sun-protection",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Superannuation",
+      "url": "https://www2.education.vic.gov.au/pal/superannuation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11"
+    },
+    {
+      "title": "SuperStream — Updating Choice of Superannuation",
+      "url": "https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-20"
+    },
+    {
+      "title": "Supervision of Students",
+      "url": "https://www2.education.vic.gov.au/pal/supervision-students",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Supporting High-Ability Students",
+      "url": "https://www2.education.vic.gov.au/pal/supporting-high-ability-students",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-02-19"
+    },
+    {
+      "title": "Supporting Students in Out-of-Home Care",
+      "url": "https://www2.education.vic.gov.au/pal/supporting-students-out-home-care",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Suspensions",
+      "url": "https://www2.education.vic.gov.au/pal/suspensions",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-31"
+    },
+    {
+      "title": "Sustainable and Climate Resilient Facilities",
+      "url": "https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2026-01-09"
+    },
+    {
+      "title": "Swimming Instruction and Water Safety Education",
+      "url": "https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-06-04"
+    },
+    {
+      "title": "Swimming Pools on School Grounds",
+      "url": "https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Syringe Disposals and Injuries",
+      "url": "https://www2.education.vic.gov.au/pal/syringe-disposal",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-31"
+    },
+    {
+      "title": "Targeted Literacy and Numeracy Intervention – Small Group Learning",
+      "url": "https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-09-16"
+    },
+    {
+      "title": "Taxation — Employees and Income Tax",
+      "url": "https://www2.education.vic.gov.au/pal/taxation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-10"
+    },
+    {
+      "title": "Teach the Future Fellowship Program",
+      "url": "https://www2.education.vic.gov.au/teach-the-future-fellowship-program",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2026-03-03"
+    },
+    {
+      "title": "Teacher Housing",
+      "url": "https://www2.education.vic.gov.au/pal/teacher-housing",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-31"
+    },
+    {
+      "title": "Teacher Registration",
+      "url": "https://www2.education.vic.gov.au/pal/teacher-registration",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Teaching and Learning Resources – Selecting Appropriate Materials",
+      "url": "https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-02-24"
+    },
+    {
+      "title": "Teaching with Animals",
+      "url": "https://www2.education.vic.gov.au/pal/teaching-with-animals",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-05-21"
+    },
+    {
+      "title": "Technologies and ICT Services",
+      "url": "https://www2.education.vic.gov.au/pal/technologies-ict-services",
+      "category": "Information management, technology and security",
+      "last_updated": "2025-01-24"
+    },
+    {
+      "title": "Testing and Tagging of Electrical Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-04-01"
+    },
+    {
+      "title": "Time in Lieu – Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2022-10-10"
+    },
+    {
+      "title": "Trade Training Centres",
+      "url": "https://www2.education.vic.gov.au/pal/trade-training-centres",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-21"
+    },
+    {
+      "title": "Trade Union Training Leave",
+      "url": "https://www2.education.vic.gov.au/pal/trade-union-training-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2022-06-14"
+    },
+    {
+      "title": "Traffic Management",
+      "url": "https://www2.education.vic.gov.au/pal/traffic-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-06"
+    },
+    {
+      "title": "Transfer and Promotion for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Transition – Early Childhood to School",
+      "url": "https://www2.education.vic.gov.au/pal/transition-early-childhood-school",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-01-04"
+    },
+    {
+      "title": "Transport Accident Commission (TAC) Leave",
+      "url": "https://www2.education.vic.gov.au/pal/transport-accident-commission-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "Transport Event",
+      "url": "https://www2.education.vic.gov.au/pal/transport-event",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-18"
+    },
+    {
+      "title": "Travel",
+      "url": "https://www2.education.vic.gov.au/pal/travel",
+      "category": "Finance and procurement",
+      "last_updated": "2020-04-02"
+    },
+    {
+      "title": "Travel and Personal Expenses — Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Tree and Vegetation Management",
+      "url": "https://www2.education.vic.gov.au/pal/tree-vegetation-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2025-06-27"
+    },
+    {
+      "title": "Trespass",
+      "url": "https://www2.education.vic.gov.au/pal/trespass",
+      "category": "School operations and student administration",
+      "last_updated": "2020-01-23"
+    },
+    {
+      "title": "Values – Department Values for Schools",
+      "url": "https://www2.education.vic.gov.au/pal/values-department-values-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-03-11"
+    },
+    {
+      "title": "VCE Vocational Major and Victorian Pathways Certificate Provision",
+      "url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2022-03-09"
+    },
+    {
+      "title": "Vehicles (Excluding Buses) – Owned or Hired by a School",
+      "url": "https://www2.education.vic.gov.au/pal/vehicles",
+      "category": "Finance and procurement",
+      "last_updated": "2022-10-24"
+    },
+    {
+      "title": "Ventilation and Air Purification",
+      "url": "https://www2.education.vic.gov.au/pal/ventilation-air-purification",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-10-18"
+    },
+    {
+      "title": "Victorian Public Sector Employment Principles and Standards",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Victorian School Nursing Program",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-school-nursing-program",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-01-17"
+    },
+    {
+      "title": "Victorian Teaching and Learning Model 2.0",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-06-13"
+    },
+    {
+      "title": "Visiting Teacher Service",
+      "url": "https://www2.education.vic.gov.au/visiting-teacher-service",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-04-15"
+    },
+    {
+      "title": "Visitors in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/visitors",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Visual and Performing Arts – Safety",
+      "url": "https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts",
+      "category": "Occupational health and safety",
+      "last_updated": "2025-11-03"
+    },
+    {
+      "title": "Vocational Education and Training Clusters",
+      "url": "https://www2.education.vic.gov.au/pal/vocational-education-training-clusters",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-21"
+    },
+    {
+      "title": "Vocational Education and Training Delivered to School Students",
+      "url": "https://www2.education.vic.gov.au/pal/vet-delivered-school-students",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-03-28"
+    },
+    {
+      "title": "Voice Care for Teachers",
+      "url": "https://www2.education.vic.gov.au/pal/voice-care-teachers",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Volunteer OHS Management",
+      "url": "https://www2.education.vic.gov.au/pal/volunteer-ohs-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-12-22"
+    },
+    {
+      "title": "Volunteers in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/volunteers",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-05"
+    },
+    {
+      "title": "Walk to School Activities",
+      "url": "https://www2.education.vic.gov.au/pal/walk-school-activities",
+      "category": "School operations and student administration",
+      "last_updated": "2020-12-24"
+    },
+    {
+      "title": "Wastewater Treatment Systems",
+      "url": "https://www2.education.vic.gov.au/pal/wastewater-treatment-systems",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-01-06"
+    },
+    {
+      "title": "Water – Private Drinking Water",
+      "url": "https://www2.education.vic.gov.au/pal/private-drinking-water",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-03-31"
+    },
+    {
+      "title": "Weapons and Other Harmful Items – Banning, Searching and Seizing",
+      "url": "https://www2.education.vic.gov.au/pal/weapons",
+      "category": "School operations and student administration",
+      "last_updated": "2020-10-01"
+    },
+    {
+      "title": "Work Experience",
+      "url": "https://www2.education.vic.gov.au/pal/work-experience",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-12"
+    },
+    {
+      "title": "Work Requirements — Teachers",
+      "url": "https://www2.education.vic.gov.au/pal/work-requirements-teachers",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-19"
+    },
+    {
+      "title": "Work-Related Driving",
+      "url": "https://www2.education.vic.gov.au/pal/work-related-driving",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Work-Related Violence in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/work-related-violence-schools",
+      "category": "Occupational health and safety",
+      "last_updated": "2021-08-24"
+    },
+    {
+      "title": "Workers’ Compensation – Workplace Injury",
+      "url": "https://www2.education.vic.gov.au/pal/workers-compensation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-01-15"
+    },
+    {
+      "title": "Workforce Management — Schools",
+      "url": "https://www2.education.vic.gov.au/pal/workforce-management-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-27"
+    },
+    {
+      "title": "Workforce Planning for Schools",
+      "url": "https://www2.education.vic.gov.au/pal/workforce-planning-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14"
+    },
+    {
+      "title": "Workforce Support and Initiatives for Schools",
+      "url": "https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-07-28"
+    },
+    {
+      "title": "Working Alone, in Isolation or from Home",
+      "url": "https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-29"
+    },
+    {
+      "title": "Working in More Than One School",
+      "url": "https://www2.education.vic.gov.au/pal/working-more-one-school",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-02-27"
+    },
+    {
+      "title": "Working with Children Checks and other Suitability Checks for School Volunteers and Visitors",
+      "url": "https://www2.education.vic.gov.au/pal/suitability-checks",
+      "category": "School operations and student administration",
+      "last_updated": "2022-07-12"
+    },
+    {
+      "title": "Workplace Bullying",
+      "url": "https://www2.education.vic.gov.au/pal/workplace-bullying",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-02"
+    },
+    {
+      "title": "Workplace Contact Officer Network",
+      "url": "https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15"
+    },
+    {
+      "title": "Workplace Safety Inspections",
+      "url": "https://www2.education.vic.gov.au/pal/workplace-inspections",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-11-22"
+    },
+    {
+      "title": "Young Carers – Identification and Support",
+      "url": "https://www2.education.vic.gov.au/pal/young-carers-identification-and-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-03-25"
+    },
+    {
+      "title": "Youth Justice – Additional Support for Young People",
+      "url": "https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-15"
+    }
+  ]
+}
