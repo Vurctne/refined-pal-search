@@ -1542,6 +1542,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T01:32:38.5711382+10:00"
+                  },
+                  {
+                      "db_id":  52,
+                      "title":  "Calculators and Ready Reckoners",
+                      "url":  "https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_tabs"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:34:37.7005947+10:00"
                   }
               ]
 }

@@ -622,8 +622,9 @@ const PAL_POLICIES = [
       { title: 'Fixed Term Teacher Vacancy Ready Reckoner (up to 2030)', note: '' },
       { title: 'Dual Role Allowance Calculator', note: 'for employees in 2 job functions' },
       { title: 'School activity time in lieu spreadsheet', note: 'for camps and school activities' }
-    ]
-  },
+    ],
+  tabs: [ 'Skip to main content' ],
+},
   // School Council
   { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true,
   tabs: [ 'Skip to main content' ],
