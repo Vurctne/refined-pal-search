@@ -214,3 +214,55 @@
 2026-04-25T21:28:28.3213359+10:00 BUILD_START
 2026-04-25T21:28:31.4063149+10:00 BUILD_OK
 2026-04-25T21:28:31.4373601+10:00 COMMIT_START ids=91
+2026-04-25T21:28:31.6657785+10:00 COMMITTED ids=91
+2026-04-25T21:28:31.6747816+10:00 DEPLOY_START
+2026-04-25T21:28:34.5699802+10:00 DEPLOY_ERROR 'wrangler' 不是内部或外部命令，也不是可运行的程序
+2026-04-25T21:28:34.5779777+10:00 RUN_END succeeded=1 failed=1 remaining=96
+2026-04-25T21:31:23.6102616+10:00 RUN_START
+2026-04-25T21:31:23.6869472+10:00 BATCH_TAKEN size=3 ids=3,3.5,4
+2026-04-25T21:31:23.6949511+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-25T21:36:25.6599487+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T21:36:25.6709495+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-25T21:36:28.0954027+10:00 ENRICHED id=3.5
+2026-04-25T21:36:28.0994148+10:00 PROCESSING id=4 url=https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview
+2026-04-25T21:36:29.5731313+10:00 ENRICHED id=4
+2026-04-25T21:36:29.5751320+10:00 BUILD_START
+2026-04-25T21:36:30.9795075+10:00 BUILD_ERROR [31mx[39m Build failed in 402ms -- reverting JSX
+2026-04-25T21:36:31.0764863+10:00 RUN_END succeeded=0 failed=0 remaining=96
+2026-04-25T21:41:23.6626227+10:00 RUN_START
+2026-04-25T21:41:23.7431484+10:00 BATCH_TAKEN size=3 ids=3,3.5,4
+2026-04-25T21:41:23.7501571+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-25T21:46:26.1746731+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T21:46:26.1906708+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-25T21:46:28.7345063+10:00 ENRICHED id=3.5
+2026-04-25T21:46:28.7375634+10:00 PROCESSING id=4 url=https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview
+2026-04-25T21:46:30.2703237+10:00 ENRICHED id=4
+2026-04-25T21:46:30.2747994+10:00 BUILD_START
+2026-04-25T21:46:31.7539891+10:00 BUILD_ERROR [31mx[39m Build failed in 412ms -- reverting JSX
+2026-04-25T21:46:31.8540542+10:00 RUN_END succeeded=0 failed=1 remaining=95
+2026-04-25T21:51:23.6429650+10:00 RUN_START
+2026-04-25T21:51:23.7194990+10:00 BATCH_TAKEN size=3 ids=3.5,4,5
+2026-04-25T21:51:23.7277294+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-25T21:53:27.1250001+10:00 RUN_START
+2026-04-25T21:53:27.1967276+10:00 BATCH_TAKEN size=3 ids=3.5,4,5
+2026-04-25T21:53:27.2038850+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-25T21:54:00.4221516+10:00 ENRICHED id=3.5
+2026-04-25T21:54:00.4256760+10:00 PROCESSING id=4 url=https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview
+2026-04-25T21:54:02.2360941+10:00 ENRICHED id=4
+2026-04-25T21:54:02.2381022+10:00 PROCESSING id=5 url=https://www2.education.vic.gov.au/pal/overpayments/policy
+2026-04-25T21:56:23.7089297+10:00 PREVIOUS_RUNNING age=2.9m -- skipping
+2026-04-25T21:59:04.0619892+10:00 FAILED id=5 error=fetch_failed url=https://www2.education.vic.gov.au/pal/overpayments/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T21:59:04.0709840+10:00 BUILD_START
+2026-04-25T21:59:05.4144330+10:00 BUILD_ERROR [31mx[39m Build failed in 395ms -- reverting JSX
+2026-04-25T21:59:05.5222328+10:00 RUN_END succeeded=0 failed=2 remaining=93
+2026-04-25T22:21:18.2513228+10:00 RUN_START
+2026-04-25T22:21:18.3325389+10:00 BATCH_TAKEN size=3 ids=5,8,10
+2026-04-25T22:21:18.3399670+10:00 PROCESSING id=5 url=https://www2.education.vic.gov.au/pal/overpayments/policy
+2026-04-25T22:26:20.6681625+10:00 FAILED id=5 error=fetch_failed url=https://www2.education.vic.gov.au/pal/overpayments/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T22:26:20.6805229+10:00 PROCESSING id=8 url=https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy
+2026-04-25T22:26:23.5373189+10:00 ENRICHED id=8
+2026-04-25T22:26:23.5393164+10:00 PROCESSING id=10 url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy
+2026-04-25T22:31:25.9246522+10:00 FAILED id=10 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T22:31:25.9286485+10:00 BUILD_START
+2026-04-25T22:31:28.9356971+10:00 BUILD_OK
+2026-04-25T22:31:28.9611029+10:00 COMMIT_START ids=8

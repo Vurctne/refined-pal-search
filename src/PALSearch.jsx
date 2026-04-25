@@ -58,7 +58,15 @@ const PAL_POLICIES = [
       { title: 'Apply via eduPay ESS', note: 'lodge at least 2 terms before commencement' }
     ]
   },
-  { id: 8, title: 'Annual Leave — Teaching Service', category: 'HR - Leave', tags: ['annual leave', 'holiday', '20 days', '152 hours', 'vacation', 'recreation leave'], summary: '152 hours (20 days) per year full-time. Accrues through eduPay. ES class: 228 hours (30 days) additional paid leave.', url: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy' },
+  { id: 8, title: 'Annual Leave — Teaching Service', category: 'HR - Leave', tags: ['annual leave', 'holiday', '20 days', '152 hours', 'vacation', 'recreation leave'], summary: '152 hours (20 days) per year full-time. Accrues through eduPay. ES class: 228 hours (30 days) additional paid leave.', url: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, annual, leave, teaching', href: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy#rpl-main' }
+  ],
+},
   { id: 9, title: 'Parental Absence — Teaching Service', category: 'HR - Leave', tags: ['maternity', 'paternity', 'parental', 'adoption', 'partner leave', 'keeping in touch'], summary: 'Paid and unpaid parental absence including maternity, paternity, partner and adoption leave. Includes lactation breaks, keeping in touch days, Commonwealth PLP.', url: 'https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements', popular: true,
     chapters: [
       { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines' },

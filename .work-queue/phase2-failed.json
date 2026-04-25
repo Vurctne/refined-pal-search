@@ -59,6 +59,71 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-25T21:28:31.4343533+10:00"
+                  },
+                  {
+                      "db_id":  3,
+                      "title":  "Special Payments — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/special-payments/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:46:31.8439597+10:00"
+                  },
+                  {
+                      "db_id":  3.5,
+                      "title":  "Higher Duties — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:59:05.5132284+10:00"
+                  },
+                  {
+                      "db_id":  4,
+                      "title":  "Salary Packaging — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:59:05.5162295+10:00"
                   }
               ]
 }
