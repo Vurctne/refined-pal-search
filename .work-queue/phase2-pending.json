@@ -1,27 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-25T08:47:03.344871+00:00",
-    "total":  25,
+    "total":  23,
     "items":  [
-                  {
-                      "db_id":  2,
-                      "title":  "Remuneration — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines",
-                      "current_state":  {
-                                            "has_tabs":  true,
-                                            "has_chapters":  true,
-                                            "has_resources":  true,
-                                            "chapter_count":  8,
-                                            "resource_count":  3,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-
-                                         ],
-                      "priority":  3,
-                      "attempts":  2,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  24,
                       "title":  "Performance and Development for Teacher Class Employees",
@@ -38,26 +19,7 @@
 
                                          ],
                       "priority":  3,
-                      "attempts":  1,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  26,
-                      "title":  "Performance and Development for Education Support Class Employees",
-                      "url":  "https://www2.education.vic.gov.au/pal/performance-development-education-support/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  true,
-                                            "chapter_count":  0,
-                                            "resource_count":  5,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_tabs"
-                                         ],
-                      "priority":  3,
-                      "attempts":  0,
+                      "attempts":  2,
                       "status":  "pending"
                   },
                   {
