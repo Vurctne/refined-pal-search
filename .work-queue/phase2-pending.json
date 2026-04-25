@@ -1,71 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-25T08:47:03.344871+00:00",
-    "total":  53,
+    "total":  50,
     "items":  [
-                  {
-                      "db_id":  61,
-                      "title":  "Equal Opportunity and Human Rights — Students",
-                      "url":  "https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  67,
-                      "title":  "Immunisation",
-                      "url":  "https://www2.education.vic.gov.au/pal/immunisation/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  68,
-                      "title":  "Head Lice",
-                      "url":  "https://www2.education.vic.gov.au/pal/head-lice/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  71,
                       "title":  "Mental Health in Primary Schools initiative",

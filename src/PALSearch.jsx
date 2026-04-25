@@ -788,7 +788,15 @@ const PAL_POLICIES = [
       { title: 'Legal Division: 03 9637 3146', note: 'legal.services@education.vic.gov.au' }
     ]
   },
-  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy' },
+  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, equal, opportunity, human', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy#rpl-main' }
+  ],
+},
   { id: 62, title: 'Duty of Care', category: 'Students', tags: ['duty of care', 'negligence', 'reasonable precautions', 'child abuse', 'presumption of liability', 'supervision', 'students at risk', 'yard duty', 'foreseeable risk'], summary: 'Legal duty of care to students. Reasonable precautions required to minimise foreseeable risks. Since July 2017, presumption of liability for child abuse claims — staff must prove reasonable precautions were taken.', url: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', guidance: 'https://www2.education.vic.gov.au/pal/duty-of-care/guidance', resources: 'https://www2.education.vic.gov.au/pal/duty-of-care/resources' },
     resources: [
@@ -863,8 +871,24 @@ const PAL_POLICIES = [
       { title: 'National Asthma Council Australia — inner-west schools training', note: 'optional free training for Maribyrnong, Hobson Bay, Brimbank' }
     ]
   },
-  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy' },
-  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy' },
+  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, immunisation, home, advisory', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
+  ],
+},
+  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, head, lice, home', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy#rpl-main' }
+  ],
+},
   { id: 69, title: 'Mental Health in Schools', category: 'Students', tags: ['mental health', 'wellbeing', 'students', 'mhp', 'mental health practitioner', 'mental health toolkit', 'whole-school', 'nip it in the bud', 'student wellbeing boost'], summary: 'Role of schools in supporting student mental health. All Victorian government secondary schools (and specialist with secondary enrolments) funded for ongoing school-based Mental Health Practitioner (MHP).', url: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/mental-health-schools/resources' },
     resources: [
