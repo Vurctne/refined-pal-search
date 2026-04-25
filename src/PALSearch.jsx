@@ -510,8 +510,11 @@ const PAL_POLICIES = [
       { title: 'Purchase order template', note: '' },
       { title: 'Licence and agreement templates', note: 'Legal Division intranet' },
       { title: 'Department-managed panels', note: 'staff login required — agreements with panels of suppliers across multiple categories' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, procurement, schools, home', href: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy#rpl-main' }
+  ],
+},
   { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true,
   tabs: [ 'Skip to main content' ],
   chapters: [
