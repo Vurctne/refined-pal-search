@@ -110,3 +110,11 @@
 - Pending remaining: 92
 - Done so far: 14
 - Build: PASS
+
+## Worker run: 2026-04-26T00:21:57.4712870+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 1 -- ids: 5
+- Pending remaining: 91
+- Done so far: 14
+- Build: FAIL -- reverted
