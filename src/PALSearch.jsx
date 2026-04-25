@@ -548,7 +548,15 @@ const PAL_POLICIES = [
     ]
   },
   { id: 46, title: 'Student Resource Package — Managing the Budget', category: 'Finance', tags: ['srp', 'student resource package', 'funding', 'budget', 'salary charging'], summary: 'Managing the school budget through the SRP. Includes salary charging rules.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview' },
-  { id: 47, title: 'Student Resource Package — School Infrastructure', category: 'Finance', tags: ['srp', 'infrastructure', 'maintenance', 'mmw', 'rfe', 'smp'], summary: 'SRP funding for school infrastructure including MMW allocations.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy' },
+  { id: 47, title: 'Student Resource Package — School Infrastructure', category: 'Finance', tags: ['srp', 'infrastructure', 'maintenance', 'mmw', 'rfe', 'smp'], summary: 'SRP funding for school infrastructure including MMW allocations.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy#rpl-main' }
+  ],
+},
   { id: 48, title: 'Parent Payments', category: 'Finance', tags: ['parent payment', 'fees', 'charges', 'voluntary contributions', 'curriculum contributions', 'extra-curricular', 'byod', 'digital learning', 'financial help for families'], summary: 'Free instruction required; contributions voluntary without coercion. 2 categories: Curriculum Contributions and Other Contributions, plus optional Extra-Curricular Items. From 2027, no BYOD for F-6.', url: 'https://www2.education.vic.gov.au/pal/parent-payment/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/parent-payment/policy', guidance: 'https://www2.education.vic.gov.au/pal/parent-payment/guidance', resources: 'https://www2.education.vic.gov.au/pal/parent-payment/resources' },
     chapters: [
@@ -568,7 +576,15 @@ const PAL_POLICIES = [
       { title: 'Financial Help for Families policy', note: 'must be applied when implementing Parent Payments' }
     ]
   },
-  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy' },
+  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, fundraising, activities, including', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy#rpl-main' }
+  ],
+},
   { id: 50, title: 'Sponsorship', category: 'Finance', tags: ['sponsorship', 'sponsors', 'advertising', '25000'], summary: 'Sponsorship arrangements. Sponsorships over $25,000 must be evaluated within 3 months of conclusion.', url: 'https://www2.education.vic.gov.au/pal/sponsorship/policy' },
   { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy' },
   { id: 52, title: 'Calculators and Ready Reckoners', category: 'Finance', tags: ['calculator', 'ready reckoner', 'salary calculator', 'dual roles', 'time in lieu'], summary: 'HR administration tools including commencement salary calculator, fixed term vacancy ready reckoner, dual role allowance calculator.', url: 'https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources',
