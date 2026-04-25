@@ -650,6 +650,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T00:56:44.2095632+10:00"
+                  },
+                  {
+                      "db_id":  41,
+                      "title":  "Finance Manual — Section 13 Asset and Inventory Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:58:44.4899188+10:00"
+                  },
+                  {
+                      "db_id":  41.5,
+                      "title":  "Finance Manual — Section 6 Budget Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:58:44.4919202+10:00"
+                  },
+                  {
+                      "db_id":  41.6,
+                      "title":  "Finance Manual — Section 7 Chart of Accounts",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T00:58:44.4929208+10:00"
                   }
               ]
 }
