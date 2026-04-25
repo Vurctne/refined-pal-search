@@ -823,14 +823,20 @@ const PAL_POLICIES = [
       { title: 'Students at Risk Tool', note: 'public access' },
       { title: 'Students at Risk Planning Tool', note: 'staff login required' },
       { title: 'Related: Supervision of Students policy', note: '' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, duty, care, home', href: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy#rpl-main' }
+  ],
+},
   { id: 62.5, title: 'Supervision of Students', category: 'Students', tags: ['supervision', 'yard duty', 'yard duty roster', 'duty of care', 'playground', 'before school', 'after school'], summary: 'Staff supervision of students including yard duty. Principal must establish and monitor a system for supervision shared amongst staff. Use the Yard duty and supervision policy template.', url: 'https://www2.education.vic.gov.au/pal/supervision-students/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supervision-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/supervision-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/supervision-students/resources' },
     resources: [
       { title: 'Yard duty and supervision policy template', note: 'staff login required — School Policy Templates Portal, modify for local circumstances' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, supervision, students, home', href: 'https://www2.education.vic.gov.au/pal/supervision-students/policy#rpl-main' }
+  ],
+},
   { id: 63, title: 'Health Care Needs', category: 'Students', tags: ['health care', 'medical', 'conditions', 'care plan', 'student health support plan', 'medical condition', 'medication', 'consent', 'first aid'], summary: 'Supporting students with identified health care needs. Schools must have processes for gathering medical info, Student Health Support Plans, consent for medication, and appropriate first aid.', url: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy', resources: 'https://www2.education.vic.gov.au/pal/health-care-needs/resources' },
     resources: [
