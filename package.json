@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite build && wrangler pages deploy dist --project-name=refined-pal-search --branch=main --commit-dirty=true"
   },
   "engines": {
     "node": ">=18"
