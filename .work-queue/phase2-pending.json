@@ -1,2236 +1,1958 @@
-{
-  "phase": "phase2",
-  "created_at": "2026-04-25T08:47:03.344871+00:00",
-  "total": 112,
-  "items": [
-    {
-      "db_id": 7,
-      "title": "Long Service Leave — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 5,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 9,
-      "title": "Parental Absence — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 9,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails",
-        "needs_tabs"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 17,
-      "title": "Recruitment in Schools",
-      "url": "https://www2.education.vic.gov.au/pal/recruitment-schools/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 8,
-        "resource_count": 12,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 27,
-      "title": "Managing Conduct and Unsatisfactory Performance in the Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 4,
-        "resource_count": 7,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 37,
-      "title": "Finance Manual — Financial Management for Schools",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 20,
-        "resource_count": 63,
-        "chapters_have_tails": true
-      },
-      "actions_needed": [],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 45,
-      "title": "Gifts, Benefits and Hospitality",
-      "url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 8,
-        "resource_count": 4,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails",
-        "needs_tabs"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 48,
-      "title": "Parent Payments",
-      "url": "https://www2.education.vic.gov.au/pal/parent-payment/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 3,
-        "resource_count": 9,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 56,
-      "title": "Enrolment",
-      "url": "https://www2.education.vic.gov.au/pal/enrolment/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 16,
-        "resource_count": 22,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 59,
-      "title": "Suspensions",
-      "url": "https://www2.education.vic.gov.au/pal/suspensions/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 5,
-        "resource_count": 12,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 64,
-      "title": "Anaphylaxis",
-      "url": "https://www2.education.vic.gov.au/pal/anaphylaxis/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 7,
-        "resource_count": 10,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 73,
-      "title": "Disability Inclusion Profile",
-      "url": "https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 13,
-        "resource_count": 18,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 77,
-      "title": "Occupational Health, Safety and Wellbeing Management in Schools",
-      "url": "https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 6,
-        "resource_count": 11,
-        "chapters_have_tails": true
-      },
-      "actions_needed": [],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 80,
-      "title": "Workers Compensation — Workplace Injury",
-      "url": "https://www2.education.vic.gov.au/pal/workers-compensation/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 5,
-        "resource_count": 12,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 85,
-      "title": "Emergency and Critical Incident Management Planning",
-      "url": "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 1,
-        "resource_count": 21,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 86,
-      "title": "Excursions",
-      "url": "https://www2.education.vic.gov.au/pal/excursions/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 11,
-        "resource_count": 15,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 91,
-      "title": "Privacy and Information Sharing",
-      "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 11,
-        "resource_count": 9,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_chapter_tails"
-      ],
-      "priority": 1,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 3,
-      "title": "Special Payments — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/special-payments/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 3.5,
-      "title": "Higher Duties — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 4,
-      "title": "Salary Packaging — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 5,
-      "title": "Overpayments",
-      "url": "https://www2.education.vic.gov.au/pal/overpayments/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 8,
-      "title": "Annual Leave — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 10,
-      "title": "Leave Without Pay — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 11,
-      "title": "Absent Without Leave",
-      "url": "https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 12,
-      "title": "Family Violence — Information for Employees",
-      "url": "https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 13,
-      "title": "Recognition of Prior Service for Leave Purposes — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 14,
-      "title": "Cessation of Employment — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 15,
-      "title": "Attendance and Working Hours — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 16,
-      "title": "Study Leave — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 18,
-      "title": "Workforce Support and Initiatives for Schools",
-      "url": "https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 19,
-      "title": "Workforce Planning for Schools",
-      "url": "https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 20,
-      "title": "Transfer and Promotion for Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 21,
-      "title": "Suitability for Child Connected Work",
-      "url": "https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 22,
-      "title": "Flexible Work",
-      "url": "https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 23,
-      "title": "Employment and Sponsorship of Overseas Workers",
-      "url": "https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 28,
-      "title": "Grievances — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/grievances-teaching-service/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 29,
-      "title": "Human Rights Charter",
-      "url": "https://www2.education.vic.gov.au/pal/human-rights-charter/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 30,
-      "title": "Workplace Contact Officer (WCO) Network",
-      "url": "https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 31,
-      "title": "Sexual Harassment — Employees",
-      "url": "https://www2.education.vic.gov.au/pal/sexual-harassment/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 32,
-      "title": "Workplace Bullying",
-      "url": "https://www2.education.vic.gov.au/pal/workplace-bullying/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 33,
-      "title": "Equal Opportunity — Employees",
-      "url": "https://www2.education.vic.gov.au/pal/equal-opportunity/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 34,
-      "title": "Inclusive Workplaces",
-      "url": "https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 35,
-      "title": "Respectful Workplaces",
-      "url": "https://www2.education.vic.gov.au/pal/respectful-workplaces/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 36,
-      "title": "Industrial Action — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 38,
-      "title": "Finance Manual — Section 9 Funding Sources",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 39,
-      "title": "Finance Manual — Section 11 Expenditure Management",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 40,
-      "title": "Finance Manual — Section 12 Trading Operations",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 41,
-      "title": "Finance Manual — Section 13 Asset and Inventory Management",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 41.5,
-      "title": "Finance Manual — Section 6 Budget Management",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 41.6,
-      "title": "Finance Manual — Section 7 Chart of Accounts",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 41.7,
-      "title": "Finance Manual — Section 17 End of Year (31 December)",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 41.8,
-      "title": "Finance Manual — Section 19 Financial Handover",
-      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 43,
-      "title": "Travel",
-      "url": "https://www2.education.vic.gov.au/pal/travel/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 46,
-      "title": "Student Resource Package — Managing the Budget",
-      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 47,
-      "title": "Student Resource Package — School Infrastructure",
-      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 49,
-      "title": "Fundraising Activities (including fetes)",
-      "url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 50,
-      "title": "Sponsorship",
-      "url": "https://www2.education.vic.gov.au/pal/sponsorship/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 51,
-      "title": "Parents Clubs",
-      "url": "https://www2.education.vic.gov.au/pal/parent-clubs/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 54,
-      "title": "School Council — Powers and Functions",
-      "url": "https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 58,
-      "title": "Exemption from School Attendance and Enrolment",
-      "url": "https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 61,
-      "title": "Equal Opportunity and Human Rights — Students",
-      "url": "https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 67,
-      "title": "Immunisation",
-      "url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 68,
-      "title": "Head Lice",
-      "url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 71,
-      "title": "Mental Health in Primary Schools initiative",
-      "url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 72,
-      "title": "Disability Inclusion Funding and Support",
-      "url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 74,
-      "title": "Visiting Teacher Service",
-      "url": "https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 78,
-      "title": "Psychological Health and Safety for School Staff",
-      "url": "https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 79,
-      "title": "Work-Related Violence in Schools",
-      "url": "https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 81,
-      "title": "OHS Purchasing",
-      "url": "https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 82,
-      "title": "OHS Induction and Training for School Staff",
-      "url": "https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 83,
-      "title": "First Aid for Students and Staff",
-      "url": "https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 87,
-      "title": "Outside School Hours Care (OSHC)",
-      "url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 88,
-      "title": "Mobile Phones — Student Use",
-      "url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 89,
-      "title": "Buildings and Grounds Maintenance and Compliance",
-      "url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 90,
-      "title": "School Maintenance Plans and Rolling Facilities Evaluations",
-      "url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 92,
-      "title": "Information Security",
-      "url": "https://www2.education.vic.gov.au/pal/information-security/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 93,
-      "title": "Acceptable Use Policy for ICT Resources",
-      "url": "https://www2.education.vic.gov.au/pal/ict-acceptable-use/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 94,
-      "title": "Technologies and ICT Services",
-      "url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 95,
-      "title": "Records Management",
-      "url": "https://www2.education.vic.gov.au/pal/records-management/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 96,
-      "title": "Curriculum Programs Foundation to 10",
-      "url": "https://www2.education.vic.gov.au/pal/curriculum-programs/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 97,
-      "title": "Assessment of Student Achievement and Progress Foundation to 10",
-      "url": "https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 98,
-      "title": "Reporting Student Achievement and Progress Foundation to 10",
-      "url": "https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 99,
-      "title": "International Student Program (ISP)",
-      "url": "https://www2.education.vic.gov.au/pal/international-student-program/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 100,
-      "title": "Work Experience",
-      "url": "https://www2.education.vic.gov.au/pal/work-experience/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 101,
-      "title": "Structured Workplace Learning",
-      "url": "https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": false,
-        "chapter_count": 0,
-        "resource_count": 0,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters",
-        "needs_resources",
-        "needs_tabs"
-      ],
-      "priority": 2,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 1,
-      "title": "Allowances — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/allowances-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 4,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 2,
-      "title": "Remuneration — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 8,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 6,
-      "title": "Personal Leave — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 24,
-      "title": "Performance and Development for Teacher Class Employees",
-      "url": "https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees/overview",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 5,
-        "resource_count": 10,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 25,
-      "title": "Performance and Development for Principal Class Employees",
-      "url": "https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 5,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 26,
-      "title": "Performance and Development for Education Support Class Employees",
-      "url": "https://www2.education.vic.gov.au/pal/performance-development-education-support/overview",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 5,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_tabs"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 42,
-      "title": "Procurement — Schools",
-      "url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 11,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 44,
-      "title": "Travel and Personal Expenses — Teaching Service",
-      "url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 5,
-        "resource_count": 6,
-        "chapters_have_tails": true
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 52,
-      "title": "Calculators and Ready Reckoners",
-      "url": "https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources",
-      "current_state": {
-        "has_tabs": false,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 4,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_tabs"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 53,
-      "title": "Forms — Teaching Service and HR Administration",
-      "url": "https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 19,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 53.5,
-      "title": "Principal Selection",
-      "url": "https://www2.education.vic.gov.au/pal/principal-selection/overview",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 4,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 54.5,
-      "title": "School Council — Meetings",
-      "url": "https://www2.education.vic.gov.au/pal/school-council-meetings/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 1,
-        "resource_count": 11,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 55,
-      "title": "Student Engagement",
-      "url": "https://www2.education.vic.gov.au/pal/student-engagement/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 1,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 55.5,
-      "title": "Behaviour — Students",
-      "url": "https://www2.education.vic.gov.au/pal/behaviour-students/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 1,
-        "resource_count": 9,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 55.6,
-      "title": "Bullying Prevention and Response",
-      "url": "https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 8,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 57,
-      "title": "Attendance",
-      "url": "https://www2.education.vic.gov.au/pal/attendance/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 1,
-        "resource_count": 11,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 60,
-      "title": "Expulsions",
-      "url": "https://www2.education.vic.gov.au/pal/expulsions/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 62,
-      "title": "Duty of Care",
-      "url": "https://www2.education.vic.gov.au/pal/duty-of-care/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 3,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 62.5,
-      "title": "Supervision of Students",
-      "url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 1,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 63,
-      "title": "Health Care Needs",
-      "url": "https://www2.education.vic.gov.au/pal/health-care-needs/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 5,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 65,
-      "title": "Allergies",
-      "url": "https://www2.education.vic.gov.au/pal/allergies/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 8,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 66,
-      "title": "Asthma",
-      "url": "https://www2.education.vic.gov.au/pal/asthma/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 8,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 69,
-      "title": "Mental Health in Schools",
-      "url": "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 7,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 70,
-      "title": "Mental Health Fund and Menu",
-      "url": "https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 2,
-        "resource_count": 4,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 75,
-      "title": "Child Safe Standards",
-      "url": "https://www2.education.vic.gov.au/pal/child-safe-standards/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 8,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 76,
-      "title": "Child Abuse (including grooming) — Identification and Response",
-      "url": "https://www2.education.vic.gov.au/pal/protecting-children/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 4,
-        "resource_count": 13,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 76.5,
-      "title": "Reportable and Notifiable Conduct",
-      "url": "https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": false,
-        "has_resources": true,
-        "chapter_count": 0,
-        "resource_count": 8,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [
-        "needs_full_chapters"
-      ],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    },
-    {
-      "db_id": 84,
-      "title": "Managing and Reporting School Incidents (Including Emergencies)",
-      "url": "https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy",
-      "current_state": {
-        "has_tabs": true,
-        "has_chapters": true,
-        "has_resources": true,
-        "chapter_count": 4,
-        "resource_count": 11,
-        "chapters_have_tails": false
-      },
-      "actions_needed": [],
-      "priority": 3,
-      "attempts": 0,
-      "status": "pending"
-    }
-  ]
+﻿{
+    "phase":  "phase2",
+    "created_at":  "2026-04-25T08:47:03.344871+00:00",
+    "total":  96,
+    "items":  [
+                  {
+                      "db_id":  3,
+                      "title":  "Special Payments — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/special-payments/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  1,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  3.5,
+                      "title":  "Higher Duties — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  4,
+                      "title":  "Salary Packaging — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  5,
+                      "title":  "Overpayments",
+                      "url":  "https://www2.education.vic.gov.au/pal/overpayments/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  8,
+                      "title":  "Annual Leave — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  10,
+                      "title":  "Leave Without Pay — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  11,
+                      "title":  "Absent Without Leave",
+                      "url":  "https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  12,
+                      "title":  "Family Violence — Information for Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  13,
+                      "title":  "Recognition of Prior Service for Leave Purposes — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  14,
+                      "title":  "Cessation of Employment — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  15,
+                      "title":  "Attendance and Working Hours — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  16,
+                      "title":  "Study Leave — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  18,
+                      "title":  "Workforce Support and Initiatives for Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  19,
+                      "title":  "Workforce Planning for Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  20,
+                      "title":  "Transfer and Promotion for Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  21,
+                      "title":  "Suitability for Child Connected Work",
+                      "url":  "https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  22,
+                      "title":  "Flexible Work",
+                      "url":  "https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  23,
+                      "title":  "Employment and Sponsorship of Overseas Workers",
+                      "url":  "https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  28,
+                      "title":  "Grievances — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/grievances-teaching-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  29,
+                      "title":  "Human Rights Charter",
+                      "url":  "https://www2.education.vic.gov.au/pal/human-rights-charter/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  30,
+                      "title":  "Workplace Contact Officer (WCO) Network",
+                      "url":  "https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  31,
+                      "title":  "Sexual Harassment — Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/sexual-harassment/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  32,
+                      "title":  "Workplace Bullying",
+                      "url":  "https://www2.education.vic.gov.au/pal/workplace-bullying/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  33,
+                      "title":  "Equal Opportunity — Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/equal-opportunity/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  34,
+                      "title":  "Inclusive Workplaces",
+                      "url":  "https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  35,
+                      "title":  "Respectful Workplaces",
+                      "url":  "https://www2.education.vic.gov.au/pal/respectful-workplaces/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  36,
+                      "title":  "Industrial Action — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  38,
+                      "title":  "Finance Manual — Section 9 Funding Sources",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  39,
+                      "title":  "Finance Manual — Section 11 Expenditure Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  40,
+                      "title":  "Finance Manual — Section 12 Trading Operations",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  41,
+                      "title":  "Finance Manual — Section 13 Asset and Inventory Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  41.5,
+                      "title":  "Finance Manual — Section 6 Budget Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  41.6,
+                      "title":  "Finance Manual — Section 7 Chart of Accounts",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  41.7,
+                      "title":  "Finance Manual — Section 17 End of Year (31 December)",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  41.8,
+                      "title":  "Finance Manual — Section 19 Financial Handover",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  43,
+                      "title":  "Travel",
+                      "url":  "https://www2.education.vic.gov.au/pal/travel/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  46,
+                      "title":  "Student Resource Package — Managing the Budget",
+                      "url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  47,
+                      "title":  "Student Resource Package — School Infrastructure",
+                      "url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  49,
+                      "title":  "Fundraising Activities (including fetes)",
+                      "url":  "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  50,
+                      "title":  "Sponsorship",
+                      "url":  "https://www2.education.vic.gov.au/pal/sponsorship/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  51,
+                      "title":  "Parents Clubs",
+                      "url":  "https://www2.education.vic.gov.au/pal/parent-clubs/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  54,
+                      "title":  "School Council — Powers and Functions",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  58,
+                      "title":  "Exemption from School Attendance and Enrolment",
+                      "url":  "https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  61,
+                      "title":  "Equal Opportunity and Human Rights — Students",
+                      "url":  "https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  67,
+                      "title":  "Immunisation",
+                      "url":  "https://www2.education.vic.gov.au/pal/immunisation/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  68,
+                      "title":  "Head Lice",
+                      "url":  "https://www2.education.vic.gov.au/pal/head-lice/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  71,
+                      "title":  "Mental Health in Primary Schools initiative",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  72,
+                      "title":  "Disability Inclusion Funding and Support",
+                      "url":  "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  74,
+                      "title":  "Visiting Teacher Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  78,
+                      "title":  "Psychological Health and Safety for School Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  79,
+                      "title":  "Work-Related Violence in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  81,
+                      "title":  "OHS Purchasing",
+                      "url":  "https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  82,
+                      "title":  "OHS Induction and Training for School Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  83,
+                      "title":  "First Aid for Students and Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  87,
+                      "title":  "Outside School Hours Care (OSHC)",
+                      "url":  "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  88,
+                      "title":  "Mobile Phones — Student Use",
+                      "url":  "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  89,
+                      "title":  "Buildings and Grounds Maintenance and Compliance",
+                      "url":  "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  90,
+                      "title":  "School Maintenance Plans and Rolling Facilities Evaluations",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  92,
+                      "title":  "Information Security",
+                      "url":  "https://www2.education.vic.gov.au/pal/information-security/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  93,
+                      "title":  "Acceptable Use Policy for ICT Resources",
+                      "url":  "https://www2.education.vic.gov.au/pal/ict-acceptable-use/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  94,
+                      "title":  "Technologies and ICT Services",
+                      "url":  "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  95,
+                      "title":  "Records Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/records-management/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  96,
+                      "title":  "Curriculum Programs Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/curriculum-programs/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  97,
+                      "title":  "Assessment of Student Achievement and Progress Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  98,
+                      "title":  "Reporting Student Achievement and Progress Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  99,
+                      "title":  "International Student Program (ISP)",
+                      "url":  "https://www2.education.vic.gov.au/pal/international-student-program/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  100,
+                      "title":  "Work Experience",
+                      "url":  "https://www2.education.vic.gov.au/pal/work-experience/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  101,
+                      "title":  "Structured Workplace Learning",
+                      "url":  "https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  1,
+                      "title":  "Allowances — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/allowances-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  2,
+                      "title":  "Remuneration — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  8,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  6,
+                      "title":  "Personal Leave — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  24,
+                      "title":  "Performance and Development for Teacher Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  10,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  25,
+                      "title":  "Performance and Development for Principal Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  26,
+                      "title":  "Performance and Development for Education Support Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-development-education-support/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_tabs"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  42,
+                      "title":  "Procurement — Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  44,
+                      "title":  "Travel and Personal Expenses — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  6,
+                                            "chapters_have_tails":  true
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  52,
+                      "title":  "Calculators and Ready Reckoners",
+                      "url":  "https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_tabs"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  53,
+                      "title":  "Forms — Teaching Service and HR Administration",
+                      "url":  "https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  19,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  53.5,
+                      "title":  "Principal Selection",
+                      "url":  "https://www2.education.vic.gov.au/pal/principal-selection/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  54.5,
+                      "title":  "School Council — Meetings",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-council-meetings/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  55,
+                      "title":  "Student Engagement",
+                      "url":  "https://www2.education.vic.gov.au/pal/student-engagement/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  55.5,
+                      "title":  "Behaviour — Students",
+                      "url":  "https://www2.education.vic.gov.au/pal/behaviour-students/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  9,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  55.6,
+                      "title":  "Bullying Prevention and Response",
+                      "url":  "https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  57,
+                      "title":  "Attendance",
+                      "url":  "https://www2.education.vic.gov.au/pal/attendance/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  60,
+                      "title":  "Expulsions",
+                      "url":  "https://www2.education.vic.gov.au/pal/expulsions/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  62,
+                      "title":  "Duty of Care",
+                      "url":  "https://www2.education.vic.gov.au/pal/duty-of-care/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  62.5,
+                      "title":  "Supervision of Students",
+                      "url":  "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  1,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  63,
+                      "title":  "Health Care Needs",
+                      "url":  "https://www2.education.vic.gov.au/pal/health-care-needs/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  65,
+                      "title":  "Allergies",
+                      "url":  "https://www2.education.vic.gov.au/pal/allergies/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  66,
+                      "title":  "Asthma",
+                      "url":  "https://www2.education.vic.gov.au/pal/asthma/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  69,
+                      "title":  "Mental Health in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  7,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  70,
+                      "title":  "Mental Health Fund and Menu",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  2,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  75,
+                      "title":  "Child Safe Standards",
+                      "url":  "https://www2.education.vic.gov.au/pal/child-safe-standards/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  76,
+                      "title":  "Child Abuse (including grooming) — Identification and Response",
+                      "url":  "https://www2.education.vic.gov.au/pal/protecting-children/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  13,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  76.5,
+                      "title":  "Reportable and Notifiable Conduct",
+                      "url":  "https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  },
+                  {
+                      "db_id":  84,
+                      "title":  "Managing and Reporting School Incidents (Including Emergencies)",
+                      "url":  "https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending"
+                  }
+              ]
 }

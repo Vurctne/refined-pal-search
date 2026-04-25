@@ -1,3 +1,266 @@
-{
-  "items": []
+﻿{
+    "items":  [
+                  {
+                      "db_id":  7,
+                      "title":  "Long Service Leave — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  2,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:00:42.6480420+10:00"
+                  },
+                  {
+                      "db_id":  9,
+                      "title":  "Parental Absence — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  9,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  1,
+                      "attempts":  2,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:00:42.6540377+10:00"
+                  },
+                  {
+                      "db_id":  27,
+                      "title":  "Managing Conduct and Unsatisfactory Performance in the Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  7,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:01:31.0872558+10:00"
+                  },
+                  {
+                      "db_id":  45,
+                      "title":  "Gifts, Benefits and Hospitality",
+                      "url":  "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  8,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:01:31.0897759+10:00"
+                  },
+                  {
+                      "db_id":  48,
+                      "title":  "Parent Payments",
+                      "url":  "https://www2.education.vic.gov.au/pal/parent-payment/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  3,
+                                            "resource_count":  9,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:06:30.8209474+10:00"
+                  },
+                  {
+                      "db_id":  56,
+                      "title":  "Enrolment",
+                      "url":  "https://www2.education.vic.gov.au/pal/enrolment/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  16,
+                                            "resource_count":  22,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:06:30.8249459+10:00"
+                  },
+                  {
+                      "db_id":  59,
+                      "title":  "Suspensions",
+                      "url":  "https://www2.education.vic.gov.au/pal/suspensions/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  12,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:13:30.4769602+10:00"
+                  },
+                  {
+                      "db_id":  64,
+                      "title":  "Anaphylaxis",
+                      "url":  "https://www2.education.vic.gov.au/pal/anaphylaxis/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  7,
+                                            "resource_count":  10,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:13:30.4799564+10:00"
+                  },
+                  {
+                      "db_id":  73,
+                      "title":  "Disability Inclusion Profile",
+                      "url":  "https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  13,
+                                            "resource_count":  18,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:16:30.7546216+10:00"
+                  },
+                  {
+                      "db_id":  80,
+                      "title":  "Workers Compensation — Workplace Injury",
+                      "url":  "https://www2.education.vic.gov.au/pal/workers-compensation/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  12,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:16:30.7576265+10:00"
+                  },
+                  {
+                      "db_id":  85,
+                      "title":  "Emergency and Critical Incident Management Planning",
+                      "url":  "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  21,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:21:30.4780037+10:00"
+                  },
+                  {
+                      "db_id":  86,
+                      "title":  "Excursions",
+                      "url":  "https://www2.education.vic.gov.au/pal/excursions/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  11,
+                                            "resource_count":  15,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:21:30.4800055+10:00"
+                  },
+                  {
+                      "db_id":  91,
+                      "title":  "Privacy and Information Sharing",
+                      "url":  "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  11,
+                                            "resource_count":  9,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-25T21:28:31.4288227+10:00"
+                  }
+              ]
 }

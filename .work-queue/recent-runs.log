@@ -1,1 +1,216 @@
 2026-04-25T08:58:06.274241+00:00 | dry_run | processed=3 | succeeded=3-edits / 0-deploys | failed=0 | duration=~7min | note=linux-mount-cache+git-lock-blocked
+2026-04-25T19:56:23.5232566+10:00 RUN_START
+2026-04-25T19:56:23.6446154+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T19:56:23.6526092+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T19:56:25.5768297+10:00 FAILED id=7 error=所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:141 字符: 25
++         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
++                         ~~~~~~
+表达式或语句中包含意外的标记“title:”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:202 字符: 57
++ Write-Host "Patch-Jsx: wrote enrichment for id=$EntryId."
++                                                         ~
+字符串缺少终止符: "。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:134 字符: 40
++     foreach ($chap in $Patch.chapters) {
++                                        ~
+语句块或类型定义中缺少右“}”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:133 字符: 87
++ ... ch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -gt 0) {
++                                                                         ~
+语句块或类型定义中缺少右“}”。
+2026-04-25T19:56:25.5878372+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T19:56:27.3306279+10:00 FAILED id=9 error=所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:141 字符: 25
++         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
++                         ~~~~~~
+表达式或语句中包含意外的标记“title:”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:202 字符: 57
++ Write-Host "Patch-Jsx: wrote enrichment for id=$EntryId."
++                                                         ~
+字符串缺少终止符: "。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:134 字符: 40
++     foreach ($chap in $Patch.chapters) {
++                                        ~
+语句块或类型定义中缺少右“}”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:133 字符: 87
++ ... ch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -gt 0) {
++                                                                         ~
+语句块或类型定义中缺少右“}”。
+2026-04-25T19:56:27.3326255+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T19:57:41.3996584+10:00 PREVIOUS_RUNNING age=1.3m 鈥?skipping
+2026-04-25T20:01:24.4665118+10:00 PREVIOUS_RUNNING age=5m 鈥?skipping
+2026-04-25T20:06:24.5990247+10:00 STALE_LOCK_REMOVED age=10m
+2026-04-25T20:06:24.6324222+10:00 RUN_START
+2026-04-25T20:06:24.7001039+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:06:24.7041009+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:06:26.4838346+10:00 FAILED id=7 error=所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:141 字符: 25
++         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
++                         ~~~~~~
+表达式或语句中包含意外的标记“title:”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:202 字符: 57
++ Write-Host "Patch-Jsx: wrote enrichment for id=$EntryId."
++                                                         ~
+字符串缺少终止符: "。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:134 字符: 40
++     foreach ($chap in $Patch.chapters) {
++                                        ~
+语句块或类型定义中缺少右“}”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:133 字符: 87
++ ... ch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -gt 0) {
++                                                                         ~
+语句块或类型定义中缺少右“}”。
+2026-04-25T20:06:26.4970267+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:06:28.1301009+10:00 FAILED id=9 error=所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:141 字符: 25
++         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
++                         ~~~~~~
+表达式或语句中包含意外的标记“title:”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:202 字符: 57
++ Write-Host "Patch-Jsx: wrote enrichment for id=$EntryId."
++                                                         ~
+字符串缺少终止符: "。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:134 字符: 40
++     foreach ($chap in $Patch.chapters) {
++                                        ~
+语句块或类型定义中缺少右“}”。
+
+所在位置 D:\Software\Productivity\refined PAL Search\worker\Patch-Jsx.ps1:133 字符: 87
++ ... ch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -gt 0) {
++                                                                         ~
+语句块或类型定义中缺少右“}”。
+2026-04-25T20:06:28.1330969+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:11:24.9084746+10:00 PREVIOUS_RUNNING age=5m 鈥?skipping
+2026-04-25T20:16:24.9840436+10:00 STALE_LOCK_REMOVED age=10m
+2026-04-25T20:16:25.0169241+10:00 RUN_START
+2026-04-25T20:16:25.0776305+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:16:25.0836403+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:16:26.8594308+10:00 ENRICHED id=7
+2026-04-25T20:16:26.8626161+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:16:28.5133496+10:00 ENRICHED id=9
+2026-04-25T20:16:28.5163503+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:21:24.4961901+10:00 PREVIOUS_RUNNING age=5m -- skipping
+2026-04-25T20:21:33.4390637+10:00 RUN_START
+2026-04-25T20:21:33.5153673+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:21:33.5233363+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:21:35.2885371+10:00 ENRICHED id=7
+2026-04-25T20:21:35.2915481+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:21:36.8233720+10:00 ENRICHED id=9
+2026-04-25T20:21:36.8265198+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:26:24.5225069+10:00 PREVIOUS_RUNNING age=4.9m -- skipping
+2026-04-25T20:26:38.0590791+10:00 FAILED id=17 error=fetch_failed url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy code= msg=未能解析此远程名称: 'www2.education.vic.gov.au'
+2026-04-25T20:26:38.0690913+10:00 BUILD_START
+2026-04-25T20:26:38.5831089+10:00 BUILD_ERROR 'vite' 不是内部或外部命令，也不是可运行的程序 -- reverting JSX
+2026-04-25T20:26:38.6930528+10:00 RUN_END succeeded=0 failed=0 remaining=112
+2026-04-25T20:31:24.5343454+10:00 RUN_START
+2026-04-25T20:31:24.6122331+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:31:24.6184239+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:31:26.2511297+10:00 ENRICHED id=7
+2026-04-25T20:31:26.2541317+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:31:27.7461870+10:00 ENRICHED id=9
+2026-04-25T20:31:27.7481844+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:36:29.3171596+10:00 FAILED id=17 error=fetch_failed url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T20:36:29.3291578+10:00 BUILD_START
+2026-04-25T20:36:29.8554008+10:00 BUILD_ERROR 'vite' 不是内部或外部命令，也不是可运行的程序 -- reverting JSX
+2026-04-25T20:36:29.9584075+10:00 RUN_END succeeded=0 failed=0 remaining=112
+2026-04-25T20:41:24.5122613+10:00 RUN_START
+2026-04-25T20:41:24.5900629+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:41:24.5984308+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:41:26.2981094+10:00 ENRICHED id=7
+2026-04-25T20:41:26.3001142+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:41:27.9291854+10:00 ENRICHED id=9
+2026-04-25T20:41:27.9321874+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:46:24.5362655+10:00 PREVIOUS_RUNNING age=5m -- skipping
+2026-04-25T20:55:31.4519506+10:00 RUN_START
+2026-04-25T20:55:31.5375248+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-25T20:55:31.5455207+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-25T20:55:33.3441319+10:00 ENRICHED id=7
+2026-04-25T20:55:33.3461304+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-25T20:55:34.9462480+10:00 ENRICHED id=9
+2026-04-25T20:55:34.9492496+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-25T20:56:23.6818411+10:00 PREVIOUS_RUNNING age=0.9m -- skipping
+2026-04-25T21:00:37.9479135+10:00 FAILED id=17 error=fetch_failed url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T21:00:37.9636829+10:00 BUILD_START
+2026-04-25T21:00:42.6128995+10:00 BUILD_OK
+2026-04-25T21:00:42.6640419+10:00 COMMIT_START ids=7,9
+2026-04-25T21:00:42.7714182+10:00 FATAL warning: in the working copy of '.work-queue/phase2-done.json', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:01:23.6291886+10:00 RUN_START
+2026-04-25T21:01:23.7087052+10:00 BATCH_TAKEN size=3 ids=27,37,45
+2026-04-25T21:01:23.7182009+10:00 PROCESSING id=27 url=https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview
+2026-04-25T21:01:25.6869477+10:00 ENRICHED id=27
+2026-04-25T21:01:25.6889483+10:00 PROCESSING id=37 url=https://www2.education.vic.gov.au/pal/finance-manual/policy
+2026-04-25T21:01:25.7049486+10:00 FAILED id=37 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:01:25.7249757+10:00 PROCESSING id=45 url=https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/policy
+2026-04-25T21:01:27.6456226+10:00 ENRICHED id=45
+2026-04-25T21:01:27.6498141+10:00 BUILD_START
+2026-04-25T21:01:31.0679302+10:00 BUILD_OK
+2026-04-25T21:01:31.0927833+10:00 COMMIT_START ids=27,45
+2026-04-25T21:01:31.1913000+10:00 FATAL warning: in the working copy of '.work-queue/.lock', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:06:23.6748805+10:00 RUN_START
+2026-04-25T21:06:23.7644130+10:00 BATCH_TAKEN size=3 ids=37,48,56
+2026-04-25T21:06:23.7724180+10:00 PROCESSING id=37 url=https://www2.education.vic.gov.au/pal/finance-manual/policy
+2026-04-25T21:06:23.8044110+10:00 FAILED id=37 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:06:23.8174149+10:00 PROCESSING id=48 url=https://www2.education.vic.gov.au/pal/parent-payment/policy
+2026-04-25T21:06:25.6847961+10:00 ENRICHED id=48
+2026-04-25T21:06:25.6878006+10:00 PROCESSING id=56 url=https://www2.education.vic.gov.au/pal/enrolment/policy
+2026-04-25T21:06:27.4915708+10:00 ENRICHED id=56
+2026-04-25T21:06:27.4935730+10:00 BUILD_START
+2026-04-25T21:06:30.8025041+10:00 BUILD_OK
+2026-04-25T21:06:30.8269549+10:00 COMMIT_START ids=48,56
+2026-04-25T21:06:30.9159093+10:00 FATAL warning: in the working copy of '.work-queue/.lock', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:11:23.5985653+10:00 RUN_START
+2026-04-25T21:11:23.6767361+10:00 BATCH_TAKEN size=3 ids=37,59,64
+2026-04-25T21:11:23.6847342+10:00 PROCESSING id=37 url=https://www2.education.vic.gov.au/pal/finance-manual/policy
+2026-04-25T21:11:23.7147350+10:00 FAILED id=37 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:11:23.7300375+10:00 PROCESSING id=59 url=https://www2.education.vic.gov.au/pal/suspensions/policy
+2026-04-25T21:13:25.6360540+10:00 ENRICHED id=59
+2026-04-25T21:13:25.6394011+10:00 PROCESSING id=64 url=https://www2.education.vic.gov.au/pal/anaphylaxis/policy
+2026-04-25T21:13:27.3817562+10:00 ENRICHED id=64
+2026-04-25T21:13:27.3841033+10:00 BUILD_START
+2026-04-25T21:13:30.4489536+10:00 BUILD_OK
+2026-04-25T21:13:30.4849536+10:00 COMMIT_START ids=59,64
+2026-04-25T21:13:30.5606900+10:00 FATAL warning: in the working copy of '.work-queue/.lock', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:16:23.6111129+10:00 RUN_START
+2026-04-25T21:16:23.6952375+10:00 BATCH_TAKEN size=3 ids=73,77,80
+2026-04-25T21:16:23.7022387+10:00 PROCESSING id=73 url=https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy
+2026-04-25T21:16:25.7569427+10:00 ENRICHED id=73
+2026-04-25T21:16:25.7589492+10:00 PROCESSING id=77 url=https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy
+2026-04-25T21:16:25.7749567+10:00 FAILED id=77 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:16:25.7849568+10:00 PROCESSING id=80 url=https://www2.education.vic.gov.au/pal/workers-compensation/policy
+2026-04-25T21:16:27.6433985+10:00 ENRICHED id=80
+2026-04-25T21:16:27.6468640+10:00 BUILD_START
+2026-04-25T21:16:30.7266234+10:00 BUILD_OK
+2026-04-25T21:16:30.7606212+10:00 COMMIT_START ids=73,80
+2026-04-25T21:16:30.8618361+10:00 FATAL warning: in the working copy of '.work-queue/.lock', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:21:23.6337057+10:00 RUN_START
+2026-04-25T21:21:23.7155796+10:00 BATCH_TAKEN size=3 ids=77,85,86
+2026-04-25T21:21:23.7225824+10:00 PROCESSING id=77 url=https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy
+2026-04-25T21:21:23.7525822+10:00 FAILED id=77 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:21:23.7645818+10:00 PROCESSING id=85 url=https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/policy
+2026-04-25T21:21:25.6625488+10:00 ENRICHED id=85
+2026-04-25T21:21:25.6654655+10:00 PROCESSING id=86 url=https://www2.education.vic.gov.au/pal/excursions/policy
+2026-04-25T21:21:27.3691077+10:00 ENRICHED id=86
+2026-04-25T21:21:27.3721088+10:00 BUILD_START
+2026-04-25T21:21:30.4581953+10:00 BUILD_OK
+2026-04-25T21:21:30.4830043+10:00 COMMIT_START ids=85,86
+2026-04-25T21:21:30.5617190+10:00 FATAL warning: in the working copy of '.work-queue/.lock', CRLF will be replaced by LF the next time Git touches it
+2026-04-25T21:23:24.6407513+10:00 RUN_START
+2026-04-25T21:23:24.7186469+10:00 BATCH_TAKEN size=3 ids=77,91,3
+2026-04-25T21:23:24.7256471+10:00 PROCESSING id=77 url=https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy
+2026-04-25T21:23:24.7564299+10:00 FAILED id=77 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-25T21:23:24.7716706+10:00 PROCESSING id=91 url=https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy
+2026-04-25T21:23:26.6391260+10:00 ENRICHED id=91
+2026-04-25T21:23:26.6411273+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-25T21:26:23.5992913+10:00 PREVIOUS_RUNNING age=3m -- skipping
+2026-04-25T21:28:28.3183386+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy code=500 msg=远程服务器返回错误: (500) 内部服务器错误。
+2026-04-25T21:28:28.3213359+10:00 BUILD_START
+2026-04-25T21:28:31.4063149+10:00 BUILD_OK
+2026-04-25T21:28:31.4373601+10:00 COMMIT_START ids=91

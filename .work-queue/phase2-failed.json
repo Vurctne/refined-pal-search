@@ -1,3 +1,64 @@
-{
-  "items": []
+﻿{
+    "items":  [
+                  {
+                      "db_id":  17,
+                      "title":  "Recruitment in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/recruitment-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  8,
+                                            "resource_count":  12,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:00:42.6610409+10:00"
+                  },
+                  {
+                      "db_id":  37,
+                      "title":  "Finance Manual — Financial Management for Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  20,
+                                            "resource_count":  63,
+                                            "chapters_have_tails":  true
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  1,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:13:30.4829560+10:00"
+                  },
+                  {
+                      "db_id":  77,
+                      "title":  "Occupational Health, Safety and Wellbeing Management in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  6,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  true
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  1,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-25T21:28:31.4343533+10:00"
+                  }
+              ]
 }
