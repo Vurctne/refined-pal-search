@@ -1682,6 +1682,46 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T01:50:40.1829080+10:00"
+                  },
+                  {
+                      "db_id":  66,
+                      "title":  "Asthma",
+                      "url":  "https://www2.education.vic.gov.au/pal/asthma/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:52:40.2195348+10:00"
+                  },
+                  {
+                      "db_id":  69,
+                      "title":  "Mental Health in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  7,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:52:40.2225380+10:00"
                   }
               ]
 }

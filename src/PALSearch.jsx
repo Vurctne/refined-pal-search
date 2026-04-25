@@ -901,8 +901,11 @@ const PAL_POLICIES = [
       { title: 'Better Health Channel — Asthma action', note: '' },
       { title: 'Better Health Channel — Thunderstorm asthma', note: 'including multicultural resources' },
       { title: 'National Asthma Council Australia — inner-west schools training', note: 'optional free training for Maribyrnong, Hobson Bay, Brimbank' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/asthma/policy#rpl-main' }
+  ],
+},
   { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy',
   tabs: [ 'Skip to main content' ],
   chapters: [
@@ -931,8 +934,11 @@ const PAL_POLICIES = [
       { title: 'Mental health support fact sheets for families', note: '19 languages available — for holidays and identifying signs' },
       { title: 'Mental Health Practitioners (MHP) in Secondary Schools initiative', note: 'direct counselling + whole-school approaches' },
       { title: 'NIP it in the bud! early intervention framework', note: 'whole-school depression/anxiety/self-harm response' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, mental, health, schools', href: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy#rpl-main' }
+  ],
+},
   { id: 70, title: 'Mental Health Fund and Menu', category: 'Students', tags: ['mental health', 'fund', 'menu', 'tiers', 'schools mental health menu', 'schools mental health fund', 'school mental health planning tool', 'tier 1', 'tier 2', 'tier 3', 'royal commission', 'recommendation 17', 'credit and cash transfers'], summary: 'Schools Mental Health Fund ($217.8M over 4 years) and evidence-based Menu of programs across 3 tiers (universal / early intervention / targeted support). Only Menu items eligible for Fund use.', url: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy', guidance: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/guidance', resources: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/resources' },
     chapters: [
