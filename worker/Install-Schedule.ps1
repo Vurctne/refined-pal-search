@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Register the PAL-Search-Phase2-Worker scheduled task.
@@ -6,7 +6,7 @@
 .DESCRIPTION
   Creates a Windows Task Scheduler task that runs Run-Worker.ps1 every 5 minutes,
   starting now, repeating indefinitely. Runs as the current logged-in user only.
-  Idempotent — re-registering replaces the existing task.
+  Idempotent -- re-registering replaces the existing task.
 #>
 
 $ErrorActionPreference = 'Stop'
@@ -71,7 +71,7 @@ $task = New-ScheduledTask `
     -Trigger $trigger `
     -Settings $settings `
     -Principal $principal `
-    -Description 'PAL Quick Search — Phase 2 deep-index enrichment worker.'
+    -Description 'PAL Quick Search -- Phase 2 deep-index enrichment worker.'
 
 Register-ScheduledTask -TaskName $taskName -InputObject $task | Out-Null
 

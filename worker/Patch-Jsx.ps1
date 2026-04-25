@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Apply an enrichment patch to a single entry in src\PALSearch.jsx.
@@ -10,14 +10,14 @@
     - Adds a `tabs:` field if Patch.tabs is set and the entry doesn't already
       have one.
     - For each chapter in Patch.chapters, replaces the existing chapter title
-      string with `title — kw1, kw2, kw3` (em-dash join). If the entry has no
+      string with `title -- kw1, kw2, kw3` (em-dash join). If the entry has no
       chapters block and Patch.chapters has entries, inserts a new
       `chapters: [...]` field.
     - Adds a `resources:` field if Patch.resources is set and the entry doesn't
       already have one.
 
   Verifies the file integrity by counting `id: <EntryId>` occurrences before and
-  after — if the count changes (entry duplicated or merged) the change is
+  after -- if the count changes (entry duplicated or merged) the change is
   rolled back.
 
 .PARAMETER EntryId
@@ -76,7 +76,7 @@ if (-not $startMatch.Success) {
     throw "entry start not found: id=$EntryId"
 }
 $entryStart = $startMatch.Index   # position of opening '{'
-# Walk forward to find matching closing '}'. Naive brace counter — JSX entries
+# Walk forward to find matching closing '}'. Naive brace counter -- JSX entries
 # are JS object literals so braces inside strings/regex would break this. PAL
 # entries don't contain bare '{' inside string literals so it's safe enough,
 # but we still skip braces inside ' ... ' or " ... " or ` ... ` strings.
@@ -129,14 +129,15 @@ if ($null -ne $Patch -and $null -ne $Patch.tabs -and $Patch.tabs.Count -gt 0) {
     }
 }
 
-# 2. chapters — replace titles in-place with em-dash + tail.
+# 2. chapters -- replace titles in-place with em-dash + tail.
 if ($null -ne $Patch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -gt 0) {
+    $emDashChar = [char]0x2014  # em-dash literal for regex match against JSX
     foreach ($chap in $Patch.chapters) {
         if ([string]::IsNullOrWhiteSpace($chap.title)) { continue }
         if ([string]::IsNullOrWhiteSpace($chap.tail)) { continue }
         # Skip if title already has an em-dash tail.
         $titleEsc = [regex]::Escape($chap.title)
-        $alreadyHasTail = $newEntry -match "title:\s*['""`]$titleEsc\s+—"
+        $alreadyHasTail = $newEntry -match ("title:\s*['" + '"' + ']' + $titleEsc + '\s+' + $emDashChar)
         if ($alreadyHasTail) { continue }
         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
         $pattern = "title:\s*['""`]$titleEsc['""`]"
@@ -195,7 +196,7 @@ $newContent = $content.Substring(0, $entryStart) + $newEntry + $content.Substrin
 # --- Integrity check --------------------------------------------------------
 $afterCount = ([regex]::Matches($newContent, $idRegex)).Count
 if ($afterCount -ne $beforeCount) {
-    throw "integrity check failed for id=$EntryId — id count changed $beforeCount -> $afterCount; refusing to write."
+    throw "integrity check failed for id=${EntryId}: id count changed $beforeCount -> $afterCount; refusing to write."
 }
 
 Set-Content -Path $JsxFile -Value $newContent -Encoding UTF8 -NoNewline

@@ -1,7 +1,7 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
-  PAL Quick Search — Phase 2 worker entry point.
+  PAL Quick Search -- Phase 2 worker entry point.
 
 .DESCRIPTION
   Locks the queue, processes a small batch of pending entries, builds, commits,
@@ -57,7 +57,7 @@ function Ensure-Json($path, $defaultObj) {
 if (Test-Path $lockFile) {
     $age = (Get-Date) - (Get-Item $lockFile).LastWriteTime
     if ($age.TotalMinutes -lt $lockMaxAgeMinutes) {
-        Write-Log "PREVIOUS_RUNNING age=$([math]::Round($age.TotalMinutes,1))m — skipping"
+        Write-Log "PREVIOUS_RUNNING age=$([math]::Round($age.TotalMinutes,1))m -- skipping"
         exit 0
     }
     Write-Log "STALE_LOCK_REMOVED age=$([math]::Round($age.TotalMinutes,1))m"
@@ -74,7 +74,7 @@ try {
     Ensure-Json $failedFile ([pscustomobject]@{ items = @() })
 
     if (-not (Test-Path $pendingFile)) {
-        Write-Log "NO_PENDING_FILE — bailing"
+        Write-Log "NO_PENDING_FILE -- bailing"
         return
     }
 
@@ -86,7 +86,7 @@ try {
 
     # --- Self-disable when empty --------------------------------------------
     if ($pendingItems.Count -eq 0) {
-        Write-Log "QUEUE_EMPTY — disabling schedule"
+        Write-Log "QUEUE_EMPTY -- disabling schedule"
         try {
             & (Join-Path $PSScriptRoot 'Uninstall-Schedule.ps1')
         } catch {
@@ -107,7 +107,7 @@ try {
 
     foreach ($item in $batch) {
         if (((Get-Date) - $startTime).TotalMinutes -gt $batchTimeoutMinutes) {
-            Write-Log "TIMEOUT — stopping batch early"
+            Write-Log "TIMEOUT -- stopping batch early"
             break
         }
         Write-Log "PROCESSING id=$($item.db_id) url=$($item.url)"
@@ -149,11 +149,11 @@ try {
                 $buildOk = $true
                 Write-Log "BUILD_OK"
             } else {
-                Write-Log "BUILD_FAILED exit=$LASTEXITCODE — reverting JSX"
+                Write-Log "BUILD_FAILED exit=$LASTEXITCODE -- reverting JSX"
                 & git checkout HEAD -- $jsxFile 2>&1 | Out-Null
             }
         } catch {
-            Write-Log "BUILD_ERROR $($_.Exception.Message) — reverting JSX"
+            Write-Log "BUILD_ERROR $($_.Exception.Message) -- reverting JSX"
             try { & git checkout HEAD -- $jsxFile 2>&1 | Out-Null } catch {}
         }
 
@@ -174,8 +174,8 @@ try {
             $succeeded = @()
         }
     } else {
-        # Nothing enriched — no need to build.
-        Write-Log "NO_ENRICHMENTS — skipping build"
+        # Nothing enriched -- no need to build.
+        Write-Log "NO_ENRICHMENTS -- skipping build"
     }
 
     # --- Update queue files -------------------------------------------------
@@ -236,7 +236,7 @@ try {
         if ($LASTEXITCODE -eq 0) {
             Write-Log "COMMITTED ids=$idsCsv"
         } else {
-            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE (continuing — possibly nothing to commit)"
+            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE (continuing -- possibly nothing to commit)"
         }
 
         # Load .env.local into process env so wrangler/npm-deploy can authenticate.
@@ -258,7 +258,7 @@ try {
             if ($LASTEXITCODE -eq 0) {
                 Write-Log "DEPLOYED"
             } else {
-                Write-Log "DEPLOY_FAILED exit=$LASTEXITCODE — will retry next run"
+                Write-Log "DEPLOY_FAILED exit=$LASTEXITCODE -- will retry next run"
             }
         } catch {
             Write-Log "DEPLOY_ERROR $($_.Exception.Message)"
@@ -271,14 +271,14 @@ try {
         $doneCount = @((Get-Content $doneFile -Raw -Encoding UTF8 | ConvertFrom-Json).items).Count
     } catch {}
 
-    $buildLabel = if ($buildOk) { 'PASS' } elseif ($succeeded.Count -eq 0 -and $failedThisRun.Count -eq 0) { 'SKIPPED (no enrichments)' } else { 'FAIL — reverted' }
+    $buildLabel = if ($buildOk) { 'PASS' } elseif ($succeeded.Count -eq 0 -and $failedThisRun.Count -eq 0) { 'SKIPPED (no enrichments)' } else { 'FAIL -- reverted' }
 
     $statusBlock = @"
 
 ## Worker run: $((Get-Date).ToString('o'))
 - Batch size: $batchSize (took $($batch.Count))
-- Succeeded: $($succeeded.Count) — ids: $($succeededIds -join ', ')
-- Failed: $($failedThisRun.Count) — ids: $($failedIds -join ', ')
+- Succeeded: $($succeeded.Count) -- ids: $($succeededIds -join ', ')
+- Failed: $($failedThisRun.Count) -- ids: $($failedIds -join ', ')
 - Pending remaining: $($remainingPending.Count)
 - Done so far: $doneCount
 - Build: $buildLabel

@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Remove the PAL-Search-Phase2-Worker scheduled task. Idempotent.

@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Fetch a PAL policy URL and parse it into a patch object.
@@ -13,7 +13,7 @@
     {
       tabs       : @('Policy', 'Guidance', 'Resources', ...) | $null
       chapters   : @(
-          @{ title = 'Original chapter title'; tail = 'kw1, kw2, kw3'; full = 'Original — kw1, kw2, kw3' },
+          @{ title = 'Original chapter title'; tail = 'kw1, kw2, kw3'; full = 'Original -- kw1, kw2, kw3' },
           ...
       ) | $null
       resources  : @(
@@ -178,7 +178,7 @@ function Parse-Chapters([string]$html, [string]$pageUrl) {
         if (-not $abs) { continue }
         # Must be a child of the policy section, not the tab itself.
         if ($abs -notmatch [regex]::Escape("$base/")) { continue }
-        # Skip the four "tab" segments — those aren't chapters.
+        # Skip the four "tab" segments -- those aren't chapters.
         if ($abs -match "$([regex]::Escape($base))/(policy|guidance|resources|overview|policy-and-guidelines|templates)/?$") { continue }
         if ($seenHrefs.ContainsKey($abs)) { continue }
         $seenHrefs[$abs] = $true
@@ -263,7 +263,7 @@ if ($wantTails -or $wantFullChapters) {
         $enriched = New-Object System.Collections.Generic.List[object]
         foreach ($c in $chapters) {
             $tail = Get-ChapterTail $c.href
-            $full = if ($tail) { "$($c.title) — $tail" } else { $c.title }
+            $full = if ($tail) { "$($c.title) $([char]0x2014) $tail" } else { $c.title }
             [void]$enriched.Add([pscustomobject]@{
                 title = $c.title
                 tail  = $tail
