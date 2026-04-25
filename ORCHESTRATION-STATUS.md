@@ -54,3 +54,59 @@
 
 ## Last Update
 2026-04-25 (during Phase 2 setup)
+
+## Worker run: 2026-04-25T20:26:38.6836387+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 0 -- ids: 
+- Pending remaining: 112
+- Done so far: 0
+- Build: SKIPPED (no enrichments)
+
+## Worker run: 2026-04-25T20:36:29.9564068+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 0 -- ids: 
+- Pending remaining: 112
+- Done so far: 0
+- Build: SKIPPED (no enrichments)
+
+## Worker run: 2026-04-25T21:28:34.5749835+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 1 -- ids: 91
+- Failed: 1 -- ids: 77
+- Pending remaining: 96
+- Done so far: 13
+- Build: PASS
+
+## Worker run: 2026-04-25T21:36:31.0744785+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 0 -- ids: 
+- Pending remaining: 96
+- Done so far: 13
+- Build: SKIPPED (no enrichments)
+
+## Worker run: 2026-04-25T21:46:31.8530462+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 1 -- ids: 3
+- Pending remaining: 95
+- Done so far: 13
+- Build: FAIL -- reverted
+
+## Worker run: 2026-04-25T21:59:05.5212283+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 0 -- ids: 
+- Failed: 2 -- ids: 3.5, 4
+- Pending remaining: 93
+- Done so far: 13
+- Build: FAIL -- reverted
+
+## Worker run: 2026-04-25T22:31:34.2266408+10:00
+- Batch size: 3 (took 3)
+- Succeeded: 1 -- ids: 8
+- Failed: 0 -- ids: 
+- Pending remaining: 92
+- Done so far: 14
+- Build: PASS
