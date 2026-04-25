@@ -1,4 +1,4 @@
-﻿#Requires -Version 5.1
+#Requires -Version 5.1
 <#
 .SYNOPSIS
   Apply an enrichment patch to a single entry in src\PALSearch.jsx.
@@ -58,6 +58,21 @@ function Js-Escape([string]$s) {
     $t = $s -replace '\\', '\\'
     $t = $t -replace "'", "\'"
     return $t
+}
+
+# Insert a property block ("  chapters: [...]" / "  resources: [...]" / etc.)
+# immediately before the entry's closing `}`. Adds a leading `,` separator iff
+# the previous field doesn't already have a trailing comma -- otherwise we
+# would emit `,,` which is a JS object-literal syntax error. Always appends a
+# `,` after the block so subsequent insertions chain cleanly.
+function Insert-BlockBeforeClose([string]$entryText, [string]$blockBody) {
+    $hasTrailingComma = $entryText -match '(?s),\s*\}$'
+    if ($hasTrailingComma) {
+        $replacement = "`n" + $blockBody + ",`n}"
+    } else {
+        $replacement = ",`n" + $blockBody + ",`n}"
+    }
+    return [regex]::Replace($entryText, '\s*\}$', $replacement, 1)
 }
 
 $idPattern = Format-IdPattern $EntryId
@@ -120,12 +135,22 @@ $mutated = $false
 if ($null -ne $Patch -and $null -ne $Patch.tabs -and $Patch.tabs.Count -gt 0) {
     if ($newEntry -notmatch '(?ms)\btabs\s*:') {
         $tabItems = ($Patch.tabs | ForEach-Object { "'" + (Js-Escape $_) + "'" }) -join ', '
+        # Try the multi-line insertion first (after `id: <id>,\n`). This only
+        # matches entries whose first line is JUST `{ id: <id>,` -- rare in
+        # PALSearch.jsx where most entries start with `{ id: <id>, title: ...`.
         $insertion = "  tabs: [ $tabItems ],`n"
-        # Insert after the `id:` line (before subsequent fields).
-        $newEntry = [regex]::Replace($newEntry,
+        $candidate = [regex]::Replace($newEntry,
             "(\bid:\s*$idPattern\s*,\s*\r?\n)",
             "`$1$insertion", 1)
-        $mutated = $true
+        if ($candidate -ne $newEntry) {
+            $newEntry = $candidate
+            $mutated = $true
+        } else {
+            # Single-line / inline-id entry: insert before closing `}` instead
+            # of failing silently (was a bug in the previous version).
+            $newEntry = Insert-BlockBeforeClose $newEntry "  tabs: [ $tabItems ]"
+            $mutated = $true
+        }
     }
 }
 
@@ -140,7 +165,7 @@ if ($null -ne $Patch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -
         $alreadyHasTail = $newEntry -match ("title:\s*['" + '"' + ']' + $titleEsc + '\s+' + $emDashChar)
         if ($alreadyHasTail) { continue }
         $replacement = "title: '" + (Js-Escape $chap.full) + "'"
-        $pattern = "title:\s*['""`]$titleEsc['""`]"
+        $pattern = "title:\s*['""``]$titleEsc['""``]"
         if ($newEntry -match $pattern) {
             $newEntry = [regex]::Replace($newEntry, $pattern, $replacement, 1)
             $mutated = $true
@@ -158,9 +183,8 @@ if ($null -ne $Patch -and $null -ne $Patch.chapters -and $Patch.chapters.Count -
             [void]$chapItems.Add("    { title: $titleStr, href: $hrefStr }")
         }
         if ($chapItems.Count -gt 0) {
-            $block = "  chapters: [`n" + ($chapItems -join ",`n") + "`n  ],`n"
-            $newEntry = [regex]::Replace($newEntry,
-                '(\}\s*)$', "$block`$1", 1)
+            $blockBody = "  chapters: [`n" + ($chapItems -join ",`n") + "`n  ]"
+            $newEntry = Insert-BlockBeforeClose $newEntry $blockBody
             $mutated = $true
         }
     }
@@ -177,9 +201,8 @@ if ($null -ne $Patch -and $null -ne $Patch.resources -and $Patch.resources.Count
             [void]$resItems.Add("    { label: $labelStr, href: $hrefStr }")
         }
         if ($resItems.Count -gt 0) {
-            $block = "  resources: [`n" + ($resItems -join ",`n") + "`n  ],`n"
-            $newEntry = [regex]::Replace($newEntry,
-                '(\}\s*)$', "$block`$1", 1)
+            $blockBody = "  resources: [`n" + ($resItems -join ",`n") + "`n  ]"
+            $newEntry = Insert-BlockBeforeClose $newEntry $blockBody
             $mutated = $true
         }
     }
