@@ -258,6 +258,72 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T00:49:20.6679829+10:00"
+                  },
+                  {
+                      "db_id":  33,
+                      "title":  "Equal Opportunity — Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/equal-opportunity/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T00:53:37.2624895+10:00"
+                  },
+                  {
+                      "db_id":  34,
+                      "title":  "Inclusive Workplaces",
+                      "url":  "https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T00:55:21.0790420+10:00"
+                  },
+                  {
+                      "db_id":  35,
+                      "title":  "Respectful Workplaces",
+                      "url":  "https://www2.education.vic.gov.au/pal/respectful-workplaces/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T00:55:21.0800419+10:00"
                   }
               ]
 }

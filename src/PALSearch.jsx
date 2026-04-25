@@ -313,7 +313,15 @@ const PAL_POLICIES = [
   { id: 33, title: 'Equal Opportunity — Employees', category: 'HR - Conduct', tags: ['equal opportunity', 'discrimination', 'victimisation', 'vilification', 'protected attributes'], summary: 'Equal opportunity obligations, protected attributes and avoiding discrimination or victimisation.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity/policy' },
   { id: 34, title: 'Inclusive Workplaces', category: 'HR - Conduct', tags: ['inclusive', 'diversity', 'disability', 'accessibility', 'workforce diversity'], summary: 'Creating inclusive workplaces for employees with disabilities and from diverse backgrounds.', url: 'https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy' },
   { id: 35, title: 'Respectful Workplaces', category: 'HR - Conduct', tags: ['respectful', 'bullying', 'harassment', 'discrimination'], summary: 'Reporting bullying, harassment, discrimination or victimisation. Contact Conduct and Integrity Division 03 7034 6768.', url: 'https://www2.education.vic.gov.au/pal/respectful-workplaces/policy' },
-  { id: 36, title: 'Industrial Action — Teaching Service', category: 'HR - Conduct', tags: ['industrial action', 'strike', 'stopwork', 'protected action'], summary: 'Industrial action arrangements, stopwork action, and duty of care obligations during action.', url: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care' },
+  { id: 36, title: 'Industrial Action — Teaching Service', category: 'HR - Conduct', tags: ['industrial action', 'strike', 'stopwork', 'protected action'], summary: 'Industrial action arrangements, stopwork action, and duty of care obligations during action.', url: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care#rpl-main' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care#rpl-main' }
+  ],
+},
 
   // Finance (37-52, plus 41.5, 41.6, 41.7, 41.8)
   { id: 37, title: 'Finance Manual — Financial Management for Schools', category: 'Finance', tags: ['finance manual', 'fmvgs', 'cases21', 'school finance', 'accounting', 'reconciliation', 'budget', 'trading', 'gst', 'bank', 'business manager', 'business process guide', 'chart of accounts', 'petty cash', 'electronic funds', 'purchasing card', 'school purchasing card', 'spc', 'end of year', 'eoy', 'balance day adjustment', 'financial handover', 'insurance', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'section 21', 'sash', 'school administration support hub', 'mygovid', 'westpac'], summary: 'The comprehensive finance manual for Victorian Government Schools covering all aspects of financial management. 20 sections plus extensive downloadable templates. Section 21 covers insurance arrangements including travel insurance via VMIA.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/policy', popular: true,
