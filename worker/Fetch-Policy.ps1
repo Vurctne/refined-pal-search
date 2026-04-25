@@ -40,11 +40,24 @@ $ErrorActionPreference = 'Stop'
 $UserAgent = 'Mozilla/5.0 (PAL Quick Search worker)'
 $MaxFetches = 20
 $BetweenFetchesMs = 250
-$RetryDelaysSec = @(30, 90, 180)
+# Backoff schedules differ by failure class.
+# 429 = rate limit (be patient); 5xx / network = fail fast (likely persistent).
+$RateLimitBackoffSec  = @(30, 90, 180)
+$ServerErrorBackoffSec = @(5, 15)
+$NetworkBackoffSec     = @(5, 15)
 
+# Hard wall-clock cap for the whole script (across all fetches in one entry).
 $script:fetchCount = 0
+$script:scriptStartTime = Get-Date
+$TotalTimeoutSec = 120
 
 # ----- Helpers ---------------------------------------------------------------
+function Test-TotalTimeout {
+    if (((Get-Date) - $script:scriptStartTime).TotalSeconds -gt $TotalTimeoutSec) {
+        throw "fetch_failed total_timeout (>${TotalTimeoutSec}s)"
+    }
+}
+
 function Invoke-Fetch([string]$u) {
     if ($script:fetchCount -ge $MaxFetches) {
         throw "fetch_cap_exceeded ($script:fetchCount)"
@@ -53,6 +66,7 @@ function Invoke-Fetch([string]$u) {
 
     $attempt = 0
     while ($true) {
+        Test-TotalTimeout
         try {
             $resp = Invoke-WebRequest -Uri $u -UserAgent $UserAgent `
                 -UseBasicParsing -TimeoutSec 30
@@ -62,13 +76,50 @@ function Invoke-Fetch([string]$u) {
             if ($_.Exception.Response) {
                 try { $code = [int]$_.Exception.Response.StatusCode } catch {}
             }
-            $isRetryable = ($code -eq 429) -or ($code -ge 500 -and $code -lt 600) -or `
-                           ($null -eq $code)
-            if (-not $isRetryable -or $attempt -ge $RetryDelaysSec.Count) {
+
+            # 4xx (excluding 429) -- no retry, fail immediately.
+            if ($null -ne $code -and $code -ge 400 -and $code -lt 500 -and $code -ne 429) {
                 throw "fetch_failed url=$u code=$code msg=$($_.Exception.Message)"
             }
-            Start-Sleep -Seconds $RetryDelaysSec[$attempt]
-            $attempt++
+
+            # 429 -- rate limit, long backoff (PAL deserves patience here).
+            if ($code -eq 429) {
+                if ($attempt -ge $RateLimitBackoffSec.Count) {
+                    throw "fetch_failed url=$u code=429 msg=rate-limit retries exhausted"
+                }
+                $wait = $RateLimitBackoffSec[$attempt]
+                $attempt++
+                Test-TotalTimeout
+                Start-Sleep -Seconds $wait
+                continue
+            }
+
+            # 5xx -- server error, fail fast (most PAL 5xx = page gone).
+            if ($null -ne $code -and $code -ge 500 -and $code -lt 600) {
+                if ($attempt -ge $ServerErrorBackoffSec.Count) {
+                    throw "fetch_failed url=$u code=$code msg=5xx persistent ($($_.Exception.Message))"
+                }
+                $wait = $ServerErrorBackoffSec[$attempt]
+                $attempt++
+                Test-TotalTimeout
+                Start-Sleep -Seconds $wait
+                continue
+            }
+
+            # Network / DNS / timeout (no HTTP status) -- fail fast.
+            if ($null -eq $code) {
+                if ($attempt -ge $NetworkBackoffSec.Count) {
+                    throw "fetch_failed url=$u network_error msg=$($_.Exception.Message)"
+                }
+                $wait = $NetworkBackoffSec[$attempt]
+                $attempt++
+                Test-TotalTimeout
+                Start-Sleep -Seconds $wait
+                continue
+            }
+
+            # Anything else -- no retry.
+            throw "fetch_failed url=$u code=$code msg=$($_.Exception.Message)"
         }
     }
 }
