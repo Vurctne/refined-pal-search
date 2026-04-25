@@ -1482,6 +1482,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T01:26:39.9770030+10:00"
+                  },
+                  {
+                      "db_id":  25,
+                      "title":  "Performance and Development for Principal Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T01:28:38.7797900+10:00"
                   }
               ]
 }

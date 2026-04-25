@@ -262,8 +262,11 @@ const PAL_POLICIES = [
       { title: 'Goal setting guides and sample goals for principals', note: '' },
       { title: 'Performance and development supports for principal class employees', note: '' },
       { title: 'Contact: school.leadership@education.vic.gov.au', note: '' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach#rpl-main' }
+  ],
+},
   { id: 26, title: 'Performance and Development for Education Support Class Employees', category: 'HR - Performance', tags: ['pdp', 'performance', 'education support', 'esc', 'soe', 'business manager', 'business manager capability framework', 'koorie engagement support officer', 'kesso'], summary: '2026 allows choice between Statement of Expectation (SoE) and PDP. Business Manager Capability Framework applies. KESSO (Koorie Engagement Support Officers) have specific arrangements.', url: 'https://www2.education.vic.gov.au/pal/performance-development-education-support/overview',
     resources: [
       { title: 'Performance and Development Guidelines for Education Support Class Employees', note: 'includes KESSO arrangements' },

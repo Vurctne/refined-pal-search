@@ -670,3 +670,18 @@
 2026-04-26T01:26:36.8659276+10:00 BUILD_START
 2026-04-26T01:26:39.9589973+10:00 BUILD_OK
 2026-04-26T01:26:39.9809999+10:00 COMMIT_START ids=1,6
+2026-04-26T01:26:40.1998943+10:00 COMMITTED ids=1,6
+2026-04-26T01:26:40.2081137+10:00 DEPLOY_START
+2026-04-26T01:26:52.5849856+10:00 DEPLOYED
+2026-04-26T01:26:52.5931419+10:00 RUN_END succeeded=2 failed=0 remaining=26
+2026-04-26T01:28:33.4425138+10:00 RUN_START
+2026-04-26T01:28:33.5110280+10:00 BATCH_TAKEN size=3 ids=2,24,25
+2026-04-26T01:28:33.5190259+10:00 PROCESSING id=2 url=https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines
+2026-04-26T01:28:33.5483501+10:00 FAILED id=2 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T01:28:33.5620195+10:00 PROCESSING id=24 url=https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees/overview
+2026-04-26T01:28:33.5720211+10:00 FAILED id=24 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T01:28:33.5740194+10:00 PROCESSING id=25 url=https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach
+2026-04-26T01:28:35.6082160+10:00 ENRICHED id=25
+2026-04-26T01:28:35.6102157+10:00 BUILD_START
+2026-04-26T01:28:38.7472813+10:00 BUILD_OK
+2026-04-26T01:28:38.7867929+10:00 COMMIT_START ids=25
