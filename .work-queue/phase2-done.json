@@ -1353,6 +1353,72 @@
                       "attempts":  1,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:20:29.1500433+10:00"
+                  },
+                  {
+                      "db_id":  96,
+                      "title":  "Curriculum Programs Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/curriculum-programs/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:22:11.2415456+10:00"
+                  },
+                  {
+                      "db_id":  97,
+                      "title":  "Assessment of Student Achievement and Progress Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:22:11.2455455+10:00"
+                  },
+                  {
+                      "db_id":  98,
+                      "title":  "Reporting Student Achievement and Progress Foundation to 10",
+                      "url":  "https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:22:11.2455455+10:00"
                   }
               ]
 }

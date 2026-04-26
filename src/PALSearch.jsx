@@ -1298,9 +1298,33 @@ const PAL_POLICIES = [
 },
 
   // Curriculum
-  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy' },
-  { id: 97, title: 'Assessment of Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['assessment', 'student achievement', 'f-10', 'fiso'], summary: 'Assessment of student achievement aligned to FISO 2.0.', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy' },
-  { id: 98, title: 'Reporting Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['reporting', 'student reports', '5-point scale', 'vcaa', 'semester'], summary: 'Reporting using a 5-point scale against VCAA achievement standards.', url: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy' },
+  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Developing and implementing curriculum programs Foundation to 10 Victorian Lesson Plans', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/guidance/developing-and-implementing-curriculum-programs-f-10 https://www2.education.vic.gov.au/pal/curriculum-programs/guidance/victorian-lesson-plans' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy#rpl-main' }
+  ],
+},
+  { id: 97, title: 'Assessment of Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['assessment', 'student achievement', 'f-10', 'fiso'], summary: 'Assessment of student achievement aligned to FISO 2.0.', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Overview Requirements Minimum standards for school registration Other departmental requirements C hanges to mandatory assessment requirements from 2026 Framework for Improving Student Outcomes (FISO 2.0)', href: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy#rpl-main' }
+  ],
+},
+  { id: 98, title: 'Reporting Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['reporting', 'student reports', '5-point scale', 'vcaa', 'semester'], summary: 'Reporting using a 5-point scale against VCAA achievement standards.', url: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Reporting to parents and carers – general information Reporting to parents and carers – students with disability and/or additional needs Reporting to parents and carers – EAL proficiency and progress Guidance for reporting at each learning stage Reporting to the department Records management Student reports and parent/carer-teacher-student conferences Making teacher judgements and assigning scores for student reporting Involving students in assessment and reporting processes Student portfolio and reporting Developing and reporting on individual learning goals Student reporting professional learning program', href: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/reporting-parents-and-carers-general-information https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/reporting-achievement-parents-students-disability-additional-needs https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/reporting-parents-and-carers-eal-students https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/guidance-reporting-each-learning-stage https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/reporting-department https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/records-management https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/student-reports-and-parent/carer-teacher-student https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/making-teacher-judgements-and-assigning-scores-student https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/involving-students-assessment-and-reporting-processes https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/student-portfolio-and-reporting https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/developing-and-reporting-individual-learning-goals https://www2.education.vic.gov.au/pal/reporting-student-achievement/guidance/student-reporting-professional-learning-program' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy#rpl-main' }
+  ],
+},
   { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy' },
   { id: 100, title: 'Work Experience', category: 'Curriculum', tags: ['work experience', 'workplace', 'students'], summary: 'Student work experience arrangements, approvals and workplace safety.', url: 'https://www2.education.vic.gov.au/pal/work-experience/policy' },
   { id: 101, title: 'Structured Workplace Learning', category: 'Curriculum', tags: ['swl', 'structured workplace learning', 'workplace'], summary: 'Structured workplace learning arrangements for VET and VM students.', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy' }
