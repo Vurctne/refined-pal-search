@@ -1984,6 +1984,43 @@ const PAL_POLICIES = [
       { title: 'Public transport accessibility measures', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/public-transport-accessibility-measures' }
     ]
   }
+,
+  { id: 107.2, title: 'Insurance for Schools', category: 'Finance', tags: ['insurance', 'schools', 'important', 'government', 'school', 'sets', 'purpose', 'operations', 'managed', 'guidance'], summary: 'The purpose of this policy is to ensure all government schools have: It is important that principals and business managers are able to identify which risks to school finances or operations are covered by the department\'s insurance and which are not. The guidance sets out the insurance policies managed by the department and how they are applied to schools.', url: 'https://www2.education.vic.gov.au/pal/insurance/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/insurance/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/insurance/policy', resources: 'https://www2.education.vic.gov.au/pal/insurance/resources' },
+    chapters: [
+      { title: '1. Introduction', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/1-introduction' },
+      { title: '2. Insurance policies', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/2-insurance-policies' },
+      { title: '3. Certificates of currency', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/3-certificates-currency' },
+      { title: '4. Claims procedures', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/4-claims-procedures' },
+      { title: '5. School council expenses not covered by the department', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/school-council-expenses-not-covered-det' },
+      { title: '6. Definitions', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/definitions' }
+    ]
+  }
+,
+  { id: 107.3, title: 'Private Vehicle Use', category: 'Finance', tags: ['private', 'vehicle', 'staff', 'schools', 'transport', 'ensure', 'direct', 'safety', 'purpose', 'legal'], summary: 'The purpose of this policy is to ensure schools meet safety and legal requirements when using private vehicles for official business. Schools must not direct staff members to transport other staff, students or equipment.', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy', resources: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Approval, safety and legal requirements', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Steps', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Further requirements if transporting students', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Related topics', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' }
+    ]
+  }
+,
+  { id: 107.4, title: 'Procuring Low-value Construction Works or Services', category: 'Finance', tags: ['procuring', 'low-value', 'construction', 'works', 'services', 'policy', 'valued', 'procure', 'instructions', 'contracts'], summary: 'This policy sets out actions that schools must take to procure construction works or services valued between $5,000 and $150,000 (including GST). for instructions on how to procure construction contracts valued between $5,000 and $150,000 (including GST) in compliance with this policy.', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy', resources: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Compliance and monitoring', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Instructions for both single and multi-quote procurements', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

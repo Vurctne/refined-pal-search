@@ -155,6 +155,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:18:13.4999963+10:00"
+                  },
+                  {
+                      "new_id":  107.2,
+                      "pal_title":  "Insurance for Schools",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/insurance",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:20:00.4961792+10:00"
+                  },
+                  {
+                      "new_id":  107.3,
+                      "pal_title":  "Private Vehicle Use",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/private-vehicle-use",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:20:00.4991795+10:00"
+                  },
+                  {
+                      "new_id":  107.4,
+                      "pal_title":  "Procuring Low-value Construction Works or Services",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/procuring-low-value-construction",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:20:00.5001796+10:00"
                   }
               ]
 }
