@@ -1545,6 +1545,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:30:17.3447940+10:00"
+                  },
+                  {
+                      "db_id":  26,
+                      "title":  "Performance and Development for Education Support Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-development-education-support/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_tabs"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:31:52.1510413+10:00"
                   }
               ]
 }

@@ -345,6 +345,46 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T14:20:29.1600854+10:00"
+                  },
+                  {
+                      "db_id":  2,
+                      "title":  "Remuneration — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  8,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T14:31:52.1646129+10:00"
+                  },
+                  {
+                      "db_id":  24,
+                      "title":  "Performance and Development for Teacher Class Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  10,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T14:31:52.1656162+10:00"
                   }
               ]
 }

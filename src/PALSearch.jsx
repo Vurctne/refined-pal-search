@@ -288,8 +288,9 @@ const PAL_POLICIES = [
       { title: 'Performance and development supports for education support class employees', note: '' },
       { title: 'Performance and development supports for Koorie engagement support officers', note: '' },
       { title: 'Contact: school.leadership@education.vic.gov.au', note: '' }
-    ]
-  },
+    ],
+  tabs: [ 'Skip to main content' ],
+},
 
   // HR - Conduct
   { id: 27, title: 'Managing Conduct and Unsatisfactory Performance in the Teaching Service', category: 'HR - Conduct', tags: ['conduct', 'misconduct', 'unsatisfactory performance', 'discipline', 'etra', 'local resolution', 'conduct and integrity division', 'reportable conduct', 'employee conduct branch', 'sexual assault', 'criminal offences', 'disciplinary appeals board', 'merit protection board', 'support period', 'secretary delegate'], summary: 'Managing conduct or performance concerns through local resolution, misconduct under ETRA Division 10 of Part 2.4, and unsatisfactory performance. Reportable conduct and sexual assault/criminal allegations must go to Employee Conduct Branch/Victoria Police.', url: 'https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview', popular: true,
