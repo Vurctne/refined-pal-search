@@ -399,3 +399,18 @@
 2026-04-26T14:02:13.8502533+10:00 BUILD_START
 2026-04-26T14:02:17.0310616+10:00 BUILD_OK
 2026-04-26T14:02:17.0562427+10:00 COMMIT_START ids=49,50
+2026-04-26T14:02:17.4155160+10:00 COMMITTED ids=49,50
+2026-04-26T14:02:17.4248148+10:00 DEPLOY_START
+2026-04-26T14:02:31.0331400+10:00 DEPLOYED
+2026-04-26T14:02:31.0425882+10:00 RUN_END succeeded=2 failed=0 remaining=57
+2026-04-26T14:03:47.1735075+10:00 RUN_START
+2026-04-26T14:03:47.2506834+10:00 BATCH_TAKEN size=3 ids=46,51,54
+2026-04-26T14:03:47.2591632+10:00 PROCESSING id=46 url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview
+2026-04-26T14:04:08.6982149+10:00 FAILED id=46 error=fetch_failed url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T14:04:08.7112192+10:00 PROCESSING id=51 url=https://www2.education.vic.gov.au/pal/parent-clubs/policy
+2026-04-26T14:04:16.3260848+10:00 ENRICHED id=51
+2026-04-26T14:04:16.3290828+10:00 PROCESSING id=54 url=https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy
+2026-04-26T14:04:18.4247903+10:00 ENRICHED id=54
+2026-04-26T14:04:18.4268054+10:00 BUILD_START
+2026-04-26T14:04:21.7389495+10:00 BUILD_OK
+2026-04-26T14:04:21.7746367+10:00 COMMIT_START ids=51,54

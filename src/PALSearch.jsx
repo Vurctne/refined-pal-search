@@ -585,7 +585,15 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sponsorship/policy#rpl-main' }
   ],
 },
-  { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy' },
+  { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Forming a parents’ club Parents\' club constitution and operational requirements Membership Financial management requirements Insurance Dissolution of a parents\' club Resolving conflict', href: 'https://www2.education.vic.gov.au/pal/parent-clubs/guidance/forming-parents-club https://www2.education.vic.gov.au/pal/parent-clubs/guidance/parents-club-constitution-and-operational-requirements https://www2.education.vic.gov.au/pal/parent-clubs/guidance/membership https://www2.education.vic.gov.au/pal/parent-clubs/guidance/financial-management-requirements https://www2.education.vic.gov.au/pal/parent-clubs/guidance/insurance https://www2.education.vic.gov.au/pal/parent-clubs/guidance/dissolution-parents-club https://www2.education.vic.gov.au/pal/parent-clubs/guidance/resolving-conflict' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy#rpl-main' }
+  ],
+},
   { id: 52, title: 'Calculators and Ready Reckoners', category: 'Finance', tags: ['calculator', 'ready reckoner', 'salary calculator', 'dual roles', 'time in lieu'], summary: 'HR administration tools including commencement salary calculator, fixed term vacancy ready reckoner, dual role allowance calculator.', url: 'https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources',
     resources: [
       { title: 'Commencement Salary Calculator (Classroom Teachers)', note: '' },
@@ -595,7 +603,15 @@ const PAL_POLICIES = [
     ]
   },
   // School Council
-  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true },
+  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true,
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details School council functions, powers and objectives Functions of school council Powers of school council Objectives of school council Delegation of school council powers, duties and functions Confidentiality Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy#rpl-main' }
+  ],
+},
   { id: 54.5, title: 'School Council — Meetings', category: 'School Council', tags: ['school council', 'meetings', 'agenda', 'minutes', 'templates', 'chair', 'president', 'extraordinary meeting', 'public meeting'], summary: '8 sample agenda and minutes templates (one per regular meeting). Meetings chaired by president. Records must be kept: agendas, reports, minutes, correspondence.', url: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', guidance: 'https://www2.education.vic.gov.au/pal/school-council-meetings/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-meetings/resources' },
     chapters: [
