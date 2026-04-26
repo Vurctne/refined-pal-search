@@ -1199,6 +1199,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:12:17.9662040+10:00"
+                  },
+                  {
+                      "db_id":  87,
+                      "title":  "Outside School Hours Care (OSHC)",
+                      "url":  "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:14:09.9397474+10:00"
+                  },
+                  {
+                      "db_id":  88,
+                      "title":  "Mobile Phones — Student Use",
+                      "url":  "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:14:09.9432968+10:00"
+                  },
+                  {
+                      "db_id":  89,
+                      "title":  "Buildings and Grounds Maintenance and Compliance",
+                      "url":  "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:14:09.9442922+10:00"
                   }
               ]
 }

@@ -1202,11 +1202,35 @@ const PAL_POLICIES = [
       { title: 'School Staff Travel Application', note: 'staff login required — for overseas school travel + post-travel report' }
     ]
   },
-  { id: 87, title: 'Outside School Hours Care (OSHC)', category: 'School Operations', tags: ['oshc', 'before school', 'after school', 'vacation care', 'nqf', 'acecqa'], summary: 'NQF applies. School council responsible for decision-making and operation.', url: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy' },
-  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy' },
+  { id: 87, title: 'Outside School Hours Care (OSHC)', category: 'School Operations', tags: ['oshc', 'before school', 'after school', 'vacation care', 'nqf', 'acecqa'], summary: 'NQF applies. School council responsible for decision-making and operation.', url: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'About outside school hours care Decide if you need a service Small and regional OSHC grants Plan to start a service – school council managed service Plan to start and monitor a third party-managed service Legal requirements Run a service operated by your school Change the provider or operating model of your service', href: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/about-outside-hours https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/decide-if-you-need https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/small-regional-oshc-grants https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/plan-start-service https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/plan-start-service-0 https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/legal-requirements https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/run-service https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/change-operating' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy#rpl-main' }
+  ],
+},
+  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Exceptions Exclusions Secure storage Enforcement Review Technology use at home Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy#rpl-main' }
+  ],
+},
 
   // Infrastructure
-  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy' },
+  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Make-safe Guidelines Area-wide power outage following a major weather event Emergency Maintenance Program Guidelines Safe Tree Program Guidelines Essential Safety Measures Roof Inspection, Downpipes and Guttering, and Height Safety Systems Guidelines', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/make-safe-guidelines https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/area-wide-power-outage-following-a-major-weather-event https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/emergency-maintenance-program-guidelines https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/safe-tree-program https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/essential-safety-measures https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/roof-inspection-downpipes-and-guttering-and-height-safety-systems-guidelines' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy#rpl-main' }
+  ],
+},
   { id: 90, title: 'School Maintenance Plans and Rolling Facilities Evaluations', category: 'Infrastructure', tags: ['smp', 'rfe', 'maintenance plan', 'aims', 'facilities'], summary: 'SMP managed in AIMS. Onsite RFE every 5 years.', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy' },
   // IT & Privacy
   { id: 91, title: 'Privacy and Information Sharing', category: 'IT & Privacy', tags: ['privacy', 'pia', 'privacy impact assessment', 'information sharing', 'data', 'privacy matrix', 'health information', 'biometric', 'schools privacy policy', 'ovic', 'privacy complaint', 'privacy incident', 'consent', 'collection notice', 'photographs filming'], summary: 'PIAs required for software handling personal/sensitive/health info. Contact privacy@education.vic.gov.au. Regulated by the Privacy and Data Protection Act 2014 (Vic).', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy',
