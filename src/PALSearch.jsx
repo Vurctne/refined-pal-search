@@ -876,8 +876,11 @@ const PAL_POLICIES = [
       { title: 'ASCIA (Australasian Society of Clinical Immunology and Allergy)', note: 'Anaphylaxis e-training, guidelines, risk minimisation strategies for schools' },
       { title: 'Royal Children Hospital: Department of Allergy and Immunology', note: 'fact sheets on specific allergies' },
       { title: 'RCH Anaphylaxis Support Advisory Line: 1300 725 911 or 03 9345 4235', note: 'Mon-Fri 8:30am-5:00pm — all allergy and anaphylaxis management enquiries' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details ASCIA Action Plan for Allergic Reactions (Green Plan) – Overview Strategies for schools in managing students with a Green Plan Responding to severe allergic reactions Strategies Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy https://www2.education.vic.gov.au/pal/allergies/policy' }
+  ],
+},
   { id: 66, title: 'Asthma', category: 'Students', tags: ['asthma', 'reliever', 'inhaler', 'asthma action plan', 'student health support plan', 'thunderstorm asthma', 'asthma kit', 'asthma australia', 'spacer'], summary: 'Students bring own reliever medication stored in asthma kit with action plan and spacer. Schools must have Asthma Action Plan for all students diagnosed with asthma. Annual review required.', url: 'https://www2.education.vic.gov.au/pal/asthma/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/asthma/policy', resources: 'https://www2.education.vic.gov.au/pal/asthma/resources' },
     resources: [
@@ -889,8 +892,11 @@ const PAL_POLICIES = [
       { title: 'Better Health Channel — Asthma action', note: '' },
       { title: 'Better Health Channel — Thunderstorm asthma', note: 'including multicultural resources' },
       { title: 'National Asthma Council Australia — inner-west schools training', note: 'optional free training for Maribyrnong, Hobson Bay, Brimbank' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Treating an asthma attack Puffer cleaning guide — after every use Asthma – key information', href: 'https://www2.education.vic.gov.au/pal/asthma/guidance/treating-asthma-attack https://www2.education.vic.gov.au/pal/asthma/guidance/puffer-cleaning-guide-after-every-use https://www2.education.vic.gov.au/pal/asthma/guidance/asthma-key-information' }
+  ],
+},
   { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy',
   tabs: [ 'Skip to main content' ],
   chapters: [
