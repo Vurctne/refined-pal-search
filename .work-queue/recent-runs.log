@@ -114,3 +114,28 @@
 2026-04-26T13:20:21.0453326+10:00 BUILD_START
 2026-04-26T13:20:24.1830568+10:00 BUILD_OK
 2026-04-26T13:20:24.2100658+10:00 COMMIT_START ids=86,91
+2026-04-26T13:20:24.5025012+10:00 COMMITTED ids=86,91
+2026-04-26T13:20:24.5120023+10:00 DEPLOY_START
+2026-04-26T13:20:37.2045951+10:00 DEPLOYED
+2026-04-26T13:20:37.2136135+10:00 RUN_END succeeded=2 failed=0 remaining=97
+2026-04-26T13:21:47.0002714+10:00 RUN_START
+2026-04-26T13:21:47.0704015+10:00 BATCH_TAKEN size=3 ids=77,3,3.5
+2026-04-26T13:21:47.0774014+10:00 PROCESSING id=77 url=https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy
+2026-04-26T13:21:47.1067467+10:00 FAILED id=77 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T13:21:47.1207485+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-26T13:22:07.2134933+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy network_error msg=未能解析此远程名称: 'www2.education.vic.gov.au'
+2026-04-26T13:22:07.2168240+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-26T13:22:27.2687658+10:00 FAILED id=3.5 error=fetch_failed url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines network_error msg=未能解析此远程名称: 'www2.education.vic.gov.au'
+2026-04-26T13:22:27.2707661+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T13:22:27.3300376+10:00 RUN_END succeeded=0 failed=1 remaining=96
+2026-04-26T13:23:47.0159966+10:00 RUN_START
+2026-04-26T13:23:47.0890432+10:00 BATCH_TAKEN size=3 ids=3,3.5,4
+2026-04-26T13:23:47.0965032+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-26T13:24:08.3249505+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:24:08.3370696+10:00 PROCESSING id=3.5 url=https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines
+2026-04-26T13:24:10.3458409+10:00 ENRICHED id=3.5
+2026-04-26T13:24:10.3488446+10:00 PROCESSING id=4 url=https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview
+2026-04-26T13:24:12.1472905+10:00 ENRICHED id=4
+2026-04-26T13:24:12.1492900+10:00 BUILD_START
+2026-04-26T13:24:15.3763520+10:00 BUILD_OK
+2026-04-26T13:24:15.3973510+10:00 COMMIT_START ids=3.5,4

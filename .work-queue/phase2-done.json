@@ -261,6 +261,49 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:20:24.2080673+10:00"
+                  },
+                  {
+                      "db_id":  3.5,
+                      "title":  "Higher Duties — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  1,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:24:15.3913569+10:00"
+                  },
+                  {
+                      "db_id":  4,
+                      "title":  "Salary Packaging — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:24:15.3943539+10:00"
                   }
               ]
 }

@@ -31,8 +31,21 @@ const PAL_POLICIES = [
     ]
   },
   { id: 3, title: 'Special Payments — Teaching Service', category: 'HR - Pay', tags: ['special payments', 'attraction', 'retention', 'task payment', '925', '10000'], summary: 'Special payments for teacher, paraprofessional or ES class employees for additional tasks or attraction/retention. Range $925 to $10,000 per annum.', url: 'https://www2.education.vic.gov.au/pal/special-payments/policy' },
-  { id: 3.5, title: 'Higher Duties — Teaching Service', category: 'HR - Pay', tags: ['higher duties', 'hda', 'acting', 'assigned position'], summary: 'Higher duties allowance when assigned to a higher-remuneration position and performing at least half its duties. Typically for vacancies of 5+ consecutive working days.', url: 'https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines' },
-  { id: 4, title: 'Salary Packaging — Teaching Service', category: 'HR - Pay', tags: ['packaging', 'novated lease', 'superannuation', 'salary sacrifice', 'maxxia'], summary: 'Salary packaging arrangements for teaching service employees. Administered by Maxxia Pty Ltd since 1 November 2022.', url: 'https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview' },
+  { id: 3.5, title: 'Higher Duties — Teaching Service', category: 'HR - Pay', tags: ['higher duties', 'hda', 'acting', 'assigned position'], summary: 'Higher duties allowance when assigned to a higher-remuneration position and performing at least half its duties. Typically for vacancies of 5+ consecutive working days.', url: 'https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Selection Payment Payment during periods of leave', href: 'https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/higher-duties-teaching-service/policy-and-guidelines#rpl-main' }
+  ],
+},
+  { id: 4, title: 'Salary Packaging — Teaching Service', category: 'HR - Pay', tags: ['packaging', 'novated lease', 'superannuation', 'salary sacrifice', 'maxxia'], summary: 'Salary packaging arrangements for teaching service employees. Administered by Maxxia Pty Ltd since 1 November 2022.', url: 'https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/salary-packaging-teaching-service/overview#rpl-main' }
+  ],
+},
   { id: 5, title: 'Overpayments', category: 'HR - Pay', tags: ['overpayment', 'recovery', 'debt'], summary: 'Managing and recovering overpayments to employees.', url: 'https://www2.education.vic.gov.au/pal/overpayments/policy' },
   // HR - Leave
   { id: 6, title: 'Personal Leave — Teaching Service', category: 'HR - Leave', tags: ['sick leave', 'carers leave', 'personal leave', 'illness', '114 hours', 'medical certificate', 'family violence', 'compassionate leave', 'bereavement', '2 days'], summary: 'Personal leave for illness, caring, family violence support, and compassionate/bereavement leave (2 days under NES). Accrues at 114 hours per completed year of service.', url: 'https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance', popular: true,
