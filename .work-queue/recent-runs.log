@@ -229,3 +229,18 @@
 2026-04-26T13:36:22.5435861+10:00 BUILD_START
 2026-04-26T13:36:25.5452799+10:00 BUILD_OK
 2026-04-26T13:36:25.5677745+10:00 COMMIT_START ids=19,20
+2026-04-26T13:36:25.8033371+10:00 COMMITTED ids=19,20
+2026-04-26T13:36:25.8123073+10:00 DEPLOY_START
+2026-04-26T13:36:40.0888804+10:00 DEPLOYED
+2026-04-26T13:36:40.0958851+10:00 RUN_END succeeded=2 failed=0 remaining=81
+2026-04-26T13:37:47.0547315+10:00 RUN_START
+2026-04-26T13:37:47.1260024+10:00 BATCH_TAKEN size=3 ids=21,22,23
+2026-04-26T13:37:47.1340801+10:00 PROCESSING id=21 url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy
+2026-04-26T13:38:08.4322129+10:00 FAILED id=21 error=fetch_failed url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:38:08.4434139+10:00 PROCESSING id=22 url=https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements
+2026-04-26T13:38:22.5877559+10:00 ENRICHED id=22
+2026-04-26T13:38:22.5907627+10:00 PROCESSING id=23 url=https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy
+2026-04-26T13:38:43.8348685+10:00 FAILED id=23 error=fetch_failed url=https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:38:43.8378680+10:00 BUILD_START
+2026-04-26T13:38:46.9757905+10:00 BUILD_OK
+2026-04-26T13:38:46.9962434+10:00 COMMIT_START ids=22

@@ -519,6 +519,28 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:36:25.5647743+10:00"
+                  },
+                  {
+                      "db_id":  22,
+                      "title":  "Flexible Work",
+                      "url":  "https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:38:46.9912333+10:00"
                   }
               ]
 }
