@@ -180,8 +180,21 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview#rpl-main' }
   ],
 },
-  { id: 19, title: 'Workforce Planning for Schools', category: 'HR - Recruitment', tags: ['workforce planning', 'staffing', 'planning framework'], summary: 'Framework, phases and tools to support schools with workforce planning.', url: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview' },
-  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines' },
+  { id: 19, title: 'Workforce Planning for Schools', category: 'HR - Recruitment', tags: ['workforce planning', 'staffing', 'planning framework'], summary: 'Framework, phases and tools to support schools with workforce planning.', url: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview#rpl-main' }
+  ],
+},
+  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Permanent transfer or promotion - Teaching Service Temporary transfer Transfer or promotion to the public service Suitability for transfer or promotion Suitability for child connected work Documentation for transfer or promotion Administrative transfer of an ongoing employee', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/permanent-transfer-or-promotion-teaching-service https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/temporary-transfer https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/transfer-or-promotion-to-the-public-service https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/suitability-for-transfer-or-promotion https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/suitability-for-child-connected-work https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/documentation-for-transfer-or-promotion https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines/administrative-transfer-of-an-ongoing-employee' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines#rpl-main' }
+  ],
+},
   { id: 21, title: 'Suitability for Child Connected Work', category: 'HR - Recruitment', tags: ['wwcc', 'working with children', 'child connected', 'screening', 'ministerial order 1359'], summary: 'Ministerial Order 1359 Clause 10.2(d)(ii). Suitability check required for preferred candidate before offer.', url: 'https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy', popular: true },
   { id: 22, title: 'Flexible Work', category: 'HR - Recruitment', tags: ['flexible work', 'part-time', 'job share', 'remote', 'fwct', 'working remotely'], summary: 'Flexible work arrangements including part-time, job-share, remote work and the Flexible Work for Classroom Teachers pilot (launched 2025).', url: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements' },
   { id: 23, title: 'Employment and Sponsorship of Overseas Workers', category: 'HR - Recruitment', tags: ['overseas', 'sponsorship', 'visa', 'international', 'migration'], summary: 'Sponsoring and employing overseas workers including migration support for international teachers.', url: 'https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy' },

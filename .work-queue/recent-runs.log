@@ -214,3 +214,18 @@
 2026-04-26T13:33:52.6973390+10:00 BUILD_START
 2026-04-26T13:33:55.7268654+10:00 BUILD_OK
 2026-04-26T13:33:55.7498660+10:00 COMMIT_START ids=15,16,18
+2026-04-26T13:33:55.9689919+10:00 COMMITTED ids=15,16,18
+2026-04-26T13:33:55.9774305+10:00 DEPLOY_START
+2026-04-26T13:34:09.5482307+10:00 DEPLOYED
+2026-04-26T13:34:09.5622221+10:00 RUN_END succeeded=3 failed=0 remaining=83
+2026-04-26T13:35:47.0432646+10:00 RUN_START
+2026-04-26T13:35:47.1198359+10:00 BATCH_TAKEN size=3 ids=19,20,21
+2026-04-26T13:35:47.1272597+10:00 PROCESSING id=19 url=https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview
+2026-04-26T13:35:48.8031584+10:00 ENRICHED id=19
+2026-04-26T13:35:48.8051575+10:00 PROCESSING id=20 url=https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines
+2026-04-26T13:36:01.2640753+10:00 ENRICHED id=20
+2026-04-26T13:36:01.2665429+10:00 PROCESSING id=21 url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy
+2026-04-26T13:36:22.5345866+10:00 FAILED id=21 error=fetch_failed url=https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:36:22.5435861+10:00 BUILD_START
+2026-04-26T13:36:25.5452799+10:00 BUILD_OK
+2026-04-26T13:36:25.5677745+10:00 COMMIT_START ids=19,20
