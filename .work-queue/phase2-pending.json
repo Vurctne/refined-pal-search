@@ -1,50 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  39,
+    "total":  37,
     "items":  [
-                  {
-                      "db_id":  90,
-                      "title":  "School Maintenance Plans and Rolling Facilities Evaluations",
-                      "url":  "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  92,
-                      "title":  "Information Security",
-                      "url":  "https://www2.education.vic.gov.au/pal/information-security/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  93,
                       "title":  "Acceptable Use Policy for ICT Resources",
@@ -63,7 +21,7 @@
                                              "needs_tabs"
                                          ],
                       "priority":  2,
-                      "attempts":  0,
+                      "attempts":  1,
                       "status":  "pending"
                   },
                   {

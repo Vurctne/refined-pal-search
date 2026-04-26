@@ -1265,6 +1265,50 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:14:09.9442922+10:00"
+                  },
+                  {
+                      "db_id":  90,
+                      "title":  "School Maintenance Plans and Rolling Facilities Evaluations",
+                      "url":  "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:16:28.6880224+10:00"
+                  },
+                  {
+                      "db_id":  92,
+                      "title":  "Information Security",
+                      "url":  "https://www2.education.vic.gov.au/pal/information-security/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:16:28.6930247+10:00"
                   }
               ]
 }
