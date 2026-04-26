@@ -1,71 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  64,
+    "total":  61,
     "items":  [
-                  {
-                      "db_id":  41.6,
-                      "title":  "Finance Manual — Section 7 Chart of Accounts",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  41.7,
-                      "title":  "Finance Manual — Section 17 End of Year (31 December)",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  41.8,
-                      "title":  "Finance Manual — Section 19 Financial Handover",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  43,
                       "title":  "Travel",
