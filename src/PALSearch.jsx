@@ -375,8 +375,9 @@ const PAL_POLICIES = [
       { title: 'School hospitality expense approval form (DOCX)', note: 'staff login required' },
       { title: 'LearnED online learning', note: 'search gifts benefits and hospitality' },
       { title: 'Contact: gifts@education.vic.gov.au', note: 'for school council register requests' }
-    ]
-  },
+    ],
+  tabs: [ 'Skip to main content' ],
+},
   { id: 46, title: 'Student Resource Package — Managing the Budget', category: 'Finance', tags: ['srp', 'student resource package', 'funding', 'budget', 'salary charging'], summary: 'Managing the school budget through the SRP. Includes salary charging rules.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview' },
   { id: 47, title: 'Student Resource Package — School Infrastructure', category: 'Finance', tags: ['srp', 'infrastructure', 'maintenance', 'mmw', 'rfe', 'smp'], summary: 'SRP funding for school infrastructure including MMW allocations.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy' },
   { id: 48, title: 'Parent Payments', category: 'Finance', tags: ['parent payment', 'fees', 'charges', 'voluntary contributions', 'curriculum contributions', 'extra-curricular', 'byod', 'digital learning', 'financial help for families'], summary: 'Free instruction required; contributions voluntary without coercion. 2 categories: Curriculum Contributions and Other Contributions, plus optional Extra-Curricular Items. From 2027, no BYOD for F-6.', url: 'https://www2.education.vic.gov.au/pal/parent-payment/policy', popular: true,

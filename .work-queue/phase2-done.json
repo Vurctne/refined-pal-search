@@ -60,6 +60,27 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:10:16.4714047+10:00"
+                  },
+                  {
+                      "db_id":  45,
+                      "title":  "Gifts, Benefits and Hospitality",
+                      "url":  "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  8,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:12:17.3991724+10:00"
                   }
               ]
 }
