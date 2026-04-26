@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect, useMemo, useRef } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { Search, ExternalLink, Clock, X, Filter, Star, TrendingUp, Info, FileText, BookOpen, ChevronDown, ChevronUp } from 'lucide-react';
 
 const PAL_POLICIES = [
@@ -10,11 +10,8 @@ const PAL_POLICIES = [
       { title: 'List of Remote Schools (Word)', note: 'last updated 9 September 2019' },
       { title: 'List of Remote Schools (PDF)', note: 'last updated 9 September 2019' },
       { title: 'Payment of Allowances — Teaching Service Form (Word)', note: '' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, allowances, teaching, service', href: 'https://www2.education.vic.gov.au/pal/allowances-teaching-service/policy-and-guidelines#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 2, title: 'Remuneration — Teaching Service', category: 'HR - Pay', tags: ['remuneration', 'salary', 'pay', 'promotion', 'transfer', 'progression', 'commencement salary'], summary: 'Salary on employment, transfer and promotion. Progression cycles operate May to April.', url: 'https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines', popular: true,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/remuneration-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/remuneration-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/remuneration-teaching-service/resources' },
     chapters: [
@@ -44,11 +41,8 @@ const PAL_POLICIES = [
       { title: 'Apply via eduPay Employee Self Service (ESS)', note: 'primary method' },
       { title: 'Leave Administration Procedure (Word)', note: '' },
       { title: 'Australian Health Practitioner Regulation Agency (AHPRA)', note: 'list of registered practitioners' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, personal, leave, teaching', href: 'https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 7, title: 'Long Service Leave — Teaching Service', category: 'HR - Leave', tags: ['lsl', 'long service', '7 years', '10 years', 'edupay ess', '495 hours', '3 months'], summary: '495.7 hours (3 months) LSL after 10 years eligible service; 247.8 hours (1.5 months) per 5 years thereafter. Pro-rata access after 7 years. View on eduPay ESS.', url: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines', popular: true,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/resources' },
     chapters: [
@@ -64,15 +58,7 @@ const PAL_POLICIES = [
       { title: 'Apply via eduPay ESS', note: 'lodge at least 2 terms before commencement' }
     ]
   },
-  { id: 8, title: 'Annual Leave — Teaching Service', category: 'HR - Leave', tags: ['annual leave', 'holiday', '20 days', '152 hours', 'vacation', 'recreation leave'], summary: '152 hours (20 days) per year full-time. Accrues through eduPay. ES class: 228 hours (30 days) additional paid leave.', url: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, annual, leave, teaching', href: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy#rpl-main' }
-  ],
-},
+  { id: 8, title: 'Annual Leave — Teaching Service', category: 'HR - Leave', tags: ['annual leave', 'holiday', '20 days', '152 hours', 'vacation', 'recreation leave'], summary: '152 hours (20 days) per year full-time. Accrues through eduPay. ES class: 228 hours (30 days) additional paid leave.', url: 'https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy' },
   { id: 9, title: 'Parental Absence — Teaching Service', category: 'HR - Leave', tags: ['maternity', 'paternity', 'parental', 'adoption', 'partner leave', 'keeping in touch'], summary: 'Paid and unpaid parental absence including maternity, paternity, partner and adoption leave. Includes lactation breaks, keeping in touch days, Commonwealth PLP.', url: 'https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements', popular: true,
     chapters: [
       { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines' },
@@ -92,51 +78,12 @@ const PAL_POLICIES = [
     ]
   },
   { id: 10, title: 'Leave Without Pay — Teaching Service', category: 'HR - Leave', tags: ['lwop', 'unpaid leave'], summary: 'Applying for and taking leave without pay. Includes teaching whilst on LWOP and early resumption.', url: 'https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy' },
-  { id: 11, title: 'Absent Without Leave', category: 'HR - Leave', tags: ['absent', 'awol', 'unauthorised', 'abandonment'], summary: 'Managing unauthorised absence from duty. Continued absence may lead to cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, absent, leave, unauthorised', href: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines#rpl-main' }
-  ],
-},
-  { id: 12, title: 'Family Violence — Information for Employees', category: 'HR - Leave', tags: ['family violence', 'domestic violence', 'support', 'leave'], summary: 'Paid family violence leave available without prior approval. Confidential support available via WCOs.', url: 'https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave#rpl-main' }
-  ],
-},
-  { id: 13, title: 'Recognition of Prior Service for Leave Purposes — Teaching Service', category: 'HR - Leave', tags: ['prior service', 'recognition', 'leave accrual', 'previous employment'], summary: 'How prior service is recognised for personal, annual and long service leave purposes.', url: 'https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview#rpl-main' }
-  ],
-},
-  { id: 14, title: 'Cessation of Employment — Teaching Service', category: 'HR - Leave', tags: ['cessation', 'termination', 'resignation', 'retirement', 'payout', 'payment in lieu'], summary: 'Payment of unused annual leave, LSL and allowances on cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview#rpl-main' }
-  ],
-},
-  { id: 15, title: 'Attendance and Working Hours — Teaching Service', category: 'HR - Leave', tags: ['working hours', 'attendance', 'lunch break', 'start date', 'hours', 'time in lieu'], summary: 'Working hours, lunch breaks (30 min min, 11:30am-2:30pm), and the common start date for school employees.', url: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, attendance, working, hours', href: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines#rpl-main' }
-  ],
-},
-  { id: 16, title: 'Study Leave — Teaching Service', category: 'HR - Leave', tags: ['study leave', 'professional development', 'qualifications'], summary: 'Study leave with or without pay may be granted to teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview#rpl-main' }
-  ],
-},
+  { id: 11, title: 'Absent Without Leave', category: 'HR - Leave', tags: ['absent', 'awol', 'unauthorised', 'abandonment'], summary: 'Managing unauthorised absence from duty. Continued absence may lead to cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines' },
+  { id: 12, title: 'Family Violence — Information for Employees', category: 'HR - Leave', tags: ['family violence', 'domestic violence', 'support', 'leave'], summary: 'Paid family violence leave available without prior approval. Confidential support available via WCOs.', url: 'https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave' },
+  { id: 13, title: 'Recognition of Prior Service for Leave Purposes — Teaching Service', category: 'HR - Leave', tags: ['prior service', 'recognition', 'leave accrual', 'previous employment'], summary: 'How prior service is recognised for personal, annual and long service leave purposes.', url: 'https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview' },
+  { id: 14, title: 'Cessation of Employment — Teaching Service', category: 'HR - Leave', tags: ['cessation', 'termination', 'resignation', 'retirement', 'payout', 'payment in lieu'], summary: 'Payment of unused annual leave, LSL and allowances on cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview' },
+  { id: 15, title: 'Attendance and Working Hours — Teaching Service', category: 'HR - Leave', tags: ['working hours', 'attendance', 'lunch break', 'start date', 'hours', 'time in lieu'], summary: 'Working hours, lunch breaks (30 min min, 11:30am-2:30pm), and the common start date for school employees.', url: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines' },
+  { id: 16, title: 'Study Leave — Teaching Service', category: 'HR - Leave', tags: ['study leave', 'professional development', 'qualifications'], summary: 'Study leave with or without pay may be granted to teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview' },
 
   // HR - Recruitment
   { id: 17, title: 'Recruitment in Schools', category: 'HR - Recruitment', tags: ['recruitment', 'hiring', 'vacancy', 'selection', 'school jobs vic', 'applicant pool', 'ongoing', 'fixed term', 'diversity', 'inclusion', 'aboriginal', 'torres strait islander', 'position descriptions', 'ministerial order 1388'], summary: 'Recruitment and selection for school-based positions. Manage via School Jobs Vic. Child safety screening required before offer. Template position descriptions available.', url: 'https://www2.education.vic.gov.au/pal/recruitment-schools/policy', popular: true,
@@ -166,37 +113,11 @@ const PAL_POLICIES = [
       { title: 'Contact: diversity@education.vic.gov.au', note: 'inclusive recruitment advice — Equal Opportunity Act 2010' }
     ]
   },
-  { id: 18, title: 'Workforce Support and Initiatives for Schools', category: 'HR - Recruitment', tags: ['workforce', 'graduate teachers', 'international teachers', 'cwss', '5650', 'retention'], summary: 'Department initiatives including Graduate Teacher Recruitment ($5,650 incentive), International Teacher Recruitment and Central Workforce Support Service.', url: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview#rpl-main' }
-  ],
-},
-  { id: 19, title: 'Workforce Planning for Schools', category: 'HR - Recruitment', tags: ['workforce planning', 'staffing', 'planning framework'], summary: 'Framework, phases and tools to support schools with workforce planning.', url: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview#rpl-main' }
-  ],
-},
-  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, transfer, promotion, teaching', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines#rpl-main' }
-  ],
-},
+  { id: 18, title: 'Workforce Support and Initiatives for Schools', category: 'HR - Recruitment', tags: ['workforce', 'graduate teachers', 'international teachers', 'cwss', '5650', 'retention'], summary: 'Department initiatives including Graduate Teacher Recruitment ($5,650 incentive), International Teacher Recruitment and Central Workforce Support Service.', url: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview' },
+  { id: 19, title: 'Workforce Planning for Schools', category: 'HR - Recruitment', tags: ['workforce planning', 'staffing', 'planning framework'], summary: 'Framework, phases and tools to support schools with workforce planning.', url: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview' },
+  { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines' },
   { id: 21, title: 'Suitability for Child Connected Work', category: 'HR - Recruitment', tags: ['wwcc', 'working with children', 'child connected', 'screening', 'ministerial order 1359'], summary: 'Ministerial Order 1359 Clause 10.2(d)(ii). Suitability check required for preferred candidate before offer.', url: 'https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy', popular: true },
-  { id: 22, title: 'Flexible Work', category: 'HR - Recruitment', tags: ['flexible work', 'part-time', 'job share', 'remote', 'fwct', 'working remotely'], summary: 'Flexible work arrangements including part-time, job-share, remote work and the Flexible Work for Classroom Teachers pilot (launched 2025).', url: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements#rpl-main' }
-  ],
-},
+  { id: 22, title: 'Flexible Work', category: 'HR - Recruitment', tags: ['flexible work', 'part-time', 'job share', 'remote', 'fwct', 'working remotely'], summary: 'Flexible work arrangements including part-time, job-share, remote work and the Flexible Work for Classroom Teachers pilot (launched 2025).', url: 'https://www2.education.vic.gov.au/pal/flexible-work/policy-and-guidelines/flexible-work-arrangements' },
   { id: 23, title: 'Employment and Sponsorship of Overseas Workers', category: 'HR - Recruitment', tags: ['overseas', 'sponsorship', 'visa', 'international', 'migration'], summary: 'Sponsoring and employing overseas workers including migration support for international teachers.', url: 'https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy' },
   { id: 53, title: 'Forms — Teaching Service and HR Administration', category: 'HR - Recruitment', tags: ['forms', 'hr forms', 'offer letters', 'selection reports', 'employment forms', 'national police record', 'superannuation', 'prior service', 'compassionate transfer', 'excess', 'additional access', 'mss security'], summary: 'All HR/recruitment/employment forms including offer letters, selection panel reports, staff management forms, and eduPay access management.', url: 'https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources',
     tabs: { resources: 'https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources' },
@@ -262,11 +183,8 @@ const PAL_POLICIES = [
       { title: 'Goal setting guides and sample goals for principals', note: '' },
       { title: 'Performance and development supports for principal class employees', note: '' },
       { title: 'Contact: school.leadership@education.vic.gov.au', note: '' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/performance-and-development-principal-class/policy-and-guidelines/performance-and-development-approach#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 26, title: 'Performance and Development for Education Support Class Employees', category: 'HR - Performance', tags: ['pdp', 'performance', 'education support', 'esc', 'soe', 'business manager', 'business manager capability framework', 'koorie engagement support officer', 'kesso'], summary: '2026 allows choice between Statement of Expectation (SoE) and PDP. Business Manager Capability Framework applies. KESSO (Koorie Engagement Support Officers) have specific arrangements.', url: 'https://www2.education.vic.gov.au/pal/performance-development-education-support/overview',
     resources: [
       { title: 'Performance and Development Guidelines for Education Support Class Employees', note: 'includes KESSO arrangements' },
@@ -274,9 +192,8 @@ const PAL_POLICIES = [
       { title: 'Performance and development supports for education support class employees', note: '' },
       { title: 'Performance and development supports for Koorie engagement support officers', note: '' },
       { title: 'Contact: school.leadership@education.vic.gov.au', note: '' }
-    ],
-  tabs: [ 'Skip to main content' ],
-},
+    ]
+  },
 
   // HR - Conduct
   { id: 27, title: 'Managing Conduct and Unsatisfactory Performance in the Teaching Service', category: 'HR - Conduct', tags: ['conduct', 'misconduct', 'unsatisfactory performance', 'discipline', 'etra', 'local resolution', 'conduct and integrity division', 'reportable conduct', 'employee conduct branch', 'sexual assault', 'criminal offences', 'disciplinary appeals board', 'merit protection board', 'support period', 'secretary delegate'], summary: 'Managing conduct or performance concerns through local resolution, misconduct under ETRA Division 10 of Part 2.4, and unsatisfactory performance. Reportable conduct and sexual assault/criminal allegations must go to Employee Conduct Branch/Victoria Police.', url: 'https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview', popular: true,
@@ -299,39 +216,13 @@ const PAL_POLICIES = [
   },
   { id: 28, title: 'Grievances — Teaching Service', category: 'HR - Conduct', tags: ['grievance', 'complaint', 'dispute'], summary: 'Grievance resolution processes for teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/grievances-teaching-service/policy' },
   { id: 29, title: 'Human Rights Charter', category: 'HR - Conduct', tags: ['human rights', 'charter', 'respectful workplace', 'inclusion'], summary: 'Charter of Human Rights and Responsibilities obligations for Victorian public sector workers.', url: 'https://www2.education.vic.gov.au/pal/human-rights-charter/policy' },
-  { id: 30, title: 'Workplace Contact Officer (WCO) Network', category: 'HR - Conduct', tags: ['wco', 'workplace contact officer', 'support', 'confidential'], summary: 'Workplace Contact Officers — confidential contact for harassment, discrimination, bullying, victimisation or family violence support.', url: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview#rpl-main' }
-  ],
-},
-  { id: 31, title: 'Sexual Harassment — Employees', category: 'HR - Conduct', tags: ['sexual harassment', 'harassment', 'conduct and integrity'], summary: 'Sexual harassment is unlawful and not tolerated. Report to principal/manager or Conduct and Integrity Division (03 7034 6768).', url: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview',
-  tabs: [ 'Skip to main content' ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview#rpl-main' }
-  ],
-},
-  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy#rpl-main' }
-  ],
-},
+  { id: 30, title: 'Workplace Contact Officer (WCO) Network', category: 'HR - Conduct', tags: ['wco', 'workplace contact officer', 'support', 'confidential'], summary: 'Workplace Contact Officers — confidential contact for harassment, discrimination, bullying, victimisation or family violence support.', url: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview' },
+  { id: 31, title: 'Sexual Harassment — Employees', category: 'HR - Conduct', tags: ['sexual harassment', 'harassment', 'conduct and integrity'], summary: 'Sexual harassment is unlawful and not tolerated. Report to principal/manager or Conduct and Integrity Division (03 7034 6768).', url: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview' },
+  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy' },
   { id: 33, title: 'Equal Opportunity — Employees', category: 'HR - Conduct', tags: ['equal opportunity', 'discrimination', 'victimisation', 'vilification', 'protected attributes'], summary: 'Equal opportunity obligations, protected attributes and avoiding discrimination or victimisation.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity/policy' },
   { id: 34, title: 'Inclusive Workplaces', category: 'HR - Conduct', tags: ['inclusive', 'diversity', 'disability', 'accessibility', 'workforce diversity'], summary: 'Creating inclusive workplaces for employees with disabilities and from diverse backgrounds.', url: 'https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy' },
   { id: 35, title: 'Respectful Workplaces', category: 'HR - Conduct', tags: ['respectful', 'bullying', 'harassment', 'discrimination'], summary: 'Reporting bullying, harassment, discrimination or victimisation. Contact Conduct and Integrity Division 03 7034 6768.', url: 'https://www2.education.vic.gov.au/pal/respectful-workplaces/policy' },
-  { id: 36, title: 'Industrial Action — Teaching Service', category: 'HR - Conduct', tags: ['industrial action', 'strike', 'stopwork', 'protected action'], summary: 'Industrial action arrangements, stopwork action, and duty of care obligations during action.', url: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, guidelines, home, advisory', href: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care#rpl-main' }
-  ],
-},
+  { id: 36, title: 'Industrial Action — Teaching Service', category: 'HR - Conduct', tags: ['industrial action', 'strike', 'stopwork', 'protected action'], summary: 'Industrial action arrangements, stopwork action, and duty of care obligations during action.', url: 'https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care' },
 
   // Finance (37-52, plus 41.5, 41.6, 41.7, 41.8)
   { id: 37, title: 'Finance Manual — Financial Management for Schools', category: 'Finance', tags: ['finance manual', 'fmvgs', 'cases21', 'school finance', 'accounting', 'reconciliation', 'budget', 'trading', 'gst', 'bank', 'business manager', 'business process guide', 'chart of accounts', 'petty cash', 'electronic funds', 'purchasing card', 'school purchasing card', 'spc', 'end of year', 'eoy', 'balance day adjustment', 'financial handover', 'insurance', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'section 21', 'sash', 'school administration support hub', 'mygovid', 'westpac'], summary: 'The comprehensive finance manual for Victorian Government Schools covering all aspects of financial management. 20 sections plus extensive downloadable templates. Section 21 covers insurance arrangements including travel insurance via VMIA.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/policy', popular: true,
@@ -424,78 +315,14 @@ const PAL_POLICIES = [
       { title: 'Contact: vicgovernmentservice@westpac.com.au', note: 'Westpac general enquiries' }
     ]
   },
-  { id: 38, title: 'Finance Manual — Section 9 Funding Sources', category: 'Finance', tags: ['funding', 'sources', 'contributions', 'building fund', 'library fund', 'dgr', 'srp', 'cash grant', '70001', 'schools targeted funding portal', '74408', '74409', '74410'], summary: 'SRP, targeted funding, parent contributions. Use CASES21 GL code 70001 for SRP Cash Grant receipts. DGR endorsement required for building/library funds. Curriculum Contributions GL 74408, Extra-Curricular 74409, Other 74410.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources#rpl-main' }
-  ],
-},
-  { id: 39, title: 'Finance Manual — Section 11 Expenditure Management', category: 'Finance', tags: ['expenditure', 'purchase order', 'petty cash', 'purchasing card', 'imprest', 'delegations', 'reimbursement request form', 'payment voucher', 'accounts payable'], summary: 'Expenditure controls, purchase orders, purchasing cards, petty cash (imprest system). Use Reimbursement Request Form before processing in CASES21. Attach POs, invoices, quotes to payment vouchers and mark paid immediately.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management#rpl-main' }
-  ],
-},
-  { id: 40, title: 'Finance Manual — Section 12 Trading Operations', category: 'Finance', tags: ['trading operations', 'canteen', 'uniform shop', 'gst', 'taxation'], summary: 'Trading operations and taxation treatment. School council must nominate tax treatment annually.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations#rpl-main' }
-  ],
-},
-  { id: 41, title: 'Finance Manual — Section 13 Asset and Inventory Management', category: 'Finance', tags: ['assets', 'inventory', 'cases21', 'asset register', 'depreciation', '5000', 'asset status change'], summary: 'Asset management. Add to CASES21 Asset Register within 30 days. Portable/attractive items $5,000+ tracked. Use Asset status change request form.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management#rpl-main' }
-  ],
-},
-  { id: 41.5, title: 'Finance Manual — Section 6 Budget Management', category: 'Finance', tags: ['budget', 'indicative budget', 'confirmed srp', 'cash flow budget', 'variance analysis', 'finance committee'], summary: 'Budget process. Enter indicative cash budget into CASES21 before first school council meeting; update once Confirmed SRP is released. Reconcile CASES21 budget to school council-approved budget.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management#rpl-main' }
-  ],
-},
-  { id: 41.6, title: 'Finance Manual — Section 7 Chart of Accounts', category: 'Finance', tags: ['chart of accounts', 'coding', 'cases21', 'sub program', 'general ledger', 'schools finance and resources branch'], summary: 'All schools must adopt the standard Chart of Accounts for Victorian Government Schools. Correct coding is critical for reporting accuracy. Do not create Sub Program codes that already exist at GL level.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts#rpl-main' }
-  ],
-},
-  { id: 41.7, title: 'Finance Manual — Section 17 End of Year (31 December)', category: 'Finance', tags: ['end of year', 'eoy', '31 december', 'rollover', 'balance day adjustment', 'p drive', 'creditors'], summary: 'EOY financial policy. Review/clean up Families module for exiting students before Admin EOY. EOY rollover not before 1 Jan. Store EOY files on P drive. Enter all unpaid December invoices into CASES21 creditors.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december#rpl-main' }
-  ],
-},
-  { id: 41.8, title: 'Finance Manual — Section 19 Financial Handover', category: 'Finance', tags: ['handover', 'financial handover statement', 'outgoing principal', 'stocktake', 'incoming principal'], summary: 'Outgoing principals ensure CASES21 records (including asset register) are up to date and reflect the handover statement. Incoming principals verify correctness and stocktake major accountable items.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, home, advisory, library', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover#rpl-main' }
-  ],
-},
+  { id: 38, title: 'Finance Manual — Section 9 Funding Sources', category: 'Finance', tags: ['funding', 'sources', 'contributions', 'building fund', 'library fund', 'dgr', 'srp', 'cash grant', '70001', 'schools targeted funding portal', '74408', '74409', '74410'], summary: 'SRP, targeted funding, parent contributions. Use CASES21 GL code 70001 for SRP Cash Grant receipts. DGR endorsement required for building/library funds. Curriculum Contributions GL 74408, Extra-Curricular 74409, Other 74410.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources' },
+  { id: 39, title: 'Finance Manual — Section 11 Expenditure Management', category: 'Finance', tags: ['expenditure', 'purchase order', 'petty cash', 'purchasing card', 'imprest', 'delegations', 'reimbursement request form', 'payment voucher', 'accounts payable'], summary: 'Expenditure controls, purchase orders, purchasing cards, petty cash (imprest system). Use Reimbursement Request Form before processing in CASES21. Attach POs, invoices, quotes to payment vouchers and mark paid immediately.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management' },
+  { id: 40, title: 'Finance Manual — Section 12 Trading Operations', category: 'Finance', tags: ['trading operations', 'canteen', 'uniform shop', 'gst', 'taxation'], summary: 'Trading operations and taxation treatment. School council must nominate tax treatment annually.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations' },
+  { id: 41, title: 'Finance Manual — Section 13 Asset and Inventory Management', category: 'Finance', tags: ['assets', 'inventory', 'cases21', 'asset register', 'depreciation', '5000', 'asset status change'], summary: 'Asset management. Add to CASES21 Asset Register within 30 days. Portable/attractive items $5,000+ tracked. Use Asset status change request form.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management' },
+  { id: 41.5, title: 'Finance Manual — Section 6 Budget Management', category: 'Finance', tags: ['budget', 'indicative budget', 'confirmed srp', 'cash flow budget', 'variance analysis', 'finance committee'], summary: 'Budget process. Enter indicative cash budget into CASES21 before first school council meeting; update once Confirmed SRP is released. Reconcile CASES21 budget to school council-approved budget.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management' },
+  { id: 41.6, title: 'Finance Manual — Section 7 Chart of Accounts', category: 'Finance', tags: ['chart of accounts', 'coding', 'cases21', 'sub program', 'general ledger', 'schools finance and resources branch'], summary: 'All schools must adopt the standard Chart of Accounts for Victorian Government Schools. Correct coding is critical for reporting accuracy. Do not create Sub Program codes that already exist at GL level.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts' },
+  { id: 41.7, title: 'Finance Manual — Section 17 End of Year (31 December)', category: 'Finance', tags: ['end of year', 'eoy', '31 december', 'rollover', 'balance day adjustment', 'p drive', 'creditors'], summary: 'EOY financial policy. Review/clean up Families module for exiting students before Admin EOY. EOY rollover not before 1 Jan. Store EOY files on P drive. Enter all unpaid December invoices into CASES21 creditors.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december' },
+  { id: 41.8, title: 'Finance Manual — Section 19 Financial Handover', category: 'Finance', tags: ['handover', 'financial handover statement', 'outgoing principal', 'stocktake', 'incoming principal'], summary: 'Outgoing principals ensure CASES21 records (including asset register) are up to date and reflect the handover statement. Incoming principals verify correctness and stocktake major accountable items.', url: 'https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover' },
   { id: 42, title: 'Procurement — Schools', category: 'Finance', tags: ['procurement', 'purchasing', 'suppliers', 'tender', 'quotes', 'value for money', 'probity', 'accountability', 'capability', 'department-managed panels', 'contract templates', 'short form goods', 'short form services', 'uniform supplier', 'child safety attestation'], summary: 'Mandatory procurement policy. Four principles: value for money, probity, accountability, capability. Use department-managed panels and contract templates.', url: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/resources' },
     resources: [
@@ -510,20 +337,9 @@ const PAL_POLICIES = [
       { title: 'Purchase order template', note: '' },
       { title: 'Licence and agreement templates', note: 'Legal Division intranet' },
       { title: 'Department-managed panels', note: 'staff login required — agreements with panels of suppliers across multiple categories' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, procurement, schools, home', href: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy#rpl-main' }
-  ],
-},
-  { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true,
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/travel/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/travel/policy#rpl-main' }
-  ],
-},
+    ]
+  },
+  { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true },
   { id: 44, title: 'Travel and Personal Expenses — Teaching Service', category: 'Finance', tags: ['travel', 'expenses', 'reimbursement', 'accommodation', 'meals', 'relocation', 'private vehicle', '24km', 're-establishment allowance', 'ministerial order 1388', 'ato rates', 'travel insurance', 'vmia'], summary: 'Travel and personal expense reimbursement. Must travel 24km+ from base location. Rates capped at ATO limits. Re-establishment allowance: $1,083 with dependants / $541 without. Travel insurance via VMIA.', url: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview',
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/overview', resources: 'https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/resources' },
     chapters: [
@@ -561,15 +377,7 @@ const PAL_POLICIES = [
     ]
   },
   { id: 46, title: 'Student Resource Package — Managing the Budget', category: 'Finance', tags: ['srp', 'student resource package', 'funding', 'budget', 'salary charging'], summary: 'Managing the school budget through the SRP. Includes salary charging rules.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview' },
-  { id: 47, title: 'Student Resource Package — School Infrastructure', category: 'Finance', tags: ['srp', 'infrastructure', 'maintenance', 'mmw', 'rfe', 'smp'], summary: 'SRP funding for school infrastructure including MMW allocations.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy#rpl-main' }
-  ],
-},
+  { id: 47, title: 'Student Resource Package — School Infrastructure', category: 'Finance', tags: ['srp', 'infrastructure', 'maintenance', 'mmw', 'rfe', 'smp'], summary: 'SRP funding for school infrastructure including MMW allocations.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy' },
   { id: 48, title: 'Parent Payments', category: 'Finance', tags: ['parent payment', 'fees', 'charges', 'voluntary contributions', 'curriculum contributions', 'extra-curricular', 'byod', 'digital learning', 'financial help for families'], summary: 'Free instruction required; contributions voluntary without coercion. 2 categories: Curriculum Contributions and Other Contributions, plus optional Extra-Curricular Items. From 2027, no BYOD for F-6.', url: 'https://www2.education.vic.gov.au/pal/parent-payment/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/parent-payment/policy', guidance: 'https://www2.education.vic.gov.au/pal/parent-payment/guidance', resources: 'https://www2.education.vic.gov.au/pal/parent-payment/resources' },
     chapters: [
@@ -589,52 +397,19 @@ const PAL_POLICIES = [
       { title: 'Financial Help for Families policy', note: 'must be applied when implementing Parent Payments' }
     ]
   },
-  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, fundraising, activities, including', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy#rpl-main' }
-  ],
-},
-  { id: 50, title: 'Sponsorship', category: 'Finance', tags: ['sponsorship', 'sponsors', 'advertising', '25000'], summary: 'Sponsorship arrangements. Sponsorships over $25,000 must be evaluated within 3 months of conclusion.', url: 'https://www2.education.vic.gov.au/pal/sponsorship/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, sponsorship, home, advisory', href: 'https://www2.education.vic.gov.au/pal/sponsorship/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sponsorship/policy#rpl-main' }
-  ],
-},
-  { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy#rpl-main' }
-  ],
-},
+  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy' },
+  { id: 50, title: 'Sponsorship', category: 'Finance', tags: ['sponsorship', 'sponsors', 'advertising', '25000'], summary: 'Sponsorship arrangements. Sponsorships over $25,000 must be evaluated within 3 months of conclusion.', url: 'https://www2.education.vic.gov.au/pal/sponsorship/policy' },
+  { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy' },
   { id: 52, title: 'Calculators and Ready Reckoners', category: 'Finance', tags: ['calculator', 'ready reckoner', 'salary calculator', 'dual roles', 'time in lieu'], summary: 'HR administration tools including commencement salary calculator, fixed term vacancy ready reckoner, dual role allowance calculator.', url: 'https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources',
     resources: [
       { title: 'Commencement Salary Calculator (Classroom Teachers)', note: '' },
       { title: 'Fixed Term Teacher Vacancy Ready Reckoner (up to 2030)', note: '' },
       { title: 'Dual Role Allowance Calculator', note: 'for employees in 2 job functions' },
       { title: 'School activity time in lieu spreadsheet', note: 'for camps and school activities' }
-    ],
-  tabs: [ 'Skip to main content' ],
-},
+    ]
+  },
   // School Council
-  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true,
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, school, council, powers', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy#rpl-main' }
-  ],
-},
+  { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true },
   { id: 54.5, title: 'School Council — Meetings', category: 'School Council', tags: ['school council', 'meetings', 'agenda', 'minutes', 'templates', 'chair', 'president', 'extraordinary meeting', 'public meeting'], summary: '8 sample agenda and minutes templates (one per regular meeting). Meetings chaired by president. Records must be kept: agendas, reports, minutes, correspondence.', url: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-council-meetings/policy', guidance: 'https://www2.education.vic.gov.au/pal/school-council-meetings/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-meetings/resources' },
     chapters: [
@@ -695,11 +470,8 @@ const PAL_POLICIES = [
       { title: 'eSmart Schools', note: 'Alannah and Madeline Foundation initiative — Positive Digital Cultures/Practices Units, free for Victorian schools' },
       { title: 'Bullying. No Way! website', note: 'national resource for Australian schools' },
       { title: 'Safe Socials', note: 'resources to support students to be safe online' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, bullying, prevention, response', href: 'https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 56, title: 'Enrolment', category: 'Students', tags: ['enrolment', 'admission', 'placement', 'enrollment', 'foundation', 'prep', 'year 6 to 7', 'neighbourhood school', 'zone', 'specialist school', 'international student', 'find my school', 'cases21', 'application form', 'appeal'], summary: 'Enrolment requirements, 2-stage Application/Enrolment forms, and Placement Policy. Use department-supplied forms only; no tests or interviews before placement offers.', url: 'https://www2.education.vic.gov.au/pal/enrolment/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/enrolment/policy', guidance: 'https://www2.education.vic.gov.au/pal/enrolment/guidance', resources: 'https://www2.education.vic.gov.au/pal/enrolment/resources' },
     chapters: [
@@ -764,15 +536,7 @@ const PAL_POLICIES = [
       { title: 'CASES21 or eCASES21', note: 'required for attendance recording (or CASES21-compatible third party)' }
     ]
   },
-  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy#rpl-main' }
-  ],
-},
+  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy' },
   { id: 59, title: 'Suspensions', category: 'Students', tags: ['suspension', 'discipline', 'behaviour', 'ministerial order 1125', 'notice of suspension', 'relevant person', 'regional director approval', '5 days', '15 days', 'grounds for suspension', 'exceptional grounds', 'outside school activity', '7 years'], summary: 'Student suspension under Ministerial Order 1125. Must consider alternatives first. Principal authority (cannot be delegated). RD approval required for >5 consecutive days or >15 days total in a year. Records retained 7 years.', url: 'https://www2.education.vic.gov.au/pal/suspensions/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/suspensions/policy', guidance: 'https://www2.education.vic.gov.au/pal/suspensions/guidance', resources: 'https://www2.education.vic.gov.au/pal/suspensions/resources' },
     chapters: [
@@ -803,40 +567,23 @@ const PAL_POLICIES = [
       { title: 'Ministerial Order 1125 (PDF)', note: 'Procedures for Suspension and Expulsion of Students in Government Schools' },
       { title: 'Exceptional Grounds — outside school activity quick reference guide (PDF)', note: 'staff login required' },
       { title: 'Legal Division: 03 9637 3146', note: 'legal.services@education.vic.gov.au' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/expulsions/policy#rpl-main' }
-  ],
-},
-  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, equal, opportunity, human', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy#rpl-main' }
-  ],
-},
+    ]
+  },
+  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy' },
   { id: 62, title: 'Duty of Care', category: 'Students', tags: ['duty of care', 'negligence', 'reasonable precautions', 'child abuse', 'presumption of liability', 'supervision', 'students at risk', 'yard duty', 'foreseeable risk'], summary: 'Legal duty of care to students. Reasonable precautions required to minimise foreseeable risks. Since July 2017, presumption of liability for child abuse claims — staff must prove reasonable precautions were taken.', url: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', guidance: 'https://www2.education.vic.gov.au/pal/duty-of-care/guidance', resources: 'https://www2.education.vic.gov.au/pal/duty-of-care/resources' },
     resources: [
       { title: 'Students at Risk Tool', note: 'public access' },
       { title: 'Students at Risk Planning Tool', note: 'staff login required' },
       { title: 'Related: Supervision of Students policy', note: '' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, duty, care, home', href: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 62.5, title: 'Supervision of Students', category: 'Students', tags: ['supervision', 'yard duty', 'yard duty roster', 'duty of care', 'playground', 'before school', 'after school'], summary: 'Staff supervision of students including yard duty. Principal must establish and monitor a system for supervision shared amongst staff. Use the Yard duty and supervision policy template.', url: 'https://www2.education.vic.gov.au/pal/supervision-students/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supervision-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/supervision-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/supervision-students/resources' },
     resources: [
       { title: 'Yard duty and supervision policy template', note: 'staff login required — School Policy Templates Portal, modify for local circumstances' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, supervision, students, home', href: 'https://www2.education.vic.gov.au/pal/supervision-students/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 63, title: 'Health Care Needs', category: 'Students', tags: ['health care', 'medical', 'conditions', 'care plan', 'student health support plan', 'medical condition', 'medication', 'consent', 'first aid'], summary: 'Supporting students with identified health care needs. Schools must have processes for gathering medical info, Student Health Support Plans, consent for medication, and appropriate first aid.', url: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy', resources: 'https://www2.education.vic.gov.au/pal/health-care-needs/resources' },
     resources: [
@@ -845,11 +592,8 @@ const PAL_POLICIES = [
       { title: 'Individual allergic reactions management plan (DOCX)', note: 'completed by school for each student with allergies' },
       { title: 'Individual anaphylaxis management plan (DOCX)', note: 'completed by school for each student at risk of anaphylaxis' },
       { title: 'Annual risk management checklist (DOCX)', note: 'for MO 706 compliance monitoring' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 64, title: 'Anaphylaxis', category: 'Students', tags: ['anaphylaxis', 'allergy', 'epipen', 'anapen', 'jext', 'neffy', 'ministerial order 706', 'ascia', 'adrenaline', 'individual anaphylaxis management plan', 'royal childrens hospital', 'risk minimisation', 'twice-yearly briefing', '22579vic', 'adrenaline auto-injector'], summary: 'Ministerial Order 706. Schools with a student at risk must have an Anaphylaxis Management Policy, twice-yearly staff briefings, individual plans, annual risk checklist. RCH Advisory Line: 1300 725 911.', url: 'https://www2.education.vic.gov.au/pal/anaphylaxis/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/anaphylaxis/policy', guidance: 'https://www2.education.vic.gov.au/pal/anaphylaxis/guidance', resources: 'https://www2.education.vic.gov.au/pal/anaphylaxis/resources' },
     chapters: [
@@ -885,11 +629,8 @@ const PAL_POLICIES = [
       { title: 'ASCIA (Australasian Society of Clinical Immunology and Allergy)', note: 'Anaphylaxis e-training, guidelines, risk minimisation strategies for schools' },
       { title: 'Royal Children Hospital: Department of Allergy and Immunology', note: 'fact sheets on specific allergies' },
       { title: 'RCH Anaphylaxis Support Advisory Line: 1300 725 911 or 03 9345 4235', note: 'Mon-Fri 8:30am-5:00pm — all allergy and anaphylaxis management enquiries' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, allergies, home, advisory', href: 'https://www2.education.vic.gov.au/pal/allergies/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 66, title: 'Asthma', category: 'Students', tags: ['asthma', 'reliever', 'inhaler', 'asthma action plan', 'student health support plan', 'thunderstorm asthma', 'asthma kit', 'asthma australia', 'spacer'], summary: 'Students bring own reliever medication stored in asthma kit with action plan and spacer. Schools must have Asthma Action Plan for all students diagnosed with asthma. Annual review required.', url: 'https://www2.education.vic.gov.au/pal/asthma/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/asthma/policy', resources: 'https://www2.education.vic.gov.au/pal/asthma/resources' },
     resources: [
@@ -901,29 +642,10 @@ const PAL_POLICIES = [
       { title: 'Better Health Channel — Asthma action', note: '' },
       { title: 'Better Health Channel — Thunderstorm asthma', note: 'including multicultural resources' },
       { title: 'National Asthma Council Australia — inner-west schools training', note: 'optional free training for Maribyrnong, Hobson Bay, Brimbank' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/asthma/policy#rpl-main' }
-  ],
-},
-  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, immunisation, home, advisory', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
-  ],
-},
-  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, head, lice, home', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy#rpl-main' }
-  ],
-},
+    ]
+  },
+  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy' },
+  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy' },
   { id: 69, title: 'Mental Health in Schools', category: 'Students', tags: ['mental health', 'wellbeing', 'students', 'mhp', 'mental health practitioner', 'mental health toolkit', 'whole-school', 'nip it in the bud', 'student wellbeing boost'], summary: 'Role of schools in supporting student mental health. All Victorian government secondary schools (and specialist with secondary enrolments) funded for ongoing school-based Mental Health Practitioner (MHP).', url: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/mental-health-schools/resources' },
     resources: [
@@ -934,11 +656,8 @@ const PAL_POLICIES = [
       { title: 'Mental health support fact sheets for families', note: '19 languages available — for holidays and identifying signs' },
       { title: 'Mental Health Practitioners (MHP) in Secondary Schools initiative', note: 'direct counselling + whole-school approaches' },
       { title: 'NIP it in the bud! early intervention framework', note: 'whole-school depression/anxiety/self-harm response' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, mental, health, schools', href: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 70, title: 'Mental Health Fund and Menu', category: 'Students', tags: ['mental health', 'fund', 'menu', 'tiers', 'schools mental health menu', 'schools mental health fund', 'school mental health planning tool', 'tier 1', 'tier 2', 'tier 3', 'royal commission', 'recommendation 17', 'credit and cash transfers'], summary: 'Schools Mental Health Fund ($217.8M over 4 years) and evidence-based Menu of programs across 3 tiers (universal / early intervention / targeted support). Only Menu items eligible for Fund use.', url: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy', guidance: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/guidance', resources: 'https://www2.education.vic.gov.au/pal/mental-health-fund-menu/resources' },
     chapters: [
@@ -952,24 +671,8 @@ const PAL_POLICIES = [
       { title: 'Credit and Cash Transfers — SRP', note: 'school allocation set automatically by SRP' }
     ]
   },
-  { id: 71, title: 'Mental Health in Primary Schools initiative', category: 'Students', tags: ['mental health', 'primary schools', 'mhwl'], summary: 'Mental Health and Wellbeing Leader role in primary schools.', url: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy#rpl-main' }
-  ],
-},
-  { id: 72, title: 'Disability Inclusion Funding and Support', category: 'Students', tags: ['disability', 'inclusion', 'tier 1', 'tier 2', 'dsf'], summary: 'Disability Inclusion tiered funding and school-level support.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy#rpl-main' }
-  ],
-},
+  { id: 71, title: 'Mental Health in Primary Schools initiative', category: 'Students', tags: ['mental health', 'primary schools', 'mhwl'], summary: 'Mental Health and Wellbeing Leader role in primary schools.', url: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy' },
+  { id: 72, title: 'Disability Inclusion Funding and Support', category: 'Students', tags: ['disability', 'inclusion', 'tier 1', 'tier 2', 'dsf'], summary: 'Disability Inclusion tiered funding and school-level support.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy' },
   { id: 73, title: 'Disability Inclusion Profile', category: 'Students', tags: ['disability inclusion profile', 'dip', 'profile', 'funding', 'tier 3', 'levels of adjustment', 'functional needs', 'difs portal', 'facilitator', 'student support group', 'ssg', 'profile tips', 'profile asist', 'ables', 'appeal'], summary: 'Profile process for determining individual student Tier 3 funding. Led by trained facilitator with SSG. 6 functional needs domains covering 31 school-related activities. Moderation and QA for consistency.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy', guidance: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/guidance', resources: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/resources' },
     chapters: [
@@ -1008,15 +711,7 @@ const PAL_POLICIES = [
       { title: 'Regional Implementation Team / Disability Coordinator contacts (DOCX)', note: '' }
     ]
   },
-  { id: 74, title: 'Visiting Teacher Service', category: 'Students', tags: ['visiting teacher', 'vts', 'diverse learners', 'inclusion'], summary: 'Visiting Teacher Service supporting students with disability and diverse learners.', url: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy#rpl-main' }
-  ],
-},
+  { id: 74, title: 'Visiting Teacher Service', category: 'Students', tags: ['visiting teacher', 'vts', 'diverse learners', 'inclusion'], summary: 'Visiting Teacher Service supporting students with disability and diverse learners.', url: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy' },
   // Child Safety
   { id: 75, title: 'Child Safe Standards', category: 'Child Safety', tags: ['child safe', 'child safety', 'standards', 'ministerial order 1359', '11 standards', 'protect', 'child safety champion', 'action list', 'bullying prevention'], summary: 'Child Safe Standards under Ministerial Order 1359. 11 compulsory minimum standards for all Victorian schools. Use Child Safety Action List to implement.', url: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy', guidance: 'https://www2.education.vic.gov.au/pal/child-safe-standards/guidance', resources: 'https://www2.education.vic.gov.au/pal/child-safe-standards/resources' },
@@ -1029,11 +724,8 @@ const PAL_POLICIES = [
       { title: 'Guidance for child safety champions', note: '' },
       { title: 'Template newsletter and website text', note: 'staff login required — to support community consultation on child safety policies' },
       { title: 'Contact: child.safe.schools@education.vic.gov.au', note: 'for help meeting the Standards' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, child, safe, standards', href: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy#rpl-main' }
-  ],
-},
+    ]
+  },
   { id: 76, title: 'Child Abuse (including grooming) — Identification and Response', category: 'Child Safety', tags: ['child abuse', 'grooming', 'protect', 'critical actions', 'reportable conduct', '4 critical actions', 'mandatory reporting', 'disclosure', 'victoria police', 'child protection', 'failure to disclose', 'maram', 'fviss', 'orange door'], summary: 'Use the 4 Critical Actions to identify and respond to child abuse (including grooming). Failure to report physical or sexual abuse may be a criminal offence. Report staff-involved abuse to Victoria Police (000).', url: 'https://www2.education.vic.gov.au/pal/protecting-children/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/protecting-children/policy', guidance: 'https://www2.education.vic.gov.au/pal/protecting-children/guidance/', resources: 'https://www2.education.vic.gov.au/pal/protecting-children/resources' },
     chapters: [
@@ -1069,11 +761,8 @@ const PAL_POLICIES = [
       { title: 'Commission for Children and Young People — Reportable Conduct Scheme', note: 'CCYP regulator' },
       { title: 'Victorian Disability Worker Commission', note: 'Disability Worker Regulation Scheme' },
       { title: 'Conduct and Integrity Division', note: 'Department — receives and manages reportable conduct allegations' }
-    ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, reportable, notifiable, conduct', href: 'https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy#rpl-main' }
-  ],
-},
+    ]
+  },
 
   // OHS
   { id: 77, title: 'Occupational Health, Safety and Wellbeing Management in Schools', category: 'OHS', tags: ['ohs', 'ohsms', 'health and safety', 'management system', 'edusafe plus', 'statewide ohs services', 'ewss', 'employee wellbeing', 'converge', 'swms', 'safe work procedure', 'hsr', 'health and safety representative', 'ohs registers'], summary: 'OHS management system. Report via eduSafe Plus. OHS Advisory Service 1300 074 715. Statewide OHS Services Team provides hands-on support.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy', popular: true,
@@ -1100,24 +789,8 @@ const PAL_POLICIES = [
       { title: 'Contact: employeehealth@education.vic.gov.au', note: 'for following up Converge complaints' }
     ]
   },
-  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy#rpl-main' }
-  ],
-},
-  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy#rpl-main' }
-  ],
-},
+  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy' },
+  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy' },
   { id: 80, title: 'Workers Compensation — Workplace Injury', category: 'OHS', tags: ['workcover', 'workers compensation', 'injury', 'mup', 'make up pay', 'rtw', 'return to work coordinator', '1984 hours', '52 weeks', 'provisional payments', 'claim', 'certificates of capacity', 'significant contributing factor'], summary: 'WorkCover claims, Make Up Pay (MUP), return-to-work. MUP = 52 weeks / 1,984 hours full-time (pro-rata part-time); ceases after. Reimbursement sought within 3 months.', url: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy', guidance: 'https://www2.education.vic.gov.au/pal/workers-compensation/guidance', resources: 'https://www2.education.vic.gov.au/pal/workers-compensation/resources' },
     chapters: [
@@ -1142,33 +815,9 @@ const PAL_POLICIES = [
       { title: 'Workers Compensation Team — Injury Management Specialist', note: 'for support during inspector visits and RTW planning' }
     ]
   },
-  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy#rpl-main' }
-  ],
-},
-  { id: 82, title: 'OHS Induction and Training for School Staff', category: 'OHS', tags: ['induction', 'training', 'ohs induction', 'crt'], summary: 'OHS induction and training requirements including for CRTs.', url: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy#rpl-main' }
-  ],
-},
-  { id: 83, title: 'First Aid for Students and Staff', category: 'OHS', tags: ['first aid', 'medical', 'emergency', 'cpr'], summary: 'First aid requirements for students and staff in schools.', url: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy#rpl-main' }
-  ],
-},
+  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy' },
+  { id: 82, title: 'OHS Induction and Training for School Staff', category: 'OHS', tags: ['induction', 'training', 'ohs induction', 'crt'], summary: 'OHS induction and training requirements including for CRTs.', url: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy' },
+  { id: 83, title: 'First Aid for Students and Staff', category: 'OHS', tags: ['first aid', 'medical', 'emergency', 'cpr'], summary: 'First aid requirements for students and staff in schools.', url: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy' },
 
   // School Operations
   { id: 84, title: 'Managing and Reporting School Incidents (Including Emergencies)', category: 'School Operations', tags: ['incidents', 'emergencies', 'isoc', 'edusafe plus', 'severity', 'worksafe', 'notifiable', 'incident support operations centre', 'seil', 'statewide ohs services'], summary: 'Emergencies/High/Extreme: ISOC 1800 126 126. WorkSafe notifiable: 13 23 60. Low/Medium: report direct into eduSafe Plus. 6-stage management process.', url: 'https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy', popular: true,
@@ -1255,44 +904,12 @@ const PAL_POLICIES = [
       { title: 'School Staff Travel Application', note: 'staff login required — for overseas school travel + post-travel report' }
     ]
   },
-  { id: 87, title: 'Outside School Hours Care (OSHC)', category: 'School Operations', tags: ['oshc', 'before school', 'after school', 'vacation care', 'nqf', 'acecqa'], summary: 'NQF applies. School council responsible for decision-making and operation.', url: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy#rpl-main' }
-  ],
-},
-  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, mobile, phones, student', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy#rpl-main' }
-  ],
-},
+  { id: 87, title: 'Outside School Hours Care (OSHC)', category: 'School Operations', tags: ['oshc', 'before school', 'after school', 'vacation care', 'nqf', 'acecqa'], summary: 'NQF applies. School council responsible for decision-making and operation.', url: 'https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy' },
+  { id: 88, title: 'Mobile Phones — Student Use', category: 'School Operations', tags: ['mobile phones', 'phones', 'devices', 'ministerial policy'], summary: 'Ministerial policy. Secure storage required during school hours.', url: 'https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy' },
 
   // Infrastructure
-  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy#rpl-main' }
-  ],
-},
-  { id: 90, title: 'School Maintenance Plans and Rolling Facilities Evaluations', category: 'Infrastructure', tags: ['smp', 'rfe', 'maintenance plan', 'aims', 'facilities'], summary: 'SMP managed in AIMS. Onsite RFE every 5 years.', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, school, maintenance, plans', href: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy#rpl-main' }
-  ],
-},
+  { id: 89, title: 'Buildings and Grounds Maintenance and Compliance', category: 'Infrastructure', tags: ['maintenance', 'buildings', 'grounds', 'make-safe', 'essential safety measures'], summary: 'Principals responsible for compliance and essential services. Make-safe program via PFM.', url: 'https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy' },
+  { id: 90, title: 'School Maintenance Plans and Rolling Facilities Evaluations', category: 'Infrastructure', tags: ['smp', 'rfe', 'maintenance plan', 'aims', 'facilities'], summary: 'SMP managed in AIMS. Onsite RFE every 5 years.', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy' },
   // IT & Privacy
   { id: 91, title: 'Privacy and Information Sharing', category: 'IT & Privacy', tags: ['privacy', 'pia', 'privacy impact assessment', 'information sharing', 'data', 'privacy matrix', 'health information', 'biometric', 'schools privacy policy', 'ovic', 'privacy complaint', 'privacy incident', 'consent', 'collection notice', 'photographs filming'], summary: 'PIAs required for software handling personal/sensitive/health info. Contact privacy@education.vic.gov.au. Regulated by the Privacy and Data Protection Act 2014 (Vic).', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy', guidance: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance', resources: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/resources' },
@@ -1321,90 +938,18 @@ const PAL_POLICIES = [
       { title: 'Contact: privacy@education.vic.gov.au', note: 'Privacy Team — for PIA review and advice' }
     ]
   },
-  { id: 92, title: 'Information Security', category: 'IT & Privacy', tags: ['information security', 'sensitive information', 'data protection', 'security'], summary: 'Information security for school ICT systems and sensitive information.', url: 'https://www2.education.vic.gov.au/pal/information-security/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/information-security/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/information-security/policy#rpl-main' }
-  ],
-},
+  { id: 92, title: 'Information Security', category: 'IT & Privacy', tags: ['information security', 'sensitive information', 'data protection', 'security'], summary: 'Information security for school ICT systems and sensitive information.', url: 'https://www2.education.vic.gov.au/pal/information-security/policy' },
   { id: 93, title: 'Acceptable Use Policy for ICT Resources', category: 'IT & Privacy', tags: ['ict', 'acceptable use', 'internet', 'email', 'aup'], summary: 'Acceptable use of Department ICT resources.', url: 'https://www2.education.vic.gov.au/pal/ict-acceptable-use/policy' },
-  { id: 94, title: 'Technologies and ICT Services', category: 'IT & Privacy', tags: ['technologies', 'ict services', 'scl', 'securing connected learners', 'backup'], summary: 'Department-provided technologies. Securing Connected Learners (SCL) migration by end of 2028.', url: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, technologies, services, serv', href: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy#rpl-main' }
-  ],
-},
-  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/records-management/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/records-management/policy#rpl-main' }
-  ],
-},
+  { id: 94, title: 'Technologies and ICT Services', category: 'IT & Privacy', tags: ['technologies', 'ict services', 'scl', 'securing connected learners', 'backup'], summary: 'Department-provided technologies. Securing Connected Learners (SCL) migration by end of 2028.', url: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy' },
+  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy' },
 
   // Curriculum
-  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy#rpl-main' }
-  ],
-},
-  { id: 97, title: 'Assessment of Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['assessment', 'student achievement', 'f-10', 'fiso'], summary: 'Assessment of student achievement aligned to FISO 2.0.', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, assessment, student, achievement', href: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy#rpl-main' }
-  ],
-},
-  { id: 98, title: 'Reporting Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['reporting', 'student reports', '5-point scale', 'vcaa', 'semester'], summary: 'Reporting using a 5-point scale against VCAA achievement standards.', url: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy#rpl-main' }
-  ],
-},
-  { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/international-student-program/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/international-student-program/policy#rpl-main' }
-  ],
-},
-  { id: 100, title: 'Work Experience', category: 'Curriculum', tags: ['work experience', 'workplace', 'students'], summary: 'Student work experience arrangements, approvals and workplace safety.', url: 'https://www2.education.vic.gov.au/pal/work-experience/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/work-experience/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/work-experience/policy#rpl-main' }
-  ],
-},
-  { id: 101, title: 'Structured Workplace Learning', category: 'Curriculum', tags: ['swl', 'structured workplace learning', 'workplace'], summary: 'Structured workplace learning arrangements for VET and VM students.', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy',
-  tabs: [ 'Skip to main content' ],
-  chapters: [
-    { title: 'Skip to main content — menu, return, advisory, library, libra', href: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy#rpl-main' }
-  ],
-  resources: [
-    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy#rpl-main' }
-  ],
-}
+  { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy' },
+  { id: 97, title: 'Assessment of Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['assessment', 'student achievement', 'f-10', 'fiso'], summary: 'Assessment of student achievement aligned to FISO 2.0.', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy' },
+  { id: 98, title: 'Reporting Student Achievement and Progress Foundation to 10', category: 'Curriculum', tags: ['reporting', 'student reports', '5-point scale', 'vcaa', 'semester'], summary: 'Reporting using a 5-point scale against VCAA achievement standards.', url: 'https://www2.education.vic.gov.au/pal/reporting-student-achievement/policy' },
+  { id: 99, title: 'International Student Program (ISP)', category: 'Curriculum', tags: ['international students', 'isp', 'overseas students', 'visa', 'dha'], summary: 'ISP quality standards and visa requirements. DHA governs leave during term.', url: 'https://www2.education.vic.gov.au/pal/international-student-program/policy' },
+  { id: 100, title: 'Work Experience', category: 'Curriculum', tags: ['work experience', 'workplace', 'students'], summary: 'Student work experience arrangements, approvals and workplace safety.', url: 'https://www2.education.vic.gov.au/pal/work-experience/policy' },
+  { id: 101, title: 'Structured Workplace Learning', category: 'Curriculum', tags: ['swl', 'structured workplace learning', 'workplace'], summary: 'Structured workplace learning arrangements for VET and VM students.', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy' }
 ];
 
 const CATEGORIES = [

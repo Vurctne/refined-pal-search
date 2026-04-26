@@ -213,30 +213,139 @@ function Parse-Tabs([string]$html, [string]$pageUrl) {
 }
 
 # ----- Chapter parsing -------------------------------------------------------
-function Parse-Chapters([string]$html, [string]$pageUrl) {
-    # PAL chapter lists are typically rendered as <ul> with <a> links to
-    # sub-pages of the current policy. Heuristic: collect anchors whose href
-    # is a sub-path of the policy page and whose label looks like a chapter.
+# PAL renders chapters in two distinct shapes (see worker/SELECTOR-NOTES.md):
+#
+#   Pattern A (multi-page publication): a dedicated <ul data-depth="1"
+#     class="...det-publication-menu det-publication-menu__child..."> whose
+#     <a class="...det-publication-menu__item-link..."> children link to
+#     sub-pages of the current policy. Use those sub-paths as chapter URLs.
+#
+#   Pattern B (single-page policy): chapters are <h2>/<h3 id="..."> headings
+#     inside <div class="rpl-markup__inner">. Use the page URL itself as the
+#     chapter URL (matches V26 baseline format for id 7 etc.).
+#
+# Defensive filters drop garbage like the "Skip to main content" a11y link,
+# breadcrumb / nav / header / footer text, and bare anchors. If neither
+# pattern yields anything after filters we return an empty array rather than
+# falling back to "any anchor on the page" (the v0 bug).
+
+$script:GarbageLabelPatterns = @(
+    'skip to', 'main content', 'menu', 'navigation', 'navigate',
+    'search', 'footer', 'header', 'breadcrumb', 'return to top',
+    'previous chapter', 'next chapter', 'jump to', 'in this section',
+    'related content', 'related policies', 'on this page'
+)
+
+function Test-GarbageLabel([string]$label) {
+    if ([string]::IsNullOrWhiteSpace($label)) { return $true }
+    if ($label.Trim().Length -lt 4) { return $true }
+    $lower = $label.ToLower()
+    foreach ($p in $script:GarbageLabelPatterns) {
+        if ($lower.Contains($p)) { return $true }
+    }
+    return $false
+}
+
+function Test-GarbageHref([string]$href, [string]$base) {
+    if ([string]::IsNullOrWhiteSpace($href)) { return $true }
+    # Drop in-page anchors (#rpl-main, #main, #content, etc.) -- real PAL
+    # chapter URLs are sub-paths of the policy, not anchors.
+    if ($href -match '#') { return $true }
+    # Must live under the policy base path.
+    if ($href -notmatch [regex]::Escape("$base/")) { return $true }
+    # Drop tab targets themselves (they're sections, not chapters).
+    if ($href -match "$([regex]::Escape($base))/(policy|guidance|resources|overview|policy-and-guidelines|templates)/?$") {
+        return $true
+    }
+    return $false
+}
+
+function Parse-ChaptersFromMenu([string]$html, [string]$pageUrl, [string]$base) {
+    # Pattern A: locate the dedicated chapter <ul> by its two distinguishing
+    # attributes -- data-depth="1" AND det-publication-menu__child. The site
+    # also renders a tab nav at data-depth="0" without the __child class, so
+    # both checks are required to avoid pulling tabs as chapters.
     $chapters = New-Object System.Collections.Generic.List[object]
     $seenHrefs = @{}
-    $base = Get-PolicyBaseUrl $pageUrl
-    $linkPattern = '<a[^>]+href="([^"]+)"[^>]*>\s*([^<]{4,200})\s*</a>'
-    foreach ($m in [regex]::Matches($html, $linkPattern)) {
-        $href = $m.Groups[1].Value
-        $label = (Strip-Html $m.Groups[2].Value)
-        if ([string]::IsNullOrWhiteSpace($label)) { continue }
-        $abs = Make-Absolute $href $pageUrl
-        if (-not $abs) { continue }
-        # Must be a child of the policy section, not the tab itself.
-        if ($abs -notmatch [regex]::Escape("$base/")) { continue }
-        # Skip the four "tab" segments -- those aren't chapters.
-        if ($abs -match "$([regex]::Escape($base))/(policy|guidance|resources|overview|policy-and-guidelines|templates)/?$") { continue }
-        if ($seenHrefs.ContainsKey($abs)) { continue }
-        $seenHrefs[$abs] = $true
-        [void]$chapters.Add([pscustomobject]@{ title = $label; href = $abs })
+
+    $ulPattern = '(?is)<ul\b[^>]*\bdata-depth="1"[^>]*\bclass="[^"]*det-publication-menu__child[^"]*"[^>]*>(.*?)</ul>'
+    $ulMatches = [regex]::Matches($html, $ulPattern)
+    if ($ulMatches.Count -eq 0) {
+        # Class attribute order can vary -- try the reverse ordering as well.
+        $ulPattern2 = '(?is)<ul\b[^>]*\bclass="[^"]*det-publication-menu__child[^"]*"[^>]*\bdata-depth="1"[^>]*>(.*?)</ul>'
+        $ulMatches = [regex]::Matches($html, $ulPattern2)
+    }
+
+    foreach ($ul in $ulMatches) {
+        $block = $ul.Groups[1].Value
+        $linkPattern = '(?is)<a\b[^>]*\bhref="([^"]+)"[^>]*\bclass="[^"]*det-publication-menu__item-link[^"]*"[^>]*>(.*?)</a>'
+        $linkMatches = [regex]::Matches($block, $linkPattern)
+        if ($linkMatches.Count -eq 0) {
+            # class attribute may appear before href -- try the other order.
+            $linkPattern2 = '(?is)<a\b[^>]*\bclass="[^"]*det-publication-menu__item-link[^"]*"[^>]*\bhref="([^"]+)"[^>]*>(.*?)</a>'
+            $linkMatches = [regex]::Matches($block, $linkPattern2)
+        }
+        foreach ($m in $linkMatches) {
+            $href = $m.Groups[1].Value
+            $label = (Strip-Html $m.Groups[2].Value)
+            if (Test-GarbageLabel $label) { continue }
+            $abs = Make-Absolute $href $pageUrl
+            if (-not $abs) { continue }
+            if (Test-GarbageHref $abs $base) { continue }
+            if ($seenHrefs.ContainsKey($abs)) { continue }
+            $seenHrefs[$abs] = $true
+            [void]$chapters.Add([pscustomobject]@{ title = $label; href = $abs })
+        }
+    }
+
+    if ($chapters.Count -eq 0) { return $null }
+    return ,$chapters.ToArray()
+}
+
+function Parse-ChaptersFromHeadings([string]$html, [string]$pageUrl) {
+    # Pattern B: extract <h2>/<h3 id="..."> headings from the rpl-markup__inner
+    # content block. We deliberately skip the page-title <h2> (the first one,
+    # which is just the policy name) and treat <h3>s as the chapter list.
+    $chapters = New-Object System.Collections.Generic.List[object]
+    $innerMatch = [regex]::Match($html, '(?is)<div\b[^>]*\bclass="[^"]*rpl-markup__inner[^"]*"[^>]*>(.*)$')
+    if (-not $innerMatch.Success) { return $null }
+    # Bound the search to roughly one screen of content so we don't pull in
+    # related-policies sidebars further down the page.
+    $section = $innerMatch.Groups[1].Value
+    $endIdx = $section.IndexOf('</div></div>')
+    if ($endIdx -gt 0) { $section = $section.Substring(0, $endIdx) }
+
+    $headingPattern = '(?is)<h([23])\b[^>]*\bid="([^"]+)"[^>]*>(.*?)</h\1>'
+    $hMatches = [regex]::Matches($section, $headingPattern)
+    $skipFirstH2 = $true
+    foreach ($m in $hMatches) {
+        $level = $m.Groups[1].Value
+        $label = (Strip-Html $m.Groups[3].Value)
+        if ($level -eq '2' -and $skipFirstH2) {
+            # The lead h2 is the policy title -- skip exactly once.
+            $skipFirstH2 = $false
+            continue
+        }
+        if (Test-GarbageLabel $label) { continue }
+        # For single-page policies the chapter href is the page URL (matches
+        # V26 baseline: chapter rows share the parent policy URL, the in-page
+        # anchor is implied by the heading id but not encoded).
+        [void]$chapters.Add([pscustomobject]@{ title = $label; href = $pageUrl })
     }
     if ($chapters.Count -eq 0) { return $null }
     return ,$chapters.ToArray()
+}
+
+function Parse-Chapters([string]$html, [string]$pageUrl) {
+    $base = Get-PolicyBaseUrl $pageUrl
+    # Try Pattern A (multi-page publication) first.
+    $a = Parse-ChaptersFromMenu $html $pageUrl $base
+    if ($null -ne $a -and $a.Count -gt 0) { return ,$a }
+    # Fall back to Pattern B (single-page heading list).
+    $b = Parse-ChaptersFromHeadings $html $pageUrl
+    if ($null -ne $b -and $b.Count -gt 0) { return ,$b }
+    # Neither matched -- explicit empty rather than fall through to garbage.
+    return ,@()
 }
 
 function Get-ChapterTail([string]$chapterUrl) {
@@ -310,20 +419,28 @@ if ($wantTabs) {
 
 if ($wantTails -or $wantFullChapters) {
     $chapters = Parse-Chapters $html $Url
-    if ($null -ne $chapters) {
-        $enriched = New-Object System.Collections.Generic.List[object]
-        foreach ($c in $chapters) {
+    # Parse-Chapters returns @() (not $null) when no real chapter list is
+    # found. Treat empty as "no chapters" -- emit chapters: @() rather than
+    # falling back to garbage anchors.
+    if ($null -eq $chapters) { $chapters = @() }
+    $enriched = New-Object System.Collections.Generic.List[object]
+    foreach ($c in $chapters) {
+        # Only fetch tails for chapter URLs that differ from the parent page
+        # (Pattern A). For Pattern B the chapter "url" is the parent page so
+        # there's no extra fetch -- tail stays empty (V26 baseline matches).
+        $tail = ''
+        if ($wantTails -and $c.href -ne $Url) {
             $tail = Get-ChapterTail $c.href
-            $full = if ($tail) { "$($c.title) $([char]0x2014) $tail" } else { $c.title }
-            [void]$enriched.Add([pscustomobject]@{
-                title = $c.title
-                tail  = $tail
-                full  = $full
-                href  = $c.href
-            })
         }
-        $result.chapters = ,$enriched.ToArray()
+        $full = if ($tail) { "$($c.title) $([char]0x2014) $tail" } else { $c.title }
+        [void]$enriched.Add([pscustomobject]@{
+            title = $c.title
+            tail  = $tail
+            full  = $full
+            href  = $c.href
+        })
     }
+    $result.chapters = ,$enriched.ToArray()
 }
 
 if ($wantResources) {
