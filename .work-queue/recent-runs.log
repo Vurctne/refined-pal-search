@@ -24,3 +24,18 @@
 2026-04-26T13:08:02.4467763+10:00 BUILD_START
 2026-04-26T13:08:05.7399060+10:00 BUILD_OK
 2026-04-26T13:08:05.7599277+10:00 COMMIT_START ids=7,9
+2026-04-26T13:08:06.0360322+10:00 COMMITTED ids=7,9
+2026-04-26T13:08:06.0442753+10:00 DEPLOY_START
+2026-04-26T13:08:18.4380690+10:00 DEPLOYED
+2026-04-26T13:08:18.4437119+10:00 RUN_END succeeded=2 failed=0 remaining=110
+2026-04-26T13:09:46.4027233+10:00 RUN_START
+2026-04-26T13:09:46.4814595+10:00 BATCH_TAKEN size=3 ids=17,27,37
+2026-04-26T13:09:46.4878002+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-26T13:10:08.2287247+10:00 FAILED id=17 error=fetch_failed url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:10:08.2412108+10:00 PROCESSING id=27 url=https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview
+2026-04-26T13:10:13.4009857+10:00 ENRICHED id=27
+2026-04-26T13:10:13.4029850+10:00 PROCESSING id=37 url=https://www2.education.vic.gov.au/pal/finance-manual/policy
+2026-04-26T13:10:13.4194670+10:00 FAILED id=37 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T13:10:13.4214645+10:00 BUILD_START
+2026-04-26T13:10:16.4554069+10:00 BUILD_OK
+2026-04-26T13:10:16.4764059+10:00 COMMIT_START ids=27

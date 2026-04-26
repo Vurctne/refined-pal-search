@@ -40,6 +40,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:08:05.7579293+10:00"
+                  },
+                  {
+                      "db_id":  27,
+                      "title":  "Managing Conduct and Unsatisfactory Performance in the Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/overview",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  7,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:10:16.4714047+10:00"
                   }
               ]
 }
