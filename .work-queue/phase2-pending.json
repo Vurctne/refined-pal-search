@@ -1,71 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  51,
+    "total":  48,
     "items":  [
-                  {
-                      "db_id":  68,
-                      "title":  "Head Lice",
-                      "url":  "https://www2.education.vic.gov.au/pal/head-lice/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  71,
-                      "title":  "Mental Health in Primary Schools initiative",
-                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  72,
-                      "title":  "Disability Inclusion Funding and Support",
-                      "url":  "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  74,
                       "title":  "Visiting Teacher Service",

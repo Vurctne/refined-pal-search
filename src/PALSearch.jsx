@@ -871,7 +871,15 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
   ],
 },
-  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy' },
+  { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Control of head lice in schools Prevention of head lice in schools Parent or carer detection and treatment responsibilities Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy https://www2.education.vic.gov.au/pal/head-lice/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/head-lice/policy#rpl-main' }
+  ],
+},
   { id: 69, title: 'Mental Health in Schools', category: 'Students', tags: ['mental health', 'wellbeing', 'students', 'mhp', 'mental health practitioner', 'mental health toolkit', 'whole-school', 'nip it in the bud', 'student wellbeing boost'], summary: 'Role of schools in supporting student mental health. All Victorian government secondary schools (and specialist with secondary enrolments) funded for ongoing school-based Mental Health Practitioner (MHP).', url: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/mental-health-schools/resources' },
     resources: [
@@ -897,8 +905,24 @@ const PAL_POLICIES = [
       { title: 'Credit and Cash Transfers — SRP', note: 'school allocation set automatically by SRP' }
     ]
   },
-  { id: 71, title: 'Mental Health in Primary Schools initiative', category: 'Students', tags: ['mental health', 'primary schools', 'mhwl'], summary: 'Mental Health and Wellbeing Leader role in primary schools.', url: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy' },
-  { id: 72, title: 'Disability Inclusion Funding and Support', category: 'Students', tags: ['disability', 'inclusion', 'tier 1', 'tier 2', 'dsf'], summary: 'Disability Inclusion tiered funding and school-level support.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy' },
+  { id: 71, title: 'Mental Health in Primary Schools initiative', category: 'Students', tags: ['mental health', 'primary schools', 'mhwl'], summary: 'Mental Health and Wellbeing Leader role in primary schools.', url: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Mental Health and Wellbeing Leader role Mental Health in Primary Schools funding Mental Health and Wellbeing Leader recruitment Mental Health in Primary Schools training program Setting the Mental Health and Wellbeing Leader up for success Primary Welfare Officer transition Regional mental health branch support', href: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-wellbeing-leader-role https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-primary-schools-funding https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-wellbeing-leader-recruitment https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-primary-schools-training-program https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/setting-mental-health-wellbeing-leader-success https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/primary-welfare-officer-transition https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/regional-mental-health-branch-support' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy#rpl-main' }
+  ],
+},
+  { id: 72, title: 'Disability Inclusion Funding and Support', category: 'Students', tags: ['disability', 'inclusion', 'tier 1', 'tier 2', 'dsf'], summary: 'Disability Inclusion tiered funding and school-level support.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Overview of the Disability Inclusion funding model Target group for Tier 2 school-level support Tier 2 school-level funding expenditure requirements Planning for expenditure Tier 2 funding use case studies Requirements for reporting of Tier 2 expenditure Tier 3 student-level funding Disability Inclusion Transition Funding', href: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/overview-disability-inclusion-funding-model https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/target-group-tier-2-school-level-support https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-2-school-level-funding-expenditure https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/planning-expenditure-2021 https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-2-funding-use-case-studies https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/requirements-reporting-tier-2-expenditure https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-3-student-level-funding https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/disability-inclusion-transition-funding' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy#rpl-main' }
+  ],
+},
   { id: 73, title: 'Disability Inclusion Profile', category: 'Students', tags: ['disability inclusion profile', 'dip', 'profile', 'funding', 'tier 3', 'levels of adjustment', 'functional needs', 'difs portal', 'facilitator', 'student support group', 'ssg', 'profile tips', 'profile asist', 'ables', 'appeal'], summary: 'Profile process for determining individual student Tier 3 funding. Led by trained facilitator with SSG. 6 functional needs domains covering 31 school-related activities. Moderation and QA for consistency.', url: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/policy', guidance: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/guidance', resources: 'https://www2.education.vic.gov.au/pal/disability-inclusion-profile/resources' },
     chapters: [
