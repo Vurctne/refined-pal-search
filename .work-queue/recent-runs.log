@@ -634,3 +634,68 @@
 2026-04-26T14:33:49.8160350+10:00 BUILD_START
 2026-04-26T14:33:53.1247940+10:00 BUILD_OK
 2026-04-26T14:33:53.1588003+10:00 COMMIT_START ids=42,52
+2026-04-26T14:33:53.4450453+10:00 COMMITTED ids=42,52
+2026-04-26T14:33:53.4530501+10:00 DEPLOY_START
+2026-04-26T14:34:06.8378974+10:00 DEPLOYED
+2026-04-26T14:34:06.8484166+10:00 RUN_END succeeded=2 failed=0 remaining=20
+2026-04-26T14:35:47.3454740+10:00 RUN_START
+2026-04-26T14:35:47.4320876+10:00 BATCH_TAKEN size=3 ids=44,53,53.5
+2026-04-26T14:35:47.4389916+10:00 PROCESSING id=44 url=https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview
+2026-04-26T14:35:47.4689541+10:00 FAILED id=44 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:35:47.4819762+10:00 PROCESSING id=53 url=https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources
+2026-04-26T14:35:47.4924917+10:00 FAILED id=53 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:35:47.4954901+10:00 PROCESSING id=53.5 url=https://www2.education.vic.gov.au/pal/principal-selection/overview
+2026-04-26T14:35:47.5049997+10:00 FAILED id=53.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:35:47.5079944+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T14:35:47.5390592+10:00 RUN_END succeeded=0 failed=0 remaining=20
+2026-04-26T14:37:47.3492448+10:00 RUN_START
+2026-04-26T14:37:47.4155072+10:00 BATCH_TAKEN size=3 ids=44,53,53.5
+2026-04-26T14:37:47.4227776+10:00 PROCESSING id=44 url=https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview
+2026-04-26T14:37:47.4541557+10:00 FAILED id=44 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:37:47.4667976+10:00 PROCESSING id=53 url=https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources
+2026-04-26T14:37:47.4781308+10:00 FAILED id=53 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:37:47.4822243+10:00 PROCESSING id=53.5 url=https://www2.education.vic.gov.au/pal/principal-selection/overview
+2026-04-26T14:37:47.4926056+10:00 FAILED id=53.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:37:47.4941087+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T14:37:47.5227299+10:00 RUN_END succeeded=0 failed=1 remaining=19
+2026-04-26T14:39:47.4166372+10:00 RUN_START
+2026-04-26T14:39:47.4933579+10:00 BATCH_TAKEN size=3 ids=53,53.5,54.5
+2026-04-26T14:39:47.5023830+10:00 PROCESSING id=53 url=https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources
+2026-04-26T14:39:47.5351460+10:00 FAILED id=53 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:39:47.5536311+10:00 PROCESSING id=53.5 url=https://www2.education.vic.gov.au/pal/principal-selection/overview
+2026-04-26T14:39:47.5683523+10:00 FAILED id=53.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:39:47.5713449+10:00 PROCESSING id=54.5 url=https://www2.education.vic.gov.au/pal/school-council-meetings/policy
+2026-04-26T14:39:47.5844150+10:00 FAILED id=54.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:39:47.5874148+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T14:39:47.6220099+10:00 RUN_END succeeded=0 failed=2 remaining=17
+2026-04-26T14:41:47.3551015+10:00 RUN_START
+2026-04-26T14:41:47.4272861+10:00 BATCH_TAKEN size=3 ids=54.5,55,55.5
+2026-04-26T14:41:47.4342842+10:00 PROCESSING id=54.5 url=https://www2.education.vic.gov.au/pal/school-council-meetings/policy
+2026-04-26T14:41:47.4652216+10:00 FAILED id=54.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:41:47.4782227+10:00 PROCESSING id=55 url=https://www2.education.vic.gov.au/pal/student-engagement/policy
+2026-04-26T14:41:47.4912451+10:00 FAILED id=55 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:41:47.4932406+10:00 PROCESSING id=55.5 url=https://www2.education.vic.gov.au/pal/behaviour-students/policy
+2026-04-26T14:41:47.5032415+10:00 FAILED id=55.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:41:47.5062412+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T14:41:47.5244634+10:00 RUN_END succeeded=0 failed=0 remaining=17
+2026-04-26T14:43:47.3575575+10:00 RUN_START
+2026-04-26T14:43:47.4292939+10:00 BATCH_TAKEN size=3 ids=54.5,55,55.5
+2026-04-26T14:43:47.4372957+10:00 PROCESSING id=54.5 url=https://www2.education.vic.gov.au/pal/school-council-meetings/policy
+2026-04-26T14:43:47.4708675+10:00 FAILED id=54.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:43:47.4851209+10:00 PROCESSING id=55 url=https://www2.education.vic.gov.au/pal/student-engagement/policy
+2026-04-26T14:43:47.4962666+10:00 FAILED id=55 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:43:47.4992651+10:00 PROCESSING id=55.5 url=https://www2.education.vic.gov.au/pal/behaviour-students/policy
+2026-04-26T14:43:47.5097085+10:00 FAILED id=55.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:43:47.5117127+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T14:43:47.5397115+10:00 RUN_END succeeded=0 failed=1 remaining=16
+2026-04-26T14:45:47.3116720+10:00 RUN_START
+2026-04-26T14:45:47.3863120+10:00 BATCH_TAKEN size=3 ids=55,55.5,55.6
+2026-04-26T14:45:47.3945511+10:00 PROCESSING id=55 url=https://www2.education.vic.gov.au/pal/student-engagement/policy
+2026-04-26T14:45:47.4246895+10:00 FAILED id=55 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:45:47.4376834+10:00 PROCESSING id=55.5 url=https://www2.education.vic.gov.au/pal/behaviour-students/policy
+2026-04-26T14:45:47.4476852+10:00 FAILED id=55.5 error=无法将参数绑定到参数“Actions”，因为该参数为空数组。
+2026-04-26T14:45:47.4506862+10:00 PROCESSING id=55.6 url=https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy
+2026-04-26T14:45:48.6224720+10:00 ENRICHED id=55.6
+2026-04-26T14:45:48.6244838+10:00 BUILD_START
+2026-04-26T14:45:51.8407059+10:00 BUILD_OK
+2026-04-26T14:45:51.8748628+10:00 COMMIT_START ids=55.6

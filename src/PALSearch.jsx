@@ -686,8 +686,11 @@ const PAL_POLICIES = [
       { title: 'eSmart Schools', note: 'Alannah and Madeline Foundation initiative — Positive Digital Cultures/Practices Units, free for Victorian schools' },
       { title: 'Bullying. No Way! website', note: 'national resource for Australian schools' },
       { title: 'Safe Socials', note: 'resources to support students to be safe online' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details Legal requirements Local school bullying prevention policy Communication of policy Policy review Definitions Relevant legislation Contacts', href: 'https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy' }
+  ],
+},
   { id: 56, title: 'Enrolment', category: 'Students', tags: ['enrolment', 'admission', 'placement', 'enrollment', 'foundation', 'prep', 'year 6 to 7', 'neighbourhood school', 'zone', 'specialist school', 'international student', 'find my school', 'cases21', 'application form', 'appeal'], summary: 'Enrolment requirements, 2-stage Application/Enrolment forms, and Placement Policy. Use department-supplied forms only; no tests or interviews before placement offers.', url: 'https://www2.education.vic.gov.au/pal/enrolment/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/enrolment/policy', guidance: 'https://www2.education.vic.gov.au/pal/enrolment/guidance', resources: 'https://www2.education.vic.gov.au/pal/enrolment/resources' },
     chapters: [

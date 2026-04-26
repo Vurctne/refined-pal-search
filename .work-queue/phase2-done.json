@@ -1605,6 +1605,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:33:53.1447962+10:00"
+                  },
+                  {
+                      "db_id":  55.6,
+                      "title":  "Bullying Prevention and Response",
+                      "url":  "https://www2.education.vic.gov.au/pal/bullying-prevention-response/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  8,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:45:51.8547087+10:00"
                   }
               ]
 }
