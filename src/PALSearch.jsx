@@ -2165,6 +2165,21 @@ const PAL_POLICIES = [
   { id: 108.3, title: 'Code of Conduct', category: 'HR - Conduct', tags: ['code', 'conduct', 'further', 'resources', 'information', 'refer', 'guidance', 'topic', 'there'], summary: 'There is no further guidance for this topic. For more information, refer to the Resources tab.', url: 'https://www2.education.vic.gov.au/pal/code-conduct/policy-and-guidelines', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/code-conduct/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/code-conduct/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/code-conduct/resources' }
   }
+,
+  { id: 108.4, title: 'Complaints – Information for Employees', category: 'HR - Conduct', tags: ['complaints', 'information', 'employees', 'overview', 'resources', 'guidelines', 'managing', '2025', 'raise', 'explaining'], summary: 'Refer to the Guidelines for managing Managing Conduct and Unsatisfactory Performance in the Teaching Service Overview Overview explaining how employees can raise concerns and com... Resources Resources including complaint procedures FAQs Policy guidelines for Complaints — Information for Employees Reviewed 30 December 2025', url: 'https://www2.education.vic.gov.au/pal/complaints-information-employees/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/complaints-information-employees/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/complaints-information-employees/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/complaints-information-employees/resources' }
+  }
+,
+  { id: 108.5, title: 'Values – Department Values for Schools', category: 'HR - Conduct', tags: ['values', 'schools', 'resources', 'further', 'information', 'topic', 'refer', 'guidance', 'there'], summary: 'There is no further guidance for this topic. For more information, refer to the Resources tab.', url: 'https://www2.education.vic.gov.au/pal/values-department-values-schools/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/values-department-values-schools/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/values-department-values-schools/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/values-department-values-schools/resources' }
+  }
+,
+  { id: 108.6, title: 'Bereavement Leave', category: 'HR - Leave', tags: ['bereavement', 'leave', 'funeral', 'granted', 'full', 'attending', 'purposes', 'normally', 'family', 'member'], summary: 'An employee may be granted bereavement leave on full pay of up to 3 days on account of the death of a member of their immediate family or household for the purposes of making funeral arrangements or attending the funeral. Bereavement leave would not normally be granted beyond the date of the funeral.', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/bereavement-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/bereavement-leave/resources' },
+    chapters: [
+      { title: 'Supporting documentation', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

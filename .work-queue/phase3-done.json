@@ -299,6 +299,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:25:52.1248149+10:00"
+                  },
+                  {
+                      "new_id":  108.4,
+                      "pal_title":  "Complaints – Information for Employees",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/complaints-information-employees",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Conduct",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:27:45.7170443+10:00"
+                  },
+                  {
+                      "new_id":  108.5,
+                      "pal_title":  "Values – Department Values for Schools",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/values-department-values-schools",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Conduct",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:27:45.7200445+10:00"
+                  },
+                  {
+                      "new_id":  108.6,
+                      "pal_title":  "Bereavement Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/bereavement-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:27:45.7210485+10:00"
                   }
               ]
 }
