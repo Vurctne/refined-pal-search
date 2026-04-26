@@ -2223,6 +2223,14 @@ const PAL_POLICIES = [
   { id: 109.2, title: 'Emergency Services Leave', category: 'HR - Leave', tags: ['emergency', 'services', 'leave', 'further', 'information', 'resources', 'refer', 'guidance', 'there', 'topic'], summary: 'There is no further guidance for this topic. For more information, refer to the Resources tab.', url: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/policy-and-guidelines', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/resources' }
   }
+,
+  { id: 109.5, title: 'Leave — Bushfire, Flood or Other Severe Weather Event', category: 'HR - Leave', tags: ['leave', 'bushfire', 'flood', 'severe', 'weather', 'event', 'employees', 'loss', 'through', 'ensure'], summary: 'As part of the department’s duty of care principals or managers need to ensure they act sensitively towards employees whose circumstances require them to be absent from the school or workplace as a result of bushfire, flood or other severe weather event. Employees are affected in many ways either directly or indirectly, including through the loss of family or friends or through the loss or damage to their homes and property.', url: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event/resources' },
+    chapters: [
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event' },
+      { title: 'Contact information', url: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event' }
+    ]
+  }
 ];
 
 const CATEGORIES = [
