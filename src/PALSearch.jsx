@@ -2202,6 +2202,27 @@ const PAL_POLICIES = [
       { title: 'Government Officer', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' }
     ]
   }
+,
+  { id: 109, title: 'Court Attendance Leave', category: 'HR - Leave', tags: ['court', 'attendance', 'leave', 'employee', 'salary', 'purposes', 'provision', 'treated', 'duty', 'official'], summary: 'An employee\'s attendance at a court in their official capacity: will be treated as duty for salary purposes subject to provision of evidence that the employee attended the court.', url: 'https://www2.education.vic.gov.au/pal/court-attendance-leave/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/court-attendance-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/court-attendance-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/court-attendance-leave/resources' }
+  }
+,
+  { id: 109.1, title: 'Cultural and Ceremonial Leave – Teaching Service', category: 'HR - Leave', tags: ['cultural', 'ceremonial', 'leave', 'teaching', 'service', 'aboriginal', 'exist', 'extended', 'islander', 'torres'], summary: '“ Extended family” has a meaning that recognises that extended families exist within Aboriginal and/or Torres Strait Islander society and obligations of Aboriginal and/or Torres Strait Islander employees may exist regardless of the existence of a bloodline relationship or not. Family also extends to cover relationships where there is a close association, which need not be a blood relationship.', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/resources' },
+    chapters: [
+      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to attend Aboriginal community meetings', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to attend Annual General Meetings of Aboriginal Community organisations', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Ceremonial leave', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'NAIDOC Week', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to participate in the First Peoples’ Assembly of Victoria', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Grievances', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' }
+    ]
+  }
+,
+  { id: 109.2, title: 'Emergency Services Leave', category: 'HR - Leave', tags: ['emergency', 'services', 'leave', 'further', 'information', 'resources', 'refer', 'guidance', 'there', 'topic'], summary: 'There is no further guidance for this topic. For more information, refer to the Resources tab.', url: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/emergency-services-leave/resources' }
+  }
 ];
 
 const CATEGORIES = [

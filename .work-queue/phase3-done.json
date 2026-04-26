@@ -371,6 +371,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:29:47.5531645+10:00"
+                  },
+                  {
+                      "new_id":  109.0,
+                      "pal_title":  "Court Attendance Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/court-attendance-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:31:46.3449845+10:00"
+                  },
+                  {
+                      "new_id":  109.1,
+                      "pal_title":  "Cultural and Ceremonial Leave – Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:31:46.3509845+10:00"
+                  },
+                  {
+                      "new_id":  109.2,
+                      "pal_title":  "Emergency Services Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/emergency-services-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:31:46.3519852+10:00"
                   }
               ]
 }
