@@ -1,69 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  89,
+    "total":  86,
     "items":  [
-                  {
-                      "db_id":  10,
-                      "title":  "Leave Without Pay — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  2,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  13,
-                      "title":  "Recognition of Prior Service for Leave Purposes — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  14,
-                      "title":  "Cessation of Employment — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  15,
                       "title":  "Attendance and Working Hours — Teaching Service",

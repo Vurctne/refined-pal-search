@@ -370,6 +370,48 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:30:38.3302492+10:00"
+                  },
+                  {
+                      "db_id":  13,
+                      "title":  "Recognition of Prior Service for Leave Purposes — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:32:14.7228882+10:00"
+                  },
+                  {
+                      "db_id":  14,
+                      "title":  "Cessation of Employment — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:32:14.7268879+10:00"
                   }
               ]
 }

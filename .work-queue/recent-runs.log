@@ -184,3 +184,18 @@
 2026-04-26T13:30:34.8014622+10:00 BUILD_START
 2026-04-26T13:30:38.3032496+10:00 BUILD_OK
 2026-04-26T13:30:38.3402556+10:00 COMMIT_START ids=12
+2026-04-26T13:30:38.5778341+10:00 COMMITTED ids=12
+2026-04-26T13:30:38.5868372+10:00 DEPLOY_START
+2026-04-26T13:30:53.2643167+10:00 DEPLOYED
+2026-04-26T13:30:53.2713178+10:00 RUN_END succeeded=1 failed=1 remaining=89
+2026-04-26T13:31:47.0322407+10:00 RUN_START
+2026-04-26T13:31:47.1020945+10:00 BATCH_TAKEN size=3 ids=10,13,14
+2026-04-26T13:31:47.1108822+10:00 PROCESSING id=10 url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy
+2026-04-26T13:32:08.0912700+10:00 FAILED id=10 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:32:08.1080157+10:00 PROCESSING id=13 url=https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview
+2026-04-26T13:32:09.8606457+10:00 ENRICHED id=13
+2026-04-26T13:32:09.8639970+10:00 PROCESSING id=14 url=https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview
+2026-04-26T13:32:11.4165157+10:00 ENRICHED id=14
+2026-04-26T13:32:11.4186743+10:00 BUILD_START
+2026-04-26T13:32:14.7048868+10:00 BUILD_OK
+2026-04-26T13:32:14.7328881+10:00 COMMIT_START ids=13,14
