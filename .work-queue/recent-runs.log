@@ -13,3 +13,14 @@
 2026-04-26T12:05:00.2075509+10:00 DEPLOY_START
 2026-04-26T12:05:18.2412128+10:00 DEPLOYED
 2026-04-26T12:05:18.2486745+10:00 RUN_END succeeded=2 failed=0 remaining=109
+2026-04-26T13:07:31.9770846+10:00 RUN_START
+2026-04-26T13:07:32.0594603+10:00 BATCH_TAKEN size=3 ids=7,9,17
+2026-04-26T13:07:32.0681510+10:00 PROCESSING id=7 url=https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines
+2026-04-26T13:07:33.1966459+10:00 ENRICHED id=7
+2026-04-26T13:07:33.1996473+10:00 PROCESSING id=9 url=https://www2.education.vic.gov.au/pal/parental-absence-teaching-service/policy-and-guidelines/leave-entitlements
+2026-04-26T13:07:40.7800196+10:00 ENRICHED id=9
+2026-04-26T13:07:40.7824859+10:00 PROCESSING id=17 url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy
+2026-04-26T13:08:02.4362888+10:00 FAILED id=17 error=fetch_failed url=https://www2.education.vic.gov.au/pal/recruitment-schools/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:08:02.4467763+10:00 BUILD_START
+2026-04-26T13:08:05.7399060+10:00 BUILD_OK
+2026-04-26T13:08:05.7599277+10:00 COMMIT_START ids=7,9
