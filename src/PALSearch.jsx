@@ -2135,6 +2135,36 @@ const PAL_POLICIES = [
       { title: 'Operational Teaching Assistants Pilot (Reference 156)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/operational-teaching-assistants-pilot-reference-156' }
     ]
   }
+,
+  { id: 108.1, title: 'Students with Disabilities Transport Program (SDTP)', category: 'Finance', tags: ['students', 'disabilities', 'transport', 'program', 'sdtp', 'public', 'change', 'january', 'year', 'reflect'], summary: 'From 1 January 2026, people aged under 18 will be able to travel for free on all Victorian public transport services. This policy will have minor updates in the new year to reflect the implications of this change.', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/policy', resources: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/resources' },
+    chapters: [
+      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/introduction' },
+      { title: 'Criteria determining eligibility for the SDTP', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/criteria-determining-eligibility-sdtp' },
+      { title: 'Types of assistance available', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/types-assistance-available' },
+      { title: 'Administration of the SDTP', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/administration-sdtp' },
+      { title: 'Provision of transport services', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/provision-transport-services' },
+      { title: 'Glossary', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/appendix-1-glossary' },
+      { title: 'Privacy', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/privacy' }
+    ]
+  }
+,
+  { id: 108.2, title: 'Vehicles (Excluding Buses) – Owned or Hired by a School', category: 'Finance', tags: ['vehicles', 'excluding', 'buses', 'owned', 'hired', 'school', 'activities', 'sets', 'hire', 'policy'], summary: 'This policy sets out the requirements for vehicles owned or hired by a school, excluding buses. Schools are permitted to own or hire vehicles seating up to 9 adults (including the driver) for school activities.', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/vehicles/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/vehicles/policy', resources: 'https://www2.education.vic.gov.au/pal/vehicles/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Purchasing or hiring a school vehicle', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Registration and insurance', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Maintenance and operation of school vehicles', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Child restraints', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Work-related driving procedure for school vehicles', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' }
+    ]
+  }
+,
+  { id: 108.3, title: 'Code of Conduct', category: 'HR - Conduct', tags: ['code', 'conduct', 'further', 'resources', 'information', 'refer', 'guidance', 'topic', 'there'], summary: 'There is no further guidance for this topic. For more information, refer to the Resources tab.', url: 'https://www2.education.vic.gov.au/pal/code-conduct/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/code-conduct/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/code-conduct/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/code-conduct/resources' }
+  }
 ];
 
 const CATEGORIES = [

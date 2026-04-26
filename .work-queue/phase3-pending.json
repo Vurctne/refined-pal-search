@@ -1,41 +1,8 @@
 ﻿{
     "phase":  "phase3",
     "created_at":  "2026-04-26T00:00:00+00:00",
-    "total":  328,
+    "total":  325,
     "items":  [
-                  {
-                      "new_id":  108.1,
-                      "pal_title":  "Students with Disabilities Transport Program (SDTP)",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/transport-students-disabilities",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  108.2,
-                      "pal_title":  "Vehicles (Excluding Buses) – Owned or Hired by a School",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/vehicles",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  108.3,
-                      "pal_title":  "Code of Conduct",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/code-conduct",
-                      "pal_native_category":  "Human resources: HRWeb",
-                      "suggested_db_category":  "HR - Conduct",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "new_id":  108.4,
                       "pal_title":  "Complaints – Information for Employees",
