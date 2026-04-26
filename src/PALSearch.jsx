@@ -309,8 +309,21 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview#rpl-main' }
   ],
 },
-  { id: 31, title: 'Sexual Harassment — Employees', category: 'HR - Conduct', tags: ['sexual harassment', 'harassment', 'conduct and integrity'], summary: 'Sexual harassment is unlawful and not tolerated. Report to principal/manager or Conduct and Integrity Division (03 7034 6768).', url: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview' },
-  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy' },
+  { id: 31, title: 'Sexual Harassment — Employees', category: 'HR - Conduct', tags: ['sexual harassment', 'harassment', 'conduct and integrity'], summary: 'Sexual harassment is unlawful and not tolerated. Report to principal/manager or Conduct and Integrity Division (03 7034 6768).', url: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview#rpl-main' }
+  ],
+},
+  { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1 What is bullying? 2 What isn’t bullying 3 Responsibilities 4 How to report bullying 5 Responding to reports of bullying 6 Support and assistance 7 Further application 8 Legislation, codes of practice, standards and guidance', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/1-what-bullying https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/2-what-isnt-bullying https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/3-responsibilities-department https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/4-how-report-bullying https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/5-responding-reports-bullying https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/6-support-and-assistance https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/7-further-application https://www2.education.vic.gov.au/pal/workplace-bullying/procedure/8-legislation-codes-practice-standards-and-guidance' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy#rpl-main' }
+  ],
+},
   { id: 33, title: 'Equal Opportunity — Employees', category: 'HR - Conduct', tags: ['equal opportunity', 'discrimination', 'victimisation', 'vilification', 'protected attributes'], summary: 'Equal opportunity obligations, protected attributes and avoiding discrimination or victimisation.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity/policy' },
   { id: 34, title: 'Inclusive Workplaces', category: 'HR - Conduct', tags: ['inclusive', 'diversity', 'disability', 'accessibility', 'workforce diversity'], summary: 'Creating inclusive workplaces for employees with disabilities and from diverse backgrounds.', url: 'https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy' },
   { id: 35, title: 'Respectful Workplaces', category: 'HR - Conduct', tags: ['respectful', 'bullying', 'harassment', 'discrimination'], summary: 'Reporting bullying, harassment, discrimination or victimisation. Contact Conduct and Integrity Division 03 7034 6768.', url: 'https://www2.education.vic.gov.au/pal/respectful-workplaces/policy' },

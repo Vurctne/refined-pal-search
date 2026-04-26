@@ -562,6 +562,49 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:44:35.7973130+10:00"
+                  },
+                  {
+                      "db_id":  31,
+                      "title":  "Sexual Harassment — Employees",
+                      "url":  "https://www2.education.vic.gov.au/pal/sexual-harassment/overview",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:46:21.9803729+10:00"
+                  },
+                  {
+                      "db_id":  32,
+                      "title":  "Workplace Bullying",
+                      "url":  "https://www2.education.vic.gov.au/pal/workplace-bullying/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:46:21.9833821+10:00"
                   }
               ]
 }
