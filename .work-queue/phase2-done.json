@@ -221,6 +221,46 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:18:00.7388067+10:00"
+                  },
+                  {
+                      "db_id":  86,
+                      "title":  "Excursions",
+                      "url":  "https://www2.education.vic.gov.au/pal/excursions/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  11,
+                                            "resource_count":  15,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:20:24.2040664+10:00"
+                  },
+                  {
+                      "db_id":  91,
+                      "title":  "Privacy and Information Sharing",
+                      "url":  "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  11,
+                                            "resource_count":  9,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:20:24.2080673+10:00"
                   }
               ]
 }
