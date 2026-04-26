@@ -500,8 +500,11 @@ const PAL_POLICIES = [
       { title: 'Purchase order template', note: '' },
       { title: 'Licence and agreement templates', note: 'Legal Division intranet' },
       { title: 'Department-managed panels', note: 'staff login required — agreements with panels of suppliers across multiple categories' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details 1. Procurement principles 2. Determining the market engagement approach 3. Rules of use 4. Procurement tools and templates 5. Contracting Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy https://www2.education.vic.gov.au/pal/procurement-in-schools/policy' }
+  ],
+},
   { id: 43, title: 'Travel', category: 'Finance', tags: ['travel', 'business travel', 'interstate', 'international', 'travel insurance', 'vmia', 'victorian managed insurance authority', 'foi'], summary: 'Travel policy for Department business travel. Subject to FOI and parliamentary scrutiny. Travel insurance coverage via VMIA; see Finance Manual Section 21.', url: 'https://www2.education.vic.gov.au/pal/travel/policy', popular: true,
   tabs: [ 'Skip to main content' ],
   chapters: [
@@ -610,8 +613,9 @@ const PAL_POLICIES = [
       { title: 'Fixed Term Teacher Vacancy Ready Reckoner (up to 2030)', note: '' },
       { title: 'Dual Role Allowance Calculator', note: 'for employees in 2 job functions' },
       { title: 'School activity time in lieu spreadsheet', note: 'for camps and school activities' }
-    ]
-  },
+    ],
+  tabs: [ 'Skip to main content' ],
+},
   // School Council
   { id: 54, title: 'School Council — Powers and Functions', category: 'School Council', tags: ['school council', 'powers', 'functions', 'governance', 'wwcc'], summary: 'School council powers and functions. From 2026, most council members require a WWCC.', url: 'https://www2.education.vic.gov.au/pal/school-council-powers-and-functions/policy', popular: true,
   tabs: [ 'Skip to main content' ],
