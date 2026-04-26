@@ -369,3 +369,18 @@
 2026-04-26T13:59:01.2910379+10:00 BUILD_START
 2026-04-26T13:59:04.7873171+10:00 BUILD_OK
 2026-04-26T13:59:04.8310926+10:00 COMMIT_START ids=41.6,41.7,41.8
+2026-04-26T13:59:05.2585989+10:00 COMMITTED ids=41.6,41.7,41.8
+2026-04-26T13:59:05.2715971+10:00 DEPLOY_START
+2026-04-26T13:59:19.0261750+10:00 DEPLOYED
+2026-04-26T13:59:19.0451735+10:00 RUN_END succeeded=3 failed=0 remaining=61
+2026-04-26T13:59:47.1384630+10:00 RUN_START
+2026-04-26T13:59:47.2100074+10:00 BATCH_TAKEN size=3 ids=43,46,47
+2026-04-26T13:59:47.2170076+10:00 PROCESSING id=43 url=https://www2.education.vic.gov.au/pal/travel/policy
+2026-04-26T14:00:00.3364275+10:00 ENRICHED id=43
+2026-04-26T14:00:00.3384289+10:00 PROCESSING id=46 url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview
+2026-04-26T14:00:21.5836586+10:00 FAILED id=46 error=fetch_failed url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T14:00:21.5956636+10:00 PROCESSING id=47 url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy
+2026-04-26T14:00:39.0941988+10:00 ENRICHED id=47
+2026-04-26T14:00:39.0971970+10:00 BUILD_START
+2026-04-26T14:00:42.3396543+10:00 BUILD_OK
+2026-04-26T14:00:42.3846523+10:00 COMMIT_START ids=43,47

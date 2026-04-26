@@ -803,6 +803,50 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:59:04.8243295+10:00"
+                  },
+                  {
+                      "db_id":  43,
+                      "title":  "Travel",
+                      "url":  "https://www2.education.vic.gov.au/pal/travel/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:00:42.3726579+10:00"
+                  },
+                  {
+                      "db_id":  47,
+                      "title":  "Student Resource Package — School Infrastructure",
+                      "url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:00:42.3796583+10:00"
                   }
               ]
 }
