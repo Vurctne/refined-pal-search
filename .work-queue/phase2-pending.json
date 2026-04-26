@@ -1,65 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  107,
+    "total":  104,
     "items":  [
-                  {
-                      "db_id":  37,
-                      "title":  "Finance Manual — Financial Management for Schools",
-                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/policy",
-                      "current_state":  {
-                                            "has_tabs":  true,
-                                            "has_chapters":  true,
-                                            "has_resources":  true,
-                                            "chapter_count":  20,
-                                            "resource_count":  63,
-                                            "chapters_have_tails":  true
-                                        },
-                      "actions_needed":  [
-
-                                         ],
-                      "priority":  1,
-                      "attempts":  2,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  48,
-                      "title":  "Parent Payments",
-                      "url":  "https://www2.education.vic.gov.au/pal/parent-payment/policy",
-                      "current_state":  {
-                                            "has_tabs":  true,
-                                            "has_chapters":  true,
-                                            "has_resources":  true,
-                                            "chapter_count":  3,
-                                            "resource_count":  9,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_chapter_tails"
-                                         ],
-                      "priority":  1,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  56,
-                      "title":  "Enrolment",
-                      "url":  "https://www2.education.vic.gov.au/pal/enrolment/policy",
-                      "current_state":  {
-                                            "has_tabs":  true,
-                                            "has_chapters":  true,
-                                            "has_resources":  true,
-                                            "chapter_count":  16,
-                                            "resource_count":  22,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_chapter_tails"
-                                         ],
-                      "priority":  1,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  59,
                       "title":  "Suspensions",

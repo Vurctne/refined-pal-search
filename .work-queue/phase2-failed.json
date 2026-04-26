@@ -42,6 +42,26 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T13:12:17.4051720+10:00"
+                  },
+                  {
+                      "db_id":  37,
+                      "title":  "Finance Manual — Financial Management for Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  20,
+                                            "resource_count":  63,
+                                            "chapters_have_tails":  true
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  1,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T13:14:10.1764813+10:00"
                   }
               ]
 }
