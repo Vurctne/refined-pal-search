@@ -1,0 +1,270 @@
+{
+  "by_entry": {
+    "106.7": {
+      "title": "Camps, Sports and Excursions Fund (CSEF)",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Eligibility",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/eligibility",
+          "snippet": "Applications must be submitted to the school by 26 June 2026. Where a school or family is unsure if the concession card is eligible, they are encouraged to submit the application into the CSEF system for validation. Those that are eligible to apply for the CSEF must meet both of the following 2 criteria. The applicant must be one of the following on the first student day of Term 1 (28 January 2026) or Term 2 (20 April 2026): Where the parent or carer is seeking eligibility based on an eligible financially means-tested card, eligibility will be determined when the relevant concession card successfully validates with Centrelink on either the first student day of Term 1 or Term 2."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Payment amounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/payment-amounts",
+          "snippet": "Payments for 2026 are $400 per year for all eligible Victorian school students. Payments are made directly to the school: Payments are for the application year and cannot be claimed for previous years. All CSEF payments are paid directly to the school as a bulk payment. The schools bank details are stored in the accounts payable system. Government schools can receipt this money to the respective parent/carer through CASES21 in accounts receivable via the CSEF0007 message. To view the breakdown of payments on the CSEF system home page, schools must look under recent payment batches and click on the relevant batch number. Schools can export this data to Excel."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Acquittal",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/acquittal-and-communication",
+          "snippet": "Schools are responsible for allocating the CSEF payment towards camps, sports and excursion costs against the recipient family/student of CSEF. At government schools, the CASES21 system allows CSEF expenditure to be allocated against recipient student’s expenses. When a CSEF payment is deposited into the school’s high yield account, schools must run the process to receipt the CSEF payment against the family account. The family statement has a column indicating CSEF receipts. Schools can then allocate the CSEF payment to the appropriate camps, sports and excursion costs. For more information, see the CASES21 Family Financial Process Guide External Link (Section 1). At Catholic schools the Catholic Education Commission of Victoria External Link (CECV) can advise schools as to the appropriate accounting treatment and acquittal process. Independent schools may have different systems in place. It is the responsibility of the school to ensure that their systems can allocate CSEF expenditure against recipient students' expenses."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Submitting an application",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/submitting-application",
+          "snippet": "The Camps, Sports and Excursions Fund (CSEF) system is open for schools to enter applications from 19 January 2026. Parents/carers who wish to access CSEF funds for 2026 and are required to submit an application to the relevant school before 26 June 2026. Parents/carers are only required to submit an application to the school in the following circumstances: Where a parent/carer is not required to submit a new application, schools can rollover/copy the previous year’s application on the CSEF system to the current school year. Please note this is a manual process that needs to be completed by the school’s CSEF Administrator every year. The system will not rollover the applications automatically. CSEF applications may be audited by the department. Acquittal Guidance chapter on how schools are to acquit expenditure ag... Processing CSEF applications Guidance chapter on how schools process applications for the... Guidance chapter on how families and school submit applications for the CSEF Reviewed 24 December 2025"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Processing CSEF applications",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/processing-csef-applications",
+          "snippet": "School administrators can process applications, and find further information, on the Camps, Sports and Excursions Fund (CSEF) system (staff login required) External Link . School administrators must make sure the CASES21 end of year processing has been completed, and the school's student enrolment system is up to date with the latest enrolments for current year, before CSEF applications can be processed. This will minimise the risk of incorrect CSEF information being copied across from the previous year to the current year and reduce the chance of overpayments or underpayments. Government schools must ensure that CASES21 (admin) accurately reflects current student enrolment details. This means that all students currently enrolled at a school are shown as active on CASES21. The CSEF system will automatically schedule a download of the student data across to the CSEF system overnight. Government schools can schedule a download of the student data by selecting:"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Application processing problems – possible follow-up action",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/application-processing-problems-possible-follow",
+          "snippet": "Applications which have an application type of 'applicant has CRN' are automatically validated with Centrelink's database to confirm that the applicants s concession card was valid on the CSEF first eligibility date (the first day of Term 1). Applications which fail the Centrelink validation are displayed on the CSEF system homepage with a status of ‘CRN validation failed’. The relevant school and/or CSEF administrator will also receive an automated email identifying any CRN validation failures. Where an applicant’s CSEF application has failed the validation, please check and amend any errors on the application form, including ensuring the applicants name and CRN digits match. If the name on the card does match the name on the application form, then please send a copy of the application form and concession card via email to csef@education.vic.gov.au The Schools Finance and Resources Branch will then receive automatic notification of the uploaded scanned document – there is no need to also email the document to the Schools Finance and Resources Branch. However, if a school is unable to attach documents, as an alternative a school can scan and email the confirmation letter to csef@education.vic.gov.au for processing. Each night, the CSEF System checks applications for the current year to detect any students that may have duplicated records across schools. This usually happens if a student leaves a school and transfers to another Victorian school. The school at which the student is enrolled and attending on Census day 27 February 2026 is the school that must process the student’s CSEF application."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Unused funds",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/unused-funds",
+          "snippet": "Where an application is approved, the full CSEF payment for that year will be granted no matter when it is approved. If the family has already paid for some camp, sports or excursion costs, the CSEF payment cannot be used to reimburse families for those payments. However, families may: For further CASES21 related scenarios that school administrators may encounter, refer to CSEF Help for CASES21 Family Finances External Link (staff login required). This document provides step-by-step guidance to resolve or address potential issues. For any additional assistance or variation to this scenario log a call with the department service desk on 1800 641 943 . The school that the student is enrolled at and attending on the 27 February census date is the school that must process and receive the CSEF payment."
+        }
+      ]
+    },
+    "107.3": {
+      "title": "Private Vehicle Use",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": "Schools must not direct staff members to transport other staff, students or equipment. Schools must ensure the following requirements are met when use of private vehicles is unavoidable."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Approval, safety and legal requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": "The steps below set out what a principal or principal’s delegate must do when a staff member has volunteered the use of their private vehicle for any official business which may include transporting students."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Steps",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": "Principal or principal’s delegate must:"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Further requirements if transporting students",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": "When transporting a small number of students to a school activity in a private vehicle is unavoidable, the principal must ensure that:"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": "Private Vehicle Use Ensures schools meet safety and legal requirements when usin... Guidance There is no further guidance for this topic Policy for Private Vehicle Use (previously called Private Car Use) explaining insurance, safety and other requirements when using own car for work including when transporting students Reviewed 29 October 2025"
+        }
+      ]
+    },
+    "107.9": {
+      "title": "Student Resource Package – School Specific Programs",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "P–12 Complexity Allowance (Reference 38)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/p-12-complexity-allowance",
+          "snippet": "Administration Complexity Allowance supports approved P–12 Colleges (with a full cohort) by recognising the additional complexities in managing a P–12 setting. The allowance is based on the Principal Classification Budget (PCB) and allocates credit funding. The P–12 Complexity Allowance is not included for the purpose of determining the PCB. Schools with the following school types are eligible for P–12 Complexity Allowance funding at school level: Schools must contain a full P–12 cohort to be eligible. Funding is calculated at the Indicative, Confirmed and Revised cycles. Funding is allocated through credit funding. From 2026, the program will start being phased out and be fully phased out by 2029 and schools will receive 75% of their full funding entitlement in the 2026 SRP."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Location Index Funding (Reference 39)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/location-index-funding-reference",
+          "snippet": "The purpose of this funding line is to offset the costs of non-teaching services in rural schools by supplementing the added costs that rural schools incur for goods and services associated with freight and communications. Funding is provided to schools with campuses meeting the eligibility criteria. Allocations comprise a base component and a per student component, which varies based on the campus’s Location Index. For schools to be eligible for Location Index Funding (LIF) funding, the location of the school must be outside the ‘Major Cities of Australia’ Remoteness Area category, as defined by the Australian Bureau of Statistics (ABS), with reference to the 2021 Accessibility/Remoteness Index of Australia (ARIA). This includes: All campuses are eligible to receive LIF funding, except for Parkville College. Funding is calculated at the Indicative, Confirmed and Revised cycles. Funding is allocated through cash funding."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "MARC/MACC Teachers (Reference 40)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc-macc-teachers",
+          "snippet": "The allocation for Mobile Area Resource Centre (MARC) and the Mobile Art Craft Centre (MACC) Program is based on a teacher FTE and the funding rates are all-inclusive for salaries and related on-costs. MARC/MACC services enable small rural and regional schools to provide students with access to a broader range of texts and educational resources. MARC services provide literacy-based programs while MACC services provide art-based programs. MARC/MACC teachers work collaboratively with serviced schools to increase opportunities for students and, improve learning outcomes and engagement in relevant curriculum areas. The MARC/MACC program focuses on small rural and regional schools. MARC/MACC eligibility is generally targeted at schools with fewer than 100 primary level (F-6 or equivalent) enrolments. It is recommended that serviced schools are within 100km of a base school to maximise the amount of time MARC/MACC teachers spend at schools and minimise the time spent travelling between schools."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Instrumental Music Programs (Reference 41)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/instrumental-music-programs",
+          "snippet": "The Instrumental Music Program provides funding to secondary schools to assist with the additional costs of running an instrumental music program. The level of funding is determined by individual regions. Funding is calculated at the Indicative cycle and may be updated at the Confirmed cycle. Funding is allocated through credit funding. Funding also includes on-costs, specifically payroll tax and superannuation. MARC/MACC Teachers (Reference 40) Reference 40 of the SRP Guide, providing information on MARC... Language Assistants Program (Reference 4... Reference 42 of the SRP Guide, providing information on the ... Reference 41 of the SRP Guide, providing information on instrumental music programs funding including rates Reviewed 23 April 2024"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Language Assistants Program (Reference 42)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/language-assistants-reference-42",
+          "snippet": "Language assistants are allocated to government schools on an annual basis from Terms 2 to 4 through the Language Assistants Program (LAP). The LAP is managed by the Languages Unit, Curriculum and Teaching Practice Division. The following school types are eligible for LAP funding, which is allocated to the host school: Funding is calculated at the Confirmed budget cycle and allocated through credit funding. Fully funded language assistant = FTE × ES Salary Rate (Range 1.2.1) Partially funded language assistant = FTE × 0.7 × ES Salary Rate (Range 1.2.1)"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Country Area Program Grant (Reference 45)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/country-area-program-grant",
+          "snippet": "The purpose of this funding line is to increase country schools’ capacity to broaden their curriculum, improve Information and Communication Technology (ICT), professional development and promote networking . Funding is provided to schools with campuses meeting the eligibility criteria. Allocations comprise a base component and a per student component, which increase with distance from Melbourne. Campuses of any type that meet all of the following location criteria are eligible: Funding is calculated at the Indicative, Confirmed and Revised cycles. Funding is allocated through cash funding. Allocation = [(Base + Primary enrolment × Per primary student rate) + (Base + Secondary enrolment × Per secondary student rate)] × [1 + (Distance from Melbourne/150 km)]."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "MARC/MACC Grant (Reference 46)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc/macc-grant-reference-46",
+          "snippet": "The total budget for MARC/MACC services includes a credit allocation for the teacher undertaking MARC/MACC duties (refer to Reference 40 ) and a cash grant that is provided to the base school. The cash grant funding supports vehicle maintenance, running costs, cab/chassis replacement, insurance and registration. A MARC ‘box’ replacement program has been introduced and administered by regional offices. Any enquiries concerning ‘box’ replacement should be directed to your regional finance officer. All MARC/MACC allocations are administered through the regions. Casual clerical hours funding is intended to support administrative tasks associated with the operation of MARC and/or MACC services. Base school principals are responsible for overseeing the delivery of services and are accountable for the service budget. Any queries relating to the budget should be raised with the planning and implementation manager, via the base school principal, who will work with the regional finance manager to provide support. Funding is calculated at the Indicative cycle and may be updated at the Confirmed cycle."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Alternative Settings Teachers (Reference 47)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-settings-teachers",
+          "snippet": "Flexible learning options provide alternative, tailored education and support for children and young people who are disengaged, or have been identified as at risk of disengaging, from mainstream school. They provide an opportunity for disengaged or at-risk children and young people to achieve positive learning outcomes through engagement in a more flexible learning environment, coupled with wellbeing supports. For further information, refer to the department’s policy on Flexible Learning Options . Lower teacher to student ratios are allocated to these settings to provide a tailored and supportive learning environment for a small number of students whose needs are not being met through mainstream settings. Alternative Settings Teachers should use the department’s re-engagement guidelines to develop their programs to support at risk and vulnerable students, refer to Re-engagement Programs . Teacher salary charges to schools will continue to be based on actual payroll debits for individual staff as reflected on eduPay. This includes the actual cost of annual leave loading and all allowances, such as higher duties and special payments. Also included are non-cash benefits for teachers. All Alternative Settings Teacher funding allocations are determined by regional offices."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Ancillary Settings Teachers (Reference 48)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/ancillary-settings-teachers",
+          "snippet": "Ancillary settings teachers are allocated to schools formerly having Social Adjustment Centres (SACs) and Secondary Teaching Units (STUs). Teacher salary charges for schools will continue to be based on actual payroll debits for individual staff as reflected on eduPay. This includes the actual cost of annual leave loading and all allowances, such as higher duties and special payments. Also included are non-cash benefits for teachers. Ancillary Settings Teacher funding allocations are determined by regional offices. Funding is calculated at the Indicative cycle and may be updated at the Confirmed cycle. Funding is allocated through credit and cash funding. Alternative Settings Teachers (Reference... Reference 47 of the SRP Guide, providing information on alte... Alternative programs – regional grants (... Reference 49 of the SRP Guide, providing information on alte... Reference 48 of the SRP Guide, providing information on ancillary settings teachers funding including rates Reviewed 31 December 2025"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Alternative programs – regional grants (Reference 49)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-programs-regional",
+          "snippet": "This is a regional allocation of funding, determined by each of the 4 regional offices, to support alternative programs for students. Where these funds are to be used by schools for salaries on eduPay, schools may need (depending on their overall budget surplus situation) to undertake a cash-to-credit transfer to offset the payroll charge-out. Funding is calculated at the Indicative cycle and may be updated at the Confirmed cycle. Funding is allocated through cash funding. Ancillary Settings Teachers (Reference 4... Reference 48 of the SRP Guide, providing information on anci... Joint Community Program (Reference 123) Reference 123 of the SRP Guide, providing information on Joi... Reference 49 of the SRP Guide, providing information on alternative programs - regional grants Reviewed 02 January 2023"
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Joint Community Program (Reference 123)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/joint-community-program",
+          "snippet": "Joint Community Program grants are for joint use facilities that were transferred from the regional offices and incorporated into the Student Resource Package (SRP). Funding is dependent on individual service agreements (administered by regional offices) between the department and an external provider. The agreements are generally established under a committee of management with representation from schools and other parties, such as municipal offices, and allocated on advice from regions. Funding is calculated at the Indicative cycle and may be updated at the Confirmed cycle. Funding is allocated through cash funding. From 2026, the program will start being phased out and be fully phased out by 2029 and schools will receive 75% of their full funding entitlement in the 2026 SRP."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Designated Bilingual Program (Reference 124)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/designated-bilingual-program",
+          "snippet": "The Designated Bilingual Program (DBP) provides annual funding to support the delivery of bilingual education across a select number of government bilingual schools through face-to-face teaching in the target language to 100% of students for a minimum of 30% (7.5 hours) and up to 50% (12.5 hours) per week. The DBP is managed by the Languages Unit, Curriculum and Teaching Practice Division. Schools with the following school types are included in the DBP: The department may provide an opportunity for a new school to enter the Designated Bilingual Program, subject to Ministerial approval and the availability of resources. This involves a targeted Expression of Interest (EOI) process to a small number of schools who can demonstrate strong community support, existing strong language programs such as highly successful Content and Language Integrated Learning (CLIL) programs. Applicant schools must demonstrate an evidence-based pathway toward achieving 100% student participation in a bilingual program, with instruction time in the target language to be offered for a minimum of 30% (7.5 hours) per week and ranging through to an aspirational target of 50% (12.5 hours)."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "Science and Technology (Reference 145)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/science-and-technology-reference",
+          "snippet": "The allocation for a Science and Technology teaching role supports 14 primary/secondary combined schools in remote or isolated areas and is allocated via each regional office. The allocation is based on the SRP teacher average rate and the EFT is advised by the region. This school specific program is designed to provide additional resources for schools in hard to staff rural areas that struggle to find a science specialist to provide specialised tuition to students attending the selected schools. The following 4 secondary schools are eligible: The following 10 primary/secondary combined schools are eligible:"
+        }
+      ]
+    },
+    "108.9": {
+      "title": "Councillors, Mayors and Shire Presidents Leave or Voluntary Community Activities Leave",
+      "category": "HR - Leave",
+      "url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Municipal Council",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy",
+          "snippet": "Employees who are elected as municipal councillors will be granted leave of absence with pay for periods of up to 3 hours per fortnight to attend council meetings during their term in office or, where special occasions arise, 6 hours per month. Employees who are elected as mayors and shire or municipality presidents will be granted leave of absence with pay for periods of up to 3 hours per week to attend council meetings during their term in office or, where special occasions arise, 6 hours per fortnight. Employees who are the spouse of a mayor or shire president may be granted leave of absence with pay for periods of up to 4 hours per month to attend official functions. Employees attending meetings of water authorities may be granted leave of absence with pay for periods of up 3 hours per fortnight. However, if the employee is also a municipal councillor, mayor or shire president, any absence is within the arrangements set out above."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Committee of Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy",
+          "snippet": "Employees who are elected as chair or president of a committee of management of a community organisation may be granted leave of absence with pay for periods of up to 3 hours per week to fulfil their official functions during their term in office or, where special occasions arise, 6 hours per fortnight. Employees who are elected as a committee member of a committee of management of a community organisation may be granted leave of absence with pay for periods of up to 3 hours per fortnight, or where special occasions arise, 6 hours per month."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Member of Parliament",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy",
+          "snippet": "Provisions relating to employees contesting a State or Federal election can be accessed at Elections — Employees Contesting Parliamentary Elections . Employees who are spouses of Members of Parliament will be granted leave of absence with pay for periods of up to 4 hours per month to attend official functions associated with their spouses' duties."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Government Officer",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy",
+          "snippet": "Employees who are spouses of senior officers of a State or Commonwealth department or statutory authority may be granted leave without pay to accompany the officer on official duties. Overview Overview of HR topic on employees with duties of office such... Resources Currently there are no resources for this topic Policy and guidelines relating to leave for employees elected to municipal councils or have other community roles Reviewed 10 June 2020"
+        }
+      ]
+    },
+    "132.5": {
+      "title": "Volunteers in Schools",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Schools must develop and implement school level policies and procedures for the recruitment, screening and management of volunteers, consistent with the requirements of Ministerial Order 1359 – Implementing the Child Safe Standards – Managing the Risk of Child Abuse in Schools and School Boarding Premises (PDF) External Link . A template Volunteers policy (staff login required) External Link is available on the School Policy Templates Portal. Schools can modify the template to suit their local circumstances."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Volunteer school and student workers",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "A volunteer school worker is a person who voluntarily engages in school work, without payment or reward. School work means: This is a broad definition and means that volunteers who participate in school activities, such as fundraising and assisting with excursions, are well protected from legal action by others. A volunteer student worker is a person who voluntarily engages in approved community work, without payment or reward. Approved community work means work approved by the principal of the school by a student of the school."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Assessing volunteer suitability",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Schools must assess and verify the suitability of volunteers, refer to the Working with Children and Other Suitability Checks for School Volunteers and Visitors Policy . The principal has the discretion to determine the ongoing suitability of a volunteer working in their school and may make a decision at any time whether a person is suitable to volunteer at the school."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Managing volunteers",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "A volunteer is expected to comply with any reasonable direction of a principal (or their nominee). This will include the requirement to agree and abide by the school’s child safety policy or statement of commitment to child safety and the school’s child safety code of conduct. If a volunteer does not follow a reasonable direction from a principal or nominee, the volunteer arrangement can be ended and/or they can be required to leave the school premises. Volunteers should be inducted, trained and supervised according to the school’s procedures for staff or volunteer induction and management. This includes being familiar with school level procedures for identifying and reporting suspected child abuse. Principals should notify the Conduct and Integrity Division (phone 03 7034 6768 ) as soon as possible after becoming aware of a reportable or notifiable allegation involving a volunteer, so that the Conduct and Integrity Division can assess the allegation and make a report to the Commission for Children and Young People (CCYP) or the Victorian Disability Workers Commission (VDWC), if required. Refer to Reportable and Notifiable Conduct . Any staff member in a position of authority (principals, assistant principals and campus principals) who becomes aware that an adult associated with their organisation (such as an employee, contractor, volunteer or visitor) poses a risk of sexual abuse to a child under the care, authority or supervision of the organisation, must take all reasonable steps to remove or reduce that risk. This may include, for example, removing the adult from child-related work pending investigation. If a staff member in a position of authority fails to take reasonable steps in these circumstances, this may amount to a criminal offence. Refer to Child Abuse (including grooming) – Identification and Response ."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Compensation for personal injury or property damage",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Volunteer school workers are covered by the Department’s worker's compensation policy if they suffer personal injury in the course of engaging in school work. If a volunteer school worker suffers damage to their property in the course of carrying out school work, the Minister may authorise such compensation as the Minister thinks reasonable in the circumstances. Claims of this nature are to be directed to: Legal Division People and Executive Services Group Department of Education and Training 2 Treasury Place East Melbourne VIC 3002 legal.services@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Liability",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Volunteer school workers are indemnified for claims in respect of personal injuries or death (and at the discretion of the Minister, for property damage) caused by volunteer school workers and volunteer student workers in the course of engaging in good faith in school work or community work respectively. The Personal Liability of School Employees policy applies to volunteer school workers."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Centrelink benefit recipients volunteering to work in schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "People who perform unpaid work in schools under the Work for the Dole program and community work programs or equivalent administered by Centrelink have personal accident insurance and public or product liability insurance cover provided by the Commonwealth Department of Employment, Skills, Small and Family Business and may perform work in schools. Other Centrelink benefit recipients involved in voluntary work in order to fulfill their recipient obligations would not be expected to be covered by an Australian Government insurance scheme. Schools may however accept this group of Centrelink benefit recipients to work as volunteers in Victorian government schools, on the basis that they are insured by the Department. A list of the activities that a Work for the Dole participant can undertake can be found on the Work for the Dole External Link website."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Volunteer school worker Defined in section 5.6.1 of the Education and Training Reform Act 2006 (Vic) as meaning a person who without remuneration or reward voluntarily engages in school work Volunteer student worker Defined in section 5.6.1 of the Education and Training Reform Act 2006 (Vic) as meaning a person who, without remuneration or reward, voluntarily engages in approved community work Approved community work Defined in section 5.6.1 of the Education and Training Reform Act 2006 (Vic) as meaning community work engaged in by a student of a registered school and approved by the principal of the school as school community work"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Relevant legislation and ministerial order",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": "Education and Training Reform Act 2006 (Vic) External Link Ministerial Order 1388 – Teaching Service (Employment Conditions, Salaries, Allowances, Selection and Conduct) Order 2022 (PDF) External Link Privacy and Data Protection Act 2014 (Vic) External Link Summary Offences Act 1966 (Vic) External Link Wrongs Act 1958 (Vic) External Link Volunteers in Schools The legal rights of volunteer school workers and the respons... Guidance There is no further guidance for this topic. For more inform... Department policy on the legal rights of volunteer school workers and the responsibilities of schools in managing volunteers Reviewed 24 March 2026"
+        }
+      ]
+    }
+  },
+  "chunk_index": 4,
+  "entry_count": 5,
+  "chapter_count": 38
+}

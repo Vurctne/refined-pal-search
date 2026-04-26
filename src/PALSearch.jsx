@@ -1827,9 +1827,9 @@ const PAL_POLICIES = [
   { id: 103.6, title: 'Koorie Education', category: 'Curriculum', tags: ['koorie', 'students', 'support', 'year', 'strait', 'living', 'refers', 'term', 'equivalent', 'quality'], summary: 'The purpose of this policy is to support schools in providing quality and meaningful education to Koorie students, where Koorie students engage fully in their schooling years, and gain the knowledge and skills to excel at year 12 or its equivalent. The term Koorie is used inclusively and refers to both Aboriginal and Torres Strait Islander people living in Victoria.', url: 'https://www2.education.vic.gov.au/pal/koorie-education/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/koorie-education/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/koorie-education/policy', resources: 'https://www2.education.vic.gov.au/pal/koorie-education/resources' },
     chapters: [
-      { title: 'Strengthening Aboriginal self-determination in education', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/strengthening-aboriginal-self-determination-in-education' },
-      { title: 'Engaging with community stakeholders', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/engaging-with-community-stakeholders' },
-      { title: 'Koorie Literacy and Numeracy Program', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/koorie-literacy-numeracy-program' }
+      { title: 'Strengthening Aboriginal self-determination in education — Campfire Conversations, 180 events, 3,000 participants, Marrung Aboriginal Education Plan 2016-2026, Koorie self-determination', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/strengthening-aboriginal-self-determination-in-education' },
+      { title: 'Engaging with community stakeholders — Koorie stakeholder engagement, reciprocity, Aboriginal partnerships, community principles, Torres Strait Islander', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/engaging-with-community-stakeholders' },
+      { title: 'Koorie Literacy and Numeracy Program — KLNP, Foundation to Year 6, literacy, numeracy, Koorie students, early intervention', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/koorie-literacy-numeracy-program' }
     ]
   }
 ,
@@ -1838,23 +1838,23 @@ const PAL_POLICIES = [
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
       { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'VCE Vocational Major', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Victorian Pathways Certificate', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Certificate provision expectation', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Delivering the VCE VM and VPC', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Student enrolments in the VCE VM and VPC', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'VCE Vocational Major — VCE VM, 2-year program, vocational and applied learning, non-ATAR pathways, apprenticeships, VCAA', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Victorian Pathways Certificate — VPC, Year 11 and 12, AQF Level 1, Education and Training Reform Act 2006, Suitability Guidelines, VCAA', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Certificate provision expectation — VCE VM, VPC, Literacy, Numeracy, Work Related Skills, Personal Development Skills, on-site delivery', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Delivering the VCE VM and VPC — 1.5 days teacher time release, 20 June 2025, Schools Targeted Funding Portal, Jobs Skills and Pathways Managers, VCAA, Senior Secondary Pathways Reform Taskforce', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Student enrolments in the VCE VM and VPC — VCE VM, VPC, career education program, certificate provision expectation, Jobs Skills and Pathways Manager, enrolment practices', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Definitions — selective entry school, Year 8 entrance exam, Mac.Robertson Girls\' High School, Melbourne High School, Nossal High School, Suzanne Cory High School', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
       { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
-      { title: 'Contact', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' }
+      { title: 'Contact — sspr.provision@education.vic.gov.au, vcaa.seniorsecondaryreform@education.vic.gov.au, school.registration@education.vic.gov.au, Senior Secondary Pathways Reform Taskforce, School Provision and Establishment Division', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' }
     ]
   }
 ,
   { id: 117.9, title: 'Digital Learning', category: 'IT & Privacy', tags: ['digital', 'learning', 'policy', 'device', 'deputy', 'bring', 'usage', 'students', 'primary', 'byod'], summary: 'This policy has been updated to align with the recent announcement by the Deputy Premier and Minister for Education on 16 October 2025 on Bring Your Own Device (BYOD) programs and student digital device usage times in schools with primary students. This policy outlines requirements and recommendations for the use of digital technologies (digital hardware, software and resources) in a safe, intentional and responsible way that supports learning.', url: 'https://www2.education.vic.gov.au/pal/digital-learning/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/digital-learning/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/digital-learning/policy', resources: 'https://www2.education.vic.gov.au/pal/digital-learning/resources' },
     chapters: [
-      { title: 'Communicating behavioural expectations to students (Acceptable Use Agreements)', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/communicating-behavioural-expectations-to-students-acceptable-use-agreements' },
-      { title: 'Student digital device provision', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-digital-device-provision' },
-      { title: 'Strategic planning for digital technologies', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/strategic-planning-for-digital-technologies' }
+      { title: 'Communicating behavioural expectations to students (Acceptable Use Agreements) — Acceptable Use Agreements, AUA, Child Safe Standard 10, 2-year review, Minimum Standards, school registration', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/communicating-behavioural-expectations-to-students-acceptable-use-agreements' },
+      { title: 'Student digital device provision — 1-to-1 model, BYOD, hybrid approach, Parent Payments policy, secondary school students, shared class set', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-digital-device-provision' },
+      { title: 'Strategic planning for digital technologies — ICT strategic plan, School Strategic Plan, Annual Implementation Plan, Service Desk, Arc Learning, servicedesk@education.vic.gov.au', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/strategic-planning-for-digital-technologies' }
     ]
   }
 ,
@@ -1862,11 +1862,11 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/visitors/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/visitors/policy', resources: 'https://www2.education.vic.gov.au/pal/visitors/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Details — elected government commitment, rule of law, freedom of religion, visitor record, School Policy Template Portal, Visitors policy template', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
       { title: 'Types of visitors', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
-      { title: 'Visiting speakers', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
-      { title: 'Talent scouts', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
-      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' }
+      { title: 'Visiting speakers — visiting speakers, Teaching and Learning Resources, Selecting Appropriate Materials, family views', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Talent scouts — talent scouts, school community support, principal considerations, scouted activity', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Relevant legislation — Ministerial Direction No.145, Worker Screening Act 2020', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' }
     ]
   }
 ,
@@ -1874,28 +1874,28 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/volunteers/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/volunteers/policy', resources: 'https://www2.education.vic.gov.au/pal/volunteers/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Volunteer school and student workers', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Assessing volunteer suitability', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Managing volunteers', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Compensation for personal injury or property damage', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Liability', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Centrelink benefit recipients volunteering to work in schools', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
-      { title: 'Relevant legislation and ministerial order', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' }
+      { title: 'Details — Ministerial Order 1359, Child Safe Standards, School Boarding Premises, School Policy Templates Portal, volunteer template', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Volunteer school and student workers — volunteer school worker, volunteer student worker, approved community work, fundraising, excursions, no payment', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Assessing volunteer suitability — volunteer suitability, Working with Children Check, principal discretion, suitability checks', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Managing volunteers — child safety code of conduct, Conduct and Integrity Division, 03 7034 6768, CCYP, VDWC, reportable conduct', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Compensation for personal injury or property damage — worker\'s compensation policy, property damage, Legal Division, 2 Treasury Place, legal.services@education.vic.gov.au, Minister authorisation', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Liability — indemnification, personal injuries, death, Personal Liability of School Employees, good faith school work', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Centrelink benefit recipients volunteering to work in schools — Work for the Dole, Centrelink, personal accident insurance, public liability, Commonwealth Department of Employment, Victorian government schools', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Definitions — section 5.6.1, Education and Training Reform Act 2006, volunteer school worker definition, approved community work, registered school', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Relevant legislation and ministerial order — Education and Training Reform Act 2006, Ministerial Order 1388, Privacy and Data Protection Act 2014, Summary Offences Act 1966, Wrongs Act 1958, 24 March 2026', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' }
     ]
   }
 ,
   { id: 136.7, title: 'Supporting Students in Out-of-Home Care', category: 'Students', tags: ['supporting', 'students', 'out-of-home', 'care', 'partnering', 'agreement', 'obligations', 'schools', '2018', 'policy'], summary: 'This policy provides an overview of out-of-home care and to outline schools’ obligations under the Out-of-Home-Care Education Commitment: a Partnering Agreement 2018 (DOCX) External Link (the Partnering Agreement). Under the Partnering Agreement, schools must meet certain obligations to students in out-of-home care.', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/policy', resources: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/resources' },
     chapters: [
-      { title: '1 Appointing a learning mentor', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/appointing-learning-mentor' },
-      { title: '2 Assign a Student Support Group to the student', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/2-assign-student-support-group-student' },
-      { title: '3 Developing an Individual Education Plan', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/3-developing-individual-education-plan' },
-      { title: '4 Make a referral for an Educational Needs Analysis', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/4-make-referral-educational-needs-analysis' },
-      { title: '5 Nominating a designated teacher', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/5-nominating-designated-teacher' },
-      { title: '6 Introduction to Educational Needs Analysis Guidance', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/6-introduction-educational-needs-analysis-guidance' },
-      { title: '7 Educational Needs Analysis Process', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/7-educational-needs-analysis-process' }
+      { title: '1 Appointing a learning mentor — learning mentor, out-of-home care, designated teacher, school leadership team, trusted staff member', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/appointing-learning-mentor' },
+      { title: '2 Assign a Student Support Group to the student — SSG, termly meetings, case manager, parent guardian carer', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/2-assign-student-support-group-student' },
+      { title: '3 Developing an Individual Education Plan — IEP, SSG, DHHS Looking After Children Framework, social and behavioural difficulties', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/3-developing-individual-education-plan' },
+      { title: '4 Make a referral for an Educational Needs Analysis — ENA, 3 months statutory care, Student Support Services Team Leader, IEP referral', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/4-make-referral-educational-needs-analysis' },
+      { title: '5 Nominating a designated teacher — designated teacher, LOOKOUT Education Support Centre, school principal nomination, transition support', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/5-nominating-designated-teacher' },
+      { title: '6 Introduction to Educational Needs Analysis Guidance — ENA, 3 months statutory care, SEN, IEP, PLP, trauma and disrupted attachment', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/6-introduction-educational-needs-analysis-guidance' },
+      { title: '7 Educational Needs Analysis Process — ENA flowchart, Partnering Agreement, DHHS Child Protection, CSOs, SSS, DET Key Contact', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/7-educational-needs-analysis-process' }
     ]
   }
 ,
@@ -1903,53 +1903,53 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
-      { title: 'School Audit Support', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
-      { title: 'Audits, reviews and other assurance programs', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' }
+      { title: 'Details — OHS, financial assurance, enrolment data verification, legislative compliance, risk management', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
+      { title: 'School Audit Support — School Audit Support, OPSEC, scheduling conflicts, school.audit.support@education.vic.gov.au, 03 7022 0044', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
+      { title: 'Audits, reviews and other assurance programs — assurance programs overview, regularly conducted, Victorian government schools', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' }
     ]
   }
 ,
   { id: 106.6, title: 'Buses – Owned, Hired or Chartered by a School', category: 'Finance', tags: ['buses', 'owned', 'hired', 'chartered', 'school', 'seating', 'purchase', 'built', 'positions', 'defines'], summary: 'This policy sets out the requirements for schools who purchase or hire buses, operate buses, or charter bus services. The Bus Safety Act 2009 (Vic) defines a bus as a motor vehicle that has been built with seating positions for 10 or more adults (including the driver).', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/policy', resources: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/resources' },
     chapters: [
-      { title: 'Application process for bus accreditation', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/application-process-bus-accreditation' },
-      { title: 'Maintenance management system', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/maintenance-management-system' },
-      { title: 'Management information system', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/management-information-system' },
-      { title: 'School chartered bus services', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/school-chartered-bus-services' },
-      { title: 'Use of student resource package funding to purchase, hire or charter a school bus', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/use-student-resource-package-funding-purchase' }
+      { title: 'Application process for bus accreditation — bus accreditation, Safe Transport Victoria, Application for bus operator accreditation form, school council operator, principal responsible person, MIS', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/application-process-bus-accreditation' },
+      { title: 'Maintenance management system — MMS, Safe Transport Victoria, roadworthy condition, MMS policy template, service intervals, hired bus driver', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/maintenance-management-system' },
+      { title: 'Management information system — MIS, fleet register, Safe Transport Victoria, consolidated MIS template, incident history, accreditation application', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/management-information-system' },
+      { title: 'School chartered bus services — chartered bus, school council procurer, certificate of accreditation, certificates of currency, driver licensing, bus operator engagement', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/school-chartered-bus-services' },
+      { title: 'Use of student resource package funding to purchase, hire or charter a school bus — SRP funds, exceptional cases, regional director approval, documented purpose, charter bus procurement, prohibited activities', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/use-student-resource-package-funding-purchase' }
     ]
   }
 ,
   { id: 106.7, title: 'Camps, Sports and Excursions Fund (CSEF)', category: 'Finance', tags: ['camps', 'sports', 'excursions', 'fund', 'csef', 'family', 'financial', 'policy', 'appropriately', 'payments'], summary: 'The purpose of this policy is to ensure schools appropriately administer, and support families to access, the Camps, Sports and Excursions Fund (CSEF) so that a family’s financial circumstances are not a barrier to student participation. Payments are made directly to the school of an eligible family.', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/policy', resources: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/resources' },
     chapters: [
-      { title: 'Eligibility', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/eligibility' },
-      { title: 'Payment amounts', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/payment-amounts' },
-      { title: 'Acquittal', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/acquittal-and-communication' },
-      { title: 'Submitting an application', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/submitting-application' },
-      { title: 'Processing CSEF applications', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/processing-csef-applications' },
-      { title: 'Application processing problems – possible follow-up action', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/application-processing-problems-possible-follow' },
-      { title: 'Unused funds', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/unused-funds' }
+      { title: 'Eligibility — 26 June 2026, 28 January 2026, 20 April 2026, Centrelink, concession card, CSEF', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/eligibility' },
+      { title: 'Payment amounts — $400, CASES21, CSEF0007, bulk payment, accounts payable, Excel export', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/payment-amounts' },
+      { title: 'Acquittal — CASES21, high yield account, family statement, CECV, Catholic schools, Family Financial Process Guide', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/acquittal-and-communication' },
+      { title: 'Submitting an application — 19 January 2026, 26 June 2026, CSEF Administrator, rollover application, audit, manual process', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/submitting-application' },
+      { title: 'Processing CSEF applications — CASES21 admin, end of year processing, overnight download, enrolment data, overpayments, CSEF system', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/processing-csef-applications' },
+      { title: 'Application processing problems – possible follow-up action — CRN validation failed, Centrelink, Term 1, csef@education.vic.gov.au, Census 27 February 2026, duplicated records', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/application-processing-problems-possible-follow' },
+      { title: 'Unused funds — 27 February census, full CSEF payment, no reimbursement, 1800 641 943, CASES21 Family Finances, service desk', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/unused-funds' }
     ]
   }
 ,
   { id: 107, title: 'Contractors – Insurance and Contract Arrangements', category: 'Finance', tags: ['contractors', 'insurance', 'contract', 'arrangements', 'school', 'councils', 'engage', 'sometimes', 'requirements', 'goods'], summary: 'The purpose of this policy is to outline requirements relating to insurance and contract arrangements when school councils engage contractors. School councils sometimes need to engage contractors to provide goods or services to the school.', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/resources' },
     chapters: [
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
-      { title: 'Insurance requirements', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
-      { title: 'Standard contracts', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
-      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' }
+      { title: 'Details — school council, contractor engagement, OHS, Contractor OHS Management, workplace health and safety', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Insurance requirements — indemnity clause, $10 million public liability, workers compensation, State of Victoria, contractor insurance', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Standard contracts — standard-form contracts, school council, third-party risk, Resources tab', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Relevant legislation — section 21, insurance and contract requirements, school councils, Reviewed 05 December 2025', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' }
     ]
   }
 ,
   { id: 106.8, title: 'Canteens', category: 'Finance', tags: ['canteens', 'schools', 'information', 'directs', 'links', 'establishing', 'managing', 'canteen', 'school', 'policy'], summary: 'This policy directs schools to information about the requirements for school canteens. This page links schools to information about: When establishing and managing a canteen, schools must comply with:', url: 'https://www2.education.vic.gov.au/pal/canteens/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/canteens/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/canteens/policy', resources: 'https://www2.education.vic.gov.au/pal/canteens/resources' },
     chapters: [
-      { title: 'Overview', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
+      { title: 'Overview — canteen outsourcing, third-party provider, template agreement, Schools Procurement', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
       { title: 'Contact', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
-      { title: 'For queries regarding financial management requirements', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
-      { title: 'For queries regarding healthy eating and food handling', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' }
+      { title: 'For queries regarding financial management requirements — Schools Financial Management Support Unit, schools.finance.support email', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
+      { title: 'For queries regarding healthy eating and food handling — Health Promotion Prevention and Advice, health.advice email, healthy eating, food handling, reviewed 10 December 2025', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' }
     ]
   }
 ,
@@ -1957,43 +1957,43 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/career-education-funding/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy', resources: 'https://www2.education.vic.gov.au/pal/career-education-funding/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' },
-      { title: 'Importance of career education', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' }
+      { title: 'Details — career education funding, Years 7-12, specialist schools, English language schools, Victorian government secondary', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' },
+      { title: 'Importance of career education — career education, life-long learning, secondary schools, student wellbeing, best practice', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' }
     ]
   }
 ,
   { id: 107.1, title: 'Conveyance Allowance Program', category: 'Finance', tags: ['conveyance', 'allowance', 'program', 'policy', 'students', 'support', 'ensure', 'school', 'families', 'assistance'], summary: 'The purpose of this policy is to ensure that schools support eligible families to receive financial assistance with the cost of transporting students to and from school where the student: This policy applies to both government and non-gover...', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/policy', resources: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/resources' },
     chapters: [
-      { title: 'Eligibility criteria', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/eligibility-criteria' },
-      { title: 'Criteria 1 to 3 – Applicable to all students', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-1-3-applicable-all-students' },
-      { title: 'Criteria 4 to 5 – Applicable to students attending a mainstream school', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-4-5-applicable-students-attending-mainstream-school' },
-      { title: 'Criterion 6 – Applicable to students attending specialist schools for students with disabilities', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-6-applicable-students-attending-specialist-schools' },
-      { title: 'Criterion 7 – Applicable to students attending other specialist settings', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-7-applicable-students-attending-other-specialist' },
-      { title: 'Application for the conveyance allowance', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/application-forms-conveyance-allowance-and-processing' },
-      { title: 'Processing applications (using SCAS)', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/processing-applications-using-scas' },
-      { title: 'Change of address', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/change-address-sibling-entitlement-adjustments-and-payments' },
-      { title: 'Sibling entitlement', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/sibling-entitlement' },
-      { title: 'Adjustments to a conveyance allowance', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/adjustments-conveyance-allowance' },
-      { title: 'Payments for students who reside at more than one address', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/payments-students-who-reside-more-one-address' },
-      { title: 'Appeals and special case consideration', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/appeals-and-special-case-consideration' },
-      { title: 'Types of assistance available', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/types-assistance-available' },
-      { title: 'Responsibilities of parents/carers', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/responsibilities-parents/carers' },
-      { title: 'Training for school staff', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/training-school-staff' },
-      { title: 'Conveyance allowance rates', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/conveyance-allowance-rates' },
-      { title: 'Public transport accessibility measures', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/public-transport-accessibility-measures' }
+      { title: 'Eligibility criteria — SCAS, criteria 1-3, criteria 4-7, multi-campus eligibility, Minister for Education and Training', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/eligibility-criteria' },
+      { title: 'Criteria 1 to 3 – Applicable to all students — 4.8km, shortest practicable route, all-weather public roads, ages 6-17, ages 4-20, Enrolment Policy', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-1-3-applicable-all-students' },
+      { title: 'Criteria 4 to 5 – Applicable to students attending a mainstream school — Metropolitan Conveyance Allowance Boundary, Urban Growth Boundary, Accessibility Index, postcode area, CAU, DELWP', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-4-5-applicable-students-attending-mainstream-school' },
+      { title: 'Criterion 6 – Applicable to students attending specialist schools for students with disabilities — Designated Transport Area, DTA, SDTP, specialist schools, nearest non-government specialist', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-6-applicable-students-attending-specialist-schools' },
+      { title: 'Criterion 7 – Applicable to students attending other specialist settings — Special Case Consideration Panel, Student Transport and Allowance Branch, deaf facilities, hearing impaired, nearest deaf facility', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-7-applicable-students-attending-other-specialist' },
+      { title: 'Application for the conveyance allowance — Form 3, Form 4, Form 5, free public transport under 18, ticket purchase evidence, most economical fare', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/application-forms-conveyance-allowance-and-processing' },
+      { title: 'Processing applications (using SCAS) — SCAS user ID form, conveyance@education.vic.gov.au, enrolment data import, non-government schools', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/processing-applications-using-scas' },
+      { title: 'Change of address — change of residential address, new application, reassessed against criteria', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/change-address-sibling-entitlement-adjustments-and-payments' },
+      { title: 'Sibling entitlement — no sibling entitlement, individual student eligibility', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/sibling-entitlement' },
+      { title: 'Adjustments to a conveyance allowance — travel period adjustment, early school leave, modify SCAS application', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/adjustments-conveyance-allowance' },
+      { title: 'Payments for students who reside at more than one address — primary address, secondary address, CASES21, pro-rata payment, multi-mode allowance, CAU', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/payments-students-who-reside-more-one-address' },
+      { title: 'Appeals and special case consideration — Transport special case consideration form, STU, student.transport@education.vic.gov.au, panel sitting dates, CAU', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/appeals-and-special-case-consideration' },
+      { title: 'Types of assistance available — private car, private bus, School Bus Program, SDTP, Transport Victoria, 7-9 am, 3-5 pm', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/types-assistance-available' },
+      { title: 'Responsibilities of parents/carers — 7 days notification, application form, residential change', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/responsibilities-parents/carers' },
+      { title: 'Training for school staff — 1800 060 970, conveyance@education.vic.gov.au, e-learning course, SCAS training', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/training-school-staff' },
+      { title: 'Conveyance allowance rates — annual rates, TV fares, transport service type', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/conveyance-allowance-rates' },
+      { title: 'Public transport accessibility measures — Accessibility Index, postcode score, school start finish times, public transport alignment', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/public-transport-accessibility-measures' }
     ]
   }
 ,
   { id: 107.2, title: 'Insurance for Schools', category: 'Finance', tags: ['insurance', 'schools', 'important', 'government', 'school', 'sets', 'purpose', 'operations', 'managed', 'guidance'], summary: 'The purpose of this policy is to ensure all government schools have: It is important that principals and business managers are able to identify which risks to school finances or operations are covered by the department\'s insurance and which are not. The guidance sets out the insurance policies managed by the department and how they are applied to schools.', url: 'https://www2.education.vic.gov.au/pal/insurance/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/insurance/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/insurance/policy', resources: 'https://www2.education.vic.gov.au/pal/insurance/resources' },
     chapters: [
-      { title: '1. Introduction', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/1-introduction' },
-      { title: '2. Insurance policies', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/2-insurance-policies' },
-      { title: '3. Certificates of currency', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/3-certificates-currency' },
-      { title: '4. Claims procedures', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/4-claims-procedures' },
-      { title: '5. School council expenses not covered by the department', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/school-council-expenses-not-covered-det' },
-      { title: '6. Definitions', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/definitions' }
+      { title: '1. Introduction — VMIA, 30 June expiry, WorkCover exclusion, Incident and Security Operations Centre, 1800 126 126, school council cover', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/1-introduction' },
+      { title: '2. Insurance policies — Public and Products Liability, $1 billion cover, $5 million SIR, Legal Division, 03 9637 3146, Education and Training Reform Act 2006 section 2.3.2', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/2-insurance-policies' },
+      { title: '3. Certificates of currency — Certificate of Currency, Confirmation of Cover, VMIA policies, Resources tab, proof of cover', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/3-certificates-currency' },
+      { title: '4. Claims procedures — Legal Division claims, legal.services@education.vic.gov.au, 03 9637 3146, volunteer school workers, Centrelink volunteers, Financial Compliance Unit', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/4-claims-procedures' },
+      { title: '5. School council expenses not covered by the department — School Council Liability and Legal Proceedings, uncovered expenses, claims procedures referral', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/school-council-expenses-not-covered-det' },
+      { title: '6. Definitions — Education and Training Reform Act 2006 section 5.6.1, approved community work, Centrelink volunteer, volunteer school worker, volunteer student worker, school work', url: 'https://www2.education.vic.gov.au/pal/insurance/guidance/definitions' }
     ]
   }
 ,
@@ -2001,12 +2001,12 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy', resources: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
-      { title: 'Approval, safety and legal requirements', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
-      { title: 'Steps', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
-      { title: 'Further requirements if transporting students', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Details — private vehicles, transport restriction, staff, students, equipment', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Approval, safety and legal requirements — principal delegate, volunteered private vehicle, official business, transporting students', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Steps — principal delegate steps', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
+      { title: 'Further requirements if transporting students — small number of students, private vehicle, school activity, principal approval', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
       { title: 'Related topics', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' },
-      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' }
+      { title: 'Relevant legislation — Private Vehicle Use, comprehensive insurance, transporting students, 29 October 2025, own car for work', url: 'https://www2.education.vic.gov.au/pal/private-vehicle-use/policy' }
     ]
   }
 ,
@@ -2014,119 +2014,119 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy', resources: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
-      { title: 'Compliance and monitoring', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
-      { title: 'Instructions for both single and multi-quote procurements', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
-      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
-      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' }
+      { title: 'Details — VSBA, $5,000-$150,000, GST, PDCMA, Project Development and Construction Management Act 1994, Ministerial Directions and Instructions', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Compliance and monitoring — $5,000-$150,000, GST, PDCMA, identify manage monitor, school council delegated authority, VSBA approval, $150,000 threshold', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Instructions for both single and multi-quote procurements — single quote $5,000-$75,000, 3 quotes $75,001-$150,000, AIMS upload, VSBA approval $150,000+, external contractor work orders', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Definitions — financial delegate, school council president, construction works, construction services, ramp 1 in 14, Australian Standards', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' },
+      { title: 'Relevant legislation — Project Development and Construction Management Act 1994, $5,000-$150,000, GST, reviewed 11 February 2026', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' }
     ]
   }
 ,
   { id: 107.5, title: 'School Bus Program', category: 'Finance', tags: ['school', 'program', 'schools', 'roles', 'policy', 'outline', 'provision', 'purpose', 'involved', 'ensure'], summary: 'The purpose of this policy is to outline the specific roles and responsibilities for schools involved in the provision and management of the School Bus Program (SBP). Schools must ensure School Bus Program (SBP) services are managed in accordance with the requirements in the Guidance tab .', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/school-bus-program/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-bus-program/policy', resources: 'https://www2.education.vic.gov.au/pal/school-bus-program/resources' },
     chapters: [
-      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/introduction' },
-      { title: 'Conditions of travel', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/conditions-travel' },
-      { title: 'Criteria determining eligibility for the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/criteria-determining-eligibility-school-bus-program' },
-      { title: 'Ineligible travellers accessing the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/ineligible-students-accessing-school-bus-program' },
-      { title: 'Administration of the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/administration-school-bus-program' },
-      { title: 'Provision of bus services', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/provision-bus-services' },
-      { title: 'Glossary', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/glossary' },
-      { title: 'Privacy information', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/privacy-information' }
+      { title: 'Introduction — SBP, rural Victoria, Student Transport Unit, application form, conditions of travel, eligibility priority', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/introduction' },
+      { title: 'Conditions of travel — SBP conditions of travel, application forms, coordinating principal, bus service compliance', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/conditions-travel' },
+      { title: 'Criteria determining eligibility for the School Bus Program — 1.6km, 400m, 60 minutes, public transport, Journey Planner, free travel under 18, Department of Transport and Planning', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/criteria-determining-eligibility-school-bus-program' },
+      { title: 'Ineligible travellers accessing the School Bus Program — special category traveller, 4.8km, 5 days a week, coordinating principal, post-secondary, apprentices', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/ineligible-students-accessing-school-bus-program' },
+      { title: 'Administration of the School Bus Program — Student Travel Assistance Portal, STU, DTP, bus operators, regional offices, network rollout', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/administration-school-bus-program' },
+      { title: 'Provision of bus services — 80 km/h speed zone, standing students, approved bus stops, route variations, temporary arrangements', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/provision-bus-services' },
+      { title: 'Glossary — ad-hoc travel, bus operator, TSV, Bus Safety Act 2009, client school, coordinating school', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/glossary' },
+      { title: 'Privacy information — Privacy and Data Protection Act 2014, Health Records Act 2001, Charter of Human Rights 2006, InfoSafe, Application for Permission to Travel', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/privacy-information' }
     ]
   }
 ,
   { id: 107.6, title: 'Student Resource Package – Core Student Learning Allocation Funding (Student-Based Funding)', category: 'Finance', tags: ['student', 'resource', 'package', 'core', 'learning', 'allocation', 'funding', 'student-based', 'types', 'provides'], summary: 'This policy provides information on how funding is allocated to schools through the Student Resource Package (SRP) for core student learning needs. Core student learning allocation funding is one of two types of student based funding.', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/policy', resources: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/resources' },
     chapters: [
-      { title: 'Student per capita funding Years Prep-12 students (Reference 1)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/student-per-capita-funding' },
-      { title: 'Enrolment Linked Base (Reference 2)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/enrolment-linked-base' },
-      { title: 'Small School Base (Reference 3)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/small-school-base' },
-      { title: 'Rural School Size Adjustment Factor (Reference 4)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/rural-school-size-adjustment-factor' },
-      { title: 'Core Index Stages 1–3 (Reference 5)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/core-index' },
-      { title: 'Size Adjustment Supplementation (Reference 6)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/size-adjustment-supplementation' },
-      { title: 'Approved Early Education Program (Reference 7)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/approved-early-education-program' },
-      { title: 'Principal Salary Adjustment (Reference 8)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/principal-salary-adjustment' },
-      { title: 'Mental Health Practitioners (Reference 119)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/mental-health-practitioners' },
-      { title: 'Camps Payment (Reference 144)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/camps-payment-reference-144' },
-      { title: 'Autism schools – Stages of Schooling (Reference 148)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-stages-of-schooling-reference-148' },
-      { title: 'Autism schools – dual enrolment linked base (Reference 149)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-dual-enrolment-linked-base' },
-      { title: 'Deaf facility funding (Reference 150)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/deaf-facility-funding-reference-150' }
+      { title: 'Student per capita funding Years Prep-12 students (Reference 1) — per-student rates, University of Melbourne research, Indicative Confirmed Revised budget cycles, credit and cash funding, Prep-12, campus-level allocation', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/student-per-capita-funding' },
+      { title: 'Enrolment Linked Base (Reference 2) — ELB, flat base with taper, multi-campus colleges, 1 km apart, per student taper, safety net for small schools', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/enrolment-linked-base' },
+      { title: 'Small School Base (Reference 3) — Small School Base, primary base reduces with enrolments, 110 enrolments, secondary flat base, multi-site primary, multi-campus colleges', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/small-school-base' },
+      { title: 'Rural School Size Adjustment Factor (Reference 4) — RSSAF, non-metropolitan, non-provincial, payroll tax, superannuation, relief teaching, per student rate', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/rural-school-size-adjustment-factor' },
+      { title: 'Core Index Stages 1–3 (Reference 5) — Core Index Stages 1-3, specialist schools, age range, Indicative and Confirmed budget cycles, census enrolment', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/core-index' },
+      { title: 'Size Adjustment Supplementation (Reference 6) — Size Adjustment Supplementation, 45 enrolment threshold, special development campuses, autism schools excluded, specialist schools', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/size-adjustment-supplementation' },
+      { title: 'Approved Early Education Program (Reference 7) — Approved Early Education Program, 2 years 8 months to 4 years 8 months, Aurora School, Furlong Park School for Deaf Children, FTE, specialist schools', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/approved-early-education-program' },
+      { title: 'Principal Salary Adjustment (Reference 8) — Principal Salary Adjustment, SRP Reference 8, specialist schools, post-2026 review', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/principal-salary-adjustment' },
+      { title: 'Mental Health Practitioners (Reference 119) — MHP, mental health practitioners, 0.2 FTE to 1.0 FTE, secondary campuses, April 2025 Confirmed SRP, 2-year fixed FTE', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/mental-health-practitioners' },
+      { title: 'Camps Payment (Reference 144) — domestic overnight camps, 11 pm to 7 am, 50% time-in-lieu, 4 hours, 3-day camp, Grade 2 to Year 12', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/camps-payment-reference-144' },
+      { title: 'Autism schools – Stages of Schooling (Reference 148) — Stages of Schooling, ASD, ID, Reference 148, Disability Inclusion Tier 3, Program for Students with Disabilities Level 1 to 6, Specialist School Enrolment Verification Service', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-stages-of-schooling-reference-148' },
+      { title: 'Autism schools – dual enrolment linked base (Reference 149) — dual enrolment linked base, autism schools, 2-tier tapering, 15% threshold, ages 4 to 11, ages 4 to 18', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-dual-enrolment-linked-base' },
+      { title: 'Deaf facility funding (Reference 150) — deaf facility funding, Reference 150, hearing impairment, Disability Inclusion Tier 2, Paramedical and Interpreter Staff Salaries Reference 19, mainstream schools', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/deaf-facility-funding-reference-150' }
     ]
   }
 ,
   { id: 107.7, title: 'Student Resource Package – Equity Funding (Student-Based Funding)', category: 'Finance', tags: ['student', 'resource', 'package', 'equity', 'funding', 'student-based', 'provides', 'needs', 'based', 'policy'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for additional learning needs. Equity funding is one of two types of student based funding.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/resources' },
     chapters: [
-      { title: 'Equity (Social Disadvantage) (Reference 11)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/equity-overview' },
-      { title: 'Equity (Catch Up) 2026 (Reference 158)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/2-equity-catch' },
-      { title: 'Mobility (Reference 14)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/3-mobility-reference' },
-      { title: 'Program for Students with Disabilities Levels 1–6 (Reference 15)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/4-program-students-0' },
-      { title: 'Special School Complexity Allowance (Reference 18)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/5-special-school' },
-      { title: 'Paramedical and Interpreter Staff Salaries (Reference 19)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/6-paramedical-and' },
-      { title: 'Medical Intervention Support (Reference 20)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/7-medical' },
-      { title: 'Special School Transport Administration (Reference 25)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/8-special-school' },
-      { title: 'EAL Program Funding (Reference 26)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/9-eal-program' },
-      { title: 'EAL Contingency (Reference 27)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/10-eal-contingency' },
-      { title: 'Disability Inclusion Tier 2 school level funding (Reference 137)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion' },
-      { title: 'Disability Inclusion Tier 3 student-level funding (Reference 138)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-0' },
-      { title: 'Disability Inclusion Transition Funding (Reference 140)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-1' }
+      { title: 'Equity (Social Disadvantage) (Reference 11) — Equity Social Disadvantage, Reference 11, parental occupation, parental education, SFO index, weighted rolling average', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/equity-overview' },
+      { title: 'Equity (Catch Up) 2026 (Reference 158) — Reference 158, $835 per student, $1,094.34, NAPLAN, needs additional support, small group learning', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/2-equity-catch' },
+      { title: 'Mobility (Reference 14) — Reference 14, 10% transient enrolment density, 3 years, August census, cash and credit funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/3-mobility-reference' },
+      { title: 'Program for Students with Disabilities Levels 1–6 (Reference 15) — PSD, Reference 15, Levels 1-6, Educational Needs Questionnaire, Disability Discrimination Act 1992, Student Support Group', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/4-program-students-0' },
+      { title: 'Special School Complexity Allowance (Reference 18) — Reference 18, Core Index, index point 2.9, $1,073.20, weighted mean Levels 1-6, Term 1', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/5-special-school' },
+      { title: 'Paramedical and Interpreter Staff Salaries (Reference 19) — Reference 19, 12.20% superannuation, 5.40% payroll tax, 1.35% leave loading, 1.5% short-term relief, deaf facilities', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/6-paramedical-and' },
+      { title: 'Medical Intervention Support (Reference 20) — MIS, Reference 20, ES Class Level 1 Range 2, Schoolcare Program, 4 school terms, credit funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/7-medical' },
+      { title: 'Special School Transport Administration (Reference 25) — Reference 25, Special School Transport Administration, 26 to 50 enrolment range, 4 school terms, cash funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/8-special-school' },
+      { title: 'EAL Program Funding (Reference 26) — Reference 26, EAL Index Levels 1-5, MEAs, August census, campus level', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/9-eal-program' },
+      { title: 'EAL Contingency (Reference 27) — Reference 27, EAL Contingency, Virtual EAL New Arrivals Program, MEAs, additional class trigger', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/10-eal-contingency' },
+      { title: 'Disability Inclusion Tier 2 school level funding (Reference 137) — Reference 137, Tier 2, eduPay, CASES21, SPOT funding planner, Annual Implementation Plan', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion' },
+      { title: 'Disability Inclusion Tier 3 student-level funding (Reference 138) — Reference 138, Tier 3, Disability Inclusion Profile, 31 educational activities, 6 domains, PSD replacement', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-0' },
+      { title: 'Disability Inclusion Transition Funding (Reference 140) — Reference 140, Disability Inclusion Transition Funding, 2021-2025 rollout, PSD expiration date, Disability Inclusion Profile', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-1' }
     ]
   }
 ,
   { id: 107.8, title: 'Student Resource Package – Overview', category: 'Finance', tags: ['student', 'resource', 'package', 'overview', 'schools', 'introduced', 'improvement', 'funding', 'policy', 'government'], summary: 'This policy provides an overview of the schools funding model. The Student Resource Package (SRP) was introduced for Victorian government schools in 2005 to bring about improvement in learning outcomes for students.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package/resources' },
     chapters: [
-      { title: 'Student Resource Package', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/student-resource-package' },
-      { title: 'Funding Allocation and Annual Budget Cycle', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/funding-allocation-and-annual-budget-cycle' }
+      { title: 'Student Resource Package — SRP, 2005 introduction, 2022 review, 2028 objectives, student-based funding, school-based funding, targeted initiatives', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/student-resource-package' },
+      { title: 'Funding Allocation and Annual Budget Cycle — SRP framework, eduPay credit, cash allocation, annual budget cycle, interchange funding, salary credit', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/funding-allocation-and-annual-budget-cycle' }
     ]
   }
 ,
   { id: 107.9, title: 'Student Resource Package – School Specific Programs', category: 'Finance', tags: ['student', 'resource', 'package', 'school', 'specific', 'programs', 'funding', 'policy', 'allocated', 'provided'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for school specific programs. ‘School-based funding’ is one of 3 categories of funding provided by the SRP.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/resources' },
     chapters: [
-      { title: 'P–12 Complexity Allowance (Reference 38)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/p-12-complexity-allowance' },
-      { title: 'Location Index Funding (Reference 39)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/location-index-funding-reference' },
-      { title: 'MARC/MACC Teachers (Reference 40)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc-macc-teachers' },
-      { title: 'Instrumental Music Programs (Reference 41)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/instrumental-music-programs' },
-      { title: 'Language Assistants Program (Reference 42)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/language-assistants-reference-42' },
-      { title: 'Country Area Program Grant (Reference 45)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/country-area-program-grant' },
-      { title: 'MARC/MACC Grant (Reference 46)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc/macc-grant-reference-46' },
-      { title: 'Alternative Settings Teachers (Reference 47)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-settings-teachers' },
-      { title: 'Ancillary Settings Teachers (Reference 48)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/ancillary-settings-teachers' },
-      { title: 'Alternative programs – regional grants (Reference 49)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-programs-regional' },
-      { title: 'Joint Community Program (Reference 123)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/joint-community-program' },
-      { title: 'Designated Bilingual Program (Reference 124)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/designated-bilingual-program' },
-      { title: 'Science and Technology (Reference 145)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/science-and-technology-reference' }
+      { title: 'P–12 Complexity Allowance (Reference 38) — P-12 Complexity Allowance, Reference 38, PCB, 75% funding 2026, phased out 2029, credit funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/p-12-complexity-allowance' },
+      { title: 'Location Index Funding (Reference 39) — Location Index Funding, Reference 39, ABS Remoteness Area, 2021 ARIA, Parkville College excluded, cash funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/location-index-funding-reference' },
+      { title: 'MARC/MACC Teachers (Reference 40) — MARC, MACC, Reference 40, FTE rates, 100km base school, fewer than 100 F-6 enrolments', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc-macc-teachers' },
+      { title: 'Instrumental Music Programs (Reference 41) — Instrumental Music Program, Reference 41, secondary schools, payroll tax, superannuation, credit funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/instrumental-music-programs' },
+      { title: 'Language Assistants Program (Reference 42) — Language Assistants Program, LAP, Reference 42, Terms 2-4, ES Salary Range 1.2.1, Languages Unit', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/language-assistants-reference-42' },
+      { title: 'Country Area Program Grant (Reference 45) — Country Area Program Grant, Reference 45, ICT, 150km Melbourne distance, base + per student, cash funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/country-area-program-grant' },
+      { title: 'MARC/MACC Grant (Reference 46) — MARC/MACC Grant, Reference 46, cab/chassis replacement, vehicle maintenance, regional finance officer, casual clerical hours', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc/macc-grant-reference-46' },
+      { title: 'Alternative Settings Teachers (Reference 47) — Alternative Settings Teachers, Reference 47, Flexible Learning Options, eduPay, lower teacher ratios, re-engagement guidelines', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-settings-teachers' },
+      { title: 'Ancillary Settings Teachers (Reference 48) — Ancillary Settings Teachers, Reference 48, SACs, STUs, eduPay, credit and cash funding', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/ancillary-settings-teachers' },
+      { title: 'Alternative programs – regional grants (Reference 49) — Alternative programs regional grants, Reference 49, 4 regional offices, eduPay, cash-to-credit transfer, payroll charge-out', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-programs-regional' },
+      { title: 'Joint Community Program (Reference 123) — Joint Community Program, Reference 123, joint use facilities, SRP, 75% funding 2026, phased out 2029', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/joint-community-program' },
+      { title: 'Designated Bilingual Program (Reference 124) — Designated Bilingual Program, DBP, Reference 124, 30% 7.5 hours, 50% 12.5 hours, CLIL, Ministerial approval', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/designated-bilingual-program' },
+      { title: 'Science and Technology (Reference 145) — Science and Technology, Reference 145, 14 primary/secondary schools, hard-to-staff rural, SRP teacher average rate, 4 secondary schools eligible', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/science-and-technology-reference' }
     ]
   }
 ,
   { id: 108, title: 'Student Resource Package – Targeted Initiatives', category: 'Finance', tags: ['student', 'resource', 'package', 'targeted', 'initiatives', 'funding', 'provides', 'provided', 'categories', 'policy'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for targeted initiatives. Funding for ‘targeted initiatives’ is one of 3 categories of funding provided for by the SRP.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/resources' },
     chapters: [
-      { title: 'Doctors in Secondary Schools – School program lead funding (Reference 64)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/doctors-secondary-schools-school' },
-      { title: 'Respectful Relationships (Reference 86)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/respectful-relationships-reference' },
-      { title: 'Extended Koorie Literacy and Numeracy Program: Years 4 to 6 (Reference 88)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/extended-koorie-literacy-and' },
-      { title: 'Early Years Koorie Literacy and Numeracy Program: Foundation to Year 3 (Reference 90)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/early-years-koorie-literacy-and' },
-      { title: 'Career Education Funding (Reference 91)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/career-education-funding-reference' },
-      { title: 'Swimming in Schools (Reference 115)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/swimming-school-reference-115' },
-      { title: 'Head Start (Reference 116)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/head-start-reference-116' },
-      { title: 'National Student Wellbeing Program (Reference 117)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/national-student-wellbeing-program' },
-      { title: 'Middle Years Literacy and Numeracy Support initiative (Reference 118)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/middle-years-literacy-and-numeracy' },
-      { title: 'Student Excellence Program Funding (Reference 120)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/student-excellence-program' },
-      { title: 'VCE Revision Lectures (Reference 121)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vce-revision-lectures-reference-121' },
-      { title: 'Primary Mathematics and Science Specialist Program (Reference 125)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/primary-mathematics-and-science' },
-      { title: 'Transition Funding (Rural) (Reference 126)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transition-funding-rural-reference' },
-      { title: 'Jobs, Skills and Pathways Coordination (Reference 127)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/jobs-skills-and-pathways-jsp' },
-      { title: 'Literacy and Numeracy Early Intervention Program (Reference 157)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/literacy-and-numeracy-early-intervention-program-reference-157' },
-      { title: 'Mental Health in Primary Schools (Reference 130)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-primary-schools-pilot' },
-      { title: 'Mental Health Practitioners in Specialist Schools (Reference 131)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-practitioners' },
-      { title: 'Career Start – Transforming the First Years of the Teaching Career (Reference 132)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transforming-first-years-teaching' },
-      { title: 'Inclusion Outreach Coaching initiative (Reference 136)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/inclusion-outreach-coaching-ioc' },
-      { title: 'School Mental Health Fund (Reference 139)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/school-mental-health-fund' },
-      { title: 'Active Schools (Reference 142)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/active-schools-reference-142' },
-      { title: 'Vocational Education and Training Delivered to School Students (Reference 143)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vocational-education-and-training-0' },
-      { title: 'NDIS Navigators (Reference 146)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/ndis-navigators-reference-146' },
+      { title: 'Doctors in Secondary Schools – School program lead funding (Reference 64) — DiSS, GPs, practice nurses, 100 secondary schools, 0.2 FTE Leading Teacher Level 3.1, Reference 64', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/doctors-secondary-schools-school' },
+      { title: 'Respectful Relationships (Reference 86) — Respectful Relationships, lead and partner school model, SRP, Reference 86', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/respectful-relationships-reference' },
+      { title: 'Extended Koorie Literacy and Numeracy Program: Years 4 to 6 (Reference 88) — E-KLNP, Years 4 to 6, CASES21 sub-program 9624, NAPLAN NAS, Reference 88', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/extended-koorie-literacy-and' },
+      { title: 'Early Years Koorie Literacy and Numeracy Program: Foundation to Year 3 (Reference 90) — EY-KLNP, Foundation to Year 3, CASES21 sub-program 9623, KLNP, Reference 90', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/early-years-koorie-literacy-and' },
+      { title: 'Career Education Funding (Reference 91) — CEF, Years 7 to 12, Virtual School Victoria, Victorian College of the Deaf, Reference 91', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/career-education-funding-reference' },
+      { title: 'Swimming in Schools (Reference 115) — SiS, VWSC, Victorian Curriculum F-10, Year 6, primary enrolments, Reference 115', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/swimming-school-reference-115' },
+      { title: 'Head Start (Reference 116) — Head Start, apprenticeship traineeship, SRP credit funding, Reference 116', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/head-start-reference-116' },
+      { title: 'National Student Wellbeing Program (Reference 117) — NSWP, $20,280, $24,336 remote, 1 January 2023, Reference 117', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/national-student-wellbeing-program' },
+      { title: 'Middle Years Literacy and Numeracy Support initiative (Reference 118) — MYLNS, Year 10, NAS, Year 9 NAPLAN 2025, FLO 4 campuses, Reference 118', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/middle-years-literacy-and-numeracy' },
+      { title: 'Student Excellence Program Funding (Reference 120) — SEP, high-ability students, 100% cash allocation, Targeted Programs Unit, Reference 120', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/student-excellence-program' },
+      { title: 'VCE Revision Lectures (Reference 121) — VCE Revision Lectures, rural regional, annual survey, Reference 121', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vce-revision-lectures-reference-121' },
+      { title: 'Primary Mathematics and Science Specialist Program (Reference 125) — PMSS, $20.8 million, 2024-25 State Budget, Cohort 8, 2025-2026, Reference 125', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/primary-mathematics-and-science' },
+      { title: 'Transition Funding (Rural) (Reference 126) — Transition Funding Rural, RSSAF, LIF, CAP, 2024 SRP minus 2025 SRP, Reference 126', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transition-funding-rural-reference' },
+      { title: 'Jobs, Skills and Pathways Coordination (Reference 127) — Jobs Skills and Pathways Coordination, VDSS, VCE Vocational Major, 0.3 FTE, Education Support Level 1 Range 4-6, Reference 127', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/jobs-skills-and-pathways-jsp' },
+      { title: 'Literacy and Numeracy Early Intervention Program (Reference 157) — LNEIP, grades 1 to 6, NAS, NAPLAN 2024 2025, Reference 157', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/literacy-and-numeracy-early-intervention-program-reference-157' },
+      { title: 'Mental Health in Primary Schools (Reference 130) — MHiPS, $200 million 4 years, $93.7 million ongoing, Mental Health and Wellbeing Leader, Reference 130', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-primary-schools-pilot' },
+      { title: 'Mental Health Practitioners in Specialist Schools (Reference 131) — MHP, specialist schools, 12 years+, 0.4-0.8 FTE, Mental Health Nurse, Reference 131', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-practitioners' },
+      { title: 'Career Start – Transforming the First Years of the Teaching Career (Reference 132) — Career Start, early career teachers, 13 areas, pilot 2021-2023, expanded 2025, Reference 132', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transforming-first-years-teaching' },
+      { title: 'Inclusion Outreach Coaching initiative (Reference 136) — IOC, Disability Inclusion Reform, Learning Specialist, Tier 1, base and partner schools, Reference 136', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/inclusion-outreach-coaching-ioc' },
+      { title: 'School Mental Health Fund (Reference 139) — School Mental Health Fund, $200 million 4 years, $86.85 million ongoing, Royal Commission, Menu, Reference 139', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/school-mental-health-fund' },
+      { title: 'Active Schools (Reference 142) — Active Schools, $30,000 grants, $3,000 PE Sport boost, $14,000 Extracurricular boost, Reference 142', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/active-schools-reference-142' },
+      { title: 'Vocational Education and Training Delivered to School Students (Reference 143) — VDSS, Certificate II III, Certificate IV, VCAA approval, Supplementary VET Funding, Reference 143', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vocational-education-and-training-0' },
+      { title: 'NDIS Navigators (Reference 146) — NDIS Navigators, $202.9 million, 2023-24 State Budget, specialist schools, 4 years, Reference 146', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/ndis-navigators-reference-146' },
       { title: 'Specialist School Activity Boost (Reference 147)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/specialist-school-activity-boost' },
       { title: 'Flexible work for school leaders initiative (Reference 151)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-school-leaders-initiative-reference-151' },
       { title: 'Hindi and Punjabi beacon schools (Reference 152)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/hindi-and-punjabi-beacon-schools-reference-152' },
@@ -2139,13 +2139,13 @@ const PAL_POLICIES = [
   { id: 108.1, title: 'Students with Disabilities Transport Program (SDTP)', category: 'Finance', tags: ['students', 'disabilities', 'transport', 'program', 'sdtp', 'public', 'change', 'january', 'year', 'reflect'], summary: 'From 1 January 2026, people aged under 18 will be able to travel for free on all Victorian public transport services. This policy will have minor updates in the new year to reflect the implications of this change.', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/policy', resources: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/resources' },
     chapters: [
-      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/introduction' },
-      { title: 'Criteria determining eligibility for the SDTP', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/criteria-determining-eligibility-sdtp' },
-      { title: 'Types of assistance available', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/types-assistance-available' },
-      { title: 'Administration of the SDTP', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/administration-sdtp' },
-      { title: 'Provision of transport services', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/provision-transport-services' },
-      { title: 'Glossary', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/appendix-1-glossary' },
-      { title: 'Privacy', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/privacy' }
+      { title: 'Introduction — SDTP, Education and Training Reform Regulations 2017, Bus Safety Act 2009, specialist schools, integrated schools, June 2018 policy', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/introduction' },
+      { title: 'Criteria determining eligibility for the SDTP — PSD, Disability Inclusion Tier 3, Disability Inclusion Profile, moderate to high needs, supplementary funding', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/criteria-determining-eligibility-sdtp' },
+      { title: 'Types of assistance available — Victorian Student Pass, conveyance allowance, independent travel, public transport reimbursement, STU', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/types-assistance-available' },
+      { title: 'Administration of the SDTP — EMP, Road Safety Act 1986, Bus Safety Act 2009, STU, regional offices, duty of care', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/administration-sdtp' },
+      { title: 'Provision of transport services — STU annual review, November, December PSD outcomes, route changes, bus operator consultation', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/provision-transport-services' },
+      { title: 'Glossary — TSV, Bus Safety Act 2009, contract vehicle, dead running, bus operator definition', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/appendix-1-glossary' },
+      { title: 'Privacy — Health Records Act 2001, Privacy and Data Protection Act 2014, Charter of Human Rights 2006, central pick-up point, informed consent', url: 'https://www2.education.vic.gov.au/pal/transport-students-disabilities/guidance-introduction/privacy' }
     ]
   }
 ,
@@ -2153,12 +2153,12 @@ const PAL_POLICIES = [
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/vehicles/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/vehicles/policy', resources: 'https://www2.education.vic.gov.au/pal/vehicles/resources' },
     chapters: [
       { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Purchasing or hiring a school vehicle', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Registration and insurance', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Maintenance and operation of school vehicles', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Child restraints', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
-      { title: 'Work-related driving procedure for school vehicles', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' }
+      { title: 'Details — 9 adults including driver, school activities, excursions, utility vehicle, Work-Related Driving', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Purchasing or hiring a school vehicle — school council approval, purchase or hire decision', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Registration and insurance — VicRoads registration, Victorian Managed Insurance Agency, VMIA, Insurance for Schools Policy', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Maintenance and operation of school vehicles — roadworthy condition, qualified mechanic, students prohibited from driving, maintenance records', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Child restraints — child restraints, aged below 7 years, seat belts, VicRoads Child restraints page', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' },
+      { title: 'Work-related driving procedure for school vehicles — Work-Related Driving Policy and Procedure, school staff drivers', url: 'https://www2.education.vic.gov.au/pal/vehicles/policy' }
     ]
   }
 ,
@@ -2177,7 +2177,7 @@ const PAL_POLICIES = [
   { id: 108.6, title: 'Bereavement Leave', category: 'HR - Leave', tags: ['bereavement', 'leave', 'funeral', 'granted', 'full', 'attending', 'purposes', 'normally', 'family', 'member'], summary: 'An employee may be granted bereavement leave on full pay of up to 3 days on account of the death of a member of their immediate family or household for the purposes of making funeral arrangements or attending the funeral. Bereavement leave would not normally be granted beyond the date of the funeral.', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/bereavement-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/bereavement-leave/resources' },
     chapters: [
-      { title: 'Supporting documentation', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines' }
+      { title: 'Supporting documentation — death notice, funeral notice, relationship to deceased, immediate family, household member', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines' }
     ]
   }
 ,
@@ -2188,18 +2188,18 @@ const PAL_POLICIES = [
   { id: 108.8, title: 'COVID-19 Special Leave – Teaching Service', category: 'HR - Leave', tags: ['covid-19', 'special', 'leave', 'teaching', 'service', 'positive', 'employees', 'guidelines', 'school', 'individuals'], summary: 'The department’s COVID-19 – School Operations Guidelines recommends that individuals who test positive to COVID-19 should isolate for at least 5 days or until symptoms have resolved. In relation to teaching service employees, this means that employees: Where an employee has tested positive for COVID-19 and:', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/resources' },
     chapters: [
-      { title: 'Context', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' },
-      { title: 'Entitlement', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' }
+      { title: 'Context — COVID-19 School Operations Guidelines, 5 days isolation, positive test, symptom resolution, teaching service', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' },
+      { title: 'Entitlement — COVID-19 special leave, eduPay evidence, positive test result, eligibility evidence', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' }
     ]
   }
 ,
   { id: 108.9, title: 'Councillors, Mayors and Shire Presidents Leave or Voluntary Community Activities Leave', category: 'HR - Leave', tags: ['councillors', 'mayors', 'shire', 'presidents', 'leave', 'voluntary', 'community', 'activities', 'hours', 'term'], summary: 'Employees who are elected as municipal councillors will be granted leave of absence with pay for periods of up to 3 hours per fortnight to attend council meetings during their term in office or, where special occasions arise, 6 hours per month. Employees who are elected as mayors and shire or municipality presidents will be granted leave of absence with pay for periods of up to 3 hours per week to attend council meetings during their term in office or, where special occasions arise, 6 hours per fortnight.', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy', resources: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/resources' },
     chapters: [
-      { title: 'Municipal Council', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
-      { title: 'Committee of Management', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
-      { title: 'Member of Parliament', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
-      { title: 'Government Officer', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' }
+      { title: 'Municipal Council — municipal councillors, 3 hours per fortnight, 6 hours per month, mayors, shire presidents, water authorities', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Committee of Management — committee of management, chair or president, 3 hours per week, 6 hours per fortnight, community organisation', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Member of Parliament — Members of Parliament, spouses, 4 hours per month, State or Federal election, official functions', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Government Officer — Government Officer, spouses senior officers, leave without pay, statutory authority, official duties', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' }
     ]
   }
 ,
@@ -2210,13 +2210,13 @@ const PAL_POLICIES = [
   { id: 109.1, title: 'Cultural and Ceremonial Leave – Teaching Service', category: 'HR - Leave', tags: ['cultural', 'ceremonial', 'leave', 'teaching', 'service', 'aboriginal', 'exist', 'extended', 'islander', 'torres'], summary: '“ Extended family” has a meaning that recognises that extended families exist within Aboriginal and/or Torres Strait Islander society and obligations of Aboriginal and/or Torres Strait Islander employees may exist regardless of the existence of a bloodline relationship or not. Family also extends to cover relationships where there is a close association, which need not be a blood relationship.', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/resources' },
     chapters: [
-      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'Leave to attend Aboriginal community meetings', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'Leave to attend Annual General Meetings of Aboriginal Community organisations', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'Ceremonial leave', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'NAIDOC Week', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'Leave to participate in the First Peoples’ Assembly of Victoria', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
-      { title: 'Grievances', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' }
+      { title: 'Definitions — extended family, Aboriginal and Torres Strait Islander, bloodline relationship, close association', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to attend Aboriginal community meetings — Aboriginal community meetings, released from duty, AGM exclusion', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to attend Annual General Meetings of Aboriginal Community organisations — AGM Aboriginal community organisations, accrued long service leave, election of office bearers', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Ceremonial leave — ceremonial leave, 3 days paid per year, funerals reburials memorials, no accrual, additional to bereavement', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'NAIDOC Week — NAIDOC week, 1 day paid per calendar year, no accrual', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Leave to participate in the First Peoples’ Assembly of Victoria — First Peoples\' Assembly of Victoria, 10 days paid per calendar year, flexible working arrangements', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' },
+      { title: 'Grievances — Merit Protection Boards, mpb.vic.gov.au, personal grievance, reviewed 03 December 2024', url: 'https://www2.education.vic.gov.au/pal/cultural-and-ceremonial-leave/policy-and-guidelines' }
     ]
   }
 ,
@@ -2235,11 +2235,11 @@ const PAL_POLICIES = [
   { id: 110.2, title: 'Access to Health Information — Employees', category: 'HR - Pay', tags: ['access', 'health', 'information', 'employees', 'right', 'them', 'held', 'school', 'referral', 'legally'], summary: 'The Health Records Act 2001 provides a legally enforceable right for people to access health information held about them in Victoria. Employees also have a right to seek access under the Freedom of Information Act 1982 to information about them including medical reports and referral letters held at the school and by the Department.', url: 'https://www2.education.vic.gov.au/pal/access-health-information', popular: false,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/access-health-information/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/access-health-information/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/access-health-information/resources' },
     chapters: [
-      { title: 'Referral letters', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
-      { title: 'Telephone conversations about a referral', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
-      { title: 'Request for access to medical report', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Referral letters — referral letter, medical practitioner, serious threat to life or health, confidence clause', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Telephone conversations about a referral — telephone referral, principal or manager, confidence note, medical practitioner', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Request for access to medical report — Freedom of Information Act 1982, Health Records Act 2001, legal or union representative, Department of Education privacy policy', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
       { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
-      { title: 'Contact information', url: 'https://www2.education.vic.gov.au/pal/access-health-information' }
+      { title: 'Contact information — Access to Health Information, principals and managers, medical reports, referral letters, Reviewed 25 February 2025', url: 'https://www2.education.vic.gov.au/pal/access-health-information' }
     ]
   }
 ];
