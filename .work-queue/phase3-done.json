@@ -119,6 +119,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:16:25.5429296+10:00"
+                  },
+                  {
+                      "new_id":  106.8,
+                      "pal_title":  "Canteens",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/canteens",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  1,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:18:13.4959973+10:00"
+                  },
+                  {
+                      "new_id":  106.9,
+                      "pal_title":  "Career Education Funding",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/career-education-funding",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  1,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:18:13.4989969+10:00"
+                  },
+                  {
+                      "new_id":  107.1,
+                      "pal_title":  "Conveyance Allowance Program",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/conveyance-allowance",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:18:13.4999963+10:00"
                   }
               ]
 }

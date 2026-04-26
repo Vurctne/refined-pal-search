@@ -1942,6 +1942,48 @@ const PAL_POLICIES = [
       { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' }
     ]
   }
+,
+  { id: 106.8, title: 'Canteens', category: 'Finance', tags: ['canteens', 'schools', 'information', 'directs', 'links', 'establishing', 'managing', 'canteen', 'school', 'policy'], summary: 'This policy directs schools to information about the requirements for school canteens. This page links schools to information about: When establishing and managing a canteen, schools must comply with:', url: 'https://www2.education.vic.gov.au/pal/canteens/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/canteens/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/canteens/policy', resources: 'https://www2.education.vic.gov.au/pal/canteens/resources' },
+    chapters: [
+      { title: 'Overview', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
+      { title: 'Contact', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
+      { title: 'For queries regarding financial management requirements', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' },
+      { title: 'For queries regarding healthy eating and food handling', url: 'https://www2.education.vic.gov.au/pal/canteens/policy' }
+    ]
+  }
+,
+  { id: 106.9, title: 'Career Education Funding', category: 'Finance', tags: ['career', 'funding', 'schools', 'language', 'students', 'delivery', 'activities', 'years', 'supplement', 'government'], summary: 'This policy outlines the requirements for schools in receipt of career education funding. Career education funding supports Victorian government secondary schools, including specialist schools and English language schools, to supplement the delivery of career education activities to all students in Years 7 to 12.', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/career-education-funding/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy', resources: 'https://www2.education.vic.gov.au/pal/career-education-funding/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' },
+      { title: 'Importance of career education', url: 'https://www2.education.vic.gov.au/pal/career-education-funding/policy' }
+    ]
+  }
+,
+  { id: 107.1, title: 'Conveyance Allowance Program', category: 'Finance', tags: ['conveyance', 'allowance', 'program', 'policy', 'students', 'support', 'ensure', 'school', 'families', 'assistance'], summary: 'The purpose of this policy is to ensure that schools support eligible families to receive financial assistance with the cost of transporting students to and from school where the student: This policy applies to both government and non-gover...', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/policy', resources: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/resources' },
+    chapters: [
+      { title: 'Eligibility criteria', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/eligibility-criteria' },
+      { title: 'Criteria 1 to 3 – Applicable to all students', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-1-3-applicable-all-students' },
+      { title: 'Criteria 4 to 5 – Applicable to students attending a mainstream school', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criteria-4-5-applicable-students-attending-mainstream-school' },
+      { title: 'Criterion 6 – Applicable to students attending specialist schools for students with disabilities', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-6-applicable-students-attending-specialist-schools' },
+      { title: 'Criterion 7 – Applicable to students attending other specialist settings', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/criterion-7-applicable-students-attending-other-specialist' },
+      { title: 'Application for the conveyance allowance', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/application-forms-conveyance-allowance-and-processing' },
+      { title: 'Processing applications (using SCAS)', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/processing-applications-using-scas' },
+      { title: 'Change of address', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/change-address-sibling-entitlement-adjustments-and-payments' },
+      { title: 'Sibling entitlement', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/sibling-entitlement' },
+      { title: 'Adjustments to a conveyance allowance', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/adjustments-conveyance-allowance' },
+      { title: 'Payments for students who reside at more than one address', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/payments-students-who-reside-more-one-address' },
+      { title: 'Appeals and special case consideration', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/appeals-and-special-case-consideration' },
+      { title: 'Types of assistance available', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/types-assistance-available' },
+      { title: 'Responsibilities of parents/carers', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/responsibilities-parents/carers' },
+      { title: 'Training for school staff', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/training-school-staff' },
+      { title: 'Conveyance allowance rates', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/conveyance-allowance-rates' },
+      { title: 'Public transport accessibility measures', url: 'https://www2.education.vic.gov.au/pal/conveyance-allowance/guidance/public-transport-accessibility-measures' }
+    ]
+  }
 ];
 
 const CATEGORIES = [
