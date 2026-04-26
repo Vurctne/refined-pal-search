@@ -1822,6 +1822,7 @@ const PAL_POLICIES = [
     { title: 'Work-Based Learning Application — WBL App, digital form, desktop and mobile, evaluation form, paper-based', url: 'https://www2.education.vic.gov.au/pal/structured-workplace-learning/guidance/work-based-learning-application' }
   ],
 }
+
 ];
 
 const CATEGORIES = [
@@ -2211,6 +2212,7 @@ export default function PALSearch() {
 
   const searchPlaceholder = 'Search... try multiple words or cat:finance';
   const deepIndexedCount = PAL_POLICIES.filter(p => (p.resources && p.resources.length > 0) || (p.chapters && p.chapters.length > 0)).length;
+  const chapterCount = PAL_POLICIES.reduce((sum, p) => sum + (p.chapters?.length || 0), 0);
 
   return (
     <div className="min-h-screen bg-slate-50">
@@ -2221,7 +2223,7 @@ export default function PALSearch() {
               <h1 className="text-2xl font-bold text-slate-900">PAL Quick Search</h1>
               <p className="text-xs text-slate-500 mt-0.5 flex items-center gap-1">
                 <Info className="w-3 h-3" />
-                Unofficial staff tool · {PAL_POLICIES.length} policies · {deepIndexedCount} deep-indexed · Multi-word search, typo tolerance
+                Unofficial staff tool · {PAL_POLICIES.length} policies · {chapterCount} chapters · {deepIndexedCount} deep-indexed · Multi-word search, typo tolerance
               </p>
             </div>
           </div>
