@@ -1,5 +1,5 @@
 ﻿import React, { useState, useEffect, useMemo, useRef } from 'react';
-import { Search, ExternalLink, Clock, X, Filter, Star, TrendingUp, Info, FileText, BookOpen, ChevronDown, ChevronUp } from 'lucide-react';
+import { Search, ExternalLink, Clock, X, Filter, Star, TrendingUp, Info, FileText, BookOpen, ChevronDown, ChevronUp, Mail } from 'lucide-react';
 
 const PAL_POLICIES = [
   // HR - Pay
@@ -2644,6 +2644,11 @@ export default function PALSearch() {
                 <Info className="w-3 h-3" />
                 Unofficial staff tool · {PAL_POLICIES.length} policies · {chapterCount} chapters · {deepIndexedCount} deep-indexed · Multi-word search, typo tolerance
               </p>
+              <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
+                <Mail className="w-3 h-3" />
+                Feedback or bug reports:{' '}
+                <a href="mailto:feedback@schooltool.com.au?subject=PAL%20Quick%20Search%20feedback" className="text-blue-600 hover:underline">feedback@schooltool.com.au</a>
+              </p>
             </div>
           </div>
 
@@ -2974,4 +2979,5 @@ export default function PALSearch() {
       </main>
     </div>
   );
+}
 }
