@@ -13,7 +13,7 @@
     {
       tabs       : @('Policy', 'Guidance', 'Resources', ...) | $null
       chapters   : @(
-          @{ title = 'Original chapter title'; tail = 'kw1, kw2, kw3'; full = 'Original -- kw1, kw2, kw3' },
+          @{ title = 'Original chapter title'; tail = ''; full = 'Original chapter title' },
           ...
       ) | $null
       resources  : @(
@@ -22,17 +22,28 @@
       ) | $null
     }
 
+  Phase 2.A note: chapter titles are emitted BARE (no em-dash, no keyword
+  tails). For each chapter we additionally fetch the chapter content and
+  save the first 3-5 paragraphs as a snippet JSON to
+  .work-queue\chapter-snippets\<entry_id>-<chapter_idx>.json so a separate
+  Phase 2.B orchestrator pass can synthesise V26-style tails via LLM.
+
 .PARAMETER Url
   The policy page URL (e.g. https://www2.education.vic.gov.au/pal/.../policy).
 
 .PARAMETER Actions
   Array of action codes telling which fields to populate.
+
+.PARAMETER EntryId
+  Numeric db id of the entry being processed; used to name snippet files.
+  Optional -- if omitted, snippet saving is skipped entirely.
 #>
 
 [CmdletBinding()]
 param(
     [Parameter(Mandatory = $true)] [string]   $Url,
-    [Parameter(Mandatory = $true)] [string[]] $Actions
+    [Parameter(Mandatory = $true)] [string[]] $Actions,
+    [Parameter(Mandatory = $false)] [Nullable[double]] $EntryId = $null
 )
 
 $ErrorActionPreference = 'Stop'
@@ -135,35 +146,21 @@ function Strip-Html([string]$s) {
 # Load System.Web for HtmlDecode (works on PS 5.1 and 7+).
 try { Add-Type -AssemblyName System.Web -ErrorAction SilentlyContinue } catch {}
 
-$script:StopWords = @{}
-foreach ($w in @('the','and','a','an','of','to','in','for','on','at','by','with',
-                 'is','are','was','were','be','been','this','that','these','those',
-                 'it','its','as','or','if','from','will','can','must','should',
-                 'may','any','all','also','their','they','our','your','you','we',
-                 'has','have','had','not','no','do','does','where','when','which',
-                 'who','what','how','why','than','then','so','such','about','into',
-                 'over','under','before','after','during','via','per','using',
-                 'used','use','new','more','most','some','each','only','other',
-                 'between','within','through','without','because','while','here',
-                 'there','further','information','policy','guidance','overview',
-                 'page','section','part','chapter')) {
-    $script:StopWords[$w] = $true
-}
-
-function Get-Keywords([string]$text, [int]$count = 5) {
-    if ([string]::IsNullOrWhiteSpace($text)) { return @() }
-    $words = [regex]::Matches($text.ToLower(), '[a-z][a-z\-]{2,}') | ForEach-Object { $_.Value }
-    $kept = New-Object System.Collections.Generic.List[string]
-    $seen = @{}
-    foreach ($w in $words) {
-        if ($script:StopWords.ContainsKey($w)) { continue }
-        if ($w.Length -lt 4) { continue }
-        if ($seen.ContainsKey($w)) { continue }
-        $seen[$w] = $true
-        [void]$kept.Add($w)
-        if ($kept.Count -ge $count) { break }
+# ----- Snippet directory -----------------------------------------------------
+# Phase 2.A: instead of generating keyword tails inline, we save raw chapter
+# snippets to disk so a separate orchestrator-driven Phase 2.B pass can
+# synthesise V26-style tails via LLM reasoning.
+$script:SnippetDir = $null
+try {
+    $projRoot = Split-Path -Parent $PSScriptRoot
+    if ($projRoot) {
+        $script:SnippetDir = Join-Path $projRoot '.work-queue\chapter-snippets'
+        if (-not (Test-Path $script:SnippetDir)) {
+            New-Item -ItemType Directory -Path $script:SnippetDir -Force | Out-Null
+        }
     }
-    return ,$kept.ToArray()
+} catch {
+    $script:SnippetDir = $null
 }
 
 function Make-Absolute([string]$href, [string]$base) {
@@ -348,20 +345,115 @@ function Parse-Chapters([string]$html, [string]$pageUrl) {
     return ,@()
 }
 
-function Get-ChapterTail([string]$chapterUrl) {
+function Get-FirstParagraphsSnippet([string]$html, [int]$maxParas = 5) {
+    # Extract first 3-5 non-trivial <p> from rpl-markup__inner; fall back to
+    # first <p> anywhere. Returns plain text (HTML stripped, whitespace normalised).
+    $innerM = [regex]::Match($html, '(?is)<div\b[^>]*\bclass="[^"]*rpl-markup__inner[^"]*"[^>]*>(.*?)$')
+    $section = if ($innerM.Success) { $innerM.Groups[1].Value } else { $html }
+
+    $pPat = [regex]'(?is)<p[^>]*>(.*?)</p>'
+    $texts = New-Object System.Collections.Generic.List[string]
+    foreach ($pm in $pPat.Matches($section)) {
+        $t = Strip-Html $pm.Groups[1].Value
+        if ($t.Length -gt 20) {
+            [void]$texts.Add($t)
+            if ($texts.Count -ge $maxParas) { break }
+        }
+    }
+    return ($texts -join ' ')
+}
+
+function Get-HeadingSectionHtml([string]$html, [string]$headingTitle) {
+    # Pattern B: return the inner-html slice between this heading and the next
+    # h2/h3 on the same already-fetched page (so the snippet extractor can
+    # pull paragraphs scoped to this chapter only).
+    $innerM = [regex]::Match($html, '(?is)<div\b[^>]*\bclass="[^"]*rpl-markup__inner[^"]*"[^>]*>(.*?)$')
+    $section = if ($innerM.Success) { $innerM.Groups[1].Value } else { $html }
+
+    $hPat = [regex]'(?is)<h([23])\b[^>]*\bid="([^"]+)"[^>]*>(.*?)</h\1>'
+    $targetEnd = -1
+    foreach ($hm in $hPat.Matches($section)) {
+        $label = Strip-Html $hm.Groups[3].Value
+        if ($label.Trim() -eq $headingTitle.Trim()) {
+            $targetEnd = $hm.Index + $hm.Length
+            break
+        }
+    }
+    if ($targetEnd -lt 0) { return '' }
+
+    $remainder = $section.Substring($targetEnd)
+    $nextHx = [regex]::Match($remainder, '(?is)<h[23]\b')
+    $segment = if ($nextHx.Success) { $remainder.Substring(0, $nextHx.Index) } `
+               else { $remainder.Substring(0, [Math]::Min($remainder.Length, 6000)) }
+    return $segment
+}
+
+# URL-level cache: avoids re-fetching the same sub-page (Pattern A chapters
+# that share a URL, or when a chapter URL equals the parent page).
+$script:FetchCache = @{}
+
+function Save-ChapterSnippet {
+    param(
+        [Nullable[double]]$entryId,
+        [int]$chapterIdx,
+        [string]$chapterTitle,
+        [string]$chapterUrl,
+        [string]$snippetText
+    )
+    if ($null -eq $entryId) { return }
+    if ([string]::IsNullOrWhiteSpace($script:SnippetDir)) { return }
+    if ([string]::IsNullOrWhiteSpace($snippetText)) { return }
+
+    # Format file id: 3 -> "3", 3.5 -> "3.5".
+    $idForName = if ($entryId -eq [math]::Floor([double]$entryId)) {
+        ([int][double]$entryId).ToString()
+    } else {
+        ([string][double]$entryId)
+    }
+    $fileName = "$idForName-$chapterIdx.json"
+    $filePath = Join-Path $script:SnippetDir $fileName
+
+    # Cache: skip if already present.
+    if (Test-Path $filePath) { return }
+
+    $obj = [pscustomobject]@{
+        entry_id      = [double]$entryId
+        chapter_idx   = $chapterIdx
+        chapter_title = $chapterTitle
+        chapter_url   = $chapterUrl
+        snippet       = $snippetText
+        fetched_at    = (Get-Date).ToString('o')
+    }
     try {
-        $resp = Invoke-Fetch $chapterUrl
-        Start-Sleep -Milliseconds $BetweenFetchesMs
-        $html = $resp.Content
-        # First <p> inside the main content.
-        $firstP = [regex]::Match($html, '(?is)<p[^>]*>(.*?)</p>')
-        if (-not $firstP.Success) { return '' }
-        $text = Strip-Html $firstP.Groups[1].Value
-        $kw = Get-Keywords $text 5
-        return ($kw -join ', ')
+        $json = $obj | ConvertTo-Json -Depth 4
+        Set-Content -Path $filePath -Value $json -Encoding UTF8
+    } catch {
+        # Snippet save is best-effort -- never fail the chapter on disk error.
+    }
+}
+
+function Get-ChapterSnippetFromUrl([string]$chapterUrl) {
+    # Returns the snippet text or '' on any fetch / 5xx / network error.
+    try {
+        if (-not $script:FetchCache.ContainsKey($chapterUrl)) {
+            $resp = Invoke-Fetch $chapterUrl
+            Start-Sleep -Milliseconds $BetweenFetchesMs
+            $script:FetchCache[$chapterUrl] = $resp.Content
+        }
+        $html = $script:FetchCache[$chapterUrl]
+        return (Get-FirstParagraphsSnippet $html 5)
     } catch {
         return ''
     }
+}
+
+function Get-ChapterSnippetFromHtml([string]$html, [string]$headingTitle) {
+    $segment = Get-HeadingSectionHtml $html $headingTitle
+    if ([string]::IsNullOrWhiteSpace($segment)) { return '' }
+    # Re-use the paragraph extractor on the bounded segment by wrapping it in
+    # a synthetic rpl-markup__inner shell so the regex anchors correctly.
+    $shell = '<div class="rpl-markup__inner">' + $segment + '</div>'
+    return (Get-FirstParagraphsSnippet $shell 5)
 }
 
 # ----- Resources parsing -----------------------------------------------------
@@ -424,19 +516,38 @@ if ($wantTails -or $wantFullChapters) {
     # falling back to garbage anchors.
     if ($null -eq $chapters) { $chapters = @() }
     $enriched = New-Object System.Collections.Generic.List[object]
+    $idx = 0
     foreach ($c in $chapters) {
-        # Only fetch tails for chapter URLs that differ from the parent page
-        # (Pattern A). For Pattern B the chapter "url" is the parent page so
-        # there's no extra fetch -- tail stays empty (V26 baseline matches).
-        $tail = ''
-        if ($wantTails -and $c.href -ne $Url) {
-            $tail = Get-ChapterTail $c.href
+        $idx++
+        # Phase 2.A: emit bare titles (no em-dash, no keyword tails). A separate
+        # orchestrator-driven Phase 2.B pass will read the saved snippets and
+        # patch tails into the JSX via LLM reasoning.
+        $bareTitle = $c.title
+
+        # Best-effort snippet save -- never fails the chapter.
+        if ($null -ne $EntryId) {
+            $snippetText = ''
+            if ($c.href -ne $Url) {
+                # Pattern A: chapter has its own sub-page -- fetch it.
+                $snippetText = Get-ChapterSnippetFromUrl $c.href
+            } else {
+                # Pattern B: chapter is an in-page heading -- slice from the
+                # already-fetched parent HTML (no extra network call).
+                $snippetText = Get-ChapterSnippetFromHtml $html $c.title
+            }
+            if (-not [string]::IsNullOrWhiteSpace($snippetText)) {
+                Save-ChapterSnippet -entryId $EntryId `
+                    -chapterIdx $idx `
+                    -chapterTitle $bareTitle `
+                    -chapterUrl $c.href `
+                    -snippetText $snippetText
+            }
         }
-        $full = if ($tail) { "$($c.title) $([char]0x2014) $tail" } else { $c.title }
+
         [void]$enriched.Add([pscustomobject]@{
-            title = $c.title
-            tail  = $tail
-            full  = $full
+            title = $bareTitle
+            tail  = ''
+            full  = $bareTitle
             href  = $c.href
         })
     }

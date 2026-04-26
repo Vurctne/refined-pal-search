@@ -114,7 +114,8 @@ try {
         try {
             $patch = & (Join-Path $PSScriptRoot 'Fetch-Policy.ps1') `
                 -Url $item.url `
-                -Actions @($item.actions_needed)
+                -Actions @($item.actions_needed) `
+                -EntryId ([double]$item.db_id)
 
             & (Join-Path $PSScriptRoot 'Patch-Jsx.ps1') `
                 -EntryId $item.db_id `
