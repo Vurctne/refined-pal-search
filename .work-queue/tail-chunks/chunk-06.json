@@ -1,0 +1,675 @@
+{
+  "chunk_idx": 6,
+  "entry_ids": [
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "94",
+    "95"
+  ],
+  "by_entry": {
+    "85": {
+      "title": "Emergency and Critical Incident Management Planning",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Developing and updating an EMP",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/guidance/developing-updating-emp",
+          "snippet": "Schools must develop and maintain their Emergency Management Plan (EMP) using the Online EMP Portal (staff login required) External Link and the plan must be reviewed and approved by the principal at least annually by 1 September of each year and after a significant incident. For step-by-step instructions on how to develop or update an EMP, refer to the: School incident debrief facilitator guide (DOCX) External Link Guide to developing your emergency management plan for early childhood services and non-government schools (DOCX) External Link Joint emergency management planning for shared sites. Other supports Schools seeking further support to develop their EMP, including using the Online EMP Portal (staff login required) External Link may contact their regional manager, operations and emergency management or emergency management support officer. Questions about emergency management arrangements and advice from the department may be directed to emergency.management@education.vic.gov.au Questions about school business continuity and advice from the department may be directed to business.continuity@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Joint emergency management planning for shared sites",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/guidance/joint-emergency-management-planning-for-shared-sites",
+          "snippet": "When schools share sites with other users, including other education providers and early childhood services, it is strongly recommended that they undertake emergency management planning as a joint activity. This supports the safety of the whole site during an emergency or incident and minimises the chance of miscommunication. Leadership and relevant staff should work together from all facilities on the site to develop or review the group’s Emergency Management Plans (EMPs). This will help identify areas where plans may need to be aligned or where the school may need to have separate approaches to manage their risks and obligations. Discussion points may include: Remember that in most circumstances, the threat or danger is to the whole site, not just one of the facilities, so joint planning is crucial. When discussing the group’s EMPs, it is also important to consider the movements of each cohort in emergencies, especially when moving to both on-site and off-site evacuation locations/assembly points."
+        }
+      ]
+    },
+    "86": {
+      "title": "Excursions",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/excursions/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Approvals",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/approvals",
+          "snippet": "All excursions must be approved by the principal. All forms to support excursion planning and approval can be found on the Resources tab . For local and day excursions, the school determines the process for obtaining principal approval. For excursions that include an overnight component, adventure activities, interstate travel, overseas travel or travel by air, a completed Excursions – principal approval form (DOCX) External Link must be submitted to, and approved by, the principal prior to the excursion starting. This principal approval form includes detailed information that may be needed in an emergency such as: Additional to the principal approval form, the following documentation must be submitted to the principal: The principal must review the Camps, excursions, swimming and/or water-based activity checklists and confirm all relevant items have been completed. To support planning and to ensure all staff have met their responsibilities, use the Camps, excursions, swimming and/or water-based activity checklist (DOCX) External Link . This checklist assists schools to prepare for an excursion in line with the department’s Excursions Policy and Guidelines and must be completed for all day and overnight excursions (Part A). Schools are required to complete the Swimming and water-based activity checklist (Part B) for all swimming activities, including instructional swimming, life-saving programs and recreational swimming at a pool, inland waterway, enclosed waterways and coastal waterways."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Consent",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/consent",
+          "snippet": "Schools must obtain written or electronic consent from parents or carers for school excursions: Schools may use the Template parent excursion consent form (DOCX) External Link . Excursions may be considered 'local excursions' if the location is within walking distance of the school and does not involve adventure activities. If schools intend to take students off school grounds within walking distance to engage in educational activities within the local area, schools may seek consent for these local excursions on an annual basis, for example, at the beginning of each school year (or upon enrolment if a student enrols during the school year). Schools may use the Template local excursions annual consent form (DOCX) External Link (staff login required). Once annual consent is obtained, schools are not required to obtain further consent before the local excursion. However, parents and carers must be informed about the local excursion closer to the date of the event. For example, parents/carers can be notified by email or other appropriate communication channel the week before (or earlier) if students are leaving the school grounds to visit a location nearby, so that parents have an opportunity to inform staff of any medical or other issues that may be relevant to the local excursion. Schools may use the Template local excursion notification form (DOCX) External Link (staff login required), also available on the Resources tab."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Student medical information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/student-medical-information",
+          "snippet": "Schools must provide parents or carers with the opportunity to vary any medical information previously given to the school before any excursion. A medical information form must be completed by parents or carers before any day excursion involving an adventure activity. A medical information form is not required for local excursions or day excursions not involving adventure activities. It is recommended that schools use the department’s Medical information form – day excursions involving adventure activities (DOCX) External Link for this purpose. The department’s Medical information form – camps and overseas excursions (DOCX) External Link must be completed by parents or carers before any camp or overseas excursion. Schools may use third-party software such as Compass to obtain and record medical information in place of the hardcopy medical information form. Schools must ensure that all required information is collected, for example, by comparing the information requested through Compass against the medical information forms."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Student Activity Locator",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/student-activity-locator",
+          "snippet": "The new Student Activity Locator (SAL) is now available. For information about accessing the new SAL, refer to Student Activity Locator External Link . To ensure accurate information is available for emergency services, all Victorian government schools must use the Student Activity Locator External Link (staff login required) to notify the department of any approved school excursion or camp, at least 5 business days beforehand. Non-government schools are also able to access the Student Activity Locator to register camps and excursions. For more information on access, refer to: How to access the Student Activity Locator (PDF) External Link . A user guide has been developed to help schools complete the online form, refer to: Student Activity Locator User Guide (PDF) External Link . Student medical information Chapter in the Excursion Guidelines outlining requirements r... Risk management planning Chapter in the Excursion Guidelines outlining the requiremen... Chapter in the Excursion Guidelines outlining the requirements relating to notifying the Department of an upcoming excursion through the Student Activity Locator Reviewed 11 October 2024"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Risk management planning",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/risk-management-planning",
+          "snippet": "Schools must assess risk for all excursions (including local excursions) and identify measures to reduce reasonably foreseeable risk to students wherever possible. The type of excursion will determine the type of risk assessment required. For local excursions, schools must use the Risk assessment for local excursions template (DOCX) (staff login required) External Link . This document must be reviewed and signed by the principal or delegate prior to the excursion. Schools must use the Excursions risk register and emergency management plan (ERREMP) template (DOCX) External Link , which must be reviewed and signed by the principal prior to the excursion, for the following types of excursions: See the Completing the Excursion risk register and emergency management plan External Link section for support with considering interstate specific risks and risks associated with adventure activities (including swimming and water-based activities)."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Emergency or critical incident management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/emergency-or-critical-incident-management",
+          "snippet": "For local excursion emergency or critical incident management, schools must complete the relevant sections within the Risk assessment for local excursions (DOCX) (staff login required) External Link . For all other excursions, schools must complete the Excursion risk register and emergency management plan (ERREMP) template (DOCX) External Link , editing and adding emergency response procedures relevant to their excursion. The Example interstate camp excursion risk register and emergency management plan (DOCX) External Link contains only interstate specific emergency response procedures. For interstate excursions schools can, as needed, copy and paste these interstate specific emergency response procedures into their Excursions risk register and emergency management plan (ERREMP) template (DOCX) External Link . Schools must edit interstate specific emergency response procedures to ensure relevance for their excursion. For adventure activities (including swimming and water-based activities), schools can insert specific emergency response procedures from the Adventure activity specific risk register and emergency management plans External Link . The ERREMP must have clearly written emergency response procedures that:"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Staffing – roles and responsibilities",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/staffing-roles-and-responsibilities",
+          "snippet": "Excursion staff are adults who provide the supervisory, instructional and educational elements of the activity. A teacher registered with the Victorian Institute of Teaching and either employed by the department or school council or approved by the principal must be present and have overall responsibility for the activity, unless other arrangements have been approved by the principal in accordance with the section on Supervision in this guidance. Excursion staff must be approved by the principal and may include: School students cannot be used as excursion staff. Schools must ensure that excursion staff comply with department or the school’s own policy in relation to the Child Safe Standards and having a Working with Children Check."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Supervision",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/supervision",
+          "snippet": "To ensure appropriate and effective levels of supervision, the risk assessment should take into account: This section outlines the department’s minimum requirements for staff-student ratios. When planning the staff-student ratios for an excursion, schools: Except where otherwise indicated, all excursions and camps must have a minimum of 2 staff members. Regular class teacher-student ratios with an additional accompanying staff member (as required) 1:20 staff-student ratio with a minimum of 2 staff"
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Student preparation and behaviour",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/student-preparation-and-behaviour",
+          "snippet": "Schools must ensure that: In preparation for excursions, and in addition to the information required in the consent documentation, schools should advise students and parents/carers of: In some cases, students may require specific skills or training before going on excursions, particularly when undertaking swimming and water-based activities. Staff should utilise the Student skills swimming and water-based activities template (DOCX) External Link to assess students’ suitability to undertake the activity and what support they may need. In extreme cases the excursion staff, following consultation with and the approval of the school principal, may decide to return a student to their home from an excursion. Excursion staff should: Supervision Chapter in the Excursion Guidelines outlining supervision re... Liability, waivers and indemnities Chapter in the Excursion Guidelines explaining duty of care ... Chapter in the Excursion Guidelines outlining requirements relating to student preparation and behaviour Reviewed 22 April 2024"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Liability, waivers and indemnities",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/liability-waivers-indemnities",
+          "snippet": "School staff owe students a duty of care to take reasonable steps to minimise the risk of reasonably foreseeable harm. The information in these mandatory excursion guidelines has been developed to support staff to take reasonable and appropriate steps to prevent and reduce risks to students, in accordance with their duty of care obligations. Excursion planning and conduct may be reviewed subsequently if there is injury or damage to property, and/or a legal claim related to the excursion. For more general information on duty of care in schools, refer to Duty of Care . Providers will frequently seek a ‘waiver and indemnity of liability’ as a condition of hire of a venue or participation in a planned activity. Schools must contact Legal Division for advice on any waivers and indemnities requested by providers: Student preparation and behaviour Chapter in the Excursion Guidelines outlining requirements r... External providers Chapter in the Excursion Guidelines outlining requirements r... Chapter in the Excursion Guidelines explaining duty of care and outlining requirements relating to liability, waivers and indemnities Reviewed 04 December 2022"
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "External providers",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/external-providers",
+          "snippet": "External providers may be engaged to assist schools to deliver specific activities (such as sporting competitions or adventure activities) in the form of: They may provide expertise in a certain activity and can be a valuable addition to a program. Clear and open communication undertaken well in advance of the planned program is the key to an effective and well-informed relationship between a school and an external provider. Schools must be aware that school staff still have duty of care for their students, and the guidance in the excursions policy continues to apply, even when they are using external providers for school organised, operated or endorsed activities. When planning an excursion, schools are advised to use the Summary of excursion documentation (DOCX) External Link to ensure minimum documentation requirements are met. Before an external provider is selected to assist with the delivery of an activity or excursion, the school principal must be satisfied that a thorough check has been completed to ensure that the provider has appropriate expertise to deliver the program, has experience working with groups of children and/or young people and has policies, procedures and practices in place to keep children safe."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "First aid",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/first-aid",
+          "snippet": "Excursion staff must have first aid and emergency response knowledge appropriate to the excursion location, the students involved and the activities undertaken by each group of students. Staff must also have a first aid kit appropriate to the excursion location, the activities undertaken and the specific needs of participating students with health or medical conditions. Staff must also carefully document student first aid incidents and outcomes on eduSafe Plus or the school’s preferred third party platform. The extent of the first aid training required by staff will be determined by: For excursions involving adventure activities or locations without readily accessible medical support, at least one member of staff responsible for each group of students must hold, as a minimum, a current first aid qualification and a current cardiopulmonary resuscitation (CPR) qualification. Under the Work Health and Safety Act 2010 and the Code of Practice from Safe Work Australia External Link , all first aiders should hold nationally recognised Statement/s of Attainment issued by a Registered Training Organisation (RTO) for the relevant nationally endorsed unit/s of competency."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "Venue selection",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/venue-selection",
+          "snippet": "Excursion venues must be assessed and selected on the basis of their safety and suitability for the activities proposed. This includes outdoor locations. It is recommended that venues are selected based on the recent and first-hand knowledge (for example, through an inspection of the site) of at least one member of the planning and supervising staff. If a staff member plans to inspect a venue or location, either within or outside of normal school hours, prior approval should be sought from the principal. Residential campsites are usually campsites that have permanent facilities (such as cooking and eating facilities, beds and an amenities block) and adventure recreation options. This definition does not include caravan parks, hotels/motels, ski lodges or Victorian government residential schools. Schools using residential campsites for overnight camping must use accredited campsites, to ensure these venues meet minimum criteria regarding safety and suitability. A list of accredited camps can be found at:"
+        },
+        {
+          "chapter_idx": 14,
+          "chapter_title": "Weather and emergency warnings",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/weather",
+          "snippet": "Staff must check weather forecasts and emergency warnings for the location in the days leading up to the excursion and on the day the excursion commences. If the activity extends overnight, staff must access weather forecasts and warnings daily and monitor and assess the weather throughout, and be prepared to cancel, modify or relocate at any time if a severe weather warning is issued for the area. The telephone numbers below may be useful to have available during the activity. Location specific numbers are also available and can be accessed at Bureau of Meteorology – Telephone Weather Services Directory External Link . Weather and warning forecasts should be obtained from the Bureau of Meteorology. Staff using mobile apps to obtain this information are responsible for checking the source of the apps data. and MetEye External Link Marine and Ocean External Link for coastal waters forecast and observations VicEmergency External Link National Warnings Summary External Link Victorian Weather and Warnings External Link Fire danger or ban When planning excursions in bushfire prone areas or in areas surrounded by grassland, schools are advised to regularly monitor forecast fire danger ratings for that fire weather district. On days of forecasted Catastrophic fire danger rating (FDR), all excursions in the fire weather district of the Catastrophic FDR forecast must be cancelled."
+        },
+        {
+          "chapter_idx": 15,
+          "chapter_title": "Transport",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/transport",
+          "snippet": "The transportation of groups to and from activity locations must be carefully considered and planned, taking into account the following: for further information. Groups of 12 or more can get a concession discount for travel on public transport with a Group Travel Authority, while Victorian preschool, kindergarten or primary school excursion groups of 12 to 35 people can travel for free during the school day and on weekends. For details refer to PTV group travel External Link . Excursions that run late, failing to meet times agreed to with private bus operators, are likely to incur significant costs. Vehicles used to transport students must comply with VicRoads External Link registration requirements. Drivers must comply with all licensing requirements. Occupational Health and Safety laws require employers and employees to take all reasonably practicable steps to manage driver fatigue. Equipment carried inside vehicles must be securely stowed and not create a risk of injury or damage. Equipment and luggage should be carried and secured as appropriate in trailers, roof racks or behind luggage barriers. VicRoads offers advice on load restraint at Securing your load External Link . In circumstances where a teacher or staff member is to drive a vehicle transporting students, particular care should be taken to ensure that they have adequate rest prior to driving. This is particularly important when the activity includes an overnight component. For information on transporting students in private cars refer to: Private Vehicle Use . For information on school owned buses and hired vehicles, refer to: Buses – Owned, Hired or Chartered by a School . Weather and emergency warnings Chapter in the Excursion Guidelines outlining requirements r... Communications Chapter in the Excursion Guidelines relating to communicatin... Chapter in the Excursion Guidelines outlining requirements relating to the transportation of groups during excursions Reviewed 27 October 2022"
+        },
+        {
+          "chapter_idx": 16,
+          "chapter_title": "Communications",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/communications",
+          "snippet": "For excursions with an overnight component, parents or carers should be advised of the telephone numbers (both during and outside school hours) for the designated school contact person in the event of an emergency. Arrangements for communicating with parents in the event of an emergency, cancellation or recall of the excursion must be made. If conducting an activity in a remote location with limited access to technology and emergency services, a documented communication plan must be developed prior to the activity. This can be incorporated into the risk register. The plan must: The communication plan should enable staff to: Principals should consider providing communication equipment that may be reliably used in emergencies (for example, for excursions to remote areas with little mobile coverage, satellite phones may be considered)."
+        },
+        {
+          "chapter_idx": 17,
+          "chapter_title": "Identification",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/identification",
+          "snippet": "Easy identification of staff and students can be an important factor in the safe conduct of some excursions, including adventure activities. Staff must determine the most suitable system/s of identification, based on the assessment of the environment, students’ skills, the type of activities to be undertaken and the age and number of students. Information on identification strategies is available in relevant specific adventure activities guidelines set out in the section on adventure activities . Schools are encouraged to arrange for students to wear high visibility items such as vests or reflective items when bushwalking or cycling. Strategies to identify participants may include: Communications Chapter in the Excursion Guidelines relating to communicatin... Overseas travel Chapter in the Excursion Guidelines outlining specific requi... Chapter in the Excursion Guidelines outlining requirements relating to student identification during an excursion Reviewed 06 October 2022"
+        },
+        {
+          "chapter_idx": 18,
+          "chapter_title": "Overseas travel",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/overseas-travel",
+          "snippet": "As well as the requirements for all excursions (such as approvals, risk management planning, consent) there are additional steps when planning and conducting overseas excursions. When planning and conducting overseas excursions, schools are required to: ensure all participants have appropriate travel insurance ensure copies of appropriate documentation are available on the excursion and at the school refer to the Travel policy for travel application and post-travel reporting requirements for school-based staff accompanying students on overseas excursions ensure staffing arrangements are sufficient in the event of an emergency ensure excursion planning and risk management planning considers the school’s child safety responsibilities. This is especially important if there are any times where students are not under the direct supervision of school staff (such as homestay arrangements). For more information refer to Child Safe Standards . Schools should also: Schools must confirm that the locations and activities planned comply with any current Department of Foreign Affairs and Trade travel advice External Link . Risk and emergency management plans must be developed in consideration of the location, students, activities planned, types of travel undertaken and any relevant advice from DFAT. The Smartraveller External Link website is the DFAT travel advisory and consular assistance service. This site also provides useful travel information and tips. Before travelling overseas, schools should check the Smartraveller website to ensure that they have the most up-to-date travel advice for the proposed countries and locations to be visited. Schools planning and conducting overseas excursions must ensure that they:"
+        },
+        {
+          "chapter_idx": 19,
+          "chapter_title": "Adventure activities – including swimming and water-based activities",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/excursions/guidance/adventure-activities",
+          "snippet": "The following information is additional to the requirements relating to all excursions. Mandatory guidelines are also provided in relation to specific adventure activities, under each activity name below. An adventure activity is an activity that involves greater than normal risk which may include: If a principal does not have detailed knowledge of an adventure activity as listed in the adventure activities guidelines below, it is recommended that further information and advice is sought from: The Swimming and water-based activities guidelines (DOCX) External Link apply to instructional swimming programs, lifesaving programs and recreational activities. Intra-school swimming carnivals (students from one school) and inter-school swimming carnivals and competitions are classified as recreational swimming activities."
+        }
+      ]
+    },
+    "87": {
+      "title": "Outside School Hours Care (OSHC)",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "About outside school hours care",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/about-outside-hours",
+          "snippet": "An Outside School Hours Care (OSHC) service provides education and care for primary school-age children (generally ages 5 to 12 years) outside school hours and during school holidays. OSHC services also often provide education and care on student-free days. OSHC services are usually located at or close to primary schools. They may also be offered in locations such as: Hours and locations will vary depending on community needs, generally operating on weekdays: OSHC is an education and care service that supports children to: An OSHC service provides a range of benefits for the school community that support children’s learning, achievement, engagement and wellbeing."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Decide if you need a service",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/decide-if-you-need",
+          "snippet": "A best practice approach to setting up an Outside School Hours Care (OSHC) service. There are 6 steps you should take: Although this is set out as a progressive process, in practice the process can be flexible, and some steps may be considered at the same time or in a different sequence. For example, venue availability may influence the feasibility of establishing an OSHC service and therefore also the conduct of a needs analysis. Forming a working group enables your school council to delegate the initial scoping work for an OSHC services to a dedicated group that reports back to your school council for decision making. The working group members may include parents, school councillors and teachers."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Small and regional OSHC grants",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/small-regional-oshc-grants",
+          "snippet": "The Outside School Hours Care (OSHC) Establishment Grants Initiative provided grant funding to Victorian government schools delivering primary aged education without an existing OSHC program. The initiative aimed to improve the availability of OSHC services across Victoria, ensuring that all children and families are able to access programs on their school site or in their local area. The initiative had 4 application rounds between 2021 and 2023. Round 1 closed in February 2021, round 2 closed in September 2021, round 3 closed in July 2022 and Round 4 in August 2023. The 2024-25 Victorian Budget included a commitment to further support outside school hours care (OSHC) services at small and rural/regional schools funded by the OSHC Establishment Grants Initiative. The first round of funding opened 18 September 2024 and closed 20 October 2024. For round 2, the following funding is available: Schools are eligible to apply if they received funding for a new OSHC service, or transport, from the OSHC Establishment Grants Initiative and:"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Plan to start a service – school council managed service",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/plan-start-service",
+          "snippet": "The planning and preparation needed to set up a school council managed service includes the following steps: As a school council you must have the required approvals to legally operate your outside school hours care service. In order to commence trading as a service, the following are generally required: . Official school council bank account. An OSHC service must operate from within an official school council bank account and meet the same financial management obligations of any other program in the school. These obligations are outlined in the Finance Manual for Victorian government schools. Postal address. An OSHC service should have a physical mailing address to receive correspondence. If needed, applications for a post office box can be made at Australia Post External Link . Email address. An OSHC service should have an email address or use the school’s generic email address, to ensure the department can contact the OSHC directly connected utilities. School council will need to confirm and (or) connect the utilities required for the OSHC service, such as electricity and water. Insurance. OSHC services may require some additional cover outside the school’s existing coverage with the VMIA. For questions about insurance, schools may contact Michael Roleff on Michael.Roleff@education.vic.gov.au The following may require additional cover: building insurance – school buildings are covered as long as they are within the school’s entitlement contents – a school’s contents are covered if they are not excluded under the School Equipment Coverage Scheme (SECS) workers’ compensation – for any locally employed staff, such as for OSHC employees. Prior to starting the service, the school should also determine how much involvement the school administration and support staff will have in supporting the service. To operate a service, the school council will need to apply for:"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Plan to start and monitor a third party-managed service",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/plan-start-service-0",
+          "snippet": "The planning and preparation needed to set up a third party managed service includes the following steps, some of which are the responsibility of the school, and some of which are the responsibility of the third party provider: If your school council is engaging or changing an OSHC provider, it is expected that the school council consults with the school community. To assist in this selection and consultation process, schools are encouraged to use the customised Expression of Interest (EOI) template External Link (staff login required). Using this template will help your school run a best practice process to select a third party provider that meets the needs and values of your school community. For advice about the use of the EOI template, email schools.procurement@education.vic.gov.au The EOI process for selecting a third party provider requires consideration for quality service provision. Consideration includes: ) provider experience in education and care, specifically OSHC services references or feedback on existing OSHC services education program planning, delivery and monitoring process staffing procedures (appointment, backfill, retention, qualification level or experience, professional development for staff) the process for the development of the quality improvement plan and ensuring continuous improvement program fit with community needs and values process for setting and revising parent and carer fees cost to families and carers including the proposed fee and billing structure. Value for money for your school The EOI template and OSHC licence agreement emphasise value for money for your school community by setting out costs for families. These documents enable consideration for:"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Legal requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/legal-requirements",
+          "snippet": "The following information is important for school councils and OSHC subcommittees regardless of the operating model chosen. An outside school hours care (OSHC) service is an approved education and care service under the National Quality Framework (NQF). The NQF was introduced in 2012 to improve education and care across long day care, family day care, preschool or kindergarten, and OSHC. the National Quality Standard (NQS) External Link an Assessment and rating process External Link Approved learning frameworks External Link such as ‘My Time, Our Place’ and the ‘Victorian Early Learning and Development Framework' a regulatory authority in each state and territory responsible for the approval, monitoring and quality assessment of services in their state or territory. In Victoria this is the Quality Assessment and Regulation Division (QARD) of the Department of Education and Training. QARD has officers throughout Victoria that both monitor and support services with compliance and assess services prior to operation. a national body, the Australian Children's Education and Care Quality Authority (ACECQA), which guides the implementation of the NQF and works with regulatory authorities. Assessment and rating process for OSHC The NQF promotes high quality education, care services and outcomes for children through the NQS and assessment and rating process. This helps to ensure high quality, consistent services with an ongoing commitment to continuous improvement. The NQS includes 7 quality areas that are important outcomes for children. All education and care services under the NQF are assessed and rated against the NQS and given a rating for each of the 7 quality areas and an overall rating based on these results. Possible rating outcomes include the Exceeding NQS, Meeting NQS, Working Towards NQS and Significant Improvement required. Services that have been rated as Exceeding may also apply for the ‘Excellent’ rating through ACECQA. For more information, refer to the Department's Assessment and rating page External Link ."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Run a service operated by your school",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/run-service",
+          "snippet": "This section outlines: The effective promotion of your service is an integral part of maintaining a strong community presence and supporting ongoing viability of your service. Service promotion is another way for you to sustain collaborative partnerships between all stakeholders. Achievements, such as a service opening and celebrations including anniversaries and unveiling new spaces are common events that trigger incidental promotion of your service. However, you could consider other more frequent and important aspects to promote your service including: When developing promotional campaigns and materials, your service should consider the following:"
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Change the provider or operating model of your service",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/change-operating",
+          "snippet": "If your school delivers an established Outside School Hours Care (OSHC) service there are a number of steps to take if you want to change the approved provider. Depending on whether there is a third party involved, a school council exits their license agreement directly or both the school and the third party exit the licence agreement. This process may also occur at the expiry of an agreement. A new agreement can then be executed and Quality Assessment and Regulation Division (QARD) must be notified of the transfer. These processes are detailed below. There are several steps to follow: The decision by your school council to make a change to the approved provider of an OSHC service should be based on evidence including, but not limited to: In many cases, the factors highlighted above:"
+        }
+      ]
+    },
+    "88": {
+      "title": "Mobile Phones — Student Use",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Students who choose to bring mobile phones to school must have them switched off and securely stored during school hours. Schools are required to develop a local policy on students using mobile phones, which must include how this ministerial policy will be implemented. A downloadable policy template for Victorian government schools is available on the department's intranet at the School Policy Templates Portal (staff login required) External Link . Schools can adapt the template to suit their local circumstances provided that it is consistent with this Ministerial policy."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Exceptions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Exceptions to the policy: Where an exception is granted, the student can only use the mobile phone for the purpose for which it was granted. The 3 categories of exceptions and associated suggested documentation for each are:"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Exclusions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Wearable devices, iPads and other personal devices are excluded from the policy, however, if they are brought to school, students must switch off all notifications during the school day. Schools may choose to include wearable devices, iPads and other personal devices as part of their local policies. Students undertaking workplace learning activities, for example, work experience or a VET course offsite must comply with the policies of the individual workplace or training organisation. The mobile phone policy does not apply for activities outside of school hours:"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Secure storage",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Mobile phones owned by students are brought to schools at the owner’s risk. Please refer to the department’s Claims for Property Damage and Medical Expenses policy . Where students bring a mobile phone to school, the school must provide secure storage. Secure storage is storage that cannot be readily accessed by those without permission to do so. The principal is responsible for determining the appropriate arrangements for secure storage. Examples of secure storage include:"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Enforcement",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Schools will enforce the policy under their existing student engagement policies, for example, through detention or a loss of school-based privileges, where students fail to comply with the local school policy on mobile phones, including if they refuse to relinquish their phones to school staff when asked. Where students have relinquished their mobile phones to school staff, schools are expected to return them to the student or parent/carer at the end of the school day. This is to support student safety when travelling to and from school, during which times carrying a mobile phone may help to manage risks of harm Consistent with Ministerial Order 1125, suspensions are to be reserved for serious misuses of a mobile phone in schools that: In addition, students can also be suspended under the exceptional ground -outside of school activity, for behaviour outside of school, including online, including activity on mobile phones, that poses a significant danger to the health, safety or wellbeing of staff or students, where there is a clear and close connection to the school. For further information refer to Suspensions ."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Review",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "The department recommends that schools review their local policy on students using mobile phones every 3 to 4 years or earlier where required, for example if: A policy review should focus on the effectiveness of the school’s policy in meeting the objectives of this policy, which aims to help focus students’ attention on learning in the classroom by providing them with: Schools are encouraged to collect data as part of their review to help to measure their success in achieving these objectives. Examples of data that you may choose to collect include: For sample survey or focus group questions refer to: Mobile phone policy review survey questions (DOCX) External Link (staff login required)."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Technology use at home",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Refer to the Resources tab for links to resources for families to help them balance their child/children’s time on and offline."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Mobile phone For the purpose of this policy, a mobile phone is a telephone with access to a cellular (telecommunication) system, with or without a physical connection to a network."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/students-using-mobile-phones/policy",
+          "snippet": "Equal Opportunity Act 2010 (Vic) External Link Mobile Phones – Student Use The requirements for schools relating to students using mobi... Guidance There is no further guidance for this topic. For more inform... Department policy on managing student use of mobile phones at school Reviewed 21 December 2025"
+        }
+      ]
+    },
+    "89": {
+      "title": "Buildings and Grounds Maintenance and Compliance",
+      "category": "Infrastructure",
+      "url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Make-safe Guidelines",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/make-safe-guidelines",
+          "snippet": "If a school site has been damaged in an incident or event that occurred within the boundaries of the school’s site and where that damage presents an immediate health and safety concern for students, staff and/or the community, any school staff member can call the Make-safe provider on 1300 133 468 . The Victorian School Building Authorities (VSBA) Make-safe Program assists schools that have sustained damage through an incident or event that occurred within the boundaries of the school’s site, where that damage presents an immediate health and safety concern for students, staff and/or the community. These guidelines are also applicable to severe incidents of malicious activity, such as vandalism or break-ins. Examples of works included in the Make-safe Program include: Example of works not included in the Make-safe Program:"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Area-wide power outage following a major weather event",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/area-wide-power-outage-following-a-major-weather-event",
+          "snippet": "Major weather events (such as storms, bushfires and floods) can in some circumstances lead to area-wide power outages. These events impact the broader local community, not just individual schools. This guidance chapter outlines what schools can do if they are impacted by an area-wide power outage following a major weather event, including how they can prepare for this. This chapter also outlines the various support mechanisms the Victorian School Building Authority (VSBA) Make-safe program can offer schools impacted and how schools can access this support. If schools experience a power outage due to a localised issue (that is, the issue that caused the power outage occurred within the boundaries of the school’s site), they can refer to the Make-safe Guidelines guidance chapter if they need support to make their site safe. As outlined in the Emergency and Critical Incident Management Planning policy , schools will have a current Emergency Management Plan and Business Continuity Plan that addresses site specific hazards and threats, including major weather events."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Emergency Maintenance Program Guidelines",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/emergency-maintenance-program-guidelines",
+          "snippet": "Where a school discovers an unforeseen and serious maintenance issue which poses a risk to health and safety and the school lacks the funds to address it, they must contact their regional office (through their Provision and Planning Manager or their Provision Planning Officer) to discuss the issue. The regional office will assist the school to prepare an Emergency Maintenance Program (EMP) application via the Asset Information Management System (AIMS) (staff login required) External Link if they meet the EMP eligibility criteria (outlined below). This system allows schools to track the status of their applications. The regional office will assess eligibility and validate the information provided by the school. Once endorsed by the region, the application will be assessed by the VSBA against the eligibility criteria. The regional office will advise schools on emergency maintenance issues and alternative avenues for support, if they do not meet the EMP eligibility criteria (outlined below). If schools meet the eligibility criteria for EMP, they may request part- or whole-funding for the works in their application. The EMP addresses unforeseen and serious infrastructure maintenance issues which pose a risk to health and safety, where schools do not have the financial capacity to rectify the issue."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Safe Tree Program Guidelines",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/safe-tree-program",
+          "snippet": "Schools are required to conduct regular maintenance of their school grounds following the asset management roles and responsibilities framework and their school maintenance plan (where applicable). When a school has arranged for an arborist to conduct a routine tree assessment and there are trees classified as high-risk, the school may apply to the Safe Tree Program (the program) for financial support for high-risk tree works and the cost of the arborist report. The arborist’s report, quote for the high-risk tree works and proof of payment for the arborist report must be included in the application. If the application is approved, the cost of the arborist report and the high-risk tree works will be reimbursed. Schools must not commence any works until they are informed that their application has been successful. If the application is unsuccessful (no high-risk trees or works completed before assessment), schools will incur the cost of the arborist report and any tree works planned or completed. In cases where schools do not have the capacity to arrange an arborist assessment and undertake works through a qualified arborist, the program can provide advice and financial support to assess, manage, and have high-risk tree works conducted. In this situation, the Victorian School Building Authority (VSBA) will lead the assessment of trees on the school grounds and the implementation of any high-risk tree works. The program is managed by the VSBA Response Programs Unit, who can be contacted via email: vsba.response.program@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Essential Safety Measures",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/essential-safety-measures",
+          "snippet": "A new centralised Essential Safety Measures (ESM) model is in place to support schools in meeting testing, inspection, and annual ESM reporting requirements. The Victorian School Building Authority (VSBA) will coordinate qualified ESM service providers to undertake school ESM inspections, testing and annual reporting from Monday 1 January 2024. Schools are no longer required to arrange the inspection, testing and annual reporting activities for ESM items. Correctly maintained Essential Safety Measures (ESM) protect building occupants in the event of an emergency by providing occupants with more time to exit the building and lessening the chance of harm resulting from any incidents. ESMs are building safety features that may include fire detection and alarm systems, fire doors, emergency lighting and fire hydrants. The Building Regulations 2018 (Vic) External Link and the Victorian Registration and Qualification Authority’s minimum standards require principals to oversee general and specific inspections, testing, maintenance and record-keeping activities for ESM. The Victorian School Building Authority (VSBA) coordinates qualified ESM service providers to undertake school ESM inspections, testing and annual reporting. Schools are responsible for ESM defect rectification works and receive funding for rectification work through the Maintenance and Minor Works budget line in the SRP. These work orders will continue to be actioned in the Asset Information Management system (AIMS). The department’s infrastructure related compliance and monitoring approach is defined by key steps which identify, manage and monitor compliance with obligations relating to school infrastructure. These stages outline the responsibilities of both schools and the department in meeting their infrastructure obligations, including ESM."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Roof Inspection, Downpipes and Guttering, and Height Safety Systems Guidelines",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/buildings-grounds-maintenance/guidance/roof-inspection-downpipes-and-guttering-and-height-safety-systems-guidelines",
+          "snippet": "For the purposes of this policy, 'working at heights’ means working in any place where there is a risk of falling more than 2 metres, measured from the soles of the feet to the ground. This also applies in situations that involve a hole, trench, or pit where a person could fall more than 2 metres. All working at heights related work must be identified, and associated hazards and risks must be managed and controlled, in accordance with the guidance contained in this chapter and the Prevention of Falls when Working at Heights policy. The principal or their delegate is responsible for identifying tasks that involve working at heights and implementing appropriate safety controls, which includes during the inspection activities discussed in this guidance chapter. This guidance chapter should be read in conjunction with the Prevention of Falls when Working at Heights Procedure which provides further details for ensuring the safety of anyone engaging in working at heights tasks on school grounds. Schools must arrange annual visual inspections of school roofs to identify and address potential safety hazards and structural issues. These inspections must be completed by a competent person who is able to work safely at heights, which is generally a qualified roof plumber. These inspections are essential for preventing water ingress, which can cause significant damage to school buildings, including structural deterioration, health hazards like mould growth, and risks associated with electrical system failures. The inspection process involves the following key steps. Before any roof maintenance, ensure all necessary safety measures are in place. This includes setting up ladders or other height-access equipment, using personal protective equipment (PPE) like safety harnesses, hard hats, and non-slip shoes, and cordoning off the area below the roof to prevent unauthorized access. Check roof fixtures such as gutters, downpipes, skylights, and roof vents for damage or wear. Inspect flashings and sealants for integrity, ensuring they are watertight. Remove any debris like dirt, moss, or leaf litter to prevent premature wear, and repair or replace any damaged components."
+        }
+      ]
+    },
+    "90": {
+      "title": "School Maintenance Plans and Rolling Facilities Evaluations",
+      "category": "Infrastructure",
+      "url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+      "chapters": [
+        {
+          "chapter_idx": 3,
+          "chapter_title": "School Maintenance Plans – an overview",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Principals are responsible for maintaining their school’s buildings and grounds with their Student Resource Package allocation funding. The School Maintenance Plan helps schools to budget, schedule and manage the maintenance of their buildings and grounds using AIMS External Link (login required). The School Maintenance Plan is a 5-year plan that supports schools to address maintenance issues identified in assessments conducted through the Rolling Facilities Evaluation, which gives schools comprehensive information about the condition of their assets every 5 years. The School Maintenance Plan also enables schools to record and manage asset risks and build a cyclical routine maintenance program to prevent the recurrence of maintenance issues. The Department requires schools to have an endorsed School Maintenance Plan as an attestation of compliance with required maintenance on site. It is also a prerequisite for any applications for infrastructure funding through grants processes, and for school-funded facilities applications."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Rolling Facilities Evaluations – an overview",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "The Rolling Facilities Evaluation is conducted by the VSBA and involves 5-yearly assessments of the condition of school buildings and other infrastructure such as car parks, footpaths and fencing at all Victorian government schools (condition assessment). These findings will be detailed by the VSBA in a Condition Assessment Report. The Rolling Facilities Evaluation is delivered on a rolling 5-year cycle and approximately 300 schools will be assessed each year. The current Rolling Facilities Evaluation program is in year 1 of the 5-year cycle and will complete this cycle at the end of 2027. The Rolling Facilities Evaluation ensures that the VSBA maintains up-to-date data about the condition of schools. This data is used to inform where investment in maintenance needs to be prioritised."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Condition assessment",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "The VSBA will contact schools approximately 2 months before their condition assessment to invite principals to attend an information session to learn how to prepare for their assessment. The VSBA has engaged a service provider to undertake the assessments. Following the information sessions, a service provider will contact the school to schedule the assessment and will ask schools to complete and return a pre-assessment questionnaire to record the school’s maintenance issues. It is also important that school asset management system (SAMS) plans are kept up to date so that the Condition Assessment Report includes all buildings and grounds. To update your SAMS plan, email any changes to the team at sams@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Condition Assessment Report",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Schools will receive a detailed Condition Assessment Report (CAR) approximately 4 to 6 weeks after the condition assessment. Schools will then be able to view and download a copy of the CAR in AIMS. Detailed instructions on downloading a CAR can be found in the AIMS user guide (DOCX) External Link . The report will identify: Schools have 10 business days to review the report. They can accept the report or provide feedback to the VSBA Rolling Facilities Evaluation team."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Specialist assessments",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "During the Rolling Facilities Evaluation condition assessment, an assessor will sometimes identify a potential defect that cannot be fully investigated during the assessment. This is because the cause and extent of the defect is difficult to determine. The Rolling Facilities Evaluation assessor will mark this potential defect on the Condition Assessment Report and record it as requiring a ‘specialist assessment’. The VSBA will forward the details of the specialist assessment to a service provider engaged by the Department who will contact the school to arrange a time for a specialist assessor to visit. This assessor will conduct a more detailed investigation of the defect. Following the investigation, the assessor will produce a report which will be reviewed and approved by the VSBA and provided to the school."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Bushfire Attack Level and Shelter in Place assessments",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "In addition to condition assessments, the Rolling Facilities Evaluation will conduct a review of Bushfire Attack Level and a Shelter in Place assessment for schools on the Bushfire at Risk Register. These assessments are being undertaken to ensure that all schools on the Bushfire at Risk Register receive regular and consistent assessments to determine the bushfire risk level of the school and improve the ember resistance of designated Shelters in Place."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Preparing a School Maintenance Plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Following a school’s condition assessment, the VSBA will pre-populate the school’s plan with the maintenance activities identified by their condition assessment, and recommended routine maintenance tasks that should be undertaken regularly. The school will then prioritise and schedule their condition-based and routine activities to develop a 5-year School Maintenance Plan. Schools will be guided by: Schools can tailor their School Maintenance Plan to their unique school environment. This includes: All schools are required to develop a 5-year School Maintenance Plan following their condition assessment. When schools have finalised their plan, it must be submitted to the VSBA for endorsement at the start of the 5-year period of the plan. Detailed instructions on how to submit a plan can be found in the AIMS user guide (DOCX) External Link . Schools are responsible for implementing the endorsed School Maintenance Plan, including completing scheduled maintenance activities and updating the School Maintenance Plan to reflect changes."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Learning to use the School Maintenance Plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "The VSBA delivers regular training workshops throughout the school year to introduce schools to the plan, familiarise them with AIMS, and assist them in developing their plan. Following a school’s condition assessment and finalisation of their Condition Assessment Report, the VSBA will invite schools to attend a workshop."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Access the School Maintenance Plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "School Maintenance Plans are currently available to schools that have received their condition assessment and finalised their Condition Assessment Report. Detailed information on how schools can use AIMS to access, review and submit School Maintenance Plans can be found in the AIMS user guide (DOCX) External Link . To access useful resources for the School Maintenance Plan, refer to the Resource tab ."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Benefits of School Maintenance Plans",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Schools will have updated information about their assets to make informed decisions about what maintenance activities should be undertaken, when the works should occur, and whether a specific trade should be engaged. Planning maintenance activities over a 5-year period will help schools manage their annual Student Resource Package funding and schedule works more efficiently to get better value for money. By reviewing the plan regularly and keeping it up-to-date throughout the 5-year period, schools create a shared record of their planned and historical maintenance programs that can become a legacy document for future school leadership to refer to."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "How the VSBA uses School Maintenance Plans",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "School Maintenance Plans enable the VSBA to collect information about the maintenance activities undertaken by schools and the costs. This information forms part of the evidence base used by the VSBA to inform decisions by government about investment in school infrastructure. As schools develop and manage their plan, the VSBA will be able to identify opportunities for support through its programs. Schools should update their plan regularly so that asset planning and investment decisions are informed by the most up-to-date and accurate information about the maintenance needs of each school."
+        },
+        {
+          "chapter_idx": 15,
+          "chapter_title": "Rolling Facilities Evaluation team",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Email: rfeproject@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 16,
+          "chapter_title": "School Maintenance Plan team",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy",
+          "snippet": "Email: maintenance.plan@education.vic.gov.au Reviewed 12 January 2024"
+        }
+      ]
+    },
+    "91": {
+      "title": "Privacy and Information Sharing",
+      "category": "IT & Privacy",
+      "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "How to implement the Schools’ privacy policy",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/how-implement-schools-privacy-policy",
+          "snippet": "Schools must include a link on their public facing website to the department’s Schools' privacy policy External Link . Send staff a link to the guidance Implementing the Schools' privacy policy . The guidance will help staff understand what they need to do when collecting, sharing and using personal information. Send the school community a link to the Schools' privacy policy: information for parents External Link . This resource helps parents and carers understand how the school handles their information. It also includes translations for culturally and linguistically diverse communities. During the enrolment process schools must provide parents and carers with a link to the Schools' privacy collection notice External Link . Schools must also provide a link to the collection notice annually in Term 1, as part of regular privacy reminders."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Protecting personally identifiable information guideline",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/protecting-personally-identifiable-information-guideline",
+          "snippet": "The department, schools and government-owned early learning and childcare centres collect the personally identifiable information of staff, children, parents/carers and stakeholders as part of their core functions, operations and services. This guideline supports staff with implementing best practice when managing personally identifiable information as part of their daily work. Personally identifiable information is any information that can help to confirm a person’s identity. It is a type of personal information, and it may be used on its own, or in context with other information. Personally identifiable information may be collected in digital or hardcopy format. Personally identifiable information is critically important to individuals as, together with credentials, it makes up a person’s legal identity. Personally identifiable information includes commonly used information specific to an individual like:"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Collection notices",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/collection-notices",
+          "snippet": "It is important that schools are transparent and communicate with students and parents about how their personal information will be handled. A key way the department and schools do this is by providing collection notices. A collection notice is a plain language statement that explains: The main collection notice used in schools is the Schools’ privacy collection notice External Link . It explains why schools need to collect and use information to carry out core functions. Schools must share a link to the Schools’ privacy collection notice: Schools must do both to meet their privacy obligations."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Consent",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/consent",
+          "snippet": "Consent means someone giving permission for their personal information to be collected, used, and/or shared. In schools, this is often a parent or carer on behalf of a child. Schools and the department must ask for consent in certain circumstances. For example, consent is generally required for the collection, use or disclosure of health information (unless one of the exemptions under privacy law applies, such as to lessen or prevent a serious threat to someone’s life, health, safety or welfare). There are some exceptions in privacy law that allow the department and schools to use or disclose personal information without consent, such as sharing with a law enforcement agency to help an investigation. The department and schools are also able to share personal information through both the Child Information Sharing Scheme (CISS) to promote the wellbeing or safety of children and the Family Violence Information Sharing Scheme (FVISS) to assess or manage family violence risk. More information is also available in the Schools' privacy policy External Link . When giving consent, the person must have the capacity to consent. Therefore, consent is usually gained by parents, carers or mature minors."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Photographs, filming and recording",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/photographs-filming-and-recording",
+          "snippet": "Photos, videos and other recordings of a person are types of personal information and as such are protected by privacy law and sometimes by copyright law. The main things to consider when taking or sharing photos are consent, context and risk. There are 2 policies that cover photos, videos and recordings: Consent Guidance chapter explaining privacy laws and consent, and ou... Sharing information Guidance chapter outlining when personal and health informat... Guidance chapter outlining the relevant privacy considerations when photographing, filming and recording individuals and referring to relevant Department policy for more specific information Reviewed 09 July 2025"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Sharing information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/sharing-information",
+          "snippet": "School staff can share personal and health information of students, staff and others to carry out school and department functions or related purposes. Information sharing can also occur in other limited circumstances, such as when there is a risk to health and safety. All staff can, and must, share information about students, staff and others on a ‘need to know’ basis. This means that staff only share information necessary for them to do their job that doesn’t breach the privacy rights of the individual. It can also be shared for secondary purposes that would be reasonably expected by the person whose information is being shared. For more information on primary and secondary purposes, refer to the Schools' privacy policy External Link ."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Privacy impact assessments",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/privacy-impact-assessments",
+          "snippet": "A privacy impact assessment (PIA) identifies and assesses the privacy impacts of any initiative or software that handles personal, sensitive or health information. PIAs help schools identify privacy and security risks, evaluate compliance with Victorian privacy law and document ways to reduce risks. They also help schools identify important information to include in parent notifications. All software used by schools must meet child safety, privacy, records management and information security requirements. A PIA is recommended if the school wants to use software not already provided by the department that: stores personal, sensitive or health information is identified as high risk. Software may be high risk when it:"
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Health information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/health-information",
+          "snippet": "Health information is a type of personal information and under Victorian law is defined as information or opinion about an identifiable person’s physical, mental or psychological health or disability. It has stronger legal protections because its inappropriate use and disclosure can cause greater harm to or discrimination against a person. Schools typically hold health information about students and other individuals. Due to its high risk, extra steps must be taken to make sure the information has stronger protections in place. The exact levels of protection needed will depend on the circumstances. Stronger or higher levels of protection may include: When managing health information, schools must only collect, use and store what's essential to fulfil the purpose of collection. Examples of records that may contain health information are:"
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Biometric information and technologies",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/biometric-information-and-technologies",
+          "snippet": "Biometric information is a record of unique human physiological features or behavioural attributes. Some biometric information can also fall within the definition of health information under the Health Records Act 2001. Biometric information can include a record of a person’s: Biometric information scanning is increasingly used by organisations to confirm identity. Some new technologies even capture biometric information as part of their standard functionality. For example, biometric characteristics can be scanned via: As biometric information is unique to the individual, it has an ongoing identifiable connection to the person. Therefore, schools must consider carefully before biometric technology is introduced and information from children, families and staff is collected and used. Biometrics can be seen as intrusive when Victorian privacy law indicates that the least intrusive method should be preferred."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Information security",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/information-security",
+          "snippet": "All school and corporate staff must take reasonable steps to protect personal and health information they create, handle or for which they have responsibility. Schools must make sure that personal and health information is: Several department policies guide how to use information and communication technology (ICT). Information Security explains the requirements for protecting school information. Software and Administration Systems outlines the requirements for schools before buying or renewing software contracts and when auditing existing software."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Privacy incidents",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/privacy-incidents",
+          "snippet": "A privacy incident is any incident where there is a suspected or confirmed loss, inappropriate access, modification, use or disclosure of personal information. Examples of privacy incidents include: If there is a data breach, loss or inappropriate sharing of information that doesn't include personal information, it is an information security incident, not a privacy incident. For guidance on information security incidents, refer to Information Security . If a privacy incident has occurred, or may have occurred, schools must notify appropriate departmental teams so that they can assist. Schools can contact the Privacy team for advice at privacy@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Complaints",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/guidance/complaints",
+          "snippet": "If someone is concerned about the way the department or a school has handled their own or their child’s personal information, they can make a privacy complaint. Privacy complaints can be directed to the Privacy team at privacy@education.vic.gov.au For information, refer to Make a privacy complaint External Link . Privacy incidents Includes a definition of privacy incidents and information o... Resources Resources page containing supporting resources and links for... Includes information on how to make a privacy complaint. Reviewed 10 July 2025"
+        }
+      ]
+    },
+    "92": {
+      "title": "Information Security",
+      "category": "IT & Privacy",
+      "url": "https://www2.education.vic.gov.au/pal/information-security/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "1. Information security risk management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/information-security-risk-management",
+          "snippet": "All school staff must take reasonable steps to ensure that any school information they create, handle or have responsibility for is securely stored and protected from loss, unauthorised access, modification, inaccessibility, disclosure or destruction. This includes when information is being transmitted, transported, migrated or converted. Schools must consider information security risks as part of standard risk management practices. While security incidents cannot be eliminated, risks can be significantly reduced through informed decision making and effective operating controls. When assessing information security risks, schools must: in accordance with the risk management processes found in the Risk Management – Schools policy . In addition, schools must include the results of the school risk register in the school’s emergency and critical incident response plan following the Emergency and Critical Incident Management Planning policy . Guidance Table of contents for the guidance to the Information Securi... 2. Information access Includes information on ICT access, reviewing and updating I... Includes information on steps all school staff must take to ensure that any school information they create, handle or have responsibility for is securely stored and protected from loss Reviewed 18 June 2025"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "2. Information access",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/information-access",
+          "snippet": "Schools must implement access controls to information (for example, access to school systems, key management, swipe card access, visitor processes) and review these procedures at least annually. To ensure that access is appropriately authorised and updated when needed, timeframes relating to the specific access controls activities are detailed in the following sections. Individuals must only have access to information that is necessary to perform their role or they otherwise have a right to access. Failure to assign the right level of access to the right role may result in an information security or privacy breach. Schools can effectively manage access to information by: This guidance relates to the use and security of passwords while conducting departmental activities, including activities undertaken on third-party systems."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "3. Information training and staff awareness requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/information-training-and-staff-awareness-requirements",
+          "snippet": "Schools are encouraged to ensure that staff with access to sensitive school information complete relevant security training to enable them to understand and comply with information security obligations. Department provided materials are available for staff (with DE identities) and it is recommended that information security and awareness training is undertaken upon engagement and repeated annually thereafter where possible. LearnED modules are available including the Information Security for School Staff e-learning module (staff login required) External Link . It is best practice to embed information security training as a regular component of staff training. Department provided resources include the Identifying and Reporting Phishing guide (DOCX) External Link . 2. Information access Includes information on ICT access, reviewing and updating I... 4. Information security incidents Includes information on common information security and cybe... Includes information on information security training and awareness programs Reviewed 05 March 2026"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "4. Information security incidents",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/information-security-incidents",
+          "snippet": "An information security incident is any event that compromises the confidentiality, integrity, or availability of school information or school ICT systems. This includes both cyber and non-cyber related incidents and can include: In the event of an information security incident, schools must follow the process outlined in the First response card (PDF) External Link when reporting cyber incidents: call 000 only while an incident is in progress and needs an emergency services response immediately notify the principal and other school leadership of any information security incidents, regardless of their nature or severity. Once reported, manage information security incidents according to the process outlined in the Managing and Reporting School Incidents (Including Emergencies) policy . The following categories represent common information security and cyber incidents that require immediate reporting in line with the department’s security incidents reporting procedures. 3. Information training and staff awaren... Includes information on information security training and aw... 5. Emergency management and disaster rec... Includes information on what schools must do to plan to secu... Includes information on common information security and cyber incidents that require immediate reporting Reviewed 28 January 2025"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "5. Emergency management and disaster recovery planning",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/emergency-management-and-disaster-recovery-planning",
+          "snippet": "As outlined in the Emergency and Critical Incident Management Planning policy , schools must plan to securely continue operations during disruptions impacting ICT systems and be able to recover information and systems in the event of a disaster. Schools are recommended to: , which includes their Business Continuity Plan, and describe: how they will respond to potential disruptions to school critical ICT systems and data access specific contingencies and disaster recovery processes for securing school information stored on-site (both digital and hard copies) and managing school information shared with third parties (such as Compass for student data) complete testing of the Business Continuity Plan with the support of the TSSP resource obtain reports from any locally engaged contracted service providers, confirming that the providers’ business continuity measures are in place, to prevent interruption to school operations, including: automated backup systems data backups sufficiently isolated from production systems to enable data recovery in the event of a ransomware attack which may seek to destroy or maliciously encrypt the backup data data retention requirements (including a confirmation of minimum data retention – all backups must be retained for at least 3 months) documented disaster recovery strategies that are tested at least annually. For additional details on annual planning requirements and processes, refer to the Technologies and ICT Services and Emergency and Critical Incident Management Planning policies . 4. Information security incidents Includes information on common information security and cybe... 6. Third-party arrangements Includes information on what schools must do to effectively ... Includes information on what schools must do to plan to securely continue operations during disruptions impacting ICT systems and be able to recover information and systems in the event of a disaster Reviewed 28 January 2025"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "6. Third-party arrangements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/third-party-arrangements",
+          "snippet": "Schools must effectively manage their relationships with locally engaged third parties to protect school information and systems and take steps to ensure school information is secure when facilities or ICT equipment are maintained or repaired. When considering using a contract supplied by a service provider, schools must seek advice from the department’s Legal Division to ensure the contract includes adequate provisions for recordkeeping, privacy and information security. When adopting new software or administration systems that are not provided by the department, schools are required to use the Safer Technologies 4 Schools (ST4S) risk assessment reports as per the Software and Administration Systems policy . In addition, schools are required to maintain an inventory of all third-party arrangements where a provider has access to school information and systems, using the software inventory template (DOCX) External Link . When developing local level policies and procedures for managing visitors, schools must follow the Visitors in Schools policy and ensure these include: For additional details on entering and managing third-party arrangements, refer to the Technologies and ICT Services and Records Management policies."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "7. Annual reporting requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/annual-reporting-requirements",
+          "snippet": "Centrally attested schools must provide reports to the department demonstrating overall progress on compliance to the Victorian Protective Data Security Standards (VPDSS), published by the Office of the Victorian Information Commissioner (OVIC). Detailed instructions will be provided to schools regarding the attestation process, including how to respond to the school VPDSS school questionnaire and complete the Protective Data Security Plan at the time of the attestation. 6. Third-party arrangements Includes information on what schools must do to effectively ... 8. Personnel security Includes information on what schools must do to validate the... Includes information for schools on the scope of annual reporting and the Victorian Protective Data Security Standards attestation process Reviewed 28 January 2025"
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "8. Personnel security",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/personnel-security",
+          "snippet": "Schools must validate the identity and suitability of staff, volunteers, and other persons who will have access to school information when they start with the school and revalidate and manage changes as required. Pre-employment and engagement checks must be performed for: When validating personal information, prior to appointment or engagement, schools must: and the Employment in a government school – validation of personal information form (PDF) External Link for any new employee ensure mandatory documentation is provided to confirm the personal information. In addition, schools are required to: (staff login required) have local off-boarding procedures in place for personnel leaving the school commensurate with their security obligations and risk profile including for locally acquired systems follow the personal security processes outlined in the Recruitment in Schools policy , when managing personal security. 7. Annual reporting requirements Includes information for schools on the scope of annual repo... 9. Information communications technology... Includes information on asset management, secure disposal of... Includes information on what schools must do to validate the identity and suitability of staff, volunteers, and other persons who will have access to school information Reviewed 28 January 2025"
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "9. Information communications technology security",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/information-communications-technology-security",
+          "snippet": "Schools must have processes in place to ensure the security of all school-managed ICT assets throughout their lifecycle. This must include: Schools must properly dispose of all computer equipment to protect school and personal information from unauthorised access, such as exposure to the public. Computer equipment includes any computerised equipment that stores school or personal information. Devices defined as computer equipment include laptops, desktop computers, media storage devices (for example, hard drives and USB drives), printers, faxes, security systems and network devices. The equipment may be owned or leased by the school or may be staff-owned devices used for school purposes. As part of the disposal process: It is also essential that the Records Management and Software and Administration Systems policies are followed as part of the disposal process."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "10. Physical security",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/information-security/guidance/physical-security",
+          "snippet": "Schools must implement physical security measures to protect school information and school ICT equipment and systems throughout their lifecycle, both within and outside school premises. This includes: When handling information outside the school premises, schools must ensure staff, volunteers and other parties understand their information security obligations including when working remotely, travelling and sharing information with third parties. In addition to this Information Security policy, when managing physical access to school information and ICT systems, schools must follow the: 9. Information communications technology... Includes information on asset management, secure disposal of... Resources Resources page containing supporting resources and links for... Includes information on what schools must do to implement physical security measures to protect school information and school ICT equipment and systems throughout their lifecycle Reviewed 28 January 2025"
+        }
+      ]
+    },
+    "94": {
+      "title": "Technologies and ICT Services",
+      "category": "IT & Privacy",
+      "url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "By the end of 2028 schools must migrate their school-managed technologies to department-provided technologies where available. This is because it is no longer appropriate for schools to operate separate technology environments due to:"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Department-provided technologies and ICT services",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "The department provides a suite of technologies and services to schools. These technologies are regularly assessed for compliance with the child safety, privacy and security standards. Department-provided technologies include: The department provides a range of ICT support for schools including: (staff login required) Arc Software External Link . For more information, refer to ICT support for schools in the guidance chapter."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Migrating to department-provided technologies and ICT services",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "The Securing Connected Learners (SCL) Program External Link (staff login required) has been established to support schools to migrate to department-provided technologies by the end of 2028. Schools will have the opportunity to influence improvements to the technology and services the department provides and will be contacted to advise of the migration process. If existing commercial agreements for equipment, services and software are due for renewal and sufficient notice is provided, the SCL Program may be able to facilitate an early transition providing a cost-avoidance opportunity for schools. Please use the Contact us External Link page to notify the SCL Program of these arrangements."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Adopting other technologies and ICT services",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "Schools may continue to adopt and use technologies not provided by the department in accordance with department policies (below). These technologies may include: When seeking to use technologies not provided by the department, schools must ensure they comply with department policies, including: Schools are strongly encouraged to use a department contract template when using technologies not provided by the department to ensure compliance with department requirements. For more information, refer to the system and applications section of the Records Management policy External Link . In addition to the above requirements, schools, supported by TSSP personnel, must define, implement and support backup and recovery procedures for school ICT infrastructure to minimise IT security and business continuity risks associated with data loss. For more information, refer to Backup and recovery of ICT infrastructure in the guidance chapter."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Contact",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "Securing Connected Learners Program SCLProgram@education.vic.gov.au Services Portal External Link Phone number for schools: 1800 641 943 Email: servicedesk@education.vic.gov.au"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "Administration systems Administration systems refer to digital technology-based systems and processes for collecting, maintaining and using records (including for students, staff, parents and others) – refer to Software and Administration Systems . Internet of Things (IoT) The physical objects that are connected to, and share data, with technologies and ICT services and software over the internet, including some: printers, multifunction devices, projectors, hearing augmentation devices, air filters, air conditioners, solar panel arrays, door locks, lights, security sensors, clocks. Software The digital applications that support teaching, learning and other functions in a school, and which complement Administration Systems and Technologies and ICT Services including: locally installed applications, web-based applications, websites, web browser extensions, collaboration platform add-ons – refer to Software and Administration Systems . Technologies and ICT services Technologies and ICT services refer to infrastructure and platforms that enable core school functions including: hardware, internet, network, cloud services, identity management, operating systems and collaboration platforms."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy",
+          "snippet": "Health Records Act 2001 (Vic) External Link Ministerial Order 1359 – Implementing the Child Safe Standards – Managing the risk of child abuse in schools (PDF) External Link Privacy and Data Protection Act 2014 (Vic) External Link Public Records Act 1973 (Vic) External Link Victorian Protective Data Security Framework External Link Technologies and ICT Services Department policy outlining the requirement for schools to t... Department policy outlining the requirement for schools to transition to department-provided technologies by the end of 2028 and the support available for schools implementing ICT services Reviewed 28 January 2025"
+        }
+      ]
+    },
+    "95": {
+      "title": "Records Management",
+      "category": "IT & Privacy",
+      "url": "https://www2.education.vic.gov.au/pal/records-management/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "1. Permanent and long-term temporary records",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/permanent-and-long-term-temporary-records",
+          "snippet": "These are public records with the highest value to the Victorian community. They provide evidence of significant school activities and decisions and provide a summary of student interactions with the state. Examples of permanent records include student enrolment records (such as hardcopy pupil registers and enrolment data in CASES21), formal class photos and school council records. Refer to the School records retention guide (XLSX) External Link (staff login required) to identify other types of permanent value records. Permanent records must not be destroyed or unlawfully removed from school custody. When permanent records are no longer needed, schools must contact the Records and Mail Services team on 1800 359 140 or archives.records@education.vic.gov.au to arrange the transfer of these records to the State Archives where they will be kept in perpetuity. Long-term temporary records are very important as they provide proof of accountability, transparency of decision-making and administrative processes and can uphold an individual’s rights and entitlements."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "2. Records naming conventions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/records-naming-conventions",
+          "snippet": "When naming records, it is essential to use titles that are meaningful to others to ensure records can be identified, retrieved and used for authorised purposes throughout their retention period. Schools must use naming conventions consistently when titling documents and other records (this includes records that have been digitised). A good record title will include the following elements: For example: Minutes – School Council – June 2022. Note: some school administration systems (for example, CASES21) have specific naming conventions that must be used – refer to the relevant user guides. 1. Permanent and long-term temporary rec... Includes examples of types of permanent and temporary school... 3. Records that must be restricted Includes information about restricting records that contain ... Includes information on best practice for titling records Reviewed 04 October 2024"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "3. Records that must be restricted",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/records-that-must-be-restricted",
+          "snippet": "Schools must support openness and transparency by ensuring staff have access to the records they need to perform their duties, and only restricting records to meet legislative requirements, regulations, or policies, such as privacy laws. Access to records that contain personal, sensitive, health or confidential information must be restricted, and only shared with staff on a ‘need to know’ basis. This helps to protect personal information from misuse, loss and unauthorised access, modification, disclosure, or any harm that may arise. Schools must annually review: open-access folders in systems and sites (including the school’s website) for any records with personal or sensitive information and remove them immediately. Open access folders are folders without any access controls, and such folders must not be used to store personal or sensitive information. If schools find personal or sensitive information exposed in open-access folders, they must immediately secure it and then advise the Privacy Team at privacy@education.vic.gov.au as such instances may constitute a breach and so must be assessed for privacy risk and risk of harm. The Privacy Team will assist with this and any other remediation actions in accordance with relevant policy and legislation. The following policies provide further supporting information to inform decisions about access to information and records:"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "4. Hardcopy records storage",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/hardcopy-records-storage",
+          "snippet": "Schools are responsible for protecting records in their custody from misuse, loss, deterioration, and damage. This guidance page outlines what schools must do to ensure records storage areas and facilities are protected. (available in the resources tab) to check if storage areas or facilities meet compliance requirements. Complete PART A of the Hardcopy records storage checklist before designating an area or facility for hardcopy records storage. Follow the Manual Handling policy and consider manual handling risks when storing records. Use sturdy boxes with lids to store records. This helps reduce manual handling risks, helps safeguard records and allows records to be relocated efficiently. Hardcopy records must be stored in an organised manner (for example, sorted by alphabetical order and function), to ensure that they can be easily retrieved when required. Regularly inspect and maintain records storage locations Schools must regularly inspect and maintain hardcopy record storage locations to ensure the long-term preservation, safety, and security of records. Schools can use PART B of the Hardcopy records storage checklist (DOCX) External Link (staff login required) to inspect storage locations and identify maintenance issues. Conduct inspections at least annually, and rectify any identified maintenance issues as soon as possible. The Buildings and Grounds Maintenance and Compliance policy and the Essential Safety Measures guidance outline the minimum inspection and maintenance requirements for school facilities, which include hardcopy records storage areas and facilities."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "5. Digital recordkeeping",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/digital-recordkeeping",
+          "snippet": "Digital recordkeeping is the practice of creating, managing, storing, and preserving records and documents in digital formats. Digital recordkeeping leverages electronic systems and technologies to capture, organise, and maintain records throughout their lifecycle. Digital records include those created in a digital format (born digital) and those converted into a digital format (for example, scanned documents). . School administrators can assist with this at the direction of school principals. Naming conventions: Follow naming conventions when creating digital records to ensure consistency and make records easy to locate. Third-Party systems: If using third-party systems to create or store digital records, ensure they meet the minimum metadata requirements detailed below and other recordkeeping requirements . Procedures and processes: Include recordkeeping requirements in documented procedures and processes to ensure digital records are routinely created and captured in school systems. Relationships between records: Create relationships between digital records to establish a business context where appropriate. Refer to this CASES21 Administration User Guide External Link and other relevant user guides for further information on this. Long-term sustainable formats: Use long-term sustainable formats for permanent and long-term temporary records – refer to further guidance below. Minimum metadata requirements Metadata is essential data that describes the context, content and format of records which enables their management through time. A document title is one type of recordkeeping metadata. Metadata helps others find records. Metadata tells people who created the record and when. Metadata can also capture what the record is about, how sensitive the information it contains is, and how long it must be kept. Capture and maintain the following metadata for all records :"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "6. Recordkeeping requirements for third-party systems",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/recordkeeping-requirements-for-third-party-systems",
+          "snippet": "Schools are responsible for ensuring that third-party systems comply with all the recordkeeping requirements outlined in the School Records Management policy and this guidance. This guidance aims to create awareness around the recordkeeping requirements that apply to third-party systems that create, manage or hold school records. Any school system that is not provisioned by the department is considered a 'third-party' system. Refer to the Software and Administration Systems policy and to Arc External Link to identify which systems are provisioned by the department, and systems which have undergone security and privacy assessments. When using a third-party system or application to create, manage or store records (such as Compass, Xuno, and so on), schools are strongly encouraged to use a DE contract template to ensure the provider will meet the requirements outlined below. This guidance page must be read in conjunction with the Procurement – Schools policy and the Information Security policy ."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "7. Digitising hardcopy records",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/digitising-hardcopy-records",
+          "snippet": "Follow this guidance chapter to understand digitisation requirements. Before starting to digitise hardcopy records, consider the following: The Public Record Office Victoria has mandatory technical and quality assurance requirements External Link for digitising permanent value records (records that are eventually transferred to the state archives), for example, school council meeting papers. Some historic and permanent hardcopy records including all those created before 1 January 2000 must not be disposed of after digitisation. This includes pupil registers, corporal punishment registers, inspector’s report books, parents’ clubs/ mothers’ club meeting papers prior to 1980 and teacher time books. Refer to the School records retention guide (XLSX) External Link (staff login required) to identify other types of permanent value records."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "8. Archiving hardcopy records",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/archiving-hardcopy-records",
+          "snippet": "The following steps will help schools to archive hardcopy records efficiently and effectively. Sort records by type. For example This will make it easier to find and dispose of the records. To help sort common school records by type, refer to: (staff login required) Ideally this will be referenced as a digital copy to maintain currency, however, if printed, be sure to use the latest version as the content may be updated from time to time."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "9. Normal administrative practice – records that do not need to be archived",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/normal-administrative-practice-records-do-not-need-be-archived",
+          "snippet": "Some information can be routinely destroyed following a process known as Normal Administrative Practice. Normal Administrative Practice allows the routine disposal of information that is not an official school record, examples include: Refer to Chapter 10 – How to destroy ‘time-expired’ records for guidance on how to formally dispose of official school records. 8. Archiving hardcopy records Includes step by step instructions to help schools to archiv... 10. How to destroy ‘time-expired’ record... Includes steps on how to destroy ‘time-expired’ records Includes information on records that can be routinely destroyed following a process known as Normal Administrative Practice. Reviewed 04 October 2024"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "10. How to destroy ‘time-expired’ records",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/how-to-destroy-time-expired-records",
+          "snippet": "'Time-expired’ records are records that have passed the minimum retention period, as per the School records retention guide (XLSX) External Link (staff login required). Time expired records may be lawfully destroyed. Principals must ensure the regular disposal of time-expired records that are no longer needed for operational purposes. Routine record disposal: Schools must ensure that third-party providers do not destroy hardcopy or digital records, unless explicitly and appropriately authorised to do so. For further information on this, refer to Chapter 6 – Recordkeeping requirements for third-party systems . Schools must ensure that all personal, confidential, and sensitive information is protected and cannot be accessed inappropriately during the destruction/deletion process. Schools must not destroy records that are reasonably likely to be needed for current or future legal proceedings, including any civil or criminal proceeding or any inquiry such as a Royal Commission or Board of Inquiry, even if their minimum retention period has passed , for example, records related to a known risk or disclosure of an incident such as allegations of child sexual abuse."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "11. Recordkeeping – child safety and wellbeing",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/recordkeeping-child-safety-and-wellbeing",
+          "snippet": "The Child Safe Standards are compulsory minimum standards to ensure organisations that provide services to children are well prepared to keep children and young people safe from harm and abuse. Ministerial Order 1359 – Implementing the Child Safe Standards – Managing the risk of child abuse in schools (PDF) External Link outlines how the Child Safe Standards apply in Victorian schools. Schools must understand and follow their recordkeeping obligations under this policy to comply with Child Safe Standards. Child Safe Standard 2 (Ensure that child safety and wellbeing are embedded in school leadership, governance and culture), which requires schools to create, maintain and dispose of records relevant to child safety and wellbeing in accordance with Public Record Office Victoria Standards. Refer to the School records retention guide (XLSX) External Link (staff login required) for the retention requirements of all student safety and well-being records. For more information, visit: 10. How to destroy ‘time-expired’ record... Includes steps on how to destroy ‘time-expired’ records 12. Records management support for schoo... Includes information on where to get advice and services, an... Includes information on recordkeeping and the Child Safe Standards Reviewed 04 October 2024"
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "12. Records management support for schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/records-management/guidance/records-management-support-schools",
+          "snippet": "The department’s Records and Mail Services unit provides records management advice and services to schools including: The Schools Records Management Program supports schools to better manage their records. Schools that participate in the program receive: Contact Records and Mail Services at archives.records@education.vic.gov.au for information on participating in the program. Contact the Records and Digitisation Services team on 1800 359 140 or at archives.records@education.vic.gov.au"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,765 @@
+{
+  "chunk_idx": 2,
+  "entry_ids": [
+    "41.6",
+    "41.7",
+    "41.8",
+    "42",
+    "43",
+    "44",
+    "45",
+    "47",
+    "48",
+    "49"
+  ],
+  "by_entry": {
+    "41.6": {
+      "title": "Finance Manual — Section 7 Chart of Accounts",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Section 2 Governance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-2-governance",
+          "snippet": "The Education and Training Reform Act 2006 (the Act), the Education and Training Reform Regulations 2017 (the Regulations) and the constituting orders of school council stipulate the functions and powers of school councils including financial responsibilities. In addition, the Schedule B of the contract of employment for principal class officers outlines the financial responsibilities of principals. As school funds are public monies, the management of these funds is subject to the requirements of the Financial Management Act 1994 (Vic) External Link , which requires schools to be publicly accountable for the budget planning, allocation and use of those funds. In addition, schools operate in a business environment and their financial practices are subject to various acts and legislation, including but not limited to the A New Tax System (Goods and Services Tax) Act 1999 (Cth) External Link , Fringe Benefits Tax Act 1986 (Cth) External Link and Income Tax Assessment Act 1997 (Cth) External Link . The guidelines stipulated in this policy and guidance represent the minimum level of mandatory requirements. Every effort has been made to provide the flexibility needed for the widely varying circumstances of schools, whilst maintaining the level of compliance, control and accountability expected of government establishments. Where appropriate, authority for financial management has been devolved to provide principals and school councils with more control over the resources available to them. This enables principals and school councils to budget and make effective use of financial resources in accordance with their annual school plan. Comply with the directions set out in this manual."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Section 3 Risk Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-3-risk-management",
+          "snippet": "Risk management maximises the ability to deliver on departmental objectives, promotes sound decision-making for resource allocation and investment, and works to safeguard student and employee wellbeing. It also contributes towards meeting the Victorian community and government expectations for accountable and responsible use of public finances and resources. Comply with the Risk Management — Schools Policy . Fraud is dishonest activity causing actual or potential financial loss to the department (including theft of money or other property) and where deception is used at the time, immediately before or immediately following the activity. This also includes deliberate falsification, concealment, destruction or use of (or intention to use) falsified documentation and the improper use of information or position for personal financial benefit. Corruption is a dishonest activity in which an executive, manager, employee or contractor acts contrary to the interests of the department and abuses his or her position of trust to achieve some personal gain or advantage for themselves or for another person or entity. The department has zero tolerance to fraud and corruption."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Section 4 Internal Controls",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-4-internal-controls",
+          "snippet": "Internal controls are a combination of measures put in place to ensure that the financial and physical assets of the school are safeguarded (the risk of theft and fraud is minimised). This section provides an overview of internal controls and some general examples. Each section of this manual also includes internal control measures specific to that item. Internal controls ensure that the accounting information produced is accurate and complete, and the financial information obtained from the schools accounting system can be relied upon and used with confidence by all people involved in financial decision-making. Good internal control protects staff and school resources. These controls are designed to discourage errors or irregularities from occurring. They are proactive actions that help ensure objectives are being met. Segregation of duties – this means that no one person is responsible for doing everything. For example, the person who enters the invoice into CASES21 is different from the person who approves the payment of the invoice. This type of control serves 2 purposes. It ensures there is oversight and review to detect errors, and it helps prevent fraud because it requires at least 2 people to collude in order to hide a transaction."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Section 5 School Council Financial Assurance Program",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-5-school-council-financial-assurance-program",
+          "snippet": "The School Council Financial Assurance (SCFA) program is managed by the Assurance Branch within the Integrity, Assurance and Executive Services Division. Under the SCFA program, the Assurance Branch conducts Agreed-Upon Procedures (AUPs), Schools Internal Audits (SIA) and Ad-hoc audits for Victorian government schools. The department uses a range of criteria when selecting schools for audits. Examples of criteria used include: The Assurance Branch works with the Operational Policy, School Engagement and Compliance (OPSEC) Division to minimise instances where schools are selected for multiple audits and/or reviews during the same period. Schools can contact the School Audit Support team with queries about scheduling or other concerns relating to school circumstances that impact on audit or review timing at school.audit.support@education.vic.gov.au or 03 7022 0044 . Schools are notified of their selection in audits via email. The department's contracted external audit firm and the Assurance Branch’s school internal auditors directly contact schools to organise a suitable time for fieldwork. Schools have the flexibility to select their preferred fieldwork dates within the period and the auditors will make every effort to accommodate school preferences."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Section 6 Budget Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+          "snippet": "An annual budget is a comprehensive financial plan for the school that is calculated from potential revenue and proposed expenditure for the coming year. It is used to plan the course of future events in a school and assists a school council in monitoring actual events against its initial plan and evaluating performance at the end of the year. The school council has responsibility for the school budget and for seeing that it is developed in a way which ensures that funds expected to be available are put to the best use in terms of the school’s strategic plan and its educational policies and priorities. It is through the school budget that cash resources are directed into activities that enable clearly identified school goals to be met. Inadequate and ineffective oversight of financial performance and budgets may result in programs and expenses not being appropriately controlled and monitored. Budget variance analysis is required to ensure financial issues are addressed in a timely manner and errors or irregularities detected. Develop an indicative cash budget (revenue and expenditure) based on the Indicative SRP and estimates of other revenue and expenditure. Include capital if capital projects. Have the indicative cash budget approved and minuted by school council prior to the end of the year preceding the budget year. For example, the budget for the 2026 year to be approved by end of 2025 year."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Section 8 Bank Accounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-8-bank-accounts",
+          "snippet": "Schools can hold their cash in: All school bank accounts must be in the name of the school council. The name of the accounts should align with the school’s registered ABN name. All school bank accounts must be held with an approved panel bank under the State Purchasing Contract (SPC). The approved panel bank suppliers are: To ensure schools plan effectively, it is essential to prepare a cash flow budget to determine cash requirements in any given period, whilst maintaining the schools’ cash reserve benchmark. Schools must seek approval from the department by emailing schools.finance.support@education.vic.gov.au to maintain Beneficiary and/or Memorial funds in a separate account."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Section 9 Funding Sources",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
+          "snippet": "Schools receive funding from a variety of government and non-government sources. Most school funding is received from the department. Schools should maintain remittance advices where provided. For sources where a remittance advice is not available (e.g. parent payments, sundry debtors) schools should retain appropriate evidence to support recognition of the revenue. This may include bank statements, audit trail and source contracts/user agreements. The Student Resource Package (SRP) is the department’s main funding mechanism for Victorian government schools. It is primarily an enrolment-based funding model with a cash component being paid directly to schools in quarterly instalments. Undertake an annual reconciliation by the due date as specified in the reconciliation process for that year."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Section 10 Receivables Management and Cash Handling",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-10-receivables-management-and-cash-handling",
+          "snippet": "Schools can receive revenue from several sources. This may involve invoicing families and sundry debtors as well as the receipt of cash/EFTPOS/BPAY. It is important that schools recognise this revenue appropriately. Cash receipts must be handled in a manner that minimises any associated risks. A receivable is money owing to the school from the provision of services or the sale of goods. It may be owed by families for items such as camps and excursions or third parties (sundry debtors) for items such as hire of school facilities. Comply with the Parent Payments policy (also known as parent voluntary contributions). Enter family and sundry debtor invoices into CASES21 in a timely manner using relevant general ledger and GST codes. Regularly review (preferably monthly) the sundry debtor balances to assess collectability and take any appropriate action."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Section 11 Expenditure Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
+          "snippet": "School councils may enter into contracts, agreements or arrangements for the supply of goods, services, facilities, materials, equipment and other matters that are required for the conduct of the school including the provision of pre-school programs. This will involve procuring, ordering, taking delivery, being invoiced and making payment. Comply with the policy for schools on Procurement – Schools . Comply with the policy for schools on Travel . Comply with the policy for schools on Gifts, Benefits and Hospitality . Comply with the policy for schools on Travel and Personal Expenses – Teaching Service ."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Section 12 Trading Operations",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+          "snippet": "A school may engage in various trading operations as a service to the school community and/or to supplement school funding. The more common types of trading operations include canteen, out of school hours’ care and kindergartens. School councils must approve all school trading operations and all approvals must be recorded in the school council minutes. If a trading operation is to be outsourced (for example, out of school hours’ care and canteen licence), the school council must contact Legal Services Division External Link to determine the most appropriate outsourcing agreement. Legal Services can be contacted at legal.services@education.vic.gov.au or on 9637 3146 . School council must nominate and minute annually the taxation treatment for each trading operation. The taxation treatment (taxable or input taxed) applies to all transactions for that trading activity, revenue, expenditure and asset acquisition. The school council or the finance committee must review the viability of trading operations on a regular basis."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Section 13 Asset and Inventory Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+          "snippet": "Schools have substantial investments in stores, equipment, furniture, books and other learning materials. Although most items are covered by insurance administered within the department, proper asset management procedures must be followed on purchases, custody, loss or disposal of these items to ensure accurate and up-to-date information is maintained. This policy is aimed to guide schools in accounting for assets in accordance with relevant accounting standards and legislation. By keeping appropriate records and identifying valuable items of school equipment and furniture, losses can be minimised, and the value of the assets can be used to deliver educational services for the school. It is crucial that schools strictly follow asset management policy and guidelines to ensure accurate reporting and accountability of assets are recorded in CASES21 Finance system. An asset is a resource that, according to the Framework for the Preparation and Presentation of Financial Statements External Link , is controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity. This is the minimum dollar value of an item as determined under the Financial Management Act 1994 (Vic) External Link , Part 5 Financial Responsibility."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "Section 14 Liabilities Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-14-liabilities-management",
+          "snippet": "Liabilities are amounts owed to lenders and suppliers. Liabilities can also include amounts received in advance for future costs or for a future service. For schools, the most common liabilities are accounts payable, revenue in advance and co-operative loans. These are the amounts owed to creditors for the supply of goods and services. When entering creditor details check the validity of the ABN provided. Where a creditor does not have an ABN, select the most appropriate code to be entered into the ABN field. Refer to: CASES21 Finance Business Process Guide Section 3 – Creditors External Link (staff login required). Regularly review invoices awaiting payment and outstanding orders and take appropriate action. (For example, pay overdue invoices, cancel invalid invoices and orders)."
+        },
+        {
+          "chapter_idx": 14,
+          "chapter_title": "Section 15 Taxation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-15-taxation",
+          "snippet": "Schools do not pay Income Tax pursuant to Section 24AK of the Income Tax Assessment Act 1936. Schools meet the definition of a State/Territory Body and are therefore exempt from income tax. There is no income tax exemption certificate as such, but if schools need to quote that they are exempt from income tax, they should quote the section above. All schools are registered with an Australian Business Number (ABN) and are registered for GST. Schools must comply with the GST law in every respect. As well as the mandatory policies below, schools should refer to the Tax EduGate page for extensive support and assistance in complying with the school’s GST obligations. Refer to Tax pages External Link on the department website. Schools can check their own, and their suppliers’ ABN details at ABR Business Search External Link ."
+        },
+        {
+          "chapter_idx": 15,
+          "chapter_title": "Section 16 Reporting Performance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-16-reporting-performance",
+          "snippet": "The general purpose of the financial statements is to provide information about the results of operations, financial position, and cash flows of an organisation. This information is used to make decisions regarding the allocation of resources and provide governance over business operations. Undertake a bank reconciliation and prepare a report for each active bank account at the end of each month. Provide a written explanation of any differences on the bank reconciliation report. Have the bank reconciliation report certified by the principal. Ensure that bank accounts do not show a negative balance (are overdrawn) either at the bank or in CASES21."
+        },
+        {
+          "chapter_idx": 16,
+          "chapter_title": "Section 17 End of Year (31 December)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
+          "snippet": "The End of Year financial policy described in this section must be implemented to enable the completion of End of Year (31 December) and the start of the New Year in CASES21. The review and clean-up of the Families (Receivables module) must be done for exiting students prior to running CASES21 Administration End of Year. The End of Year (31 December) CASES21 Finance rollover must not be done until 1 January of the New Year. Schools must read CASES21 Finance Business Process Guide Section 11 — End of Year and follow the guidelines to complete the End of Year (31 December) process. Data entry in CASES21 against the new period must not commence until all entries for the current year have been entered and the End of Year (EOY) processes are completed."
+        },
+        {
+          "chapter_idx": 17,
+          "chapter_title": "Section 18 End of Financial Year Reporting (30 June)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-18-end-financial-year-reporting-30-june",
+          "snippet": "Previously, End of Financial Year (30 June) procedures have predominately been based around the processing of payment summaries. However, as schools’ financial transactions forms part of the department’s Annual Report and Whole of Government Financial reporting, to increase best practice financial management in schools, additional financial information is now required to be completed. Regularly review all prepaid expense balances to ensure that only current balances are recognised in CASES21 using the relevant Chart of Account code 12005 Prepaid expenses. As part of best practice financial management, schools are required to review all accounts receivable and accounts payable balances on a regular basis. This includes reviewing invoices processed in accounts receivable (families and sundry debtors) and accounts payable (creditors) to ensure the most accurate and up-to-date information is available. This practice will ensure that financial reports do not include revenue that will not be collected. Must ensure that invoices relating to the month of June are entered by the 30 June into CASES21 Accounts Receivable module. All account receivable balances must be reviewed to ensure only current balances are recognised in CASES21 Accounts Receivable module."
+        },
+        {
+          "chapter_idx": 18,
+          "chapter_title": "Section 19 Financial Handover",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
+          "snippet": "A principal who is leaving a school for longer than two terms is required to prepare a financial handover statement. This is to ensure that the incoming principal and the departing principal have a clear understanding of the school’s financial position at the time of handover. Prepare a financial handover statement (DOCX) External Link as near and as practical to the last day of duty. Ensure that all CASES21 records, including the asset register, are up to date and reflect the handover statement as near as practical to the outgoing principal’s last day of duty. Verify the correctness of the items in the financial handover statement (DOCX) External Link . Carry out a stocktake of the major accountable items a soon as practicable to test the accuracy of the stocktake record prepared by the departing principal."
+        },
+        {
+          "chapter_idx": 19,
+          "chapter_title": "Section 20 Opening, Closing and Merging Schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-20-opening-closing-and-merging-schools",
+          "snippet": "School reorganisations may involve opening, closing or merging of schools. A merger may result in creating a new school where a new school number is issued or renaming an existing school where one of the merging school numbers is retained. When a new school is to open, a School Finance Liaison Officer (SFLO) will be assigned to assist the new principal and business manager with the financial set up of the school. The school is required to open a High Yield Investment account with Westpac Bank and an Ofﬁcial account for transactional purposes at a banking provider under the SPC. Schools can contact schools.finance.support@education.vic.gov.au for support. Any procurement activity prior to the school opening will be managed through the local region External Link (login required). Contact your Regional Finance Officer for further information. Liaise with the local school systems training team External Link (login required) to have CASES21 set up for the school."
+        },
+        {
+          "chapter_idx": 20,
+          "chapter_title": "Section 21 Insurance Arrangements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-21-insurance-arrangements",
+          "snippet": "The department arranges all insurance policies through the Victorian Managed Insurance Authority (VMIA). All policies expire on 30 June each year. School councils requiring insurance that is additional to the coverage provided by the department must contact the VMIA to arrange cover through the School Council Insurance Program (SCIP). This does not apply to WorkCover. The Property Insurance Policy protects the department against the cost of loss, destruction or damage to property owned by the State of Victoria or the Minister. Examples of insured perils include fire, storm and tempest, explosion, water damage, earthquake, burglary, boiler explosion and flood. This policy has a limit of $3.625 billion for any one loss, or series of losses arising out of one event, with the cost of claims under $3 million being self-insured and borne by the department. The department meets the cost of incidents in schools costing less than $3 million, effectively self-insuring most incidents and minimising the risk. Facilities that are over entitlement (that is, locally funded or originally provided by the department when the school had a larger student population) will not necessarily be reinstated by the department. At the time of loss, an assessment will be made of the school’s needs in line with the department’s Asset Management policies . The department will not provide schools with funding to replace contents that are not covered by its Reinstatement Fund or the School Equipment Coverage Scheme (SECS) External Link . Fixtures and fittings that are permanently fixed to the buildings are covered under the department insurance policy. Depending on the amount of the loss and the type of fixture/fitting, the cost of incidents may be borne by the school or by the department."
+        }
+      ]
+    },
+    "41.7": {
+      "title": "Finance Manual — Section 17 End of Year (31 December)",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Section 2 Governance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-2-governance",
+          "snippet": "The Education and Training Reform Act 2006 (the Act), the Education and Training Reform Regulations 2017 (the Regulations) and the constituting orders of school council stipulate the functions and powers of school councils including financial responsibilities. In addition, the Schedule B of the contract of employment for principal class officers outlines the financial responsibilities of principals. As school funds are public monies, the management of these funds is subject to the requirements of the Financial Management Act 1994 (Vic) External Link , which requires schools to be publicly accountable for the budget planning, allocation and use of those funds. In addition, schools operate in a business environment and their financial practices are subject to various acts and legislation, including but not limited to the A New Tax System (Goods and Services Tax) Act 1999 (Cth) External Link , Fringe Benefits Tax Act 1986 (Cth) External Link and Income Tax Assessment Act 1997 (Cth) External Link . The guidelines stipulated in this policy and guidance represent the minimum level of mandatory requirements. Every effort has been made to provide the flexibility needed for the widely varying circumstances of schools, whilst maintaining the level of compliance, control and accountability expected of government establishments. Where appropriate, authority for financial management has been devolved to provide principals and school councils with more control over the resources available to them. This enables principals and school councils to budget and make effective use of financial resources in accordance with their annual school plan. Comply with the directions set out in this manual."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Section 3 Risk Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-3-risk-management",
+          "snippet": "Risk management maximises the ability to deliver on departmental objectives, promotes sound decision-making for resource allocation and investment, and works to safeguard student and employee wellbeing. It also contributes towards meeting the Victorian community and government expectations for accountable and responsible use of public finances and resources. Comply with the Risk Management — Schools Policy . Fraud is dishonest activity causing actual or potential financial loss to the department (including theft of money or other property) and where deception is used at the time, immediately before or immediately following the activity. This also includes deliberate falsification, concealment, destruction or use of (or intention to use) falsified documentation and the improper use of information or position for personal financial benefit. Corruption is a dishonest activity in which an executive, manager, employee or contractor acts contrary to the interests of the department and abuses his or her position of trust to achieve some personal gain or advantage for themselves or for another person or entity. The department has zero tolerance to fraud and corruption."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Section 4 Internal Controls",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-4-internal-controls",
+          "snippet": "Internal controls are a combination of measures put in place to ensure that the financial and physical assets of the school are safeguarded (the risk of theft and fraud is minimised). This section provides an overview of internal controls and some general examples. Each section of this manual also includes internal control measures specific to that item. Internal controls ensure that the accounting information produced is accurate and complete, and the financial information obtained from the schools accounting system can be relied upon and used with confidence by all people involved in financial decision-making. Good internal control protects staff and school resources. These controls are designed to discourage errors or irregularities from occurring. They are proactive actions that help ensure objectives are being met. Segregation of duties – this means that no one person is responsible for doing everything. For example, the person who enters the invoice into CASES21 is different from the person who approves the payment of the invoice. This type of control serves 2 purposes. It ensures there is oversight and review to detect errors, and it helps prevent fraud because it requires at least 2 people to collude in order to hide a transaction."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Section 5 School Council Financial Assurance Program",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-5-school-council-financial-assurance-program",
+          "snippet": "The School Council Financial Assurance (SCFA) program is managed by the Assurance Branch within the Integrity, Assurance and Executive Services Division. Under the SCFA program, the Assurance Branch conducts Agreed-Upon Procedures (AUPs), Schools Internal Audits (SIA) and Ad-hoc audits for Victorian government schools. The department uses a range of criteria when selecting schools for audits. Examples of criteria used include: The Assurance Branch works with the Operational Policy, School Engagement and Compliance (OPSEC) Division to minimise instances where schools are selected for multiple audits and/or reviews during the same period. Schools can contact the School Audit Support team with queries about scheduling or other concerns relating to school circumstances that impact on audit or review timing at school.audit.support@education.vic.gov.au or 03 7022 0044 . Schools are notified of their selection in audits via email. The department's contracted external audit firm and the Assurance Branch’s school internal auditors directly contact schools to organise a suitable time for fieldwork. Schools have the flexibility to select their preferred fieldwork dates within the period and the auditors will make every effort to accommodate school preferences."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Section 6 Budget Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+          "snippet": "An annual budget is a comprehensive financial plan for the school that is calculated from potential revenue and proposed expenditure for the coming year. It is used to plan the course of future events in a school and assists a school council in monitoring actual events against its initial plan and evaluating performance at the end of the year. The school council has responsibility for the school budget and for seeing that it is developed in a way which ensures that funds expected to be available are put to the best use in terms of the school’s strategic plan and its educational policies and priorities. It is through the school budget that cash resources are directed into activities that enable clearly identified school goals to be met. Inadequate and ineffective oversight of financial performance and budgets may result in programs and expenses not being appropriately controlled and monitored. Budget variance analysis is required to ensure financial issues are addressed in a timely manner and errors or irregularities detected. Develop an indicative cash budget (revenue and expenditure) based on the Indicative SRP and estimates of other revenue and expenditure. Include capital if capital projects. Have the indicative cash budget approved and minuted by school council prior to the end of the year preceding the budget year. For example, the budget for the 2026 year to be approved by end of 2025 year."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Section 7 Chart of Accounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
+          "snippet": "Schools are required to record transactions (for example, revenue and expenditure) as per the designated codes in the Chart of Accounts for Victorian Government Schools. The importance of correct coding prior to CASES21 data entry is critical to the credibility, reliance and accuracy of information. The accuracy of reports for both internal and external users can only be relied upon when data has been correctly entered into the CASES21 system. It has been found that miscoding errors generally relate to a lack of understanding of the Chart of Account for Victorian Government Schools structure and its link to the reporting process. There is provision in the Chart of Accounts for Victorian Government Schools to accurately code all funds to ensure effective monitoring and reporting for management, the finance committee and school council. The CASES21 Chart of Accounts for Victorian Government Schools is structured into two sections for the entry and recording of financial transactions. The 2 sections include:"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Section 8 Bank Accounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-8-bank-accounts",
+          "snippet": "Schools can hold their cash in: All school bank accounts must be in the name of the school council. The name of the accounts should align with the school’s registered ABN name. All school bank accounts must be held with an approved panel bank under the State Purchasing Contract (SPC). The approved panel bank suppliers are: To ensure schools plan effectively, it is essential to prepare a cash flow budget to determine cash requirements in any given period, whilst maintaining the schools’ cash reserve benchmark. Schools must seek approval from the department by emailing schools.finance.support@education.vic.gov.au to maintain Beneficiary and/or Memorial funds in a separate account."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Section 9 Funding Sources",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
+          "snippet": "Schools receive funding from a variety of government and non-government sources. Most school funding is received from the department. Schools should maintain remittance advices where provided. For sources where a remittance advice is not available (e.g. parent payments, sundry debtors) schools should retain appropriate evidence to support recognition of the revenue. This may include bank statements, audit trail and source contracts/user agreements. The Student Resource Package (SRP) is the department’s main funding mechanism for Victorian government schools. It is primarily an enrolment-based funding model with a cash component being paid directly to schools in quarterly instalments. Undertake an annual reconciliation by the due date as specified in the reconciliation process for that year."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Section 10 Receivables Management and Cash Handling",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-10-receivables-management-and-cash-handling",
+          "snippet": "Schools can receive revenue from several sources. This may involve invoicing families and sundry debtors as well as the receipt of cash/EFTPOS/BPAY. It is important that schools recognise this revenue appropriately. Cash receipts must be handled in a manner that minimises any associated risks. A receivable is money owing to the school from the provision of services or the sale of goods. It may be owed by families for items such as camps and excursions or third parties (sundry debtors) for items such as hire of school facilities. Comply with the Parent Payments policy (also known as parent voluntary contributions). Enter family and sundry debtor invoices into CASES21 in a timely manner using relevant general ledger and GST codes. Regularly review (preferably monthly) the sundry debtor balances to assess collectability and take any appropriate action."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Section 11 Expenditure Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
+          "snippet": "School councils may enter into contracts, agreements or arrangements for the supply of goods, services, facilities, materials, equipment and other matters that are required for the conduct of the school including the provision of pre-school programs. This will involve procuring, ordering, taking delivery, being invoiced and making payment. Comply with the policy for schools on Procurement – Schools . Comply with the policy for schools on Travel . Comply with the policy for schools on Gifts, Benefits and Hospitality . Comply with the policy for schools on Travel and Personal Expenses – Teaching Service ."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Section 12 Trading Operations",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+          "snippet": "A school may engage in various trading operations as a service to the school community and/or to supplement school funding. The more common types of trading operations include canteen, out of school hours’ care and kindergartens. School councils must approve all school trading operations and all approvals must be recorded in the school council minutes. If a trading operation is to be outsourced (for example, out of school hours’ care and canteen licence), the school council must contact Legal Services Division External Link to determine the most appropriate outsourcing agreement. Legal Services can be contacted at legal.services@education.vic.gov.au or on 9637 3146 . School council must nominate and minute annually the taxation treatment for each trading operation. The taxation treatment (taxable or input taxed) applies to all transactions for that trading activity, revenue, expenditure and asset acquisition. The school council or the finance committee must review the viability of trading operations on a regular basis."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Section 13 Asset and Inventory Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+          "snippet": "Schools have substantial investments in stores, equipment, furniture, books and other learning materials. Although most items are covered by insurance administered within the department, proper asset management procedures must be followed on purchases, custody, loss or disposal of these items to ensure accurate and up-to-date information is maintained. This policy is aimed to guide schools in accounting for assets in accordance with relevant accounting standards and legislation. By keeping appropriate records and identifying valuable items of school equipment and furniture, losses can be minimised, and the value of the assets can be used to deliver educational services for the school. It is crucial that schools strictly follow asset management policy and guidelines to ensure accurate reporting and accountability of assets are recorded in CASES21 Finance system. An asset is a resource that, according to the Framework for the Preparation and Presentation of Financial Statements External Link , is controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity. This is the minimum dollar value of an item as determined under the Financial Management Act 1994 (Vic) External Link , Part 5 Financial Responsibility."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "Section 14 Liabilities Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-14-liabilities-management",
+          "snippet": "Liabilities are amounts owed to lenders and suppliers. Liabilities can also include amounts received in advance for future costs or for a future service. For schools, the most common liabilities are accounts payable, revenue in advance and co-operative loans. These are the amounts owed to creditors for the supply of goods and services. When entering creditor details check the validity of the ABN provided. Where a creditor does not have an ABN, select the most appropriate code to be entered into the ABN field. Refer to: CASES21 Finance Business Process Guide Section 3 – Creditors External Link (staff login required). Regularly review invoices awaiting payment and outstanding orders and take appropriate action. (For example, pay overdue invoices, cancel invalid invoices and orders)."
+        },
+        {
+          "chapter_idx": 14,
+          "chapter_title": "Section 15 Taxation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-15-taxation",
+          "snippet": "Schools do not pay Income Tax pursuant to Section 24AK of the Income Tax Assessment Act 1936. Schools meet the definition of a State/Territory Body and are therefore exempt from income tax. There is no income tax exemption certificate as such, but if schools need to quote that they are exempt from income tax, they should quote the section above. All schools are registered with an Australian Business Number (ABN) and are registered for GST. Schools must comply with the GST law in every respect. As well as the mandatory policies below, schools should refer to the Tax EduGate page for extensive support and assistance in complying with the school’s GST obligations. Refer to Tax pages External Link on the department website. Schools can check their own, and their suppliers’ ABN details at ABR Business Search External Link ."
+        },
+        {
+          "chapter_idx": 15,
+          "chapter_title": "Section 16 Reporting Performance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-16-reporting-performance",
+          "snippet": "The general purpose of the financial statements is to provide information about the results of operations, financial position, and cash flows of an organisation. This information is used to make decisions regarding the allocation of resources and provide governance over business operations. Undertake a bank reconciliation and prepare a report for each active bank account at the end of each month. Provide a written explanation of any differences on the bank reconciliation report. Have the bank reconciliation report certified by the principal. Ensure that bank accounts do not show a negative balance (are overdrawn) either at the bank or in CASES21."
+        },
+        {
+          "chapter_idx": 17,
+          "chapter_title": "Section 18 End of Financial Year Reporting (30 June)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-18-end-financial-year-reporting-30-june",
+          "snippet": "Previously, End of Financial Year (30 June) procedures have predominately been based around the processing of payment summaries. However, as schools’ financial transactions forms part of the department’s Annual Report and Whole of Government Financial reporting, to increase best practice financial management in schools, additional financial information is now required to be completed. Regularly review all prepaid expense balances to ensure that only current balances are recognised in CASES21 using the relevant Chart of Account code 12005 Prepaid expenses. As part of best practice financial management, schools are required to review all accounts receivable and accounts payable balances on a regular basis. This includes reviewing invoices processed in accounts receivable (families and sundry debtors) and accounts payable (creditors) to ensure the most accurate and up-to-date information is available. This practice will ensure that financial reports do not include revenue that will not be collected. Must ensure that invoices relating to the month of June are entered by the 30 June into CASES21 Accounts Receivable module. All account receivable balances must be reviewed to ensure only current balances are recognised in CASES21 Accounts Receivable module."
+        },
+        {
+          "chapter_idx": 18,
+          "chapter_title": "Section 19 Financial Handover",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
+          "snippet": "A principal who is leaving a school for longer than two terms is required to prepare a financial handover statement. This is to ensure that the incoming principal and the departing principal have a clear understanding of the school’s financial position at the time of handover. Prepare a financial handover statement (DOCX) External Link as near and as practical to the last day of duty. Ensure that all CASES21 records, including the asset register, are up to date and reflect the handover statement as near as practical to the outgoing principal’s last day of duty. Verify the correctness of the items in the financial handover statement (DOCX) External Link . Carry out a stocktake of the major accountable items a soon as practicable to test the accuracy of the stocktake record prepared by the departing principal."
+        },
+        {
+          "chapter_idx": 19,
+          "chapter_title": "Section 20 Opening, Closing and Merging Schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-20-opening-closing-and-merging-schools",
+          "snippet": "School reorganisations may involve opening, closing or merging of schools. A merger may result in creating a new school where a new school number is issued or renaming an existing school where one of the merging school numbers is retained. When a new school is to open, a School Finance Liaison Officer (SFLO) will be assigned to assist the new principal and business manager with the financial set up of the school. The school is required to open a High Yield Investment account with Westpac Bank and an Ofﬁcial account for transactional purposes at a banking provider under the SPC. Schools can contact schools.finance.support@education.vic.gov.au for support. Any procurement activity prior to the school opening will be managed through the local region External Link (login required). Contact your Regional Finance Officer for further information. Liaise with the local school systems training team External Link (login required) to have CASES21 set up for the school."
+        },
+        {
+          "chapter_idx": 20,
+          "chapter_title": "Section 21 Insurance Arrangements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-21-insurance-arrangements",
+          "snippet": "The department arranges all insurance policies through the Victorian Managed Insurance Authority (VMIA). All policies expire on 30 June each year. School councils requiring insurance that is additional to the coverage provided by the department must contact the VMIA to arrange cover through the School Council Insurance Program (SCIP). This does not apply to WorkCover. The Property Insurance Policy protects the department against the cost of loss, destruction or damage to property owned by the State of Victoria or the Minister. Examples of insured perils include fire, storm and tempest, explosion, water damage, earthquake, burglary, boiler explosion and flood. This policy has a limit of $3.625 billion for any one loss, or series of losses arising out of one event, with the cost of claims under $3 million being self-insured and borne by the department. The department meets the cost of incidents in schools costing less than $3 million, effectively self-insuring most incidents and minimising the risk. Facilities that are over entitlement (that is, locally funded or originally provided by the department when the school had a larger student population) will not necessarily be reinstated by the department. At the time of loss, an assessment will be made of the school’s needs in line with the department’s Asset Management policies . The department will not provide schools with funding to replace contents that are not covered by its Reinstatement Fund or the School Equipment Coverage Scheme (SECS) External Link . Fixtures and fittings that are permanently fixed to the buildings are covered under the department insurance policy. Depending on the amount of the loss and the type of fixture/fitting, the cost of incidents may be borne by the school or by the department."
+        }
+      ]
+    },
+    "41.8": {
+      "title": "Finance Manual — Section 19 Financial Handover",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-19-financial-handover",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Section 2 Governance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-2-governance",
+          "snippet": "The Education and Training Reform Act 2006 (the Act), the Education and Training Reform Regulations 2017 (the Regulations) and the constituting orders of school council stipulate the functions and powers of school councils including financial responsibilities. In addition, the Schedule B of the contract of employment for principal class officers outlines the financial responsibilities of principals. As school funds are public monies, the management of these funds is subject to the requirements of the Financial Management Act 1994 (Vic) External Link , which requires schools to be publicly accountable for the budget planning, allocation and use of those funds. In addition, schools operate in a business environment and their financial practices are subject to various acts and legislation, including but not limited to the A New Tax System (Goods and Services Tax) Act 1999 (Cth) External Link , Fringe Benefits Tax Act 1986 (Cth) External Link and Income Tax Assessment Act 1997 (Cth) External Link . The guidelines stipulated in this policy and guidance represent the minimum level of mandatory requirements. Every effort has been made to provide the flexibility needed for the widely varying circumstances of schools, whilst maintaining the level of compliance, control and accountability expected of government establishments. Where appropriate, authority for financial management has been devolved to provide principals and school councils with more control over the resources available to them. This enables principals and school councils to budget and make effective use of financial resources in accordance with their annual school plan. Comply with the directions set out in this manual."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Section 3 Risk Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-3-risk-management",
+          "snippet": "Risk management maximises the ability to deliver on departmental objectives, promotes sound decision-making for resource allocation and investment, and works to safeguard student and employee wellbeing. It also contributes towards meeting the Victorian community and government expectations for accountable and responsible use of public finances and resources. Comply with the Risk Management — Schools Policy . Fraud is dishonest activity causing actual or potential financial loss to the department (including theft of money or other property) and where deception is used at the time, immediately before or immediately following the activity. This also includes deliberate falsification, concealment, destruction or use of (or intention to use) falsified documentation and the improper use of information or position for personal financial benefit. Corruption is a dishonest activity in which an executive, manager, employee or contractor acts contrary to the interests of the department and abuses his or her position of trust to achieve some personal gain or advantage for themselves or for another person or entity. The department has zero tolerance to fraud and corruption."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Section 4 Internal Controls",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-4-internal-controls",
+          "snippet": "Internal controls are a combination of measures put in place to ensure that the financial and physical assets of the school are safeguarded (the risk of theft and fraud is minimised). This section provides an overview of internal controls and some general examples. Each section of this manual also includes internal control measures specific to that item. Internal controls ensure that the accounting information produced is accurate and complete, and the financial information obtained from the schools accounting system can be relied upon and used with confidence by all people involved in financial decision-making. Good internal control protects staff and school resources. These controls are designed to discourage errors or irregularities from occurring. They are proactive actions that help ensure objectives are being met. Segregation of duties – this means that no one person is responsible for doing everything. For example, the person who enters the invoice into CASES21 is different from the person who approves the payment of the invoice. This type of control serves 2 purposes. It ensures there is oversight and review to detect errors, and it helps prevent fraud because it requires at least 2 people to collude in order to hide a transaction."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Section 5 School Council Financial Assurance Program",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-5-school-council-financial-assurance-program",
+          "snippet": "The School Council Financial Assurance (SCFA) program is managed by the Assurance Branch within the Integrity, Assurance and Executive Services Division. Under the SCFA program, the Assurance Branch conducts Agreed-Upon Procedures (AUPs), Schools Internal Audits (SIA) and Ad-hoc audits for Victorian government schools. The department uses a range of criteria when selecting schools for audits. Examples of criteria used include: The Assurance Branch works with the Operational Policy, School Engagement and Compliance (OPSEC) Division to minimise instances where schools are selected for multiple audits and/or reviews during the same period. Schools can contact the School Audit Support team with queries about scheduling or other concerns relating to school circumstances that impact on audit or review timing at school.audit.support@education.vic.gov.au or 03 7022 0044 . Schools are notified of their selection in audits via email. The department's contracted external audit firm and the Assurance Branch’s school internal auditors directly contact schools to organise a suitable time for fieldwork. Schools have the flexibility to select their preferred fieldwork dates within the period and the auditors will make every effort to accommodate school preferences."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Section 6 Budget Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+          "snippet": "An annual budget is a comprehensive financial plan for the school that is calculated from potential revenue and proposed expenditure for the coming year. It is used to plan the course of future events in a school and assists a school council in monitoring actual events against its initial plan and evaluating performance at the end of the year. The school council has responsibility for the school budget and for seeing that it is developed in a way which ensures that funds expected to be available are put to the best use in terms of the school’s strategic plan and its educational policies and priorities. It is through the school budget that cash resources are directed into activities that enable clearly identified school goals to be met. Inadequate and ineffective oversight of financial performance and budgets may result in programs and expenses not being appropriately controlled and monitored. Budget variance analysis is required to ensure financial issues are addressed in a timely manner and errors or irregularities detected. Develop an indicative cash budget (revenue and expenditure) based on the Indicative SRP and estimates of other revenue and expenditure. Include capital if capital projects. Have the indicative cash budget approved and minuted by school council prior to the end of the year preceding the budget year. For example, the budget for the 2026 year to be approved by end of 2025 year."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Section 7 Chart of Accounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-7-chart-accounts",
+          "snippet": "Schools are required to record transactions (for example, revenue and expenditure) as per the designated codes in the Chart of Accounts for Victorian Government Schools. The importance of correct coding prior to CASES21 data entry is critical to the credibility, reliance and accuracy of information. The accuracy of reports for both internal and external users can only be relied upon when data has been correctly entered into the CASES21 system. It has been found that miscoding errors generally relate to a lack of understanding of the Chart of Account for Victorian Government Schools structure and its link to the reporting process. There is provision in the Chart of Accounts for Victorian Government Schools to accurately code all funds to ensure effective monitoring and reporting for management, the finance committee and school council. The CASES21 Chart of Accounts for Victorian Government Schools is structured into two sections for the entry and recording of financial transactions. The 2 sections include:"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Section 8 Bank Accounts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-8-bank-accounts",
+          "snippet": "Schools can hold their cash in: All school bank accounts must be in the name of the school council. The name of the accounts should align with the school’s registered ABN name. All school bank accounts must be held with an approved panel bank under the State Purchasing Contract (SPC). The approved panel bank suppliers are: To ensure schools plan effectively, it is essential to prepare a cash flow budget to determine cash requirements in any given period, whilst maintaining the schools’ cash reserve benchmark. Schools must seek approval from the department by emailing schools.finance.support@education.vic.gov.au to maintain Beneficiary and/or Memorial funds in a separate account."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Section 9 Funding Sources",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources",
+          "snippet": "Schools receive funding from a variety of government and non-government sources. Most school funding is received from the department. Schools should maintain remittance advices where provided. For sources where a remittance advice is not available (e.g. parent payments, sundry debtors) schools should retain appropriate evidence to support recognition of the revenue. This may include bank statements, audit trail and source contracts/user agreements. The Student Resource Package (SRP) is the department’s main funding mechanism for Victorian government schools. It is primarily an enrolment-based funding model with a cash component being paid directly to schools in quarterly instalments. Undertake an annual reconciliation by the due date as specified in the reconciliation process for that year."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Section 10 Receivables Management and Cash Handling",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-10-receivables-management-and-cash-handling",
+          "snippet": "Schools can receive revenue from several sources. This may involve invoicing families and sundry debtors as well as the receipt of cash/EFTPOS/BPAY. It is important that schools recognise this revenue appropriately. Cash receipts must be handled in a manner that minimises any associated risks. A receivable is money owing to the school from the provision of services or the sale of goods. It may be owed by families for items such as camps and excursions or third parties (sundry debtors) for items such as hire of school facilities. Comply with the Parent Payments policy (also known as parent voluntary contributions). Enter family and sundry debtor invoices into CASES21 in a timely manner using relevant general ledger and GST codes. Regularly review (preferably monthly) the sundry debtor balances to assess collectability and take any appropriate action."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Section 11 Expenditure Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management",
+          "snippet": "School councils may enter into contracts, agreements or arrangements for the supply of goods, services, facilities, materials, equipment and other matters that are required for the conduct of the school including the provision of pre-school programs. This will involve procuring, ordering, taking delivery, being invoiced and making payment. Comply with the policy for schools on Procurement – Schools . Comply with the policy for schools on Travel . Comply with the policy for schools on Gifts, Benefits and Hospitality . Comply with the policy for schools on Travel and Personal Expenses – Teaching Service ."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Section 12 Trading Operations",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+          "snippet": "A school may engage in various trading operations as a service to the school community and/or to supplement school funding. The more common types of trading operations include canteen, out of school hours’ care and kindergartens. School councils must approve all school trading operations and all approvals must be recorded in the school council minutes. If a trading operation is to be outsourced (for example, out of school hours’ care and canteen licence), the school council must contact Legal Services Division External Link to determine the most appropriate outsourcing agreement. Legal Services can be contacted at legal.services@education.vic.gov.au or on 9637 3146 . School council must nominate and minute annually the taxation treatment for each trading operation. The taxation treatment (taxable or input taxed) applies to all transactions for that trading activity, revenue, expenditure and asset acquisition. The school council or the finance committee must review the viability of trading operations on a regular basis."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Section 13 Asset and Inventory Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+          "snippet": "Schools have substantial investments in stores, equipment, furniture, books and other learning materials. Although most items are covered by insurance administered within the department, proper asset management procedures must be followed on purchases, custody, loss or disposal of these items to ensure accurate and up-to-date information is maintained. This policy is aimed to guide schools in accounting for assets in accordance with relevant accounting standards and legislation. By keeping appropriate records and identifying valuable items of school equipment and furniture, losses can be minimised, and the value of the assets can be used to deliver educational services for the school. It is crucial that schools strictly follow asset management policy and guidelines to ensure accurate reporting and accountability of assets are recorded in CASES21 Finance system. An asset is a resource that, according to the Framework for the Preparation and Presentation of Financial Statements External Link , is controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity. This is the minimum dollar value of an item as determined under the Financial Management Act 1994 (Vic) External Link , Part 5 Financial Responsibility."
+        },
+        {
+          "chapter_idx": 13,
+          "chapter_title": "Section 14 Liabilities Management",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-14-liabilities-management",
+          "snippet": "Liabilities are amounts owed to lenders and suppliers. Liabilities can also include amounts received in advance for future costs or for a future service. For schools, the most common liabilities are accounts payable, revenue in advance and co-operative loans. These are the amounts owed to creditors for the supply of goods and services. When entering creditor details check the validity of the ABN provided. Where a creditor does not have an ABN, select the most appropriate code to be entered into the ABN field. Refer to: CASES21 Finance Business Process Guide Section 3 – Creditors External Link (staff login required). Regularly review invoices awaiting payment and outstanding orders and take appropriate action. (For example, pay overdue invoices, cancel invalid invoices and orders)."
+        },
+        {
+          "chapter_idx": 14,
+          "chapter_title": "Section 15 Taxation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-15-taxation",
+          "snippet": "Schools do not pay Income Tax pursuant to Section 24AK of the Income Tax Assessment Act 1936. Schools meet the definition of a State/Territory Body and are therefore exempt from income tax. There is no income tax exemption certificate as such, but if schools need to quote that they are exempt from income tax, they should quote the section above. All schools are registered with an Australian Business Number (ABN) and are registered for GST. Schools must comply with the GST law in every respect. As well as the mandatory policies below, schools should refer to the Tax EduGate page for extensive support and assistance in complying with the school’s GST obligations. Refer to Tax pages External Link on the department website. Schools can check their own, and their suppliers’ ABN details at ABR Business Search External Link ."
+        },
+        {
+          "chapter_idx": 15,
+          "chapter_title": "Section 16 Reporting Performance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-16-reporting-performance",
+          "snippet": "The general purpose of the financial statements is to provide information about the results of operations, financial position, and cash flows of an organisation. This information is used to make decisions regarding the allocation of resources and provide governance over business operations. Undertake a bank reconciliation and prepare a report for each active bank account at the end of each month. Provide a written explanation of any differences on the bank reconciliation report. Have the bank reconciliation report certified by the principal. Ensure that bank accounts do not show a negative balance (are overdrawn) either at the bank or in CASES21."
+        },
+        {
+          "chapter_idx": 16,
+          "chapter_title": "Section 17 End of Year (31 December)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-17-end-year-31-december",
+          "snippet": "The End of Year financial policy described in this section must be implemented to enable the completion of End of Year (31 December) and the start of the New Year in CASES21. The review and clean-up of the Families (Receivables module) must be done for exiting students prior to running CASES21 Administration End of Year. The End of Year (31 December) CASES21 Finance rollover must not be done until 1 January of the New Year. Schools must read CASES21 Finance Business Process Guide Section 11 — End of Year and follow the guidelines to complete the End of Year (31 December) process. Data entry in CASES21 against the new period must not commence until all entries for the current year have been entered and the End of Year (EOY) processes are completed."
+        },
+        {
+          "chapter_idx": 17,
+          "chapter_title": "Section 18 End of Financial Year Reporting (30 June)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-18-end-financial-year-reporting-30-june",
+          "snippet": "Previously, End of Financial Year (30 June) procedures have predominately been based around the processing of payment summaries. However, as schools’ financial transactions forms part of the department’s Annual Report and Whole of Government Financial reporting, to increase best practice financial management in schools, additional financial information is now required to be completed. Regularly review all prepaid expense balances to ensure that only current balances are recognised in CASES21 using the relevant Chart of Account code 12005 Prepaid expenses. As part of best practice financial management, schools are required to review all accounts receivable and accounts payable balances on a regular basis. This includes reviewing invoices processed in accounts receivable (families and sundry debtors) and accounts payable (creditors) to ensure the most accurate and up-to-date information is available. This practice will ensure that financial reports do not include revenue that will not be collected. Must ensure that invoices relating to the month of June are entered by the 30 June into CASES21 Accounts Receivable module. All account receivable balances must be reviewed to ensure only current balances are recognised in CASES21 Accounts Receivable module."
+        },
+        {
+          "chapter_idx": 19,
+          "chapter_title": "Section 20 Opening, Closing and Merging Schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-20-opening-closing-and-merging-schools",
+          "snippet": "School reorganisations may involve opening, closing or merging of schools. A merger may result in creating a new school where a new school number is issued or renaming an existing school where one of the merging school numbers is retained. When a new school is to open, a School Finance Liaison Officer (SFLO) will be assigned to assist the new principal and business manager with the financial set up of the school. The school is required to open a High Yield Investment account with Westpac Bank and an Ofﬁcial account for transactional purposes at a banking provider under the SPC. Schools can contact schools.finance.support@education.vic.gov.au for support. Any procurement activity prior to the school opening will be managed through the local region External Link (login required). Contact your Regional Finance Officer for further information. Liaise with the local school systems training team External Link (login required) to have CASES21 set up for the school."
+        },
+        {
+          "chapter_idx": 20,
+          "chapter_title": "Section 21 Insurance Arrangements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-21-insurance-arrangements",
+          "snippet": "The department arranges all insurance policies through the Victorian Managed Insurance Authority (VMIA). All policies expire on 30 June each year. School councils requiring insurance that is additional to the coverage provided by the department must contact the VMIA to arrange cover through the School Council Insurance Program (SCIP). This does not apply to WorkCover. The Property Insurance Policy protects the department against the cost of loss, destruction or damage to property owned by the State of Victoria or the Minister. Examples of insured perils include fire, storm and tempest, explosion, water damage, earthquake, burglary, boiler explosion and flood. This policy has a limit of $3.625 billion for any one loss, or series of losses arising out of one event, with the cost of claims under $3 million being self-insured and borne by the department. The department meets the cost of incidents in schools costing less than $3 million, effectively self-insuring most incidents and minimising the risk. Facilities that are over entitlement (that is, locally funded or originally provided by the department when the school had a larger student population) will not necessarily be reinstated by the department. At the time of loss, an assessment will be made of the school’s needs in line with the department’s Asset Management policies . The department will not provide schools with funding to replace contents that are not covered by its Reinstatement Fund or the School Equipment Coverage Scheme (SECS) External Link . Fixtures and fittings that are permanently fixed to the buildings are covered under the department insurance policy. Depending on the amount of the loss and the type of fixture/fitting, the cost of incidents may be borne by the school or by the department."
+        }
+      ]
+    },
+    "42": {
+      "title": "Procurement — Schools",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "The people of Victoria expect the public sector, which includes all government schools, to act with integrity, accountability, ethics and transparency in performing all aspects of its various roles. This extends to procurement undertaken by schools. This policy aligns with the principles of the Victorian Government Purchasing Board (VGPB) where applicable. Procurement is the term used to describe the collective group of activities undertaken to obtain goods or services from third parties. The end to end procurement cycle extends from identifying the need for goods or services through to contract management. Detailed guidance on how to complete each source-to contract and contract management step is contained within the Schools procurement procedure (PDF) External Link (staff login required) which must be read in conjunction with the policy. The policy must also be read in conjunction with the Finance Manual – Financial Management for Schools which sets out the purchase-to-pay requirements of schools in relation to the standard procurement process. Depending on the type of goods and/or services being procured and the commercial arrangements in place, the level of detail and time required for each process step will vary. In some cases, such as when an established contract is in place between the school and a supplier, the school may make repeated purchases from this contract and therefore only the purchase-to-pay processes will need to be undertaken. In addition, contract and performance management will still need to be undertaken."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "1. Procurement principles",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "All school procurement activity must be carried out in accordance with the key principles of: Value for money is defined as the making of procurement-related decisions based on a range of financial and non-financial factors to ensure that the goods and/or services procured achieve the optimal outcomes by balancing cost, quality and the ability to meet the required specification/s. Value for money must be a demonstrable consideration in all procurement activities. Maintaining the public’s confidence in the procurement activities of schools is essential. The adherence to high standards of integrity and impartiality are the necessary preconditions to achieve good probity standards. For example, schools must: Where a conflict of interest arises, the person or persons involved must act to undertake all steps necessary to limit risk and correctly manage the conflict of interest in accordance with the Conflict of Interest Policy and Conflict of interest framework (PDF) External Link . All school procurement activity must be carried out with the required level of accountability, as determined by the school council. Only appropriately designated persons can procure goods and/or services, and this procurement can occur only where the required approvals have been obtained. Refer to the Finance Manual — Financial Management for Schools for more information about approvals."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "2. Determining the market engagement approach",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "The procurement of more complex goods and/or services may require a higher degree of procurement expertise and a more detailed market engagement approach. Complexity can be determined via a number of drivers such as value, importance to the school, and uniqueness of specifications. In schools the value of the procurement activity will be the primary indicator of its complexity — the greater the dollar value the more complex the procurement is likely to be. Schools must refer to the procurement thresholds listed in the Schools procurement procedure (PDF) External Link (staff login required) for the minimum acceptable approach to engage the market (for example, the minimum number and type of quotes, public tender) based on the estimated total value of the procurement activity. Schools must contact the Schools Procurement Branch (SPB) when they are undertaking procurement activities that require a public tender and when an exemption is required. Schools are also encouraged to seek advice from the SPB if they have queries related to the market engagement approach. Any documents used when undertaking source-to-contract or contract management activities must be retained by the school to provide evidence that the procurement process was conducted in line with this policy."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "3. Rules of use",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "Rules of use are documents established to provide guidance for school users in their interaction with specific commercial arrangements with suppliers. When the department enters into a commercial arrangement with a specific supplier, it will publish rules of use for all schools who want to use that supplier. These will be available on the Department-managed panels External Link (staff login required) page. Exemption processes are detailed in the rules of use documents. Unless otherwise specified, a school is required to seek an exemption from the SPB if it wishes to purchase outside the contractual arrangements established for the Department-managed panels. Criteria for exemption may include: Where the school believes there to be reason for an exemption, the school must identify the appropriate exemption criteria and provide a detailed rationale to the SPB. The SPB will approve or deny the exemption request. If approval is granted, the school must undertake the procurement process in accordance with this policy and the Schools procurement procedure (PDF) External Link (staff login required). If the exemption is denied, the school must procure from one of the pre-selected suppliers from the relevant Department-managed panels. The escalation process for schools is detailed within the procedures"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "4. Procurement tools and templates",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "A suite of tools and templates is available on the Resources tab of this page to support schools to comply with this policy and undertake procurement activities efficiently. The Schools procurement procedures (PDF) External Link (staff login required) specify the tools and templates that are mandatory for schools to use for certain procurement activities. In all other cases, schools can apply their discretion when determining which tools and templates to use for their procurement activities."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "5. Contracting",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "To reduce legal and commercial risk, school councils should endeavour, wherever possible, to formalise written contracts based on the department's contract templates with suppliers (refer Licence and Agreement Templates External Link (staff login required) page). That is, school councils should endeavour to avoid entering into supplier standard form contracts unless there is no other choice. Some major suppliers, or supplier types (i.e. of certain services), may refuse to use the department contract templates. In these circumstances, before deciding whether to enter in to such an agreement, the school council, supported by the principal and business manager, should carefully undertake an assessment of the risks of entering into the supplier’s contract."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procurement-in-schools/policy",
+          "snippet": "Procurement – Schools The rules, behaviours and standards relating to procurement ... Guidance Procurement guidance for schools Department policy setting out rules, behaviours and standards relating to procurement (purchasing) of goods and services by and on behalf of schools Reviewed 30 January 2026"
+        }
+      ]
+    },
+    "43": {
+      "title": "Travel",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/travel/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "1. Key policy requirements summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/1-key-policy-requirements-summary",
+          "snippet": "These Travel procedures provide direction, guidance and information to support school-based staff to meet travel requirements. It is mandatory for school-based staff to follow this policy and its procedures. The information below provides a high-level overview of some of the key requirements for school-based staff undertaking different types of travel. Travel bookings must only be confirmed after a trip has been formally approved by the relevant delegate or travel approver. Travellers must not self-approve their travel. Please contact the regional travel registrar for more information or assistance. A Travel Request Authorisation (TRA) is a formal record of travel approval which is recorded in the travel application system (staff login required) External Link . Refer to How to complete a travel request authorisation via the travel application system (DOCX) (staff login required) External Link . The Travel approval documents checklist (DOCX) (staff login required) External Link and templates for required documents are also available on the Resources tab ."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "2. Travel quotes",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/2-travel-quotes",
+          "snippet": "A minimum of one quote must be sought for travel within Australia. For travel to New Zealand and international travel, a minimum of 2 airline and accommodation quotes must be sought before deciding which option to book. The most economical option must be chosen, provided it meets the business or educational objectives of the trip. The preferred quote must be included in the travel application. When assessing travel options, travellers and travel bookers must impartially consider the best price of the day and decisions must not be based on personal preferences for a given travel provider, access to lounges, or the accumulation of reward and loyalty points (including status credits). Best price of the day is defined as: , and travel options identified in 6.1 Air travel External Link for hotel bookings: the lowest rate available at suitable hotels at the destination location (post-approval), with due consideration to factors such as proximity and access to transport. The travel approver will determine the most appropriate star rating, based on an assessment of government business requirements and total cost of travel for available hotels (room rate plus transportation costs). 2.2 Travel management services company (CTM) The Victorian Government has appointed a sole travel management services company (CTM). Using CTM provides significant financial and non-financial benefits to the state, including cheaper average air fares and provision of duty of care and reporting services. Special rates have been negotiated by the state with airlines, hotels and car rental companies which can only be accessed through CTM. Schools-based travellers may use alternative channels to source and book their travel requirements in line with the best price of the day guidelines, but the use of CTM is recommended. School travel bookings through CTM are managed through CTM’s offline booking team, and credit card is the preferred form of payment, however EFT is also accepted. To book travel via CTM, refer to the Schools Travel – SPC Registration Guide (staff login required) External Link ."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "3. Travel funding",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/3-travel-funding",
+          "snippet": "Travellers may represent DE in a variety of funded travel activities. Travel may be fully or partly funded by DE, or through other sources, including sponsored travel or self-funded travel. DE has a duty of care to travellers on official business and an onus of public accountability for travellers who are travelling as representatives of the education portfolio. Regardless of the funding source, school-based staff travelling on behalf of DE (in any capacity) must follow the policy and procedures, including the pre-travel approval process (refer to section 4.2) and personal travel guidelines (refer to section 4.3). Travellers must declare all sponsored travel using the Gifts, Benefits and Hospitality Registry System (staff login required) External Link . Refer to the department’s Gifts, Benefits and Hospitality policy . Where DE is only partially funding travel, the travel request must identify all funding sources and be approved in advance of travel. The external funding source is to be identified, along with the breakdown of all funds to be received. Such travel is subject to approval."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "4. Travel approvals",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/4-travel-approvals",
+          "snippet": "School-based staff must submit pre-travel requests electronically for travel within Victoria and its border communities of more than 5 consecutive nights, interstate, travel to New Zealand and international travel (refer to Chapter 1 ‘Key policy requirements summary’ for more details). School-based staff must submit pre-travel requests using the school travel application system External Link (where required). This is known as a Travel Request Authorisation (TRA). Refer to How to complete a Travel Request Authorisation via the travel application system (DOCX) (staff login required) External Link . The Travel approval documents checklist (DOCX) External Link and templates for required documents are also available on the Resources tab . All applications for international travel and travel to New Zealand must be complete and compliant, and submitted to the region for review and final approval at least 12 weeks before the departure date. The school travel application system submits TRAs to the appropriate approver in the region. When travellers are travelling in a group, the lead traveller for the group must submit a single TRA on behalf of the group. If separate travel itineraries are involved, these should be individually provided as attachments within the TRA. Refer to the Travel itinerary template (DOCX) (staff login required) External Link on the Resources tab. Where group travel is undertaken by school-based staff in different Victorian regions, the lead traveller for each region may submit a single TRA on behalf of all travellers in their respective regions. Travel bookings must only be confirmed after a trip has been formally approved by the relevant delegate or travel approver. Travellers must not self-approve their travel. If travel costs increase after formal approval to travel has been granted, travellers must obtain email authorisation from an appropriate delegate before incurring additional department-funded expenses."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "5. Travel booking",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/5-travel-booking",
+          "snippet": "Travel bookings must only be confirmed after a trip has been formally approved by the relevant delegate or travel approver. Self-booking travel is discouraged. To benefit from the best price of the day, the following timeframes are recommended for travel bookings, wherever possible: Adequate allowances should be built into the travel approval timeframes for this. Travel requirements of travellers, however, may be at short notice. In these instances, the travel approver must assure themselves that the short notice is unpreventable. While school-based travel arrangements may be made through alternative channels, in line with the best price of the day guidance, the most cost‑effective and efficient way to book and manage travel arrangements is through Corporate Travel Management (CTM) and this is recommended."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "6. Travel options",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/6-travel-options",
+          "snippet": "A minimum of one airline quotation for travel within Australia, travel to New Zealand and international travel must be attached to the Travel Request Authorisation (TRA). Travel bookings must only be confirmed after a trip has been formally approved by the relevant delegate or travel approver. Air travel must only be undertaken after remote communication tools, such as teleconferencing and videoconferencing, have been considered. The travel approver must be satisfied that there is a demonstrated business or educational need and must consider the following when selecting a fare for travel: The Victorian Government has access to discounted rates with a wide range of airlines. It is advised that these carriers are used when flying on official business and where this meets travel requirements. Contact Corporate Travel Management (CTM) for a preferred-carriers list. CTM will provide fare comparison services and the consulting services offered. Refer to the Schools Travel – SPC Registration Guide External Link for CTM’s contact details. Schools-based travellers may use alternative channels to source and book their travel requirements in line with the best price of the day guidelines, but the use of CTM is recommended."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "7. Travel preparation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/7-travel-preparation",
+          "snippet": "If schools elect to use Corporate Travel Management (CTM), it will advise of any immediate travel-related risks via its booking consultants. If travel is booked through other channels, schools should refer to the Department of Foreign Affairs and Trade (DFAT) Smartraveller website External Link for travel-related risks. It is recommended that travellers consult with their GP before travelling overseas. Travellers receiving treatment for a medical condition must also seek medical advice before travel. Failing to comply with medical advice may impact coverage through the VMIA business travel policy External Link . Travellers are entitled to reimbursement for the cost of GP treatments required for government travel, subject to approval by their travel approver. While travelling, travellers must take any precautions necessary to maintain good health and avoid situations that might adversely affect their health. In a medical emergency, travellers must seek appropriate care and contact the travel insurance emergency helpline. Before travelling overseas, travellers must seek advice on any vaccinations required. Travellers are entitled to reimbursement for the cost of any vaccination required for government travel."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "8. During travel",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/8-during-travel",
+          "snippet": "The department of Education (DE) will not cover excess baggage costs for travellers’ personal luggage. Where extra luggage is required, the travellers must investigate the cost of posting additional luggage to the destination. DE will cover the cost of excess baggage where the excess portion is departmental property required for official business purposes during the trip, and where posting the item(s) is not feasible. Fast, reliable and convenient public transport links are available to and from many interstate and international airports. Where a public transport link exists, travellers are encouraged to use these if feasible and safe to do so, as they provide a significantly cheaper alternative to taxis. Travellers should not be required to drive a vehicle under conditions in which fatigue is likely to arise. Hiring a vehicle after a long flight, for instance, is not recommended. Refer to the Work-Related Driving policy . The cost of taxis (including rideshare services such as Uber) to and from places of government business, such as hotels, government and supplier offices is reimbursable when travelling on official business, subject to approval by an appropriate delegate. Schools may arrange a cab charge account or staff travelling may use other taxi or rideshare services which are reimbursable when it is part of government-funded travel. Refer to the Travel and Personal Expenses – Teaching Service policy for more information."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "9. Reporting",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/9-reporting",
+          "snippet": "A post-travel report is required for: Post-travel reports (DOCX) (staff login required) External Link must be completed and uploaded to the travel application on the travel application system within 14 days of return from travel for RD approval. Required information for the travel report includes: Where travellers have travelled in a group, the lead traveller for the group is to submit a single post-travel report on behalf of the group. All relevant documentation and approvals must be provided to substantiate the travel undertaken. This will enable DE to retain the information in its travel systems for future reference."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "10. Key contacts",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/10-key-contacts",
+          "snippet": "Schools can direct enquiries to the relevant regional travel registrar: To book travel via Corporate Travel Management (CTM), refer to the Schools Travel – SPC Registration Guide External Link . Financial Compliance Unit Contact: DE Insurance Advisor via email at insurance.enquiries@education.vic.gov.au VMIA Client Advisory Team Contact: 03 9270 6900 or email: contact@vmia.vic.gov.au Emergency travel assistance VMIA’s medical emergency or evacuation support Contact: 61 2 8330 1222 (reverse charge, 24-hour global hotline)"
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "11. Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel/guidance/definitions",
+          "snippet": "Base location Refer to the Travel and Personal Expenses — Teaching Service policy . International travel Travel to and within all destinations not included in ‘travel within Victoria and border communities’, ‘interstate’, and ‘travel to New Zealand’. Interstate travel Travel outside Victoria and its border communities, but within Australia. Pre-travel request A formal submission made to the travel approver prior to booking any travel. It outlines the purpose of the trip, the proposed itinerary, and estimated expenses, and is required to be approved before any travel commitments are made. School-based staff Staff, contractors or consultants delivering official business or travelling on school excursions, including:"
+        }
+      ]
+    },
+    "44": {
+      "title": "Travel and Personal Expenses — Teaching Service",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/overview",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Introduction",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/overview",
+          "snippet": "An employee may be eligible for reimbursement of reasonable out of pocket expenses actually and necessarily incurred in the course of their authorised duties in the following circumstances: Fees associated with professional registration, certification, licensing and memberships such as the Victorian Institute of Teaching registration, Working with Children Checks and union or employee association memberships will not be reimbursed. All employees must have a base location determined for allowance purposes which in most instances is the place at which an employee ordinarily performs his or her duties. In the case of an employee who does not ordinarily perform his or her duties at any 1 place the delegate must determine a base location for allowance purposes. Reimbursement of expenses is subject to the requirements of Part 7 of Ministerial Order 1388. Information regarding the rates and the procedures for the reimbursement of expenses is available in the Resources tab."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Personal expenses",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/personal-expenses",
+          "snippet": "Employees whose duties require them to be absent from their base location overnight or who has approval to undertake work-related travel, will be reimbursed reasonable out of pocket expenses for meals, accommodation and incidentals. Employees who are absent from their base location and the absence does not extend overnight may be reimbursed in respect of the cost of meals and other reasonable out of pocket expenses. Reimbursement for meals, accommodation and incidental expenses are subject to the following conditions: In circumstances where an employee with dependants is transferred or promoted to a position but unable to secure a residence suitable for themselves and their dependants and as a consequence is required to: the employee may be reimbursed such allowance as the delegate considers reasonable provided it does not result in a payment that exceeds the relevant amounts set by the Australian Taxation Office (ATO) as adjusted from time to time. Introduction An introduction to reimbursement of expenses including base ... Travel expenses Travel Expenses - Policy and Guidelines for Travel and Perso... Personal Expenses - Policy and Guidelines for Travel and Personal Expenses – Teaching Service Reviewed 31 March 2020"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Travel expenses",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/travel-expenses",
+          "snippet": "An employee who is required to travel from their base in the course of their authorised duty will be reimbursed for work-related travel expenses. Conveyance should be by public transport, unless it is deemed impracticable or it is considered expeditious or more economical for an employee to travel by an alternative form of transport as outlined in the Department’s Travel Policy and Travel Rules of Use — School-based Staff . All work-related travel must comply with the Department’s Travel policy and Travel Rules of Use — School-based Staff. Reviewed 31 March 2020"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Mileage allowance",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/mileage-allowance",
+          "snippet": "may be authorised to use their private vehicle where travel by public transport is not practicable or it is considered expeditious or more economical for an employee to travel by motor vehicle. The employee’s motor vehicle must be registered, have full comprehensive insurance, which includes liability at law for damages and an endorsed indemnity to the employer and the driver must hold a current driver’s licence. An employee is required to obtain prior approval to use their private vehicle by completing an application to use a private vehicle on official duty form (available on the Resources tab). An employee who is authorised to use their private vehicle is eligible to be paid an allowance to cover the cost of using the vehicle by the most direct route. The allowance is calculated based on the distance travelled from the employee’s base location to the destination. The normal cost of travelling to and from home to base cannot be claimed. Where the employee commences travel from home to the destination and, or completes the travel from the destination to home, only the excess distance between home and base location can be claimed if the normal mode of travel is by motor vehicle. As soon as practicable after the travel, the employee is required to submit a written claim that sets out the date, the purpose of the trip, the number of kilometres travelled and the type of vehicle used. It is expected that mileage claims will be submitted in the same financial year in which the travel occurred. The Travel Expenses Claim Form – School Based Staff (available on the Resources tab) should be used for making a claim. The rate(s) payable to employees is that set by the Australian Taxation Office (ATO) as adjusted from time to time. Claims will be paid at the mileage rate applicable on the date of travel. It is an ATO requirement that where an employee is paid an allowance for the use of a private motor vehicle (other than for transport or removal to a new location), it is to be included on the employee’s PAYG payment summary. As a result, claims for use of a private motor vehicle must be processed on the payroll."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Relocation expenses",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/relocation-expenses",
+          "snippet": "For the purpose of this section: Eligible employee An eligible employee is defined as an ongoing employee who is required to relocate their residence owing to: Dependant A dependant defined as a person maintained by and permanently domiciled with an eligible employee, including a spouse, a child under 16 years of age, a full-time student child and a parent. Where the time or distance to be travelled requires a relocation of residence, an eligible employee may be reimbursed the necessary and reasonable expenses incurred for travel, meals, accommodation and the cost of removing household furniture and personal belongings by the most direct route in respect of the employee and their dependants. The cost of removing household furniture and personal belongings includes the cost of comprehensive insurance cover for those items whilst in transit, up to a maximum cover of $55,000. Where an eligible employee uses their private motor vehicle for transport to the new location the employee will be reimbursed at the appropriate rate set by the Australian Taxation Office (ATO), as adjusted from time to time."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Reimbursement of expenses",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/reimbursement-expenses",
+          "snippet": "Employees will be reimbursed allowable expenses that were actually incurred in the course of their approved official travel provided those expenses were reasonable. An expense will be considered reasonable where it does not exceed the relevant amounts set by the Australian Taxation Office (ATO) as adjusted from time to time. Reimbursement will be for actual expenditure, and will not exceed the relevant ATO rates, unless otherwise approved by the delegate. Reimbursement for expenses is subject to the provision of evidence of expenditure. To claim reimbursement, an employee must submit official receipts substantiating allowable expenses incurred. Where the delegate is satisfied it is not reasonably practicable to obtain a receipt, other satisfactory evidence of expenditure may be accepted. Official receipts or other satisfactory evidence of expenditure must be provided as soon as practicable upon return from travel. Information regarding the rates and procedures for the reimbursement of expenses is available in the Resources tab. Upon request an employee may be provided with an advance for the expected costs associated with work-related travel (note: a per diem allowance is not payable to an employee). As soon as practicable after the event, the employee will provide the delegate with an account of all expenses incurred together with receipts (and where necessary a statement) and any balance owed to the Department. Relocation expenses Relocation expenses - Policy and Guidelines for Travel and P... Expenses to attend interview Expenses to attend interview — Policy and Guidelines for Tra... Reimbursement of expenses — Travel and Personal Expenses — Teaching Service Reviewed 31 March 2020"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Expenses to attend interview",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/expenses-attend-interview",
+          "snippet": "Where a teacher or paraprofessional is required to travel in order to attend an interview for an advertised position in a Victorian government school, reasonable and necessary expenses will be reimbursed. The principal of the school with the advertised vacancy should discuss with the teacher or paraprofessional any expenses that may be incurred prior to the teacher or paraprofessional attending the interview. Principals should ensure that teachers or paraprofessionals do not undertake unnecessary travel by fully exploring teleconferencing facilities. The cost of any travel and incidental expenses for eligible teachers will be met from the Student Resource Package of the school that has advertised the vacancy. An excess employee who is required to travel in order to attend an interview as part of the redeployment process will have reasonable and necessary expenses reimbursed. Reimbursement of expenses Reimbursement of expenses — Travel and Personal Expenses — T... Other expenses Other expenses — Policy and Guidelines for Travel and Person... Expenses to attend interview — Policy and Guidelines for Travel and Personal Expenses — Teaching Service Reviewed 31 March 2020"
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Other expenses",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/travel-and-personal-expenses-teaching-service/policy-and-guidelines/other-expenses",
+          "snippet": "Where an employee incurs expenses in excess of the amounts set out in this Guide or an expense in circumstances other than set out in this Guide, the delegate may authorise reimbursement of such expenses as are considered reasonable. Expenses to attend interview Expenses to attend interview — Policy and Guidelines for Tra... Resources Resources for Travel and Personal Expenses for Teaching Serv... Other expenses — Policy and Guidelines for Travel and Personal Expenses — Teaching Service Reviewed 31 March 2020"
+        }
+      ]
+    },
+    "45": {
+      "title": "Gifts, Benefits and Hospitality",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Management of offers of gifts, benefits and hospitality",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/guidance/management-of-offers-of-gifts-benefits-and-hospitality",
+          "snippet": "This chapter sets out the process for accepting, declining and recording offers of gifts, benefits and hospitality. When deciding whether to accept an offer, school staff need to first consider if the offer could be perceived as influencing them in performing their duties or lead to reputational damage. The more valuable the offer, the more likely that a conflict of interest or reputational risk exists. The default position of the department is to politely decline all offers. 'Thanks is enough' is the desired standard for school staff when responding to offers of gifts, benefits and hospitality – ensuring impartiality in decision making with business or suppliers. The approach means that a simple thank you is all we need from businesses or suppliers to show their appreciation."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Management of the provision of gifts, benefits and hospitality",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/guidance/management-of-the-provision-of-gifts-benefits-and-hospitality",
+          "snippet": "This chapter sets out the requirements for providing gifts, benefits and hospitality. The HOST test can be used as a guide to decide the appropriateness of offering hospitality. To whom is the gift or hospitality being provided? Will recipients be external business associates, or individuals of the school community? For what purpose will hospitality be provided?"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Breaches and speaking up",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/guidance/breaches-and-speaking-up",
+          "snippet": "Disciplinary action consistent with the relevant industrial instrument and legislation, including dismissal, may be taken where school staff fail to adhere to this policy. This includes where school staff fail to avoid wherever possible, or identify, declare and manage a conflict of interest related to gifts, benefits and hospitality in accordance with the Conflict of Interest policy . Actions inconsistent with this policy may constitute misconduct under the Public Administration Act 2004, which includes: , such as sections of the codes covering conflict of interest, public trust and gifts and benefits school staff making improper use of their position. In the event of identified non-compliance, principals and managers may proceed with actions in accordance with the Managing Conduct and Unsatisfactory Performance in the Teaching Service policy . Procurement Division will report instances of potential non-compliance to authorised delegates, to allow them to take actions under the Managing Conduct and Unsatisfactory Performance in the Teaching Service policy. Instances of non-compliance will also be reported to the department’s Audit and Risk Committee."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Minimum accountabilities",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/guidance/minimum-accountabilities",
+          "snippet": "For managing gifts, benefits and hospitality in the Victorian public sector. The minimum accountabilities are issued by the Victorian Public Sector Commission (VPSC). A gift, benefit or hospitality must not be accepted or given by a public sector organisation or its employees if the offer does not comply with these minimum accountabilities. The minimum accountabilities are binding under the Instructions supporting the Standing Directions of the Minister for Finance 2018 External Link . You must comply with the minimum accountabilities when responding to all offers of gifts, benefits or hospitality (token or non-token), including offers from other public sector organisations."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/gifts-benefits-and-hospitality/guidance/definitions",
+          "snippet": "Authorised delegate Nominated school staff assigned the responsibility to consider and approve proposed acceptance decisions within declarations of gift, benefit and hospitality offers. Authorised delegates’ responsibilities are non-delegable. Benefits Benefits include preferential treatment, privileged access, favours or other advantage offered to an individual. They may include invitations to sporting, cultural or social events, access to discounts and loyalty or rewards programs and promises of a new job. The value of benefits may be difficult to define in dollars, but as they are valued by the individual, they may be used to influence the individual’s behaviour. Business associate An individual or body that the school has, or plans to establish, some form of business relationship with, or who may seek commercial or other advantage by offering gifts, benefits or hospitality. Ceremonial gifts Ceremonial gifts are official gifts provided as part of the culture and practices of communities and government, within Australia or internationally. Ceremonial gifts are usually provided when conducting business with official delegates or representatives from another organisation, community or foreign government."
+        }
+      ]
+    },
+    "47": {
+      "title": "Student Resource Package — School Infrastructure",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Contract Cleaning (Reference 28)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/contract-cleaning-reference-28",
+          "snippet": "Cleaning arrangements differ between metropolitan and regional schools. For detailed information, refer to the Cleaning policy . For metropolitan schools, contract cleaning funding is no longer provided directly through the Student Resource Package (SRP). Instead, funds are held centrally, and the department pays cleaning companies directly. For regional schools, contract cleaning funding remains included in the SRP, and based on normal and low-use areas, as determined by the cleanable spaces outlined in the school's facility schedule. Schools will receive additional cleaning funds through the SRP cycle, over and above this contract cleaning entitlement provided through the SRP quarterly grant. Contract cleaning funding does not cover school consumables, such as:"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Cross Infection Prevention Allowance (Reference 29)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/cross-infection-prevention",
+          "snippet": "Additional cleaning funds are provided to special developmental schools and physical disability special schools that receive Core Index Stages 1–3 (Reference 5) to reduce the risk of cross infection. Schools with the following campus types are eligible for Cross Infection Prevention Allowance at campus level: Funding is calculated at the Indicative, Confirmed and Revised cycles. Funding is allocated through cash funding. A flat rate is provided for eligible schools: $14,569 Expenditure should be allocated in CASES21 to the following:"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Grounds Allowance (Reference 31)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/grounds-allowance-reference-31",
+          "snippet": "The Grounds Allowance is provided to schools to ensure school grounds are properly maintained. The types of specific tasks that should be undertaken include: Schools that have taken part in the Rolling Facilities Evaluation should be using the School Maintenance Plan portal to plan and schedule maintenance tasks. For further information, refer to the School Maintenance Plans and Rolling Facilities Evaluations policy . Grounds area (m 2 ) rounded to 0 decimal places × Grounds allowance rate"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Building Area Allowance (Reference 32)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/building-area-allowance-reference",
+          "snippet": "Funding for the building area allowance is based on the school’s total building area in square metres. Total building area is sourced from the Victorian School Building Authority (VSBA) annually, during the Confirmed cycle. All campus types listed below are eligible for Building Area Allowance funding provided at campus level: Funding is calculated at the Confirmed cycle only and allocated through cash funding. Building area square metres rounded to 1 decimal place × Building area allowance rate"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Split-site/Multi-site Allowance (Reference 33)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/split-site/multi-site-allowance",
+          "snippet": "Split-site/multi-site allowances are paid to designated primary, P-12 and secondary colleges which are not being funded for a separate enrolment linked base ( Reference 2 ). Specialist and Language Schools are also eligible if applied criteria is satisfied. A school may be eligible for the allowance if: From 2026, the program will start being phased out and be fully phased out by 2029 and schools will receive 75% of their full funding entitlement in the 2026 SRP. Funding is calculated at the Indicative cycle and allocated through cash funding. Building Area Allowance (Reference 32) Reference 32 of the SRP Guide, providing information on the ... Utilities (Reference 34) Reference 34 of the SRP Guide, providing information on util... Reference 33 of the SRP Guide, providing information on split-site/multi-site allowance including eligibility and rates Reviewed 31 December 2025"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Utilities (Reference 34)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/utilities-reference-34",
+          "snippet": "Utilities funding is provided as a cash allocation as part of the Student Resource Package (SRP) under the School Infrastructure items. Funding is distributed through the quarterly cash grant. Utilities funding is provided for the following items. Utilities funding is not provided for the following items: Utilities expenditure should be allocated in CASES21 to: The utilities budget is based on historical spending plus indexation. It is not formula driven and therefore is not automatically adjusted to reflect changes in a school’s profile."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Maintenance and Minor Works (Reference 35)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/maintenance-reference-35",
+          "snippet": "Maintenance and Minor Works (MMW) Student Resource Package (SRP) funding is provided to eligible schools to undertake proactive maintenance of their buildings, using all available information, including the condition assessments from the Rolling Facilities Evaluation (RFE). It is vital that schools use their MMW allocation for the ongoing maintenance of facilities, to prevent asset degradation and potential health and safety issues. Once the RFE has been completed, all schools are required to develop and maintain a 5-year School Maintenance Plan (SMP) to help budget, schedule and manage the maintenance and upkeep of their buildings and grounds. The SMP is managed in the Asset Information Management System (AIMS) (staff login required) External Link . For further information, refer to the School Maintenance Plans and Rolling Facilities Evaluations policy , or contact maintenance.plan@education.vic.gov.au or 03 7022 2212 for support. Under the department’s Essential Safety Measures (ESM) model, schools are required to ensure that any repairs or rectification works identified through inspection, testing, or annual audits are completed to maintain ESM compliance."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Annual Contracts (Reference 36)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/annual-contracts-and-essential",
+          "snippet": "The Annual Contracts allocation provides for the routine servicing, inspection, and testing of various essential and mandatory items. Funded items include: The allocation covers servicing, inspection and testing of existing items at eligible schools. It does not cover new items (for example, it funds the servicing of existing air conditioning units but not the purchase of new units). Costs for any associated repairs or rectification works identified through Annual Contract routine testing, servicing and/or inspection are funded via the Maintenance and Minor Works (Reference 35) component of the Student Resource Package (SRP). Annual Contracts activities should be managed via completion of work orders in the Asset Information Management System (AIMS) (staff login required) External Link . For further related guidance, please refer to:"
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Workers' Compensation (Reference 37)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/workers-compensation-reference-37",
+          "snippet": "Each school’s workers’ compensation budget allocation has been determined by applying an averaged claim cost rate for each school type to the remuneration of each school. The amount charged against a school’s workers’ compensation budget allocation is based on the actual incurred costs of claims that have been lodged at the school during the 2024/2025 workers’ compensation premium calculation period from 1 January 2022 to 30 June 2024. If the total cost of these claims is greater than a school’s workers’ compensation budget allocation, the school is required to pay all or part of the difference, capped at 0.5% of its remuneration up to a maximum of $25,000. Savings capped at 0.5% of remuneration, up to a maximum of $25,000 accrue to those schools with claims costs less than their workers’ compensation budget allocations. Full 2025 Workers’ Compensation budget allocations, charge out amounts and end of year balance details are in the Workers’ Compensation Summary Statement External Link . The following categories of claims are eligible for exemption from the calculation of a school’s Student Resource Package (SRP) Workers’ Compensation cost:"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "Wage Supplement (Reference 159)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/wage-supplement-reference-159",
+          "snippet": "Funding for industrial improvements for government regional schools to cover the 5% above award rate increase for all government school cleaners was introduced in 2025. All regional schools will receive school cleaning additional funding to cover the 5% above award rate for all government school cleaners. Metropolitan schools do not receive school cleaning additional funding as cleaning contracts are managed centrally and the department pays service providers directly. Exclusions: Schools/campuses with no history of previous SRP Cleaning payments are ineligible for this additional funding. The payments are calculated using each school’s cleanable area. A minimum of $585 annually will apply to each campus as a baseline to ensure schools with small cleanable areas receive a practical allocation. The minimum allocation of $585 for each school is applied and the remaining amount is distributed proportionally to the school's total cleanable area."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Quality Improvement (Reference 160)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/quality-improvement-reference-160",
+          "snippet": "As part of the Victorian government’s cleaning reform, funding for quality improvements for government metropolitan and regional schools was introduced in 2025, specifically, to purchase additional cleaning services for one-off events. All metropolitan and regional schools will receive school cleaning additional funding each year. Exclusions: Schools/campuses with no history of previous SRP Cleaning payments are ineligible for this additional funding. The payments are based on an hourly rate for a 4-hour shift × 11, allowing for 44 additional hours of cleaning, or an extra event per month during the school year. For metropolitan and regional schools to purchase additional flexible funding for cleaning services for one off events such as school fetes or sporting events. Funding cannot be used for school maintenance activities such as gutter cleaning or swimming pool cleaning."
+        }
+      ]
+    },
+    "48": {
+      "title": "Parent Payments",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/parent-payment/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Finance requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/parent-payment/guidance/finance-requirements",
+          "snippet": "The department's Digital Learning policy has been updated and from 2027, schools must not invite parents or carers to purchase or bring their own digital devices (BYOD) for Foundation to Grade 6 students to use at school. The Parent Payment policy, guidance and templates will be updated in 2026 to reflect this change. School budgeting and reporting for parent payments and financial contributions must follow the procedures outlined in the Finance Manual for Victorian Government Schools (Finance Manual) and the Parent Payments policy . These include, but are not limited to: Schools cannot consider non-payment of a request for curriculum contributions or other contributions as an outstanding payment as parents are not obliged to make a contribution. Schools can issue personalised reminder notices for curriculum contributions and other contributions no more than once per term. Each notice can include contribution requests previously made for the current school year as well as new requests for upcoming activities occurring throughout the current school year. Contribution requests should not include unpaid requests carried forward from the previous school year. If a parent has agreed to purchase an extra-curricular item or activity, but has not made payment, schools may send invoices or statements up to once per term for outstanding amounts."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Communication requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/parent-payment/guidance/communication-requirements",
+          "snippet": "The department's Digital Learning policy has been updated and from 2027, schools must not invite parents or carers to purchase or bring their own digital devices (BYOD) for Foundation to Grade 6 students to use at school. The Parent Payment policy, guidance and templates will be updated in 2026 to reflect this change. Schools may communicate parent payment arrangements using any communication tool that is suitable for their school context, if communication is consistent with the Parent Payments Policy. This includes letters in the post, email, or using third party communication tools. Schools must develop parent payment requests using one or more of the department’s parent payment arrangement templates: Parent payment arrangements template (secondary schools) (DOCX) (staff login required) External Link Parent payment arrangements template (specialist schools) (DOCX) (staff login required) External Link . Schools must follow the following communication requirements when inviting parents to make a financial contribution or payment to the school: . Recognition of voluntary contributions Schools that wish to recognise parents or other individuals for their voluntary contributions must adhere to the following requirements:"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Applying the policy to specific examples",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/parent-payment/guidance/applying-the-policy-to-specific-examples",
+          "snippet": "The department's Digital Learning policy has been updated and from 2027, schools must not invite parents or carers to purchase or bring their own digital devices (BYOD) for Foundation to Grade 6 students to use at school. The Parent Payment policy, guidance and templates will be updated in 2026 to reflect this change. Schools may request contributions for costs associated with third-party software and communication tools under other contributions. School’s must not request contributions or payments for items or activities for which they receive full funding, such as department provided administrative software – for example, CASES21. An alternative form of instruction is the delivery of the curriculum through non-standard instructional methods, and/or the delivery of a parallel curriculum. An alternative form of instruction can be provided on a user-pays basis and categorised in extra-curricular items and activities provided the school also offers free access to the curriculum using standard instructional methods. Schools do not need to provide students with access to alternative forms of instruction if payment is not received. However, schools cannot refuse students instruction in the standard curriculum if payment is not received."
+        }
+      ]
+    },
+    "49": {
+      "title": "Fundraising Activities (including fetes)",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Fundraising activities may be undertaken: Fundraising activities can be organised by: any other member(s) of the school community. Activity organisers must: To ensure events are effective and achieve their goals and objectives, the risks to their delivery must be identified and assessed. This should take into account risks in relation to: Important: Schools must manage any incidents or hazards that are identified during fetes or other school fundraising activities in accordance with department policy, refer to Reporting and Managing School Incidents ."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "School council – approving or rejecting a school-related fundraising proposal",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "The school council has responsibility for approving or rejecting a school-related fundraising proposal from the school community. Before rejecting a fundraising activity proposed by a parents’ club or any other member of school community, school council must ensure that they consider a recommendation made by a committee consisting of: The committee must consider the proposed fundraising activity and make a recommendation to the school council about whether the activity should be approved. As part of the school council approval process, it is recommended that the school council and the organising school community member(s), or parents’ club, discuss how the funds raised will be spent. This is to determine what is in the best interests of the school. The agreed purpose (e.g. install shade sails, upgrade the library books or computers, or to augment school funds) must be included in the minutes of the school council meeting at which the fundraising activity is approved."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Commercial operators",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Where a commercial operator has been engaged there must be a written agreement setting out: Wherever possible, school council, as a legal entity, should enter into written agreements with third parties for the purpose of school fundraising activities, rather than individual members of the school community. If amusement rides, attractions and fireworks are planned as part of a school fete or other fundraising event, a separate written agreement is required – refer to: Amusement Rides, Attractions and Fireworks . Refer to: Contractors – Insurance and Contract Arrangements ."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Fundraising methods",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Schools and school councils can raise funds for the schools using a variety of methods. The below information provides guidance on some common fundraising methods used at Victorian government schools. Schools may receive tax deductible donations if they hold Deductible Gift Recipient status. Refer to Finance Manual section 9 – Funding Sources and Finance Manual – section 15 Taxation for further details. If a fundraising activity involves a raffle or bingo or other minor gambling activities, permission and instructions must be obtained from the Victorian Gambling and Casino Control Commission, refer to: Community and charitable gaming External Link . Careful consideration must be given to the types of activities to be included at school fetes and other school events."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Amusement rides, attractions and fireworks",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "The use and operation of amusement rides, attractions and fireworks (including inflatable amusement devices such as jumping castles and slides) in the context of a school fete or other fundraising activity involves additional risks beyond that usually managed in the school environment and requires appropriate risk planning and management. The Amusement Rides, Attractions and Fireworks policy and procedure specifically address these risks and outline the requirements that must be met by principals, school councils and third-party operators when planning activities that include the hire and operation of amusement rides, attractions and fireworks on school grounds."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Sale of alcohol at school events",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "For the department’s policy on Alcohol at School Events refer to: Alcohol at School Events . Activity organisers should also seek advice from Liquor Control Victoria External Link before undertaking any activities involving the sale of alcohol."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Fundraising event budget",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Prior to any event being conducted schools should prepare a budget using the department’s fundraising wheel. The fundraising wheel will help set out the expected costs and revenue, and indicate the GST options available. Refer to GST fundraising wheel (staff login required) External Link ."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Allocation and use of funds raised",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "All funds raised for a government school by fundraising activities must be held by the school council in trust for the purpose for which they were raised. Any funds raised from a parents’ club activity must be held in a separate sub-program account in CASES21, and must be held separately from funds used for the club’s administrative purposes. Where funds were raised for the purpose of the general establishment or augmentation of school funds (under regulation 58(1)(a) of the Education and Training Reform Regulations 2017 (the Regulations)), the school council may determine how those funds are spent. Before spending the funds, the school council must consult with the principal as to what is most desirable in the interests of the school. The school council may also consult with a parents’ club or other members of the school community, as appropriate. Where funds are raised for a particular school purpose (under regulation 58(1)(b) of the Regulations):"
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "School-level policy on fundraising",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "It is not mandatory for schools to have a school-level policy on fundraising but if schools or school councils wish to have a policy to provide the school community with an overview of the school’s approach to fundraising, there is a Fundraising Policy template (staff login required) External Link on the School Policy Templates Portal. Schools can modify the template to suit their local circumstances."
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "Fundraising for charitable causes",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Fundraising that is not for a school-related purpose (for example, raising funds to donate to an external charity) is not within the scope of the school council’s powers or functions, so principals are responsible for considering any proposals to fundraise for charitable causes. In deciding whether or not to fundraise for a particular charitable cause, the principal may: All money raised for a particular charitable cause must be expended only for that specific charitable cause. The school cannot choose to allocate the funds to a different cause."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+          "snippet": "Education and Training Reform Regulations 2017 (Vic) External Link Fundraising Act 1998 (Vic) External Link Fundraising Activities (including fetes) Outlines the required processes for planning and conducting ... Guidance There is no further guidance for this topic. For more inform... Department policy on the required process for planning and conducting school fundraising activities including information on amusement rides and structures. Reviewed 24 November 2025"
+        }
+      ]
+    }
+  }
+}

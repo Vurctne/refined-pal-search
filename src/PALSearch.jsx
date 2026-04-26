@@ -1823,6 +1823,40 @@ const PAL_POLICIES = [
   ],
 }
 
+,
+  { id: 103.6, title: 'Koorie Education', category: 'Curriculum', tags: ['koorie', 'students', 'support', 'year', 'strait', 'living', 'refers', 'term', 'equivalent', 'quality'], summary: 'The purpose of this policy is to support schools in providing quality and meaningful education to Koorie students, where Koorie students engage fully in their schooling years, and gain the knowledge and skills to excel at year 12 or its equivalent. The term Koorie is used inclusively and refers to both Aboriginal and Torres Strait Islander people living in Victoria.', url: 'https://www2.education.vic.gov.au/pal/koorie-education/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/koorie-education/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/koorie-education/policy', resources: 'https://www2.education.vic.gov.au/pal/koorie-education/resources' },
+    chapters: [
+      { title: 'Strengthening Aboriginal self-determination in education', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/strengthening-aboriginal-self-determination-in-education' },
+      { title: 'Engaging with community stakeholders', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/engaging-with-community-stakeholders' },
+      { title: 'Koorie Literacy and Numeracy Program', url: 'https://www2.education.vic.gov.au/pal/koorie-education/guidance/koorie-literacy-numeracy-program' }
+    ]
+  }
+,
+  { id: 106.1, title: 'VCE Vocational Major and Victorian Pathways Certificate Provision', category: 'Curriculum', tags: ['vocational', 'major', 'victorian', 'pathways', 'certificate', 'provision', 'apprenticeships', 'learning', 'transition', 'government'], summary: 'This policy outlines the provision expectation for the Victorian Certificate of Education (VCE) Vocational Major (VM) and Victorian Pathways Certificate (VPC) for Victorian government secondary schools. The VCE VM is a 2-year vocational and applied learning program that enables students to transition into apprenticeships, traineeships, further education and training and university (via non-ATAR pathways).', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy', resources: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'VCE Vocational Major', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Victorian Pathways Certificate', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Certificate provision expectation', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Delivering the VCE VM and VPC', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Student enrolments in the VCE VM and VPC', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' },
+      { title: 'Contact', url: 'https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy' }
+    ]
+  }
+,
+  { id: 117.9, title: 'Digital Learning', category: 'IT & Privacy', tags: ['digital', 'learning', 'policy', 'device', 'deputy', 'bring', 'usage', 'students', 'primary', 'byod'], summary: 'This policy has been updated to align with the recent announcement by the Deputy Premier and Minister for Education on 16 October 2025 on Bring Your Own Device (BYOD) programs and student digital device usage times in schools with primary students. This policy outlines requirements and recommendations for the use of digital technologies (digital hardware, software and resources) in a safe, intentional and responsible way that supports learning.', url: 'https://www2.education.vic.gov.au/pal/digital-learning/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/digital-learning/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/digital-learning/policy', resources: 'https://www2.education.vic.gov.au/pal/digital-learning/resources' },
+    chapters: [
+      { title: 'Communicating behavioural expectations to students (Acceptable Use Agreements)', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/communicating-behavioural-expectations-to-students-acceptable-use-agreements' },
+      { title: 'Student digital device provision', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-digital-device-provision' },
+      { title: 'Strategic planning for digital technologies', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/strategic-planning-for-digital-technologies' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

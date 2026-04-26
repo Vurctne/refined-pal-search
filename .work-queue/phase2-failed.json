@@ -525,6 +525,66 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T14:51:54.7365945+10:00"
+                  },
+                  {
+                      "db_id":  70,
+                      "title":  "Mental Health Fund and Menu",
+                      "url":  "https://www2.education.vic.gov.au/pal/mental-health-fund-menu/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  2,
+                                            "resource_count":  4,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T14:57:47.5141620+10:00"
+                  },
+                  {
+                      "db_id":  76,
+                      "title":  "Child Abuse (including grooming) — Identification and Response",
+                      "url":  "https://www2.education.vic.gov.au/pal/protecting-children/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  13,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T14:59:47.5198560+10:00"
+                  },
+                  {
+                      "db_id":  84,
+                      "title":  "Managing and Reporting School Incidents (Including Emergencies)",
+                      "url":  "https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  4,
+                                            "resource_count":  11,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+
+                                         ],
+                      "priority":  3,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T15:01:47.5540613+10:00"
                   }
               ]
 }

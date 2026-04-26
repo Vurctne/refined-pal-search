@@ -1,0 +1,123 @@
+{
+  "chunk_idx": 6,
+  "by_entry": {
+    "85": {
+      "1": "EMP, Online EMP Portal, 1 September, annual review, principal approval",
+      "2": "shared sites, joint EMP, evacuation, assembly points, off-site"
+    },
+    "86": {
+      "1": "principal approval form, ERREMP, overnight, adventure activities, swimming checklist",
+      "2": "written consent, local excursions, annual consent, walking distance, notification form",
+      "3": "medical information form, adventure activities, camps, overseas, Compass",
+      "4": "SAL, 5 business days, user guide, register camps, emergency services",
+      "5": "ERREMP, local excursions template, principal sign-off, interstate, adventure activities",
+      "6": "ERREMP, interstate, adventure activities, emergency response procedures, swimming",
+      "7": "VIT registered, principal approval, Child Safe Standards, Working with Children Check, supervisory",
+      "8": "1:20 staff-student ratio, minimum 2 staff, supervision, risk assessment, class teacher",
+      "9": "Student skills swimming template, swimming, water-based activities, return home, behaviour",
+      "10": "duty of care, waiver and indemnity, Legal Division, providers, foreseeable harm",
+      "11": "external providers, principal check, child safe, expertise, duty of care",
+      "12": "first aid kit, CPR qualification, eduSafe Plus, RTO, Work Health and Safety Act 2010",
+      "13": "accredited campsites, residential, inspection, suitability, outdoor",
+      "14": "Bureau of Meteorology, VicEmergency, Catastrophic FDR, MetEye, fire weather district",
+      "15": "VicRoads, Group Travel Authority, 12 to 35, PTV, driver fatigue",
+      "16": "satellite phones, communication plan, remote, designated school contact, recall",
+      "17": "high visibility, vests, reflective, bushwalking, cycling",
+      "18": "DFAT, Smartraveller, travel insurance, homestay, Child Safe Standards",
+      "19": "adventure activities, swimming carnivals, lifesaving, instructional swimming, principal knowledge"
+    },
+    "87": {
+      "1": "OSHC, ages 5 to 12, weekdays, school holidays, student-free days",
+      "2": "6 steps, working group, school council, needs analysis, scoping",
+      "3": "OSHC Establishment Grants, 2024-25 Budget, round 2, 18 September 2024, 20 October 2024",
+      "4": "school council bank account, VMIA, SECS, Michael Roleff, postal address",
+      "5": "EOI template, third party provider, schools.procurement, OSHC licence agreement, value for money",
+      "6": "NQF, NQS, ACECQA, QARD, 7 quality areas",
+      "7": "service promotion, anniversaries, stakeholders, viability, campaigns",
+      "8": "approved provider, licence agreement, QARD, transfer, exit"
+    },
+    "88": {
+      "2": "switched off, securely stored, School Policy Templates Portal, Ministerial policy, local policy",
+      "3": "exceptions, 3 categories, granted purpose, documentation, mobile phone",
+      "4": "wearable devices, iPads, notifications off, work experience, VET",
+      "5": "secure storage, owner's risk, principal, Claims for Property Damage, accessible",
+      "6": "Ministerial Order 1125, suspensions, detention, student engagement, online",
+      "7": "3 to 4 years, review, survey questions, focus group, effectiveness",
+      "8": "balance, online time, families, resources, child",
+      "9": "cellular, telecommunication, network, telephone, definition",
+      "10": "Equal Opportunity Act 2010, 21 December 2025, Ministerial policy, legislation, Vic"
+    },
+    "89": {
+      "1": "1300 133 468, VSBA Make-safe, vandalism, break-ins, immediate health and safety",
+      "2": "storms, bushfires, floods, VSBA Make-safe, Business Continuity Plan",
+      "3": "EMP, AIMS, regional office, Provision and Planning Manager, eligibility criteria",
+      "4": "Safe Tree Program, arborist report, high-risk trees, VSBA Response Programs Unit, reimbursement",
+      "5": "ESM, VSBA, Building Regulations 2018, AIMS, 1 January 2024",
+      "6": "2 metres, working at heights, roof plumber, gutters, downpipes"
+    },
+    "90": {
+      "3": "5-year plan, AIMS, Student Resource Package, RFE, attestation",
+      "4": "5-year cycle, 300 schools, VSBA, Condition Assessment Report, 2027",
+      "5": "2 months prior, SAMS, sams@education.vic.gov.au, pre-assessment questionnaire, service provider",
+      "6": "CAR, 4 to 6 weeks, AIMS, 10 business days, feedback",
+      "7": "specialist assessment, defect, service provider, VSBA, investigation",
+      "8": "Bushfire Attack Level, Shelter in Place, Bushfire at Risk Register, ember resistance, RFE",
+      "9": "5-year plan, condition-based, routine activities, AIMS, VSBA endorsement",
+      "10": "VSBA workshops, training, AIMS, school year, condition assessment",
+      "11": "AIMS, condition assessment, user guide, access, submit",
+      "12": "5-year period, Student Resource Package, legacy document, value for money, scheduled works",
+      "13": "VSBA, evidence base, asset planning, investment decisions, government",
+      "15": "rfeproject@education.vic.gov.au, RFE team, contact, email, Rolling Facilities Evaluation",
+      "16": "maintenance.plan@education.vic.gov.au, 12 January 2024, contact, email, School Maintenance Plan team"
+    },
+    "91": {
+      "1": "Schools' privacy policy, collection notice, Term 1, parent translations, enrolment",
+      "2": "personally identifiable information, digital, hardcopy, credentials, legal identity",
+      "3": "Schools' privacy collection notice, plain language, transparency, primary purpose, parents",
+      "4": "consent, CISS, FVISS, mature minors, health information",
+      "5": "photographs, filming, recording, copyright, consent",
+      "6": "need to know basis, primary purpose, secondary purpose, health information, sharing",
+      "7": "PIA, sensitive information, high risk software, child safety, parent notifications",
+      "8": "Health Records Act 2001, physical, mental, psychological, identifiable",
+      "9": "biometric, Health Records Act 2001, scanning, intrusive, least intrusive",
+      "10": "ICT, Information Security policy, Software and Administration Systems, reasonable steps, audit",
+      "11": "data breach, privacy@education.vic.gov.au, Privacy team, notification, suspected",
+      "12": "privacy@education.vic.gov.au, Privacy team, complaints, child, OVIC"
+    },
+    "92": {
+      "1": "risk register, Risk Management – Schools, emergency response plan, operating controls, transmission",
+      "2": "access controls, swipe card, annual review, passwords, third-party",
+      "3": "LearnED, Information Security for School Staff, DE identities, phishing guide, annual training",
+      "4": "First response card, call 000, principal notification, cyber, Managing and Reporting School Incidents",
+      "5": "Business Continuity Plan, TSSP, ransomware, 3 months, automated backups",
+      "6": "Legal Division, ST4S, software inventory template, Visitors in Schools, third-party",
+      "7": "VPDSS, OVIC, Protective Data Security Plan, attestation, centrally attested",
+      "8": "pre-employment checks, validation form, off-boarding, Recruitment in Schools, suitability",
+      "9": "ICT assets, lifecycle, USB drives, hard drives, secure disposal",
+      "10": "physical security, remote work, travelling, third parties, lifecycle"
+    },
+    "94": {
+      "2": "end of 2028, migrate, school-managed, department-provided, separate environments",
+      "3": "Arc Software, ICT support, child safety, privacy, security standards",
+      "4": "SCL Program, end of 2028, commercial agreements, renewal, cost-avoidance",
+      "5": "TSSP, backup and recovery, contract template, Records Management, business continuity",
+      "6": "SCLProgram@education.vic.gov.au, 1800 641 943, servicedesk@education.vic.gov.au, Services Portal, contact",
+      "7": "IoT, administration systems, hardware, cloud services, identity management",
+      "8": "Health Records Act 2001, MO 1359, Privacy and Data Protection Act 2014, Public Records Act 1973, VPDSF"
+    },
+    "95": {
+      "1": "CASES21, pupil registers, school council records, 1800 359 140, State Archives",
+      "2": "naming conventions, CASES21, document title, retention period, meaningful titles",
+      "3": "need to know basis, open-access folders, annual review, privacy@education.vic.gov.au, sensitive information",
+      "4": "hardcopy storage checklist, manual handling, sturdy boxes, alphabetical, annual inspection",
+      "5": "born digital, metadata, naming conventions, CASES21, sustainable formats",
+      "6": "Compass, Xuno, DE contract template, Arc, Procurement – Schools",
+      "7": "Public Record Office Victoria, 1 January 2000, pupil registers, corporal punishment registers, teacher time books",
+      "8": "sort by type, hardcopy, digital copy, archive, latest version",
+      "9": "Normal Administrative Practice, routine disposal, time-expired, Chapter 10, official records",
+      "10": "time-expired, retention period, Royal Commission, Board of Inquiry, third-party providers",
+      "11": "Child Safe Standard 2, MO 1359, Public Record Office Victoria Standards, retention guide, wellbeing records",
+      "12": "Records and Mail Services, 1800 359 140, archives.records@education.vic.gov.au, Schools Records Management Program, advice"
+    }
+  }
+}

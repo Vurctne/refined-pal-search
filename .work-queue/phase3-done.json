@@ -1,3 +1,40 @@
 ﻿{
-  "items": []
+    "items":  [
+                  {
+                      "new_id":  103.6,
+                      "pal_title":  "Koorie Education",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/koorie-education",
+                      "pal_native_category":  "Learning, teaching, curriculum and improvement",
+                      "suggested_db_category":  "Curriculum",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:10:17.8639682+10:00"
+                  },
+                  {
+                      "new_id":  106.1,
+                      "pal_title":  "VCE Vocational Major and Victorian Pathways Certificate Provision",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision",
+                      "pal_native_category":  "Learning, teaching, curriculum and improvement",
+                      "suggested_db_category":  "Curriculum",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:10:17.8729683+10:00"
+                  },
+                  {
+                      "new_id":  117.9,
+                      "pal_title":  "Digital Learning",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/digital-learning",
+                      "pal_native_category":  "Information management, technology and security",
+                      "suggested_db_category":  "IT \u0026 Privacy",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:10:17.8729683+10:00"
+                  }
+              ]
 }

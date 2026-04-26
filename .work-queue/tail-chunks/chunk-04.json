@@ -1,0 +1,447 @@
+{
+  "chunk_idx": 4,
+  "entry_ids": [
+    "62.5",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "71",
+    "72"
+  ],
+  "by_entry": {
+    "62.5": {
+      "title": "Supervision of Students",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+          "snippet": "When making supervision arrangements schools must consider reasonably foreseeable risks of injury including hazards that: School students cannot be used as supervision staff. Schools must develop a local Yard duty and supervision policy. A Yard duty and supervision policy (staff login required) External Link is available on the School Policy Templates Portal. Schools can modify the template to suit their local circumstances."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Child Safe Standards",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+          "snippet": "When determining appropriate supervision for various school activities, principals must ensure that consideration has been given to local environmental factors that may impact compliance with the Child Safe Standards . These include, but are not limited to: Schools must consider how supervision can be used as a risk treatment in the school’s Child Safety Risk Register External Link to protect against the risks of harm. This includes, but is not limited to: refers to the department’s Complaint Resolution policy and clearly details how students and families can raise complaints and concerns through the school and how they can raise issues with the department if they are not satisfied that a complaint has been resolved by the school. For more information on how schools can create and maintain a child safe organisation and protect students from all forms of abuse, refer to the Child Safe Standards resources ."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Supervision responsibilities during school hours",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+          "snippet": "Students must be supervised during recess and lunch in accordance with the school’s Yard duty and supervision policy (staff login required) External Link . The appropriate student to teacher supervision ratio for yard duty at a school must be determined based on a number of local factors including: Principals can decide how much supervision to provide for formal cross-age tutoring programs based on: Students must always be supervised while using a swimming pool (including if a swimming pool is owned by a school privately or by the municipal council). There are specific staff to student ratios and other supervision requirements for swimming and water-based activities that are outlined in the Swimming and water-based activities guidelines (DOCX) External Link . Schools must ensure appropriate supervision arrangements for students using changerooms and toilets on school premises are included in the school’s Yard duty and supervision policy (staff login required) External Link . Schools are advised to consider: Schools are advised to consider risk controls in the school’s Child Safety Risk Register External Link to protect against the particular risks posed by changerooms and toilets. These include, but are not limited to:"
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Supervision responsibilities before and after school",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+          "snippet": "Principals must ensure: ) sufficient teachers are available to supervise the departure of students at the end of the school day teachers supervising departures are not called away for other duties without alternate supervision being arranged. More supervision may be required: Schools must develop their own protocols to manage situations where students arrive at school before supervision commences or are not collected by the time supervision ceases. For further guidance on this refer to the Collection of Students policy . These protocols must be included in the schools local Yard duty and supervision policy (staff login required) External Link ."
+        }
+      ]
+    },
+    "63": {
+      "title": "Health Care Needs",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/health-care-needs/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "1. The 4 stages of developing a Student Health Support Plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/health-care-needs/guidance/4-stages-developing-student-health-support-plan",
+          "snippet": "Schools must follow the 4 stages to develop a Student Health Support Plan (DOCX) External Link or any other specific health management plan – for example, the anaphylaxis management plan. A student health support plan is required for students who: Principals must inform parents or carers about the school’s Health care needs policy (staff login required) External Link for supporting student health prior to and on enrolment, such as: Principals must ensure that parents/carers provide accurate information about a student’s: Schools must determine whether a Student Health Support Plan is needed based on the received information. A Student Health Support Plan is not required for students:"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "2. Complex medical care supports",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/health-care-needs/guidance/complex-medical-care-supports",
+          "snippet": "The below guidance lists the assistance available to schools to support students needing complex medical care. This program provides additional resources to schools with students whose health conditions meet the World Health Organisation definitions of disabilities. Refer to Program for Students with Disabilities External Link on the department's website. Schools may use Disability Inclusion Tier 2 school-level funding for professional learning activities for school-based staff to meet the specific health needs of students with disability not covered under basic first aid training, including Epilepsy . Refer to the Disability Inclusion Funding and Support policy for more information."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "3. Supporting students during transition between hospital, home and school",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/health-care-needs/guidance/supporting-students-during-transition-between-hospital-home-and",
+          "snippet": "For students with specific health support needs, schools must: The department provides specific templates and resources for student learning and attendance during transition between hospital, home and school: The school in which the student is enrolled retains responsibility for the student’s curriculum when they are in hospital or recuperating at home. Hospital based education staff may also assist the school in supporting the student. School are recommended to plan ways to maintain connections with peers and the classroom teacher using a range of communication methods."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "4. Supporting students with long term special education and other support needs",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/health-care-needs/guidance/supporting-students-long-term-special-education-and-other-support",
+          "snippet": "This information describes how schools support students with long term special educational and other support needs. The department provides specific templates and resources for student learning and attendance where there are long-term special education needs: Schools must create an effective and sensitive information exchange system approved by the student and parents/guardians, that: Refer to Attendance and Individual Education Plans (IEPs) for further guidance about support strategies. Schools are recommended to upgrade equipment to enhance curriculum access, if required."
+        }
+      ]
+    },
+    "64": {
+      "title": "Anaphylaxis",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/anaphylaxis/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "1. Introduction",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/1-introduction",
+          "snippet": "Anaphylaxis is a severe, rapidly progressive allergic reaction that is life threatening. The most common allergens for school-aged children are peanuts, eggs, tree nuts (for example, cashews), cow's milk, fish and shellfish, wheat, soy, sesame, latex, certain insect stings and medications. The department is committed to protecting the wellbeing of children and young people with severe allergies. This commitment is enshrined in the Education Training and Reform Act 2006 (Vic) External Link and more specifically in Ministerial Order 706 — Anaphylaxis Management in Victorian schools (PDF) External Link , which outlines requirements for schools in the management of anaphylaxis. Approximately 80% of all Victorian government schools have a child enrolled who is at risk of anaphylaxis. The keys to preventing an anaphylactic reaction are planning, risk identification and minimisation, awareness and education. The department is committed to: These Guidelines have been developed to assist all Victorian schools to meet their duty of care to students at risk of anaphylaxis and to support those students."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "2. Glossary of terms",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/2-glossary-terms",
+          "snippet": "Where the phrases ‘at risk of anaphylaxis’ or ‘student who has been diagnosed as being at risk of anaphylaxis’ or similar phrases are used in these Guidelines in relation to a student, it means a student who has been diagnosed by a medical practitioner as having a medical condition that relates to allergy and is at high risk of progressing to an anaphylactic reaction. Act The Education and Training Reform Act 2006 (Vic) External Link Adrenaline autoinjector An adrenaline autoinjector device, approved for use by the Commonwealth Government Therapeutic Goods Administration, which can be used to administer a single pre-measured dose of adrenaline to those experiencing a severe allergic reaction (anaphylaxis). These may include EpiPen, EpiPen Jr, Jext Jr 150, Jext 300, or Anapen 500. Adrenaline autoinjector for general use A 'backup' or 'unassigned' adrenaline autoinjector purchased by a school. These can be EpiPen, EpiPen Jr, Jext Jr 150, Jext 300, or Anapen 500. Adrenaline device An adrenaline device, approved for use by the Commonwealth Government Therapeutic Goods Administration, which can be used to administer a single pre-measured dose of adrenaline to those experiencing a severe allergic reaction (anaphylaxis). These may include EpiPen, EpiPen Jr, Anapen 500, Jext Jr 150, Jext 300, Neffy 1 mg and Neffy 2 mg."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "3. Medical information about anaphylaxis",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/3-medical-information-about-anaphylaxis",
+          "snippet": "Allergy occurs when a person's immune system reacts to substances in the environment that are harmless for most people. These substances are known as allergens and are found in house dust mites, pets, pollen, insects, moulds, foods and some medicines. Anaphylaxis is a severe, rapidly progressive allergic reaction that is life threatening. Allergic reactions, including severe life-threatening allergic reactions (anaphylaxis) are becoming more common in children. Deaths are less common, however, deaths do occur and anaphylaxis must therefore be regarded by schools as a medical emergency requiring a rapid response. Please note that any student with a diagnosed allergy is at higher risk of their condition progressing to anaphylaxis and should be monitored carefully. Research shows that students in the 10 to 18-year-old age group are at greatest risk of suffering a fatal anaphylactic reaction. Certain foods and insect stings are the most common causes of anaphylaxis. 9 foods cause 95% of food-induced allergic reactions, including anaphylaxis, in Australia: Other common allergens include some insect stings, particularly bee stings but also wasp and jumper jack ant stings, tick bites, some medications (for example, antibiotics and anaesthetic drugs) and latex."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "4. Legal obligations for schools in relation to anaphylaxis",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/4-legal-obligations-schools-relation-anaphylaxis",
+          "snippet": "Section 4.3.1(6)(c) of the Education and Training Reform Act 2006 (Vic) External Link requires a school which has enrolled a student in circumstances where the school knows, or ought reasonably to know, that the student has been diagnosed as being at risk of anaphylaxis, to develop an anaphylaxis management policy which contains all of the matters required by the Order. Ministerial Order 706 (DOCX) External Link is made under sections 4.3.1, 5.2.12, 5.10.4 of, and clause 11 of Schedule 6 to the Act. A copy of the Order is included in the Resources tab . The purpose of the Order is to specify the matters that schools must include in their school anaphylaxis management policy for the purposes of section 4.3.1(6)(c) of the Act. In 2015 the Secretary to the department approved the ASCIA Anaphylaxis e-training for Victorian Schools (online training course) as an anaphylaxis management training course for the purposes of the Order. The Order was subsequently amended in 2015 to incorporate changes made to the staff training requirements due to the approval of the online training course. All schools have a legal duty to take reasonable steps to protect their students from reasonably foreseeable risks of injury. In some circumstances, school volunteers engaged in school activities also have a duty of care to students, for example, where volunteers have a direct supervision role with a student at risk of anaphylaxis, and where there are no school staff present."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "5. Staff training",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/5-staff-training",
+          "snippet": "Clause 12 of Ministerial Order 706 (PDF) External Link sets out the minimum requirements for anaphylaxis management training in schools that have students enrolled who are at risk of anaphylaxis and the guidelines provide further details on the training requirements. Schools have 2 options for staff training: The department recommends that all Victorian school staff undertake Option 1 which: requires that staff show the school anaphylaxis supervisor that they can competently use an adrenaline device to successfully complete the course. This capability must be tested within 30 days of completing the online training course. Who is required to undertake anaphylaxis management training? The Order specifies that school staff must undertake training in anaphylaxis management if they: Schools are encouraged to consider whether volunteers at the school and regular casual relief teachers should also undertake training."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "6. School anaphylaxis management policy",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/6-school-anaphylaxis-management-policy",
+          "snippet": "Clause 6 of Ministerial Order 706 (PDF) External Link specifies what a school’s anaphylaxis management policy must contain. If a school has enrolled a student at risk of anaphylaxis, it must have a school anaphylaxis management policy. Schools without a student currently enrolled who is at risk of anaphylaxis are also encouraged to have a policy in place. A template school anaphylaxis management policy (staff login required) External Link is available to support schools to meet their obligations under Ministerial Order 706. For schools with multiple campuses, one school anaphylaxis management policy can be developed to cover all campus sites. In these circumstances, the school anaphylaxis policy must outline the anaphylaxis management requirements across all campuses. A school anaphylaxis management policy must contain all of the following: More detailed information about what must be contained in the school anaphylaxis management policy is set out in the Guidance chapters."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "7. Individual anaphylaxis management plans",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/7-individual-anaphylaxis-management-plans",
+          "snippet": "Clause 7 of Ministerial Order 706 (PDF) External Link requires that a school’s anaphylaxis management policy must contain information about the development and review of individual anaphylaxis management plans. The principal or their allocated staff member is primarily responsible for ensuring that an individual anaphylaxis management plan is developed for each student who has been diagnosed by a medical practitioner as being at risk of anaphylaxis, where the school has been notified of that diagnosis. The individual anaphylaxis management plan is developed in consultation with the student's parents/carers. The individual anaphylaxis management plan must be in place as soon as practicable after the student enrols, and where possible, before the student's first day at the school. The individual anaphylaxis management plan is different to the Australasian Society of Clinical Immunology and Allergy (ASCIA) Action Plan for Anaphylaxis (RED). The ASCIA Action Plan for Anaphylaxis (RED) should be used to inform the development of the individual anaphylaxis management plan. The ASCIA Action Plan for Anaphylaxis (RED) is created by a medical practitioner and must be provided by the parent/carer to the school."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "8. Risk minimisation strategies",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/8-risk-minimisation-strategies",
+          "snippet": "Clause 8 of Ministerial Order 706 (PDF) External Link requires a school’s anaphylaxis management policy to include prevention strategies to minimise the risk of an anaphylactic reaction. A school’s anaphylaxis management policy must include prevention strategies to be used by the school to minimise the risk of a student suffering an anaphylactic reaction. It is important to remember that minimisation of the risk of anaphylaxis is everyone's responsibility: including the principal and all school staff, parents/carers, students and the broader school community. Parents/carers must also assist their child’s school to manage the risk of anaphylaxis (as specified in the Order). For example, parents/carers must: Peanuts and nuts are the most common trigger for an anaphylactic reaction or fatality due to food-induced anaphylaxis. To minimise the risk of a student’s exposure and reaction to peanuts and nuts, schools should not use peanuts, tree nuts, peanut butter or other peanut or tree nut products during in-school and out-of-school activities."
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "9. School planning and emergency response",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/9-school-planning-and-emergency-response",
+          "snippet": "A school’s anaphylaxis management policy must include emergency response procedures for students at risk of anaphylaxis. A school’s anaphylaxis management policy must include details of how the policy integrates with the school’s general first aid and emergency response procedures. The school’s anaphylaxis management policy must include emergency response procedures relating to anaphylactic reactions including: (refer to Chapter 11). The school’s anaphylaxis management policy must state that when a student at risk of an anaphylactic reaction is under the care or supervision of the school outside normal class activities, including in the school yard, at camps and excursions, or at special events conducted, organised or attended by the school, the principal or their allocated staff member must ensure that there are a sufficient number of school staff present who have been trained in accordance with the Ministerial Order (refer to Chapter 5 – Staff training ). The school’s anaphylaxis management policy must state that in the event of an anaphylactic reaction, the student’s ASCIA Action Plan for Anaphylaxis (RED), the emergency response procedures for anaphylaxis and general first aid procedures must all be followed."
+        },
+        {
+          "chapter_idx": 10,
+          "chapter_title": "10. Adrenaline autoinjectors for general use",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/10-adrenaline-autoinjectors-general-use",
+          "snippet": "Clause 10 of Ministerial Order 706 (PDF) External Link provides that a school’s anaphylaxis management policy must prescribe the purchase of adrenaline autoinjectors for general use. The principal or their allocated staff member of the school is responsible for arranging the purchase of additional adrenaline autoinjector(s) for general use, as a backup to adrenaline devices supplied by parents/carers of students who have been diagnosed as being at risk of anaphylaxis. The additional adrenaline autoinjector(s) for general use can also be used on other students previously undiagnosed for anaphylaxis, where they have a first-time reaction. Adrenaline autoinjectors for general use are available for purchase at any chemist. No prescription is necessary. These devices are to be purchased by a school at its own expense, in the same way that supplies for school first aid kits are purchased. The principal or their allocated staff member will need to determine the type of adrenaline autoinjector to purchase for general use. In doing so, it is important to note the following: The principal or their allocated staff member will also need to determine the number and type of additional adrenaline autoinjector(s) required to be purchased by the school. In doing so, the principal or their allocated staff member should take into account the following relevant considerations:"
+        },
+        {
+          "chapter_idx": 11,
+          "chapter_title": "11. Communication plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/11-communication-plan",
+          "snippet": "Clause 11 of Ministerial Order 706 (PDF) External Link requires a school to have a communication plan as part of its school anaphylaxis management policy. The principal of a school or their allocated staff member is responsible for ensuring that a communication plan is developed and publicly available to provide information to all school staff, students and parents/carers about anaphylaxis and the school's anaphylaxis management policy. The communication plan must include strategies for advising school staff, students and parents about how to respond to an anaphylactic reaction of a student in various environments including: The communication plan must include procedures to inform volunteers and casual relief staff of students who are at risk of anaphylaxis and of their role in responding to an anaphylactic reaction experienced by a student in their care. The communication plan must include arrangements for relevant school staff to be briefed at least twice per year by a staff member who has current anaphylaxis management training (see Chapter 5 for further detail). However, it is best practice for a school to brief all school staff on a regular basis regarding anaphylaxis and the school’s anaphylaxis management policy."
+        },
+        {
+          "chapter_idx": 12,
+          "chapter_title": "12. Annual risk management checklist",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/anaphylaxis/guidance/12-annual-risk-management-checklist",
+          "snippet": "Clause 13 of Ministerial Order 706 (PDF) External Link requires the principal to complete an annual anaphylaxis risk management checklist. A school’s anaphylaxis management policy must require the principal or their allocated staff member to complete an annual risk management checklist to monitor their compliance with the Order, these Guidelines, and their legal obligations. If a staff member is allocated to undertake this task, the principal must still approve the checklist. The annual risk management checklist for anaphylaxis contains questions relating to the following: The annual checklist can be found in the Resources tab . 11. Communication plan Chapter 11 of the Anaphylaxis Guidelines outlining requireme... Resources Resources page containing supporting resources and links for... Chapter 12 of the Anaphylaxis Guidelines on completing the annual risk assessment management checklist for anaphylaxis Reviewed 23 January 2026"
+        }
+      ]
+    },
+    "65": {
+      "title": "Allergies",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "The school has a duty of care to all students which includes taking reasonable steps to prevent any reasonably foreseeable harm to a student. This includes supporting and responding appropriately to students with mild to moderate allergies This policy applies to students with a Green Plan. A student with a known food or insect sting allergy who has had a previous severe reaction is usually diagnosed as being at risk of having a severe allergic reaction (anaphylaxis). For further information on anaphylaxis, refer to the Department’s policy on Anaphylaxis ."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "ASCIA Action Plan for Allergic Reactions (Green Plan) – Overview",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "Students with a mild or moderate allergy to a food or insect and those with medication allergy should have a Green Plan that has been completed by the student’s medical practitioner. Students who have an ASCIA Action Plan for Anaphylaxis and a prescribed adrenaline auto-injector should NOT also have an ASCIA Action Plan for Allergic Reactions if they have some milder allergies as well as severe allergy — these will be included in the Action Plan for Anaphylaxis."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Strategies for schools in managing students with a Green Plan",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "Schools must develop an Individual Allergic Reaction Risk Management Plan for students with a Green Plan and must: Schools must review a student's Individual Allergic Reactions Risk Management Plan: Note: Although students with a Green Plan are assessed as being at less risk for anaphylaxis it is important to note that anaphylaxis can occur in any student with food/insect allergy at any time. General use adrenaline auto injectors held by the school should be administered in the event of anaphylaxis occurring in these students."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Responding to severe allergic reactions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "Children with a food allergy and significant asthma at the same time are at increased risk for more severe allergic reactions. Where a child with food allergy has active asthma (wheeze or cough with exertion or at night requiring regular treatment with a bronchodilator) it is imperative that this is identified and managed accordingly. Children with allergies may still progress to having a severe reaction or anaphylaxis. As this cannot be predicted, children with mild to moderate allergic reactions should be monitored carefully after any reaction. If a student appears to be having a severe allergic reaction, but has not been previously diagnosed with an allergy or being at risk of anaphylaxis, the school staff must follow the school's anaphylaxis first aid procedures and administer an adrenaline auto injector for general use."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Strategies",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "Students diagnosed with food, insect or medication allergies should be given a Green Plan by their medical practitioner. Schools must develop an Individual Allergic Reaction Risk Management Plan for students with a Green Plan. This below information describes how schools manage students with an allergy. A Green Plan must be completed by the student’s medical practitioner and a colour copy provided to the school by the student’s parents or guardians. The Green Plan outlines the student’s known mild to moderate food, insect or medication allergies and the emergency procedures to be taken in the event of an allergic reaction. The Individual Allergic Reactions Risk Management Plan that the school completes in consultation with the parent/guardian must include prevention strategies used by the school to minimise the risk of exposure to known food, insect and medication allergens."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "ASCIA ASCIA is the Australian Society of Clinical Immunology and Allergy Allergy An Allergy occurs when a person's immune system reacts to substances in the environment that are harmless for most people. These substances are known as allergens and are found in foods, insects, some medicines, house dust mites, pets, and pollen. Common allergens include: Signs of a mild to moderate allergic reaction include: Signs of anaphylaxis (severe allergic reaction) include any one of the following:"
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/allergies/policy",
+          "snippet": "Allergies Outlines the requirements for schools in managing students w... Guidance There is no further guidance for this topic. For more inform... Department policy on managing students with mild to moderate allergies Reviewed 27 January 2026"
+        }
+      ]
+    },
+    "66": {
+      "title": "Asthma",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/asthma/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Treating an asthma attack",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/asthma/guidance/treating-asthma-attack",
+          "snippet": "This procedure describes how to treat a student having: Note: For a student who is not a known to have asthma, this treatment: Warning : Immediately call 000 and ask for an ambulance and state a student is having an asthma attack if: Delay in treatment may increase the severity of the attack and ultimately risk the student’s life. If a student appears to be having difficulty breathing but has not been diagnosed with asthma, the school staff should follow asthma first aid procedures External Link . This should include immediately:"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Puffer cleaning guide — after every use",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/asthma/guidance/puffer-cleaning-guide-after-every-use",
+          "snippet": "Treating an asthma attack Guidance chapter on treating a student having an asthma atta... Asthma – key information Guidance chapter containing general information about asthma... Guidance chapter containing instructions for cleaning an asthma puffer Reviewed 09 June 2020"
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Asthma – key information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/asthma/guidance/asthma-key-information",
+          "snippet": "People with asthma have sensitive airways which react to triggers, causing a ‘flare-up’. In a flare-up, the muscles around the airway squeeze tight, the airway swells, becomes narrow and there is more mucus. This makes it harder to breathe. An asthma flare-up can come on slowly (over hours, days or even weeks) or very quickly (over minutes). A sudden or severe asthma flare-up is sometimes called an asthma attack. Symptoms of asthma can vary over time and often vary from person to person. The most common asthma symptoms are: Symptoms often occur at night, early in the morning or during/just after physical activity. If asthma is well controlled, a person should only have occasional asthma symptoms. A trigger is something that sets off or starts asthma symptoms. Everyone with asthma has different triggers. For most people with asthma, triggers are only a problem when asthma is not well controlled with medication. Common asthma triggers include: Every year during grass pollen season there is an increase in asthma and hay fever symptoms. During this season there is also the chance of an epidemic thunderstorm asthma event. Epidemic thunderstorm asthma events are thought to be triggered by an uncommon combination of high grass pollen levels and a certain type of thunderstorm, resulting in large numbers of people developing asthma symptoms over a short period of time."
+        }
+      ]
+    },
+    "67": {
+      "title": "Immunisation",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "While responsibility for the prevention and control of infectious diseases lies primarily with individuals, families and public health authorities; schools also have an important role to play."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Primary students",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "Schools are required to: Note: Prior to commencing primary school, children should have received their childhood vaccinations as per the National Immunisation Program Schedule External Link ."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "All students",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "Schools are required to: Note: Schools are not expected to give expert advice or treat students – this is the role of medical practitioners and health authorities, as appropriate."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "School responsibilities – exclusion processes",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "The information below details the exclusion processes for primary and secondary students. As set out in the Public Health and Wellbeing Regulations 2019 (Vic) External Link principals of primary school-aged students must not allow a child to attend school if: they have been informed that a child has been in contact with a person with an infectious disease as described in the school exclusion table during an outbreak, the Chief Health Officer directs a primary school to exclude a child based on material risk of a child contracting a vaccine-preventable disease (that is, a child who is not immunised to be excluded until advised attendance can be resumed). Secondary students – exclusion process Secondary schools should follow standard precautions to prevent spread of infectious disease, including hygiene practices, ensuring unwell students do not attend school, are sent home if unwell, and encouraged to seek medical attention. Secondary schools are not bound by the requirements in the school exclusion table, as these apply to primary schools. However, secondary schools are encouraged to follow the same guidance to ensure the safety of their students. In the event of a public health risk, such as an infectious disease outbreak, secondary schools may be required under the Public Health and Wellbeing Act 2008 (Vic) External Link to comply with the directions of the Chief Health Officer or an authorised officer."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Supporting the Victorian Secondary School Immunisation Program",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "Secondary schools play an important role in supporting immunisation by forming an effective relationship with their local council and ensuring effective facilitation of their school's immunisation program. In particular, schools are encouraged to: ) and your local council to assist with communication to students, parents, teachers and the wider school community about school-aged vaccines ensure appropriate resources and environments are available for the program to run smoothly. For information on the current schedule of vaccines delivered as part of the Secondary School Immunisation Program, visit the National Immunisation Program Schedule External Link . Schools are legally authorised to share parent and student contact details with local council for the purpose of immunisation. The vaccines offered in secondary schools include:"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "Vaccination Vaccination means having a vaccine – that is, receiving an injection or receiving a vaccine orally. Immunisation Immunisation means both receiving a vaccine and becoming immune to a disease as a result of being vaccinated. Exclusion The period of time for which a student is required to not attend school."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/immunisation/policy",
+          "snippet": "Education and Training Reform Regulations 2017 (Vic) External Link Family Law Act 1975 (Cth) External Link Public Health and Wellbeing Act 2008 (Vic) External Link Public Health and Wellbeing Regulations 2019 (Vic) External Link Immunisation Information for schools about their student immunisation res... Guidance There is no further guidance for this topic. For more inform... Department policy on student immunisation and exclusion processes Reviewed 15 February 2023"
+        }
+      ]
+    },
+    "68": {
+      "title": "Head Lice",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+      "chapters": [
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Control of head lice in schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+          "snippet": "Schools control the spread of head lice in 2 ways: When a student is identified with live head lice schools must: to inform their parent/carer that their child may have head lice exclude the student from school until the day after treatment has commenced, as set out in the Public Health and Wellbeing Regulations 2019, school exclusion table – refer to the health.vic website: School exclusion table External Link . Note 1: the principal has the overall responsibility to exclude a student from school. Note 2: the presence of eggs in the hair is not a cause for exclusion (only live head lice). Note 3: there is no requirement for a general practitioner or local council to issue a clearance certificate in order for the child to return to school."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Prevention of head lice in schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+          "snippet": "Although the responsibility for detecting and treating head lice rests with parents, it is important that practical advice and support be available. Schools are encouraged to work collaboratively with parents and the broader school community to implement practices and procedures to prevent and minimise the impact of head lice outbreaks. Strategies that schools can implement to prevent the transmission of head lice are listed below. It is considered best practice to: Head lice do not live or breed on furniture, carpets, clothes or soft toys and cannot be spread through sharing items of clothing, for example, hats."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Parent or carer detection and treatment responsibilities",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+          "snippet": "Parents and carers have the primary responsibility for the detection and treatment of head lice. Responsibilities include:"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Definitions",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+          "snippet": "Head lice Pediculosis or 'head lice' are small, wingless insects that live, breed and feed on the human scalp. They cannot transmit any infectious diseases. Direct contact is required for transmission from person to person, where head lice crawl from head to head."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/head-lice/policy",
+          "snippet": "Head Lice The requirements for schools to prevent and control the tran... Guidance There is no further guidance for this topic. For more inform... Department policy on preventing and controlling head lice in schools Reviewed 26 February 2025"
+        }
+      ]
+    },
+    "69": {
+      "title": "Mental Health in Schools",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+      "chapters": [
+        {
+          "chapter_idx": 3,
+          "chapter_title": "The Mental Health in Primary Schools initiative",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+          "snippet": "The department has expanded the Mental Health in Primary Schools initiative in recognition of the important role schools play in supporting the mental health and wellbeing of children and young people. The initiative will be implemented across Victoria over a staged rollout between 2023 to 2026, to provide funding for every government and low-fee non-government primary schools to employ a mental health and wellbeing leader (MHWL), with funding allocation based on school campus enrolments. MHWLs are employed as Victorian Institute of Teaching registered teachers and work across the school to implement a whole-school approach to mental health and wellbeing for students, staff, and families based on a broad knowledge of the needs of the school community. Schools should recruit one MHWL per campus, however may consider recruiting 2 MHWLs if a job-share arrangement is needed. Schools may recruit more than 2 MHWLs by exception and after consultation with key regional and central departmental staff. MHWLs will receive evidence-based training in mental health literacy, supporting student need, and building school capacity, and will receive ongoing professional development through communities of practice. The training program is developed and facilitated by the University of Melbourne."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Mental Health Practitioners in Secondary Schools",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+          "snippet": "The Mental Health Practitioners (MHP) in Secondary Schools initiative provides vital support to all Victorian government secondary and specialist schools. The MHP initiative promotes positive mental health and wellbeing and address mental health concerns where they arise. Every Victorian government secondary school and specialist school with secondary-aged enrolments is now funded to employ an ongoing, school-based MHP. The MHP role provides a valuable extra resource to school's existing wellbeing teams and supports schools by: For further information, refer to the department’s Mental health practitioners in secondary schools External Link webpage."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Mental health and wellbeing toolkit",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-schools/policy",
+          "snippet": "The Mental health and wellbeing toolkit External Link includes practical and accessible information for schools, parents and students on wide range of topics to support student mental health and wellbeing. The toolkit includes guidance on: For further information on available mental health and wellbeing supports, refer to:"
+        }
+      ]
+    },
+    "71": {
+      "title": "Mental Health in Primary Schools initiative",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Mental Health and Wellbeing Leader role",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-wellbeing-leader-role",
+          "snippet": "The Mental Health and Wellbeing Leader (MHWL) role is designed to promote positive mental health for students by implementing mental health and wellbeing supports, promoting a whole-school approach and building staff capacity (Tier 1 and 2 supports). It is not a clinical role and is not designed to provide one to one counselling to primary school students or clinical and therapeutic (Tier 3) targeted support. The MHWL is not required to have allied health or similar qualifications. Using their knowledge of the in-classroom experiences of teachers, MHWLs: These skills support students to develop a positive attitude about themselves and school, and increase their academic engagement. While each MHWL’s specific role will differ based on school needs and context, all MHWLs will: Guidance Table of contents of guidance on implementing the Mental Hea... Mental Health in Primary Schools funding Includes information on funding for Mental Health and Wellbe... Includes information on the Mental Health and Wellbeing Leader role and responsibilities. Reviewed 13 February 2026"
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Mental Health in Primary Schools funding",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-primary-schools-funding",
+          "snippet": "Mental Health and Wellbeing Leaders (MHWLs) are funded to lead a whole-school approach to mental health and wellbeing in their school. They are not required to have a teaching role alongside their role as the MHWL. If they hold another role within the school, MHWLs must be provided with reasonable time out of the classroom or their other role to perform the roles and responsibilities of the MHWL. Funding is provided under ‘Targeted Initiatives’ in the Student Resource Package (SRP) (Reference 130). The specific funding allocation schools receive each year may change based on the enrolment-based calculation at each SRP cycle (Indicative, Confirmed and Revised). The Primary Welfare Officer (PWO) initiative transitioned to MHiPS from 2023 to 2026, in line with the Mental Health in Primary Schools (MHiPS) implementation schedule. In the year these schools commenced MHiPS, the PWO funding line in the SRP was replaced by the MHiPS funding line. Former PWO schools receive the higher of 2 funding amounts to employ their MHWLs – either their PWO funding in the year prior to transitioning to MHiPS (with indexation) or their MHiPS funding based on enrolments. Government schools must acquit MHiPS funding in eduPay. School-based salaries and wages for staff members that are employed as an MHWL must be reported against the MHiPS project code 245006 titled ‘Mental Health in Primary Schools’. For detailed instructions, refer to Mental Health in Primary Schools: instructions for reporting salary expenditure (DOCX) External Link ."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Mental Health and Wellbeing Leader recruitment",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-wellbeing-leader-recruitment",
+          "snippet": "When advertising Mental Health and Wellbeing Leader (MHWL) roles, successful applicants must have a suitable teaching qualification and provisional or full registration from the Victorian Institute of Teaching (VIT). Government schools recruiting to a MHWL position must comply with the Recruitment in Schools policy and are expected to advertise for the MHWL position via School Jobs Vic External Link . A sample template position description (DOCX) External Link to support recruitment of an MHWL at the Classroom Teacher Range 2 level is available on the Resources tab . To support onboarding of a MHWL once recruited, school leaders should refer to the onboarding checklist (DOCX) External Link . All employment decisions must be able to be funded by the Student Resource Package."
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Mental Health in Primary Schools training program",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/mental-health-primary-schools-training-program",
+          "snippet": "Mental Health and Wellbeing Leaders (MHWLs), and other school staff trainees where suitable, are provided with comprehensive evidence-based training by the University of Melbourne’s Faculty of Education. Schools are recommended to participate in the core module training as a team of up to 3 people, including the MHWL and principal or assistant principal, plus another school staff member such as wellbeing team member or leading teacher. This will support implementation of a whole-school approach to student mental health and wellbeing. Every school context is different and the participation of a range of staff in training will help ensure that each school takes the best approach for improving mental health and wellbeing in their school. Once schools have registered their MHWL for training, via the MHWL enrolment form, the University of Melbourne training team will allocate the MHWL a Learning Leader. The Learning Leader supports the MHWL through induction and the training program and creates connections between MHWLs in different schools through the MHiPS Learning Communities. They also work closely with MHWLs and the department’s regional mental health branches to implement and embed MHiPS into the school environment. MHiPS training includes: The core training modules build knowledge in mental health and wellbeing and upskill MHWLs to support colleagues, establish and maintain referral pathways and build staff capacity to collaborate with parents and families. MHWLs also have access to readings, discussion boards, additional resources and tools to support the MHWL role via the University of Melbourne’s Canvas learning platform (staff login required) External Link . 'Module 1: Mental Health Literacy' focuses on building knowledge of child development, child mental health and wellbeing and increasing child mental health literacy."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Setting the Mental Health and Wellbeing Leader up for success",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/setting-mental-health-wellbeing-leader-success",
+          "snippet": "Leadership support is essential for successfully implementing the Mental Health in Primary Schools (MHiPS) initiative and the Mental Health and Wellbeing Leader (MHWL) role. The below points will support school leaders to set up MHWLs for success: , in line with the allocated FTE detailed in the SRP. Set realistic expectations for the MHWL and their workload, based on the needs and context of your school. Schedule regular MHWL support meetings with school leaders to review the role and the workload. Allocate time for the MHWL to deliver professional learning. MHWLs use learnings from the MHiPS training to build school staff capability to address student mental health and wellbeing needs. Clearly identify the role of the MHWL in wellbeing goals in school strategic planning, including the Annual Implementation Plan. Use the Framework for Improving Student Outcomes (FISO 2.0) and the Mental Health Planning Tool (PDF) (staff login required) External Link to support planning. Ensure the role focuses on activities that support a whole-school approach to mental health and wellbeing, and Tier 1 – mental health prevention and promotion and Tier 2 – early intervention. Promote and integrate the MHWL role into your school context and community. Communicate about the MHWL role to staff and the school community through school newsletters, social media, and staff professional learning. Be clear that the MHWL does not provide clinical, one-to-one support for students, or counselling. Ensure school leadership attend and participate in the core training modules 1 to 3 alongside the MHWL, to build a strong understanding of the responsibilities of the MHWL. Establish systems and processes for safe information sharing between staff members, in line with the Schools' privacy policy External Link . Supporting MHWLs in multiple roles MHWLs often work across multiple roles within a school. School leaders should consider the following points in addition to the advice above when a MHWL is working in multiple roles. in the school for staff to review. Encourage the MHWL to include each role and the dedicated days/time in their signature block. Provide dedicated time in each role Backfill principal class staff performing the MHWL role to ensure they have dedicated, protected time in both the MHWL role and their principal class role. Support the MHWL in identifying existing and potential barriers to performing multiple roles, and work together to address issues. Establish clear practice boundaries if the MHWL is working across the Multi-Tiered Systems of Support External Link . Establish a process for monitoring the time spent in each role. Complete regular reviews of the implementation of the multiple role arrangement. MHWLs working across campuses or schools Establish a shared agreement or protocol between school leaders to regularly review the implementation of the MHWL role (including dedicated days/time, timetabling, roles at each school/campus). Establish standardised processes and systems for safe information sharing between campuses or schools. Set up regular meetings with the leadership and wellbeing teams to promote work alignment. Mental Health in Primary Schools trainin... Information on University of Melbourne Learning Leaders, MHi... Primary Welfare Officer transition Information on why the PWO initiative was transitioned to MH... Information on leadership support for MHWLs and supporting MHWLs in multiple roles. Reviewed 13 February 2026"
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Primary Welfare Officer transition",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/primary-welfare-officer-transition",
+          "snippet": "The Primary Welfare Officer (PWO) initiative transitioned to Mental Health in Primary Schools (MHiPS) from 2023 to 2026, in line with the MHiPS implementation schedule. In the year schools transitioned, their PWO funding was replaced by MHiPS funding. The objectives of the former PWO initiative and MHiPS are very similar, to provide schools with additional support for student wellbeing. MHiPS provides staff with extensive evidence-based training and professional development from the University of Melbourne and dedicated support from the department’s regional mental health branches. MHWLs build relationships with regional staff, community services and other health professionals to engage with appropriate mental health and wellbeing support. Unlike PWOs, Mental Health and Wellbeing Leaders (MHWLs) are employed as registered teachers. In the transition to MHiPS, PWO employees are required to be managed in accordance with existing Recruitment in Schools policy and workforce planning processes."
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Regional mental health branch support",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/mental-health-primary-schools-initiative/guidance/regional-mental-health-branch-support",
+          "snippet": "Government schools are supported by their department regional mental health branch (RMHB) to implement Mental Health in Primary Schools (MHiPS). The RMHBs can: For support regarding the above guidance, contact your relevant regional mental health branch: Reviewed 13 February 2026"
+        }
+      ]
+    },
+    "72": {
+      "title": "Disability Inclusion Funding and Support",
+      "category": "Students",
+      "url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/policy",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Overview of the Disability Inclusion funding model",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/overview-disability-inclusion-funding-model",
+          "snippet": "The Disability Inclusion funding model has 3 tiers, based on the need for targeted support for students with disability and the obligation to make reasonable adjustments. Schools must make reasonable adjustments to ensure that students with disability can access and participate in education on the same basis as students without disability. Additional resources provided to schools do not define or limit the support provided for student with disability. Refer to: Students with Disability . For further information on the Disability Inclusion vision for inclusion, refer to vision for inclusive education (PPTX) External Link and the Disability Inclusion reform principal checklist (PPTX) External Link . Tier 1 provides funding for all students' core learning needs through the Student Resource Package (SRP). This funding includes students with disability and additional needs. Refer to: Core Student Learning Funding . Tier 2 provides additional school-level funding to strengthen school-wide capacity and capability to deliver adjustments and inclusive practice for students with disability."
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Target group for Tier 2 school-level support",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/target-group-tier-2-school-level-support",
+          "snippet": "It is expected that schools direct Tier 2 funding to supports for students with disability who require supplementary, substantial or extensive reasonable adjustments to participate in and derive substantial benefits from their education. For more information on this classification of adjustments, refer to the section below ‘Identifying students in the target group in a mainstream school’. These learners will benefit from more targeted support, classroom and school-wide adjustments and approaches. More broadly, by strengthening school-wide capacity and capability, these practices and support are also expected to indirectly benefit all students. Tier 2 school-level funding and support assists schools to make reasonable adjustments for students with a disability across their school, with increased capacity to: Where possible, schools should use data and evidence to identify student needs and prioritise adjustments and support known to work for these needs. The Nationally Consistent Collection of Data on Students with Disability (NCCD) provides a systematic process that allows schools across Australia to identify, in a consistent manner, students with disability receiving adjustments to access education and classify the level of adjustment. The NCCD is an annual collection of information about the adjustments that Australian schools make for students with disability. For more information, visit: Nationally Consistent Collection of Data on School Students with Disability ."
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Tier 2 school-level funding expenditure requirements",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-2-school-level-funding-expenditure",
+          "snippet": "Schools must spend Disability Inclusion funding in the year that it is received to support the learning and wellbeing outcomes of current students with disability. The way that schools implement Disability Inclusion to increase capacity, capability and adjustments will vary depending on the school’s local context and student needs. Schools have flexibility to determine how to use Tier 2 school-level funding to deliver support that will best embed inclusive practice, provided it falls within the following categories: ). Other workforces to support students with disability – this is defined as the engagement of services and professionals external to the school, to support whole-school teaching and learning of students with disability. Teaching and learning programs and resources – this is defined as programs and resources that can be purchased to support whole-school teaching and learning of students with disability. Equipment, adaptive technology, devices, or materials to support learning – this is defined as equipment, adaptive technology, devices, or materials to support whole-school teaching and learning of students with disability. Minor building or internal environmental modifications under $5,000 (GST inclusive) – this is defined as minor adjustments or modifications to school facilities to meet accessibility needs of students with disability in school. Casual relief teaching (CRT) replacement – this is defined as staffing replacements for time release of school-based staff to attend professional learning and school planning activities in relation to inclusive education and support for students with disability. Examples of activities and adjustments There are a wide range of practices and school activities that can be supported through Tier 2 school-level funding. Examples of school capacity and capability building activities schools can implement with support from Tier-2 school-level funding include:"
+        },
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Planning for expenditure",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/planning-expenditure-2021",
+          "snippet": "The following section provides illustrative examples that schools may consider pursuing, based on department resources and evidence-based practices. Available evidence on inclusive practices can be synthesised into 4 key principles. Schools should consider how they can adopt these principles in their setting, and use resources strategically to implement a mix of tailored and school-wide supports that promote inclusive practices and benefit all students in the school. Whole-of-school practices include adjustments to: At an in-class level, research suggests good inclusive practice includes: Effective inclusive practice relies on teachers, specialists, allied health and support staff with sufficient confidence and capabilities to support students."
+        },
+        {
+          "chapter_idx": 5,
+          "chapter_title": "Tier 2 funding use case studies",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-2-funding-use-case-studies",
+          "snippet": "Medium-sized regional school located in the Loddon Campaspe Area in North Western Victoria. The school has 225 enrolments with 36 students receiving adjustments due to disability and 15 students eligible for student-level funding. Examples of how this school can use Tier 2 funding include: Large-sized outer metropolitan school in the Bayside Peninsula Area in South Eastern Victoria. The school has 1,800 enrolments with 190 students receiving adjustments due to disability and 35 students eligible for student-level funding."
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Requirements for reporting of Tier 2 expenditure",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/requirements-reporting-tier-2-expenditure",
+          "snippet": "Tier 2 expenditure must be spent on capacity, capability and support for students with disability. Schools are required to report all Tier 2 school-level funded expenditure, aligned with the allowable uses of funding and examples provided in this guidance. Reporting should be undertaken at the point of expenditure or monthly. The following resource provides instructions for school administrators to action the reporting requirements in CASES21 and eduPay: Instructions for reporting of Tier 2 expenditure (DOCX) External Link . Tier 2 funding use case studies Case studies for Tier 2 funding use Tier 3 student-level funding Information on Tier 3 student-level funding Information on requirements for reporting of Tier 2 expenditure Reviewed 23 January 2026"
+        },
+        {
+          "chapter_idx": 7,
+          "chapter_title": "Tier 3 student-level funding",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/tier-3-student-level-funding",
+          "snippet": "Tier 3 provides additional funding to Tier 1 and Tier 2, to support schools to deliver adjustments to meet the individual nature and acute impact of students with complex needs. Schools must make reasonable adjustments to ensure that students with disability can access and participate in education on the same basis as students without disability. Additional resources provided to schools do not define or limit the support provided for student with disability. Refer to: Students with Disability . For further information on the Disability Inclusion vision for inclusion, refer to vision for inclusive education (PPTX) External Link . The Disability Inclusion Profile (profile) and surrounding process is designed to help schools and families detail the strengths, functional needs, and educational adjustments schools are making for individual students with disability. Schools will need to prepare for, co-ordinate, and participate in the profile process, with parent/carer(s), to receive Disability Inclusion Tier 3 student-level funding. Refer to Disability Inclusion Profile for more information on this process."
+        },
+        {
+          "chapter_idx": 8,
+          "chapter_title": "Disability Inclusion Transition Funding",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/disability-inclusion-funding-support/guidance/disability-inclusion-transition-funding",
+          "snippet": "Disability Inclusion Transition Funding applies to scenarios where a Level 5 or 6 PSD-eligible student completes a Disability Inclusion Profile that results in a Tier 3 funding allocation at a rate lower than the PSD funding allocation. Under these conditions, Disability Inclusion Transition Funding makes up the difference between the PSD allocation and the Tier 3 allocation for the remainder of the student’s schooling, ensuring continuity of funding. Schools do not need to complete any additional documentation to receive Disability Inclusion Transition Funding: the funding will be applied automatically through a line item in schools’ budgets where appropriate. Schools are encouraged to contact their Regional Implementation Team contact with any questions: Your Regional Implementation Team contact can assist with any questions you may have including (for example) timing to deliver Disability Inclusion Profiles for PSD students. Queries regarding Disability Inclusion funding can also be directed to Disability.Inclusion.Outcomes@education.vic.gov.au"
+        }
+      ]
+    }
+  }
+}
