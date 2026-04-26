@@ -1898,6 +1898,40 @@ const PAL_POLICIES = [
       { title: '7 Educational Needs Analysis Process', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/7-educational-needs-analysis-process' }
     ]
   }
+,
+  { id: 106.5, title: 'Audits, Reviews and Assurance Programs in Schools', category: 'Finance', tags: ['audits', 'reviews', 'assurance', 'programs', 'schools', 'government', 'activities', 'victorian', 'held', 'provides'], summary: 'This page provides an overview of the department’s regular audits, reviews and other assurance activities held in Victorian government schools. The department conducts a number of audits, reviews and other assurance activities in Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
+      { title: 'School Audit Support', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' },
+      { title: 'Audits, reviews and other assurance programs', url: 'https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy' }
+    ]
+  }
+,
+  { id: 106.6, title: 'Buses – Owned, Hired or Chartered by a School', category: 'Finance', tags: ['buses', 'owned', 'hired', 'chartered', 'school', 'seating', 'purchase', 'built', 'positions', 'defines'], summary: 'This policy sets out the requirements for schools who purchase or hire buses, operate buses, or charter bus services. The Bus Safety Act 2009 (Vic) defines a bus as a motor vehicle that has been built with seating positions for 10 or more adults (including the driver).', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/policy', resources: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/resources' },
+    chapters: [
+      { title: 'Application process for bus accreditation', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/application-process-bus-accreditation' },
+      { title: 'Maintenance management system', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/maintenance-management-system' },
+      { title: 'Management information system', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/management-information-system' },
+      { title: 'School chartered bus services', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/school-chartered-bus-services' },
+      { title: 'Use of student resource package funding to purchase, hire or charter a school bus', url: 'https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school/guidance/use-student-resource-package-funding-purchase' }
+    ]
+  }
+,
+  { id: 106.7, title: 'Camps, Sports and Excursions Fund (CSEF)', category: 'Finance', tags: ['camps', 'sports', 'excursions', 'fund', 'csef', 'family', 'financial', 'policy', 'appropriately', 'payments'], summary: 'The purpose of this policy is to ensure schools appropriately administer, and support families to access, the Camps, Sports and Excursions Fund (CSEF) so that a family’s financial circumstances are not a barrier to student participation. Payments are made directly to the school of an eligible family.', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/policy', resources: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/resources' },
+    chapters: [
+      { title: 'Eligibility', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/eligibility' },
+      { title: 'Payment amounts', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/payment-amounts' },
+      { title: 'Acquittal', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/acquittal-and-communication' },
+      { title: 'Submitting an application', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/submitting-application' },
+      { title: 'Processing CSEF applications', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/processing-csef-applications' },
+      { title: 'Application processing problems – possible follow-up action', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/application-processing-problems-possible-follow' },
+      { title: 'Unused funds', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/unused-funds' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

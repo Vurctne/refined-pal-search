@@ -1,41 +1,8 @@
 ﻿{
     "phase":  "phase3",
     "created_at":  "2026-04-26T00:00:00+00:00",
-    "total":  344,
+    "total":  341,
     "items":  [
-                  {
-                      "new_id":  106.5,
-                      "pal_title":  "Audits, Reviews and Assurance Programs in Schools",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  106.6,
-                      "pal_title":  "Buses – Owned, Hired or Chartered by a School",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/buses-owned-hired-chartered-by-school",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  106.7,
-                      "pal_title":  "Camps, Sports and Excursions Fund (CSEF)",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "new_id":  106.8,
                       "pal_title":  "Canteens",
