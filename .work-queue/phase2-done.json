@@ -671,6 +671,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:54:30.2099315+10:00"
+                  },
+                  {
+                      "db_id":  40,
+                      "title":  "Finance Manual — Section 12 Trading Operations",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-12-trading-operations",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:56:56.2672903+10:00"
+                  },
+                  {
+                      "db_id":  41,
+                      "title":  "Finance Manual — Section 13 Asset and Inventory Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-13-asset-and-inventory-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:56:56.2702878+10:00"
+                  },
+                  {
+                      "db_id":  41.5,
+                      "title":  "Finance Manual — Section 6 Budget Management",
+                      "url":  "https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-6-budget-management",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:56:56.2702878+10:00"
                   }
               ]
 }
