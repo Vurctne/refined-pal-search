@@ -1,19 +1,23 @@
 ﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
-  Helper that processes a batch of pending items.
+  Helper that processes a batch of pending items (Phase 2 enrichment OR Phase 3
+  new-entry creation).
 
 .DESCRIPTION
   Run-Worker.ps1 inlines the batch loop for simplicity and timing precision, so
   this script is provided as a thin convenience wrapper for ad-hoc invocation.
-  Given an explicit list of items (parsed from phase2-pending.json), it calls
-  Fetch-Policy.ps1 + Patch-Jsx.ps1 for each and returns a hashtable summary.
+  Routing is by -Phase (default 'phase2').
 
 .PARAMETER Items
-  Array of pending-queue items (PSCustomObject with db_id, url, actions_needed).
+  Array of pending-queue items.
 
 .PARAMETER JsxFile
   Absolute path to src\PALSearch.jsx.
+
+.PARAMETER Phase
+  'phase2' (default) -- enrichment via Fetch-Policy + Patch-Jsx.
+  'phase3'           -- new entries via Create-Entry + Append-Entry.
 
 .OUTPUTS
   PSCustomObject with .Succeeded (array) and .Failed (array).
@@ -23,6 +27,7 @@
 param(
     [Parameter(Mandatory = $true)] [object[]] $Items,
     [Parameter(Mandatory = $true)] [string]   $JsxFile,
+    [Parameter()] [ValidateSet('phase2','phase3')] [string] $Phase = 'phase2',
     [Parameter()] [double] $TimeoutMinutes = 6.5
 )
 
@@ -38,16 +43,27 @@ foreach ($item in $Items) {
         break
     }
     try {
-        $patch = & (Join-Path $PSScriptRoot 'Fetch-Policy.ps1') `
-            -Url $item.url `
-            -Actions @($item.actions_needed) `
-            -EntryId ([double]$item.db_id)
+        if ($Phase -eq 'phase3') {
+            $entry = & (Join-Path $PSScriptRoot 'Create-Entry.ps1') `
+                -PalUrl $item.pal_url `
+                -NewId ([double]$item.new_id) `
+                -DbCategory $item.suggested_db_category `
+                -PalTitle $item.pal_title
 
-        & (Join-Path $PSScriptRoot 'Patch-Jsx.ps1') `
-            -EntryId $item.db_id `
-            -Patch $patch `
-            -JsxFile $JsxFile
+            & (Join-Path $PSScriptRoot 'Append-Entry.ps1') `
+                -Entry $entry `
+                -JsxFile $JsxFile
+        } else {
+            $patch = & (Join-Path $PSScriptRoot 'Fetch-Policy.ps1') `
+                -Url $item.url `
+                -Actions @($item.actions_needed) `
+                -EntryId ([double]$item.db_id)
 
+            & (Join-Path $PSScriptRoot 'Patch-Jsx.ps1') `
+                -EntryId $item.db_id `
+                -Patch $patch `
+                -JsxFile $JsxFile
+        }
         $succeeded += ,$item
     } catch {
         $err = $_.Exception.Message

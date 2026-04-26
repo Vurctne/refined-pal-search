@@ -1,12 +1,17 @@
 ﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
-  PAL Quick Search -- Phase 2 worker entry point.
+  PAL Quick Search -- worker entry point (Phase 2 + Phase 3 routing).
 
 .DESCRIPTION
   Locks the queue, processes a small batch of pending entries, builds, commits,
-  deploys, and self-disables when the queue empties. Designed to be triggered
-  every 5 minutes by Windows Task Scheduler.
+  deploys, and self-disables when the queue empties.
+
+  Phase routing: detects which phase queue has work first.
+    Phase 3 (priority -- new entries) ahead of Phase 2 (enrichment).
+  If both queues are empty the worker self-disables.
+
+  Designed to be triggered every 2-5 minutes by Windows Task Scheduler.
 #>
 
 $ErrorActionPreference = 'Stop'
@@ -18,9 +23,17 @@ Set-Location $projectRoot
 # --- Paths -------------------------------------------------------------------
 $lockFile     = Join-Path $projectRoot '.work-queue\.lock'
 $logFile      = Join-Path $projectRoot '.work-queue\recent-runs.log'
-$pendingFile  = Join-Path $projectRoot '.work-queue\phase2-pending.json'
-$doneFile     = Join-Path $projectRoot '.work-queue\phase2-done.json'
-$failedFile   = Join-Path $projectRoot '.work-queue\phase2-failed.json'
+
+# Phase 2 queues.
+$p2PendingFile = Join-Path $projectRoot '.work-queue\phase2-pending.json'
+$p2DoneFile    = Join-Path $projectRoot '.work-queue\phase2-done.json'
+$p2FailedFile  = Join-Path $projectRoot '.work-queue\phase2-failed.json'
+
+# Phase 3 queues.
+$p3PendingFile = Join-Path $projectRoot '.work-queue\phase3-pending.json'
+$p3DoneFile    = Join-Path $projectRoot '.work-queue\phase3-done.json'
+$p3FailedFile  = Join-Path $projectRoot '.work-queue\phase3-failed.json'
+
 $statusFile   = Join-Path $projectRoot 'ORCHESTRATION-STATUS.md'
 $jsxFile      = Join-Path $projectRoot 'src\PALSearch.jsx'
 $envLocalFile = Join-Path $projectRoot '.env.local'
@@ -53,6 +66,28 @@ function Ensure-Json($path, $defaultObj) {
     }
 }
 
+function Load-Json($path) {
+    return (Get-Content $path -Raw -Encoding UTF8 | ConvertFrom-Json)
+}
+
+function Get-PendingCount($path) {
+    if (-not (Test-Path $path)) { return 0 }
+    try {
+        $q = Load-Json $path
+        if ($null -eq $q.items) { return 0 }
+        return @($q.items).Count
+    } catch { return 0 }
+}
+
+# Phase routing: prefer phase3 if it has work, else phase2.
+function Detect-ActivePhase {
+    $p3 = Get-PendingCount $p3PendingFile
+    if ($p3 -gt 0) { return 'phase3' }
+    $p2 = Get-PendingCount $p2PendingFile
+    if ($p2 -gt 0) { return 'phase2' }
+    return $null
+}
+
 # --- Lock check --------------------------------------------------------------
 if (Test-Path $lockFile) {
     $age = (Get-Date) - (Get-Item $lockFile).LastWriteTime
@@ -65,41 +100,50 @@ if (Test-Path $lockFile) {
 }
 Set-Content -Path $lockFile -Value (Get-Date).ToString('o') -Encoding UTF8
 
-# Track lock removal even on error.
 try {
     Write-Log 'RUN_START'
 
-    # --- Load queue files ----------------------------------------------------
-    Ensure-Json $doneFile   ([pscustomobject]@{ items = @() })
-    Ensure-Json $failedFile ([pscustomobject]@{ items = @() })
-
-    if (-not (Test-Path $pendingFile)) {
-        Write-Log "NO_PENDING_FILE -- bailing"
+    $activePhase = Detect-ActivePhase
+    if ($null -eq $activePhase) {
+        Write-Log "ALL_QUEUES_EMPTY -- disabling schedule"
+        try { & (Join-Path $PSScriptRoot 'Uninstall-Schedule.ps1') } catch { Write-Log "UNINSTALL_FAILED $($_.Exception.Message)" }
+        $marker = "`n## All phases complete: $((Get-Date).ToString('o'))`n"
+        Add-Content -Path $statusFile -Value $marker -Encoding UTF8
         return
     }
 
-    $pending = Get-Content $pendingFile -Raw -Encoding UTF8 | ConvertFrom-Json
+    Write-Log "ACTIVE_PHASE=$activePhase"
+
+    # --- Resolve phase-specific paths --------------------------------------
+    if ($activePhase -eq 'phase3') {
+        $pendingFile = $p3PendingFile
+        $doneFile    = $p3DoneFile
+        $failedFile  = $p3FailedFile
+        $idField     = 'new_id'
+        $commitTag   = 'add(phase3)'
+        $commitWord  = 'new entries'
+    } else {
+        $pendingFile = $p2PendingFile
+        $doneFile    = $p2DoneFile
+        $failedFile  = $p2FailedFile
+        $idField     = 'db_id'
+        $commitTag   = 'enrich(phase2)'
+        $commitWord  = 'entries'
+    }
+
+    Ensure-Json $doneFile   ([pscustomobject]@{ items = @() })
+    Ensure-Json $failedFile ([pscustomobject]@{ items = @() })
+
+    $pending = Load-Json $pendingFile
     if ($null -eq $pending.items) {
         $pending | Add-Member -NotePropertyName 'items' -NotePropertyValue @() -Force
     }
     $pendingItems = @($pending.items)
 
-    # --- Self-disable when empty --------------------------------------------
-    if ($pendingItems.Count -eq 0) {
-        Write-Log "QUEUE_EMPTY -- disabling schedule"
-        try {
-            & (Join-Path $PSScriptRoot 'Uninstall-Schedule.ps1')
-        } catch {
-            Write-Log "UNINSTALL_FAILED $($_.Exception.Message)"
-        }
-        $marker = "`n## Phase 2 complete: $((Get-Date).ToString('o'))`n"
-        Add-Content -Path $statusFile -Value $marker -Encoding UTF8
-        return
-    }
-
     # --- Take batch ---------------------------------------------------------
     $batch = @($pendingItems | Select-Object -First $batchSize)
-    Write-Log "BATCH_TAKEN size=$($batch.Count) ids=$(($batch | ForEach-Object { $_.db_id }) -join ',')"
+    $batchIds = ($batch | ForEach-Object { $_.$idField }) -join ','
+    Write-Log "BATCH_TAKEN phase=$activePhase size=$($batch.Count) ids=$batchIds"
 
     $startTime = Get-Date
     $succeeded = @()
@@ -110,33 +154,44 @@ try {
             Write-Log "TIMEOUT -- stopping batch early"
             break
         }
-        Write-Log "PROCESSING id=$($item.db_id) url=$($item.url)"
+        $itemId = $item.$idField
+        Write-Log "PROCESSING phase=$activePhase id=$itemId"
         try {
-            $patch = & (Join-Path $PSScriptRoot 'Fetch-Policy.ps1') `
-                -Url $item.url `
-                -Actions @($item.actions_needed) `
-                -EntryId ([double]$item.db_id)
+            if ($activePhase -eq 'phase3') {
+                # New-entry creation: fetch + build entry object + append.
+                $entry = & (Join-Path $PSScriptRoot 'Create-Entry.ps1') `
+                    -PalUrl $item.pal_url `
+                    -NewId ([double]$item.new_id) `
+                    -DbCategory $item.suggested_db_category `
+                    -PalTitle $item.pal_title
 
-            & (Join-Path $PSScriptRoot 'Patch-Jsx.ps1') `
-                -EntryId $item.db_id `
-                -Patch $patch `
-                -JsxFile $jsxFile
+                & (Join-Path $PSScriptRoot 'Append-Entry.ps1') `
+                    -Entry $entry `
+                    -JsxFile $jsxFile
+            } else {
+                # Enrichment: fetch + patch existing entry.
+                $patch = & (Join-Path $PSScriptRoot 'Fetch-Policy.ps1') `
+                    -Url $item.url `
+                    -Actions @($item.actions_needed) `
+                    -EntryId ([double]$item.db_id)
 
+                & (Join-Path $PSScriptRoot 'Patch-Jsx.ps1') `
+                    -EntryId $item.db_id `
+                    -Patch $patch `
+                    -JsxFile $jsxFile
+            }
             $succeeded += ,$item
-            Write-Log "ENRICHED id=$($item.db_id)"
+            Write-Log "OK id=$itemId"
         } catch {
             $msg = $_.Exception.Message
-            Write-Log "FAILED id=$($item.db_id) error=$msg"
+            Write-Log "FAILED id=$itemId error=$msg"
             $newAttempts = (Get-Attempts $item) + 1
             if ($item.PSObject.Properties.Match('attempts').Count -gt 0) {
                 $item.attempts = $newAttempts
             } else {
                 $item | Add-Member -NotePropertyName 'attempts' -NotePropertyValue $newAttempts -Force
             }
-            if ($newAttempts -ge 3) {
-                $failedThisRun += ,$item
-            }
-            # else: leave in pending; attempts persisted on save.
+            if ($newAttempts -ge 3) { $failedThisRun += ,$item }
         }
     }
 
@@ -159,8 +214,6 @@ try {
         }
 
         if (-not $buildOk) {
-            # Everything that "succeeded" enrichment is now a build-failure;
-            # bump attempts and possibly move to failed.
             $newlyFailed = @()
             foreach ($item in $succeeded) {
                 $newAttempts = (Get-Attempts $item) + 1
@@ -175,18 +228,17 @@ try {
             $succeeded = @()
         }
     } else {
-        # Nothing enriched -- no need to build.
-        Write-Log "NO_ENRICHMENTS -- skipping build"
+        Write-Log "NO_SUCCESS -- skipping build"
     }
 
     # --- Update queue files -------------------------------------------------
-    $succeededIds = @($succeeded | ForEach-Object { $_.db_id })
-    $failedIds = @($failedThisRun | ForEach-Object { $_.db_id })
+    $succeededIds = @($succeeded | ForEach-Object { $_.$idField })
+    $failedIds = @($failedThisRun | ForEach-Object { $_.$idField })
 
     $remainingPending = @()
     foreach ($item in $pendingItems) {
-        if ($succeededIds -contains $item.db_id) { continue }
-        if ($failedIds -contains $item.db_id) { continue }
+        if ($succeededIds -contains $item.$idField) { continue }
+        if ($failedIds -contains $item.$idField) { continue }
         $remainingPending += ,$item
     }
     $pending.items = $remainingPending
@@ -198,14 +250,13 @@ try {
     Save-Json $pending $pendingFile
 
     if ($succeeded.Count -gt 0) {
-        $done = Get-Content $doneFile -Raw -Encoding UTF8 | ConvertFrom-Json
+        $done = Load-Json $doneFile
         if ($null -eq $done.items) {
             $done | Add-Member -NotePropertyName 'items' -NotePropertyValue @() -Force
         }
         $doneItems = @($done.items)
         foreach ($item in $succeeded) {
-            $item | Add-Member -NotePropertyName 'completed_at' `
-                -NotePropertyValue ((Get-Date).ToString('o')) -Force
+            $item | Add-Member -NotePropertyName 'completed_at' -NotePropertyValue ((Get-Date).ToString('o')) -Force
             $doneItems += ,$item
         }
         $done.items = $doneItems
@@ -213,14 +264,13 @@ try {
     }
 
     if ($failedThisRun.Count -gt 0) {
-        $failed = Get-Content $failedFile -Raw -Encoding UTF8 | ConvertFrom-Json
+        $failed = Load-Json $failedFile
         if ($null -eq $failed.items) {
             $failed | Add-Member -NotePropertyName 'items' -NotePropertyValue @() -Force
         }
         $failedItems = @($failed.items)
         foreach ($item in $failedThisRun) {
-            $item | Add-Member -NotePropertyName 'failed_at' `
-                -NotePropertyValue ((Get-Date).ToString('o')) -Force
+            $item | Add-Member -NotePropertyName 'failed_at' -NotePropertyValue ((Get-Date).ToString('o')) -Force
             $failedItems += ,$item
         }
         $failed.items = $failedItems
@@ -229,18 +279,17 @@ try {
 
     # --- Commit + deploy ----------------------------------------------------
     if ($succeeded.Count -gt 0 -and $buildOk) {
-        $idsCsv = ($succeededIds -join ',')
+        $idsCsv = ($succeededIds -join ', ')
         Write-Log "COMMIT_START ids=$idsCsv"
         & git add 'src\PALSearch.jsx' '.work-queue/' 2>&1 | Out-Null
-        $commitMsg = "enrich(phase2): batch ids $idsCsv [$($succeeded.Count) entries]"
+        $commitMsg = "$commitTag" + ': batch ids ' + $idsCsv + " ($commitWord)"
         & git commit -m $commitMsg 2>&1 | Out-Null
         if ($LASTEXITCODE -eq 0) {
             Write-Log "COMMITTED ids=$idsCsv"
         } else {
-            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE (continuing -- possibly nothing to commit)"
+            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE (continuing)"
         }
 
-        # Load .env.local into process env so wrangler/npm-deploy can authenticate.
         if (Test-Path $envLocalFile) {
             foreach ($line in Get-Content $envLocalFile) {
                 if ($line -match '^\s*#') { continue }
@@ -268,15 +317,14 @@ try {
 
     # --- Status report ------------------------------------------------------
     $doneCount = 0
-    try {
-        $doneCount = @((Get-Content $doneFile -Raw -Encoding UTF8 | ConvertFrom-Json).items).Count
-    } catch {}
+    try { $doneCount = @((Load-Json $doneFile).items).Count } catch {}
 
-    $buildLabel = if ($buildOk) { 'PASS' } elseif ($succeeded.Count -eq 0 -and $failedThisRun.Count -eq 0) { 'SKIPPED (no enrichments)' } else { 'FAIL -- reverted' }
+    $buildLabel = if ($buildOk) { 'PASS' } elseif ($succeeded.Count -eq 0 -and $failedThisRun.Count -eq 0) { 'SKIPPED (no work)' } else { 'FAIL -- reverted' }
 
     $statusBlock = @"
 
 ## Worker run: $((Get-Date).ToString('o'))
+- Phase: $activePhase
 - Batch size: $batchSize (took $($batch.Count))
 - Succeeded: $($succeeded.Count) -- ids: $($succeededIds -join ', ')
 - Failed: $($failedThisRun.Count) -- ids: $($failedIds -join ', ')
@@ -286,7 +334,7 @@ try {
 "@
     Add-Content -Path $statusFile -Value $statusBlock -Encoding UTF8
 
-    Write-Log "RUN_END succeeded=$($succeeded.Count) failed=$($failedThisRun.Count) remaining=$($remainingPending.Count)"
+    Write-Log "RUN_END phase=$activePhase succeeded=$($succeeded.Count) failed=$($failedThisRun.Count) remaining=$($remainingPending.Count)"
 
 } catch {
     Write-Log "FATAL $($_.Exception.Message)"
