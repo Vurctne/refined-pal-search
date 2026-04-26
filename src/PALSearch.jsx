@@ -1060,8 +1060,11 @@ const PAL_POLICIES = [
       { title: 'Commission for Children and Young People — Reportable Conduct Scheme', note: 'CCYP regulator' },
       { title: 'Victorian Disability Worker Commission', note: 'Disability Worker Regulation Scheme' },
       { title: 'Conduct and Integrity Division', note: 'Department — receives and manages reportable conduct allegations' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details Reportable Conduct Scheme Disability Worker Regulation Scheme School councils and ELV centres Supporting impacted students following a reportable conduct allegation Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy https://www2.education.vic.gov.au/pal/reportable-notifiable-conduct/policy' }
+  ],
+},
 
   // OHS
   { id: 77, title: 'Occupational Health, Safety and Wellbeing Management in Schools', category: 'OHS', tags: ['ohs', 'ohsms', 'health and safety', 'management system', 'edusafe plus', 'statewide ohs services', 'ewss', 'employee wellbeing', 'converge', 'swms', 'safe work procedure', 'hsr', 'health and safety representative', 'ohs registers'], summary: 'OHS management system. Report via eduSafe Plus. OHS Advisory Service 1300 074 715. Statewide OHS Services Team provides hands-on support.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/policy', popular: true,
