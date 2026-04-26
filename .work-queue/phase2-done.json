@@ -1133,6 +1133,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:10:18.1767573+10:00"
+                  },
+                  {
+                      "db_id":  81,
+                      "title":  "OHS Purchasing",
+                      "url":  "https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:12:17.9612066+10:00"
+                  },
+                  {
+                      "db_id":  82,
+                      "title":  "OHS Induction and Training for School Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:12:17.9652045+10:00"
+                  },
+                  {
+                      "db_id":  83,
+                      "title":  "First Aid for Students and Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:12:17.9662040+10:00"
                   }
               ]
 }

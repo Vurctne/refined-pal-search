@@ -1089,9 +1089,33 @@ const PAL_POLICIES = [
       { title: 'Workers Compensation Team — Injury Management Specialist', note: 'for support during inspector visits and RTW planning' }
     ]
   },
-  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy' },
-  { id: 82, title: 'OHS Induction and Training for School Staff', category: 'OHS', tags: ['induction', 'training', 'ohs induction', 'crt'], summary: 'OHS induction and training requirements including for CRTs.', url: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy' },
-  { id: 83, title: 'First Aid for Students and Staff', category: 'OHS', tags: ['first aid', 'medical', 'emergency', 'cpr'], summary: 'First aid requirements for students and staff in schools.', url: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy' },
+  { id: 81, title: 'OHS Purchasing', category: 'OHS', tags: ['ohs purchasing', 'equipment', 'risk assessment', 'safe work procedure'], summary: 'OHS requirements when purchasing, hiring, leasing or accepting donated goods.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1 Introduction 2 Identifying goods with the potential to create OHS risks 3 OHS Purchasing Checklist 4 Risk assessment and safe work procedure 5 Non-conforming goods 6 Management of suppliers 7 Disposal and decommissioning of goods 8 Responsibilities of suppliers 9 Legislation, codes of practice, standards and guidance', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/1-introduction https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/2-identifying-goods-potential-create https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/3-ohs-purchasing-checklist https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/4-risk-assessment-and-safe-work https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/5-non-conforming-goods https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/6-management-suppliers https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/7-disposal-and-decommissioning-goods https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/8-responsibilities-suppliers https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/procedure/9-legislation-codes-practice-standards' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/occupational-health-and-safety-ohs-purchasing/policy#rpl-main' }
+  ],
+},
+  { id: 82, title: 'OHS Induction and Training for School Staff', category: 'OHS', tags: ['induction', 'training', 'ohs induction', 'crt'], summary: 'OHS induction and training requirements including for CRTs.', url: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'OHS inductions for school staff OHS inductions for casual relief teachers OHS inductions for principals Identifying OHS training Scheduling and recording OHS training Review of OHS training for school staff', href: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/ohs-inductions-school-staff https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/ohs-inductions-casual-relief-teachers https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/ohs-inductions-for-principals https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/identifying-ohs-training https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/scheduling-and-recording-ohs-training https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/procedure/review-ohs-training-school-staff' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/ohs-induction-training-school-staff/policy#rpl-main' }
+  ],
+},
+  { id: 83, title: 'First Aid for Students and Staff', category: 'OHS', tags: ['first aid', 'medical', 'emergency', 'cpr'], summary: 'First aid requirements for students and staff in schools.', url: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'School level policy First aid risk assessment Staff first aid training First aid rooms and sick bays First aid kits Automatic external defibrillators Inspection and review of first aid facilities Medication General first aid procedures for staff and students Infection and prevention control Recording the provision of care resulting from a student or staff incident, injury or illness, including the administration of first aid', href: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/school-level-policy https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/first-aid-risk-assessment https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/staff-first-aid-training https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/first-aid-rooms-and-sick-bays https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/first-aid-kits https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/automatic-external-defibrillators https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/inspection-and-review-first-aid-facilities https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/medication https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/general-first-aid-procedures-staff-and-students https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/infection-and-prevention-control https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/guidance/recording-provision-of-care' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/first-aid-students-and-staff/policy#rpl-main' }
+  ],
+},
 
   // School Operations
   { id: 84, title: 'Managing and Reporting School Incidents (Including Emergencies)', category: 'School Operations', tags: ['incidents', 'emergencies', 'isoc', 'edusafe plus', 'severity', 'worksafe', 'notifiable', 'incident support operations centre', 'seil', 'statewide ohs services'], summary: 'Emergencies/High/Extreme: ISOC 1800 126 126. WorkSafe notifiable: 13 23 60. Low/Medium: report direct into eduSafe Plus. 6-stage management process.', url: 'https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy', popular: true,
