@@ -303,7 +303,12 @@ const PAL_POLICIES = [
   },
   { id: 28, title: 'Grievances — Teaching Service', category: 'HR - Conduct', tags: ['grievance', 'complaint', 'dispute'], summary: 'Grievance resolution processes for teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/grievances-teaching-service/policy' },
   { id: 29, title: 'Human Rights Charter', category: 'HR - Conduct', tags: ['human rights', 'charter', 'respectful workplace', 'inclusion'], summary: 'Charter of Human Rights and Responsibilities obligations for Victorian public sector workers.', url: 'https://www2.education.vic.gov.au/pal/human-rights-charter/policy' },
-  { id: 30, title: 'Workplace Contact Officer (WCO) Network', category: 'HR - Conduct', tags: ['wco', 'workplace contact officer', 'support', 'confidential'], summary: 'Workplace Contact Officers — confidential contact for harassment, discrimination, bullying, victimisation or family violence support.', url: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview' },
+  { id: 30, title: 'Workplace Contact Officer (WCO) Network', category: 'HR - Conduct', tags: ['wco', 'workplace contact officer', 'support', 'confidential'], summary: 'Workplace Contact Officers — confidential contact for harassment, discrimination, bullying, victimisation or family violence support.', url: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workplace-contact-officer-wco-network/overview#rpl-main' }
+  ],
+},
   { id: 31, title: 'Sexual Harassment — Employees', category: 'HR - Conduct', tags: ['sexual harassment', 'harassment', 'conduct and integrity'], summary: 'Sexual harassment is unlawful and not tolerated. Report to principal/manager or Conduct and Integrity Division (03 7034 6768).', url: 'https://www2.education.vic.gov.au/pal/sexual-harassment/overview' },
   { id: 32, title: 'Workplace Bullying', category: 'HR - Conduct', tags: ['bullying', 'workplace', 'psychological', 'ohs'], summary: 'Preventing workplace bullying as a psychological safety obligation under OHS Act 2004.', url: 'https://www2.education.vic.gov.au/pal/workplace-bullying/policy' },
   { id: 33, title: 'Equal Opportunity — Employees', category: 'HR - Conduct', tags: ['equal opportunity', 'discrimination', 'victimisation', 'vilification', 'protected attributes'], summary: 'Equal opportunity obligations, protected attributes and avoiding discrimination or victimisation.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity/policy' },

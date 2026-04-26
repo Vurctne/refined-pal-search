@@ -148,6 +148,72 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T13:32:14.7308884+10:00"
+                  },
+                  {
+                      "db_id":  21,
+                      "title":  "Suitability for Child Connected Work",
+                      "url":  "https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T13:40:51.3511929+10:00"
+                  },
+                  {
+                      "db_id":  23,
+                      "title":  "Employment and Sponsorship of Overseas Workers",
+                      "url":  "https://www2.education.vic.gov.au/pal/employment-and-sponsorship-overseas-workers/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T13:42:51.7712429+10:00"
+                  },
+                  {
+                      "db_id":  28,
+                      "title":  "Grievances — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/grievances-teaching-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T13:44:35.8042241+10:00"
                   }
               ]
 }
