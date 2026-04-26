@@ -738,7 +738,15 @@ const PAL_POLICIES = [
       { title: 'CASES21 or eCASES21', note: 'required for attendance recording (or CASES21-compatible third party)' }
     ]
   },
-  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy' },
+  { id: 58, title: 'Exemption from School Attendance and Enrolment', category: 'Students', tags: ['exemption', 'leaving school', 'year 10', 'ministerial order 705'], summary: 'Exemption processes under ETRA and Ministerial Order 705.', url: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1. Exemption categories 2. Exemption process – students who have completed Year 10 and will participate full-time in approved education or training and/or employment 3. Exemption process – students who have not completed Year 10 and will participate full-time in approved education or training and/or employment 4. Exemption process – Students employed or seeking employment during school hours in the entertainment industry 5. Exemption process – if leaving school is in best interests of the student 6. Career Advice Service – transition support for exempted students who will participate in full-time approved education or training and/or employment', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/1-exemption-categories https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/2-exemption-process-students-who-have https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/3-exemption-process-students-who-have-not https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/4-exemption-process-students-who-have-not https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/5-exemption-process-if-leaving-school-best https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/guidance/career-advice-service-transition-support-for-exempted-students-who-will-participate-in-full-time' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/exemption-school-attendance-and-enrolment/policy#rpl-main' }
+  ],
+},
   { id: 59, title: 'Suspensions', category: 'Students', tags: ['suspension', 'discipline', 'behaviour', 'ministerial order 1125', 'notice of suspension', 'relevant person', 'regional director approval', '5 days', '15 days', 'grounds for suspension', 'exceptional grounds', 'outside school activity', '7 years'], summary: 'Student suspension under Ministerial Order 1125. Must consider alternatives first. Principal authority (cannot be delegated). RD approval required for >5 consecutive days or >15 days total in a year. Records retained 7 years.', url: 'https://www2.education.vic.gov.au/pal/suspensions/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/suspensions/policy', guidance: 'https://www2.education.vic.gov.au/pal/suspensions/guidance', resources: 'https://www2.education.vic.gov.au/pal/suspensions/resources' },
     chapters: [
@@ -771,7 +779,15 @@ const PAL_POLICIES = [
       { title: 'Legal Division: 03 9637 3146', note: 'legal.services@education.vic.gov.au' }
     ]
   },
-  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy' },
+  { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Bullying, unlawful discrimination, sexual harassment, disability harassment, vilification, victimisation and other forms of inappropriate behaviour Students with disability Supporting students from culturally and linguistically diverse backgrounds Charter of Human Rights and Responsibilities Definitions For students For staff Relevant legislation Contacts', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy#rpl-main' }
+  ],
+},
   { id: 62, title: 'Duty of Care', category: 'Students', tags: ['duty of care', 'negligence', 'reasonable precautions', 'child abuse', 'presumption of liability', 'supervision', 'students at risk', 'yard duty', 'foreseeable risk'], summary: 'Legal duty of care to students. Reasonable precautions required to minimise foreseeable risks. Since July 2017, presumption of liability for child abuse claims — staff must prove reasonable precautions were taken.', url: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy', guidance: 'https://www2.education.vic.gov.au/pal/duty-of-care/guidance', resources: 'https://www2.education.vic.gov.au/pal/duty-of-care/resources' },
     resources: [
@@ -846,7 +862,15 @@ const PAL_POLICIES = [
       { title: 'National Asthma Council Australia — inner-west schools training', note: 'optional free training for Maribyrnong, Hobson Bay, Brimbank' }
     ]
   },
-  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy' },
+  { id: 67, title: 'Immunisation', category: 'Students', tags: ['immunisation', 'vaccination', 'exclusion', 'public health'], summary: 'Immunisation and exclusion under Public Health and Wellbeing Regulations.', url: 'https://www2.education.vic.gov.au/pal/immunisation/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Primary students All students School responsibilities – exclusion processes Supporting the Victorian Secondary School Immunisation Program Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy https://www2.education.vic.gov.au/pal/immunisation/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/immunisation/policy#rpl-main' }
+  ],
+},
   { id: 68, title: 'Head Lice', category: 'Students', tags: ['head lice', 'nits', 'exclusion'], summary: 'Head lice exclusion until day after treatment commences. Eggs alone not cause for exclusion.', url: 'https://www2.education.vic.gov.au/pal/head-lice/policy' },
   { id: 69, title: 'Mental Health in Schools', category: 'Students', tags: ['mental health', 'wellbeing', 'students', 'mhp', 'mental health practitioner', 'mental health toolkit', 'whole-school', 'nip it in the bud', 'student wellbeing boost'], summary: 'Role of schools in supporting student mental health. All Victorian government secondary schools (and specialist with secondary enrolments) funded for ongoing school-based Mental Health Practitioner (MHP).', url: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/mental-health-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/mental-health-schools/resources' },
