@@ -2180,6 +2180,28 @@ const PAL_POLICIES = [
       { title: 'Supporting documentation', url: 'https://www2.education.vic.gov.au/pal/bereavement-leave/policy-and-guidelines' }
     ]
   }
+,
+  { id: 108.7, title: 'Blood Donation Leave', category: 'HR - Leave', tags: ['blood', 'donation', 'leave', 'employees', 'service', 'absent', 'giving', 'manager', 'community', 'duty'], summary: 'The Department acknowledges that the giving of blood is a valuable community service and supports employees participating in blood donation programs. Teaching service employees may be given permission by their principal or manager to be absent from duty to donate blood.', url: 'https://www2.education.vic.gov.au/pal/blood-donation-leave/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/blood-donation-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/blood-donation-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/blood-donation-leave/resources' }
+  }
+,
+  { id: 108.8, title: 'COVID-19 Special Leave – Teaching Service', category: 'HR - Leave', tags: ['covid-19', 'special', 'leave', 'teaching', 'service', 'positive', 'employees', 'guidelines', 'school', 'individuals'], summary: 'The department’s COVID-19 – School Operations Guidelines recommends that individuals who test positive to COVID-19 should isolate for at least 5 days or until symptoms have resolved. In relation to teaching service employees, this means that employees: Where an employee has tested positive for COVID-19 and:', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/resources' },
+    chapters: [
+      { title: 'Context', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' },
+      { title: 'Entitlement', url: 'https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service/policy-and-guidelines' }
+    ]
+  }
+,
+  { id: 108.9, title: 'Councillors, Mayors and Shire Presidents Leave or Voluntary Community Activities Leave', category: 'HR - Leave', tags: ['councillors', 'mayors', 'shire', 'presidents', 'leave', 'voluntary', 'community', 'activities', 'hours', 'term'], summary: 'Employees who are elected as municipal councillors will be granted leave of absence with pay for periods of up to 3 hours per fortnight to attend council meetings during their term in office or, where special occasions arise, 6 hours per month. Employees who are elected as mayors and shire or municipality presidents will be granted leave of absence with pay for periods of up to 3 hours per week to attend council meetings during their term in office or, where special occasions arise, 6 hours per fortnight.', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy', resources: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/resources' },
+    chapters: [
+      { title: 'Municipal Council', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Committee of Management', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Member of Parliament', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' },
+      { title: 'Government Officer', url: 'https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave/policy' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

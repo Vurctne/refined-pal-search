@@ -335,6 +335,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:27:45.7210485+10:00"
+                  },
+                  {
+                      "new_id":  108.7,
+                      "pal_title":  "Blood Donation Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/blood-donation-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:29:47.5481400+10:00"
+                  },
+                  {
+                      "new_id":  108.8,
+                      "pal_title":  "COVID-19 Special Leave – Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/covid-19-special-leave-teaching-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:29:47.5531645+10:00"
+                  },
+                  {
+                      "new_id":  108.9,
+                      "pal_title":  "Councillors, Mayors and Shire Presidents Leave or Voluntary Community Activities Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/councillors-mayors-and-shire-presidents-leave-or-voluntary-community-activities-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:29:47.5531645+10:00"
                   }
               ]
 }
