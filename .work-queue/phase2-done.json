@@ -1067,6 +1067,72 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:08:10.4799770+10:00"
+                  },
+                  {
+                      "db_id":  74,
+                      "title":  "Visiting Teacher Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:10:18.1722972+10:00"
+                  },
+                  {
+                      "db_id":  78,
+                      "title":  "Psychological Health and Safety for School Staff",
+                      "url":  "https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:10:18.1757528+10:00"
+                  },
+                  {
+                      "db_id":  79,
+                      "title":  "Work-Related Violence in Schools",
+                      "url":  "https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:10:18.1767573+10:00"
                   }
               ]
 }

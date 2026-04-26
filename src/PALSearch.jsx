@@ -961,7 +961,15 @@ const PAL_POLICIES = [
       { title: 'Regional Implementation Team / Disability Coordinator contacts (DOCX)', note: '' }
     ]
   },
-  { id: 74, title: 'Visiting Teacher Service', category: 'Students', tags: ['visiting teacher', 'vts', 'diverse learners', 'inclusion'], summary: 'Visiting Teacher Service supporting students with disability and diverse learners.', url: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy' },
+  { id: 74, title: 'Visiting Teacher Service', category: 'Students', tags: ['visiting teacher', 'vts', 'diverse learners', 'inclusion'], summary: 'Visiting Teacher Service supporting students with disability and diverse learners.', url: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Eligibility and supports provided by the Visiting Teacher Service Referring to the Visiting Teacher Service', href: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/guidance/eligibility-supports-provided-by-visiting-teacher-service https://www2.education.vic.gov.au/pal/visiting-teacher-service/guidance/referring-to-visiting-teacher-service' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy#rpl-main' }
+  ],
+},
   // Child Safety
   { id: 75, title: 'Child Safe Standards', category: 'Child Safety', tags: ['child safe', 'child safety', 'standards', 'ministerial order 1359', '11 standards', 'protect', 'child safety champion', 'action list', 'bullying prevention'], summary: 'Child Safe Standards under Ministerial Order 1359. 11 compulsory minimum standards for all Victorian schools. Use Child Safety Action List to implement.', url: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy', popular: true,
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/child-safe-standards/policy', guidance: 'https://www2.education.vic.gov.au/pal/child-safe-standards/guidance', resources: 'https://www2.education.vic.gov.au/pal/child-safe-standards/resources' },
@@ -1039,8 +1047,24 @@ const PAL_POLICIES = [
       { title: 'Contact: employeehealth@education.vic.gov.au', note: 'for following up Converge complaints' }
     ]
   },
-  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy' },
-  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy' },
+  { id: 78, title: 'Psychological Health and Safety for School Staff', category: 'OHS', tags: ['psychological', 'mental health', 'psychosocial', 'wellbeing', 'risk register'], summary: 'Psychological health and safety for staff. Psychosocial hazards must be controlled.', url: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1. Understanding psychologically healthy and safe workplaces 2. Effective consultation and communication for psychological health and safety 3. Identifying psychosocial hazards 4. Assessing psychosocial risk 5. Controlling the risks 6. Monitoring and reviewing controls 7. Reporting hazards, incidents and injuries 8. Record keeping', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/understanding-psychologically-healthy-safe-workplaces https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/effective-consultation-communication-for-psychological-health-safety https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/identifying-psychosocial-hazards https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/assessing-psychosocial-risk https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/controlling-the-risks https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/monitoring-reviewing-controls https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/reporting-hazards-incidents-injuries https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/procedure/record-keeping' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy#rpl-main' }
+  ],
+},
+  { id: 79, title: 'Work-Related Violence in Schools', category: 'OHS', tags: ['violence', 'work-related violence', 'risk assessment', 'challenging behaviour'], summary: 'Enter work-related violence as hazard in school OHS risk register. Assess risk level per procedure.', url: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1. Work-related violence risk assessment 2. Risk controls – overview 3. Risk controls – student challenging behaviours 4. Risk controls – parent/carer behaviours 5. Incident reporting 6. Department support for schools', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/work-related-violence-risk-assessment https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/risk-controls-overview https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/risk-controls-student-challenging-behaviours https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/risk-controls-parent-carer-behaviour https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/incident-reporting https://www2.education.vic.gov.au/pal/work-related-violence-schools/procedure/department-support-schools' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy#rpl-main' }
+  ],
+},
   { id: 80, title: 'Workers Compensation — Workplace Injury', category: 'OHS', tags: ['workcover', 'workers compensation', 'injury', 'mup', 'make up pay', 'rtw', 'return to work coordinator', '1984 hours', '52 weeks', 'provisional payments', 'claim', 'certificates of capacity', 'significant contributing factor'], summary: 'WorkCover claims, Make Up Pay (MUP), return-to-work. MUP = 52 weeks / 1,984 hours full-time (pro-rata part-time); ceases after. Reimbursement sought within 3 months.', url: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/workers-compensation/policy', guidance: 'https://www2.education.vic.gov.au/pal/workers-compensation/guidance', resources: 'https://www2.education.vic.gov.au/pal/workers-compensation/resources' },
     chapters: [

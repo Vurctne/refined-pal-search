@@ -1,71 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  48,
+    "total":  45,
     "items":  [
-                  {
-                      "db_id":  74,
-                      "title":  "Visiting Teacher Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/visiting-teacher-service/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  78,
-                      "title":  "Psychological Health and Safety for School Staff",
-                      "url":  "https://www2.education.vic.gov.au/pal/psychological-health-safety-school-staff/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  79,
-                      "title":  "Work-Related Violence in Schools",
-                      "url":  "https://www2.education.vic.gov.au/pal/work-related-violence-schools/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  81,
                       "title":  "OHS Purchasing",
