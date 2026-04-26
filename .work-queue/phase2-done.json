@@ -181,6 +181,46 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T13:16:23.7062968+10:00"
+                  },
+                  {
+                      "db_id":  80,
+                      "title":  "Workers Compensation — Workplace Injury",
+                      "url":  "https://www2.education.vic.gov.au/pal/workers-compensation/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  5,
+                                            "resource_count":  12,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:18:00.7348087+10:00"
+                  },
+                  {
+                      "db_id":  85,
+                      "title":  "Emergency and Critical Incident Management Planning",
+                      "url":  "https://www2.education.vic.gov.au/pal/emergency-critical-incident-management-planning/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  true,
+                                            "has_resources":  true,
+                                            "chapter_count":  1,
+                                            "resource_count":  21,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_chapter_tails"
+                                         ],
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T13:18:00.7388067+10:00"
                   }
               ]
 }
