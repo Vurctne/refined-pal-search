@@ -1,3 +1,76 @@
 ﻿{
-  "items": []
+    "items":  [
+                  {
+                      "new_id":  109.3,
+                      "pal_title":  "Infectious Diseases Leave — Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:38:34.7105180+10:00"
+                  },
+                  {
+                      "new_id":  109.4,
+                      "pal_title":  "Leave for Defence Reserve Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/leave-defence-reserve-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:38:34.7150428+10:00"
+                  },
+                  {
+                      "new_id":  109.6,
+                      "pal_title":  "Military Service Sick Leave",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/military-service-sick-leave",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:40:34.6549055+10:00"
+                  },
+                  {
+                      "new_id":  109.7,
+                      "pal_title":  "Sabbatical Leave — Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:44:34.7208239+10:00"
+                  },
+                  {
+                      "new_id":  109.8,
+                      "pal_title":  "Sporting Competitions Leave for Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:44:34.7248313+10:00"
+                  },
+                  {
+                      "new_id":  109.9,
+                      "pal_title":  "Spouse Leave for Teaching Service",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service",
+                      "pal_native_category":  "Human resources: HRWeb",
+                      "suggested_db_category":  "HR - Leave",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T19:46:34.8752361+10:00"
+                  }
+              ]
 }

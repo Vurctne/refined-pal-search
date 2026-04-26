@@ -2231,6 +2231,17 @@ const PAL_POLICIES = [
       { title: 'Contact information', url: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event' }
     ]
   }
+,
+  { id: 110.2, title: 'Access to Health Information — Employees', category: 'HR - Pay', tags: ['access', 'health', 'information', 'employees', 'right', 'them', 'held', 'school', 'referral', 'legally'], summary: 'The Health Records Act 2001 provides a legally enforceable right for people to access health information held about them in Victoria. Employees also have a right to seek access under the Freedom of Information Act 1982 to information about them including medical reports and referral letters held at the school and by the Department.', url: 'https://www2.education.vic.gov.au/pal/access-health-information', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/access-health-information/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/access-health-information/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/access-health-information/resources' },
+    chapters: [
+      { title: 'Referral letters', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Telephone conversations about a referral', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Request for access to medical report', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
+      { title: 'Contact information', url: 'https://www2.education.vic.gov.au/pal/access-health-information' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

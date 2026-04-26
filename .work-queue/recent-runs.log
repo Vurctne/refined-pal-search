@@ -1008,3 +1008,85 @@
 2026-04-26T19:34:21.8736394+10:00 BUILD_START
 2026-04-26T19:34:25.1163621+10:00 BUILD_OK
 2026-04-26T19:34:25.1448135+10:00 COMMIT_START ids=109.5
+2026-04-26T19:34:25.4224234+10:00 COMMITTED ids=109.5
+2026-04-26T19:34:25.4354324+10:00 DEPLOY_START
+2026-04-26T19:34:38.9814319+10:00 DEPLOYED
+2026-04-26T19:34:38.9997637+10:00 RUN_END phase=phase3 succeeded=1 failed=0 remaining=315
+2026-04-26T19:35:34.2456014+10:00 RUN_START
+2026-04-26T19:35:34.3169737+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:35:34.3472909+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.3,109.4,109.6
+2026-04-26T19:35:34.3562949+10:00 PROCESSING phase=phase3 id=109.3
+2026-04-26T19:35:54.4872302+10:00 FAILED id=109.3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service network_error
+2026-04-26T19:35:54.5000531+10:00 PROCESSING phase=phase3 id=109.4
+2026-04-26T19:36:14.5534459+10:00 FAILED id=109.4 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-defence-reserve-service network_error
+2026-04-26T19:36:14.5564452+10:00 PROCESSING phase=phase3 id=109.6
+2026-04-26T19:36:34.6098537+10:00 FAILED id=109.6 error=fetch_failed url=https://www2.education.vic.gov.au/pal/military-service-sick-leave network_error
+2026-04-26T19:36:34.6128541+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:36:34.6531206+10:00 RUN_END phase=phase3 succeeded=0 failed=0 remaining=315
+2026-04-26T19:37:34.2528365+10:00 RUN_START
+2026-04-26T19:37:34.3372654+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:37:34.3698634+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.3,109.4,109.6
+2026-04-26T19:37:34.3792111+10:00 PROCESSING phase=phase3 id=109.3
+2026-04-26T19:37:54.5025282+10:00 FAILED id=109.3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service network_error
+2026-04-26T19:37:54.5185338+10:00 PROCESSING phase=phase3 id=109.4
+2026-04-26T19:38:14.5855097+10:00 FAILED id=109.4 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-defence-reserve-service network_error
+2026-04-26T19:38:14.5895134+10:00 PROCESSING phase=phase3 id=109.6
+2026-04-26T19:38:34.6687330+10:00 FAILED id=109.6 error=fetch_failed url=https://www2.education.vic.gov.au/pal/military-service-sick-leave network_error
+2026-04-26T19:38:34.6717331+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:38:34.7270469+10:00 RUN_END phase=phase3 succeeded=0 failed=2 remaining=313
+2026-04-26T19:39:34.2042063+10:00 RUN_START
+2026-04-26T19:39:34.2736972+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:39:34.3026975+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.6,109.7,109.8
+2026-04-26T19:39:34.3116971+10:00 PROCESSING phase=phase3 id=109.6
+2026-04-26T19:39:54.4271269+10:00 FAILED id=109.6 error=fetch_failed url=https://www2.education.vic.gov.au/pal/military-service-sick-leave network_error
+2026-04-26T19:39:54.4522545+10:00 PROCESSING phase=phase3 id=109.7
+2026-04-26T19:40:14.5096343+10:00 FAILED id=109.7 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service network_error
+2026-04-26T19:40:14.5121305+10:00 PROCESSING phase=phase3 id=109.8
+2026-04-26T19:40:34.6312048+10:00 FAILED id=109.8 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service network_error
+2026-04-26T19:40:34.6332062+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:40:34.6692489+10:00 RUN_END phase=phase3 succeeded=0 failed=1 remaining=312
+2026-04-26T19:41:34.2970661+10:00 RUN_START
+2026-04-26T19:41:34.3663138+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:41:34.3987353+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.7,109.8,109.9
+2026-04-26T19:41:34.4067371+10:00 PROCESSING phase=phase3 id=109.7
+2026-04-26T19:41:54.5291088+10:00 FAILED id=109.7 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service network_error
+2026-04-26T19:41:54.5525173+10:00 PROCESSING phase=phase3 id=109.8
+2026-04-26T19:42:14.6054369+10:00 FAILED id=109.8 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service network_error
+2026-04-26T19:42:14.6094444+10:00 PROCESSING phase=phase3 id=109.9
+2026-04-26T19:42:34.6666517+10:00 FAILED id=109.9 error=fetch_failed url=https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service network_error
+2026-04-26T19:42:34.6696602+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:42:34.7047846+10:00 RUN_END phase=phase3 succeeded=0 failed=0 remaining=312
+2026-04-26T19:43:34.3040204+10:00 RUN_START
+2026-04-26T19:43:34.3740685+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:43:34.4073373+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.7,109.8,109.9
+2026-04-26T19:43:34.4183463+10:00 PROCESSING phase=phase3 id=109.7
+2026-04-26T19:43:54.5339621+10:00 FAILED id=109.7 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service network_error
+2026-04-26T19:43:54.5611869+10:00 PROCESSING phase=phase3 id=109.8
+2026-04-26T19:44:14.6441116+10:00 FAILED id=109.8 error=fetch_failed url=https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service network_error
+2026-04-26T19:44:14.6476825+10:00 PROCESSING phase=phase3 id=109.9
+2026-04-26T19:44:34.6996516+10:00 FAILED id=109.9 error=fetch_failed url=https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service network_error
+2026-04-26T19:44:34.7016499+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:44:34.7318318+10:00 RUN_END phase=phase3 succeeded=0 failed=2 remaining=310
+2026-04-26T19:45:34.3333184+10:00 RUN_START
+2026-04-26T19:45:34.4168739+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:45:34.4498197+10:00 BATCH_TAKEN phase=phase3 size=3 ids=109.9,110.0,110.1
+2026-04-26T19:45:34.4578181+10:00 PROCESSING phase=phase3 id=109.9
+2026-04-26T19:45:54.6021660+10:00 FAILED id=109.9 error=fetch_failed url=https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service network_error
+2026-04-26T19:45:54.6242049+10:00 PROCESSING phase=phase3 id=110.0
+2026-04-26T19:46:14.7813380+10:00 FAILED id=110.0 error=fetch_failed url=https://www2.education.vic.gov.au/pal/trade-union-training-leave network_error
+2026-04-26T19:46:14.7847913+10:00 PROCESSING phase=phase3 id=110.1
+2026-04-26T19:46:34.8417523+10:00 FAILED id=110.1 error=fetch_failed url=https://www2.education.vic.gov.au/pal/transport-accident-commission-leave network_error
+2026-04-26T19:46:34.8447526+10:00 NO_SUCCESS -- skipping build
+2026-04-26T19:46:34.8872468+10:00 RUN_END phase=phase3 succeeded=0 failed=1 remaining=309
+2026-04-26T19:47:34.2664499+10:00 RUN_START
+2026-04-26T19:47:34.3406069+10:00 ACTIVE_PHASE=phase3
+2026-04-26T19:47:34.3718299+10:00 BATCH_TAKEN phase=phase3 size=3 ids=110.0,110.1,110.2
+2026-04-26T19:47:34.3800841+10:00 PROCESSING phase=phase3 id=110.0
+2026-04-26T19:47:54.5890615+10:00 FAILED id=110.0 error=fetch_failed url=https://www2.education.vic.gov.au/pal/trade-union-training-leave network_error
+2026-04-26T19:47:54.6143645+10:00 PROCESSING phase=phase3 id=110.1
+2026-04-26T19:48:14.6723995+10:00 FAILED id=110.1 error=fetch_failed url=https://www2.education.vic.gov.au/pal/transport-accident-commission-leave network_error
+2026-04-26T19:48:14.6754012+10:00 PROCESSING phase=phase3 id=110.2
+2026-04-26T19:48:36.8980645+10:00 OK id=110.2
+2026-04-26T19:48:36.9010651+10:00 BUILD_START
+2026-04-26T19:48:40.0903097+10:00 BUILD_OK
+2026-04-26T19:48:40.1297252+10:00 COMMIT_START ids=110.2
