@@ -794,8 +794,11 @@ const PAL_POLICIES = [
       { title: 'Ministerial Order 1125 (PDF)', note: 'Procedures for Suspension and Expulsion of Students in Government Schools' },
       { title: 'Exceptional Grounds — outside school activity quick reference guide (PDF)', note: 'staff login required' },
       { title: 'Legal Division: 03 9637 3146', note: 'legal.services@education.vic.gov.au' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Overview Interventions and supports Reflect and investigate Behaviour support and intervention meeting Decision Supported transition Appeals', href: 'https://www2.education.vic.gov.au/pal/expulsions/guidance/introduction https://www2.education.vic.gov.au/pal/expulsions/guidance/interventions-and-support https://www2.education.vic.gov.au/pal/expulsions/guidance/reflect-and-investigate https://www2.education.vic.gov.au/pal/expulsions/guidance/behaviour-support-and-intervention-meeting https://www2.education.vic.gov.au/pal/expulsions/guidance/decision https://www2.education.vic.gov.au/pal/expulsions/guidance/supported-transition https://www2.education.vic.gov.au/pal/expulsions/guidance/appeals' }
+  ],
+},
   { id: 61, title: 'Equal Opportunity and Human Rights — Students', category: 'Students', tags: ['equal opportunity', 'students', 'discrimination', 'disability harassment', 'reasonable adjustments'], summary: 'Equal opportunity for students including reasonable adjustments for disability.', url: 'https://www2.education.vic.gov.au/pal/equal-opportunity-human-rights-students/policy',
   tabs: [ 'Skip to main content' ],
   chapters: [
@@ -811,8 +814,11 @@ const PAL_POLICIES = [
       { title: 'Students at Risk Tool', note: 'public access' },
       { title: 'Students at Risk Planning Tool', note: 'staff login required' },
       { title: 'Related: Supervision of Students policy', note: '' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details Duty of care to students outside the school Policies and duty of care Legal background Related legislation', href: 'https://www2.education.vic.gov.au/pal/duty-of-care/policy https://www2.education.vic.gov.au/pal/duty-of-care/policy https://www2.education.vic.gov.au/pal/duty-of-care/policy https://www2.education.vic.gov.au/pal/duty-of-care/policy https://www2.education.vic.gov.au/pal/duty-of-care/policy https://www2.education.vic.gov.au/pal/duty-of-care/policy' }
+  ],
+},
   { id: 62.5, title: 'Supervision of Students', category: 'Students', tags: ['supervision', 'yard duty', 'yard duty roster', 'duty of care', 'playground', 'before school', 'after school'], summary: 'Staff supervision of students including yard duty. Principal must establish and monitor a system for supervision shared amongst staff. Use the Yard duty and supervision policy template.', url: 'https://www2.education.vic.gov.au/pal/supervision-students/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supervision-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/supervision-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/supervision-students/resources' },
     resources: [
