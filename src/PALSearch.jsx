@@ -1932,6 +1932,16 @@ const PAL_POLICIES = [
       { title: 'Unused funds', url: 'https://www2.education.vic.gov.au/pal/camps-sports-and-excursions-fund/guidance/unused-funds' }
     ]
   }
+,
+  { id: 107, title: 'Contractors – Insurance and Contract Arrangements', category: 'Finance', tags: ['contractors', 'insurance', 'contract', 'arrangements', 'school', 'councils', 'engage', 'sometimes', 'requirements', 'goods'], summary: 'The purpose of this policy is to outline requirements relating to insurance and contract arrangements when school councils engage contractors. School councils sometimes need to engage contractors to provide goods or services to the school.', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements/resources' },
+    chapters: [
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Insurance requirements', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Standard contracts', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/contractors-insurance-contract-arrangements' }
+    ]
+  }
 ];
 
 const CATEGORIES = [
