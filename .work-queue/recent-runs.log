@@ -154,3 +154,18 @@
 2026-04-26T13:26:31.8107307+10:00 BUILD_START
 2026-04-26T13:26:34.9583653+10:00 BUILD_OK
 2026-04-26T13:26:34.9834567+10:00 COMMIT_START ids=8
+2026-04-26T13:26:35.2156010+10:00 COMMITTED ids=8
+2026-04-26T13:26:35.2240865+10:00 DEPLOY_START
+2026-04-26T13:26:48.7380332+10:00 DEPLOYED
+2026-04-26T13:26:48.7475459+10:00 RUN_END succeeded=1 failed=1 remaining=92
+2026-04-26T13:27:47.0660863+10:00 RUN_START
+2026-04-26T13:27:47.1369692+10:00 BATCH_TAKEN size=3 ids=5,10,11
+2026-04-26T13:27:47.1449787+10:00 PROCESSING id=5 url=https://www2.education.vic.gov.au/pal/overpayments/policy
+2026-04-26T13:28:08.1803314+10:00 FAILED id=5 error=fetch_failed url=https://www2.education.vic.gov.au/pal/overpayments/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:28:08.1925702+10:00 PROCESSING id=10 url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy
+2026-04-26T13:28:29.4525287+10:00 FAILED id=10 error=fetch_failed url=https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:28:29.4575311+10:00 PROCESSING id=11 url=https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines
+2026-04-26T13:28:31.2229819+10:00 ENRICHED id=11
+2026-04-26T13:28:31.2249789+10:00 BUILD_START
+2026-04-26T13:28:34.4875267+10:00 BUILD_OK
+2026-04-26T13:28:34.5091399+10:00 COMMIT_START ids=11

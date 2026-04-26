@@ -100,7 +100,15 @@ const PAL_POLICIES = [
   tabs: [ 'Skip to main content' ],
 },
   { id: 10, title: 'Leave Without Pay — Teaching Service', category: 'HR - Leave', tags: ['lwop', 'unpaid leave'], summary: 'Applying for and taking leave without pay. Includes teaching whilst on LWOP and early resumption.', url: 'https://www2.education.vic.gov.au/pal/leave-without-pay-teaching-service/policy' },
-  { id: 11, title: 'Absent Without Leave', category: 'HR - Leave', tags: ['absent', 'awol', 'unauthorised', 'abandonment'], summary: 'Managing unauthorised absence from duty. Continued absence may lead to cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines' },
+  { id: 11, title: 'Absent Without Leave', category: 'HR - Leave', tags: ['absent', 'awol', 'unauthorised', 'abandonment'], summary: 'Managing unauthorised absence from duty. Continued absence may lead to cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Introduction Abandonment of employment', href: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/absent-without-leave/policy-and-guidelines#rpl-main' }
+  ],
+},
   { id: 12, title: 'Family Violence — Information for Employees', category: 'HR - Leave', tags: ['family violence', 'domestic violence', 'support', 'leave'], summary: 'Paid family violence leave available without prior approval. Confidential support available via WCOs.', url: 'https://www2.education.vic.gov.au/pal/family-violence-information-employees/policy-and-guidelines/leave' },
   { id: 13, title: 'Recognition of Prior Service for Leave Purposes — Teaching Service', category: 'HR - Leave', tags: ['prior service', 'recognition', 'leave accrual', 'previous employment'], summary: 'How prior service is recognised for personal, annual and long service leave purposes.', url: 'https://www2.education.vic.gov.au/pal/recognition-prior-service-leave-purposes-teaching-service/overview' },
   { id: 14, title: 'Cessation of Employment — Teaching Service', category: 'HR - Leave', tags: ['cessation', 'termination', 'resignation', 'retirement', 'payout', 'payment in lieu'], summary: 'Payment of unused annual leave, LSL and allowances on cessation of employment.', url: 'https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview' },
