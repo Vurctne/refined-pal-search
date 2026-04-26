@@ -384,3 +384,18 @@
 2026-04-26T14:00:39.0971970+10:00 BUILD_START
 2026-04-26T14:00:42.3396543+10:00 BUILD_OK
 2026-04-26T14:00:42.3846523+10:00 COMMIT_START ids=43,47
+2026-04-26T14:00:42.7277864+10:00 COMMITTED ids=43,47
+2026-04-26T14:00:42.7402973+10:00 DEPLOY_START
+2026-04-26T14:00:56.1843132+10:00 DEPLOYED
+2026-04-26T14:00:56.1944432+10:00 RUN_END succeeded=2 failed=0 remaining=59
+2026-04-26T14:01:47.2757938+10:00 RUN_START
+2026-04-26T14:01:47.3508366+10:00 BATCH_TAKEN size=3 ids=46,49,50
+2026-04-26T14:01:47.3588377+10:00 PROCESSING id=46 url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview
+2026-04-26T14:02:08.1785186+10:00 FAILED id=46 error=fetch_failed url=https://www2.education.vic.gov.au/pal/student-resource-package-srp-managing-budget/overview code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T14:02:08.1935249+10:00 PROCESSING id=49 url=https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy
+2026-04-26T14:02:10.9613752+10:00 ENRICHED id=49
+2026-04-26T14:02:10.9653738+10:00 PROCESSING id=50 url=https://www2.education.vic.gov.au/pal/sponsorship/policy
+2026-04-26T14:02:13.8472466+10:00 ENRICHED id=50
+2026-04-26T14:02:13.8502533+10:00 BUILD_START
+2026-04-26T14:02:17.0310616+10:00 BUILD_OK
+2026-04-26T14:02:17.0562427+10:00 COMMIT_START ids=49,50

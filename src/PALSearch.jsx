@@ -567,8 +567,24 @@ const PAL_POLICIES = [
       { title: 'Financial Help for Families policy', note: 'must be applied when implementing Parent Payments' }
     ]
   },
-  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy' },
-  { id: 50, title: 'Sponsorship', category: 'Finance', tags: ['sponsorship', 'sponsors', 'advertising', '25000'], summary: 'Sponsorship arrangements. Sponsorships over $25,000 must be evaluated within 3 months of conclusion.', url: 'https://www2.education.vic.gov.au/pal/sponsorship/policy' },
+  { id: 49, title: 'Fundraising Activities (including fetes)', category: 'Finance', tags: ['fundraising', 'fete', 'raffle', 'donations', 'parents club'], summary: 'Fundraising funds held by school council in trust for stated purpose. School council approval required.', url: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details School council – approving or rejecting a school-related fundraising proposal Commercial operators Fundraising methods Amusement rides, attractions and fireworks Sale of alcohol at school events Fundraising event budget Allocation and use of funds raised School-level policy on fundraising Fundraising for charitable causes Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy#rpl-main' }
+  ],
+},
+  { id: 50, title: 'Sponsorship', category: 'Finance', tags: ['sponsorship', 'sponsors', 'advertising', '25000'], summary: 'Sponsorship arrangements. Sponsorships over $25,000 must be evaluated within 3 months of conclusion.', url: 'https://www2.education.vic.gov.au/pal/sponsorship/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details What is sponsorship? Sponsorship criteria Sponsorship principles Finalising contracts and financials Evaluation Useful tools and references Definitions and examples Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy https://www2.education.vic.gov.au/pal/sponsorship/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/sponsorship/policy#rpl-main' }
+  ],
+},
   { id: 51, title: 'Parents Clubs', category: 'Finance', tags: ['parents club', 'fundraising', 'community'], summary: 'Parents clubs under ETR Regulations 2017. Fundraising requires school council approval.', url: 'https://www2.education.vic.gov.au/pal/parent-clubs/policy' },
   { id: 52, title: 'Calculators and Ready Reckoners', category: 'Finance', tags: ['calculator', 'ready reckoner', 'salary calculator', 'dual roles', 'time in lieu'], summary: 'HR administration tools including commencement salary calculator, fixed term vacancy ready reckoner, dual role allowance calculator.', url: 'https://www2.education.vic.gov.au/pal/calculators-and-ready-reckoners/resources',
     resources: [

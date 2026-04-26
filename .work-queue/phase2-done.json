@@ -847,6 +847,50 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:00:42.3796583+10:00"
+                  },
+                  {
+                      "db_id":  49,
+                      "title":  "Fundraising Activities (including fetes)",
+                      "url":  "https://www2.education.vic.gov.au/pal/fundraising-activities-including-fetes/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:02:17.0480609+10:00"
+                  },
+                  {
+                      "db_id":  50,
+                      "title":  "Sponsorship",
+                      "url":  "https://www2.education.vic.gov.au/pal/sponsorship/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:02:17.0520561+10:00"
                   }
               ]
 }
