@@ -1665,6 +1665,46 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:47:59.3923069+10:00"
+                  },
+                  {
+                      "db_id":  62.5,
+                      "title":  "Supervision of Students",
+                      "url":  "https://www2.education.vic.gov.au/pal/supervision-students/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  1,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:49:56.9232520+10:00"
+                  },
+                  {
+                      "db_id":  63,
+                      "title":  "Health Care Needs",
+                      "url":  "https://www2.education.vic.gov.au/pal/health-care-needs/policy",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  5,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:49:56.9257460+10:00"
                   }
               ]
 }

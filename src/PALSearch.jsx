@@ -823,8 +823,11 @@ const PAL_POLICIES = [
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supervision-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/supervision-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/supervision-students/resources' },
     resources: [
       { title: 'Yard duty and supervision policy template', note: 'staff login required — School Policy Templates Portal, modify for local circumstances' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Summary Details Child Safe Standards Supervision responsibilities during school hours Supervision responsibilities before and after school', href: 'https://www2.education.vic.gov.au/pal/supervision-students/policy https://www2.education.vic.gov.au/pal/supervision-students/policy https://www2.education.vic.gov.au/pal/supervision-students/policy https://www2.education.vic.gov.au/pal/supervision-students/policy https://www2.education.vic.gov.au/pal/supervision-students/policy' }
+  ],
+},
   { id: 63, title: 'Health Care Needs', category: 'Students', tags: ['health care', 'medical', 'conditions', 'care plan', 'student health support plan', 'medical condition', 'medication', 'consent', 'first aid'], summary: 'Supporting students with identified health care needs. Schools must have processes for gathering medical info, Student Health Support Plans, consent for medication, and appropriate first aid.', url: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/health-care-needs/policy', resources: 'https://www2.education.vic.gov.au/pal/health-care-needs/resources' },
     resources: [
@@ -833,8 +836,11 @@ const PAL_POLICIES = [
       { title: 'Individual allergic reactions management plan (DOCX)', note: 'completed by school for each student with allergies' },
       { title: 'Individual anaphylaxis management plan (DOCX)', note: 'completed by school for each student at risk of anaphylaxis' },
       { title: 'Annual risk management checklist (DOCX)', note: 'for MO 706 compliance monitoring' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: '1. The 4 stages of developing a Student Health Support Plan 2. Complex medical care supports 3. Supporting students during transition between hospital, home and school 4. Supporting students with long term special education and other support needs', href: 'https://www2.education.vic.gov.au/pal/health-care-needs/guidance/4-stages-developing-student-health-support-plan https://www2.education.vic.gov.au/pal/health-care-needs/guidance/complex-medical-care-supports https://www2.education.vic.gov.au/pal/health-care-needs/guidance/supporting-students-during-transition-between-hospital-home-and https://www2.education.vic.gov.au/pal/health-care-needs/guidance/supporting-students-long-term-special-education-and-other-support' }
+  ],
+},
   { id: 64, title: 'Anaphylaxis', category: 'Students', tags: ['anaphylaxis', 'allergy', 'epipen', 'anapen', 'jext', 'neffy', 'ministerial order 706', 'ascia', 'adrenaline', 'individual anaphylaxis management plan', 'royal childrens hospital', 'risk minimisation', 'twice-yearly briefing', '22579vic', 'adrenaline auto-injector'], summary: 'Ministerial Order 706. Schools with a student at risk must have an Anaphylaxis Management Policy, twice-yearly staff briefings, individual plans, annual risk checklist. RCH Advisory Line: 1300 725 911.', url: 'https://www2.education.vic.gov.au/pal/anaphylaxis/policy',
     tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/anaphylaxis/policy', guidance: 'https://www2.education.vic.gov.au/pal/anaphylaxis/guidance', resources: 'https://www2.education.vic.gov.au/pal/anaphylaxis/resources' },
     chapters: [
