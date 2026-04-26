@@ -1,41 +1,8 @@
 ﻿{
     "phase":  "phase3",
     "created_at":  "2026-04-26T00:00:00+00:00",
-    "total":  334,
+    "total":  331,
     "items":  [
-                  {
-                      "new_id":  107.5,
-                      "pal_title":  "School Bus Program",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/school-bus-program",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  107.6,
-                      "pal_title":  "Student Resource Package – Core Student Learning Allocation Funding (Student-Based Funding)",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  107.7,
-                      "pal_title":  "Student Resource Package – Equity Funding (Student-Based Funding)",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding",
-                      "pal_native_category":  "Finance and procurement",
-                      "suggested_db_category":  "Finance",
-                      "category_certain":  true,
-                      "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "new_id":  107.8,
                       "pal_title":  "Student Resource Package – Overview",

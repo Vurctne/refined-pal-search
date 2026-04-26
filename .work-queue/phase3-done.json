@@ -191,6 +191,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:20:00.5001796+10:00"
+                  },
+                  {
+                      "new_id":  107.5,
+                      "pal_title":  "School Bus Program",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/school-bus-program",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:22:15.6147335+10:00"
+                  },
+                  {
+                      "new_id":  107.6,
+                      "pal_title":  "Student Resource Package – Core Student Learning Allocation Funding (Student-Based Funding)",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:22:15.6187308+10:00"
+                  },
+                  {
+                      "new_id":  107.7,
+                      "pal_title":  "Student Resource Package – Equity Funding (Student-Based Funding)",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:22:15.6187308+10:00"
                   }
               ]
 }

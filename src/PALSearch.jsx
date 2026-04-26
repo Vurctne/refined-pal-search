@@ -2021,6 +2021,58 @@ const PAL_POLICIES = [
       { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy' }
     ]
   }
+,
+  { id: 107.5, title: 'School Bus Program', category: 'Finance', tags: ['school', 'program', 'schools', 'roles', 'policy', 'outline', 'provision', 'purpose', 'involved', 'ensure'], summary: 'The purpose of this policy is to outline the specific roles and responsibilities for schools involved in the provision and management of the School Bus Program (SBP). Schools must ensure School Bus Program (SBP) services are managed in accordance with the requirements in the Guidance tab .', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/school-bus-program/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-bus-program/policy', resources: 'https://www2.education.vic.gov.au/pal/school-bus-program/resources' },
+    chapters: [
+      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/introduction' },
+      { title: 'Conditions of travel', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/conditions-travel' },
+      { title: 'Criteria determining eligibility for the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/criteria-determining-eligibility-school-bus-program' },
+      { title: 'Ineligible travellers accessing the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/ineligible-students-accessing-school-bus-program' },
+      { title: 'Administration of the School Bus Program', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/administration-school-bus-program' },
+      { title: 'Provision of bus services', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/provision-bus-services' },
+      { title: 'Glossary', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/glossary' },
+      { title: 'Privacy information', url: 'https://www2.education.vic.gov.au/pal/school-bus-program/guidance/privacy-information' }
+    ]
+  }
+,
+  { id: 107.6, title: 'Student Resource Package – Core Student Learning Allocation Funding (Student-Based Funding)', category: 'Finance', tags: ['student', 'resource', 'package', 'core', 'learning', 'allocation', 'funding', 'student-based', 'types', 'provides'], summary: 'This policy provides information on how funding is allocated to schools through the Student Resource Package (SRP) for core student learning needs. Core student learning allocation funding is one of two types of student based funding.', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/policy', resources: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/resources' },
+    chapters: [
+      { title: 'Student per capita funding Years Prep-12 students (Reference 1)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/student-per-capita-funding' },
+      { title: 'Enrolment Linked Base (Reference 2)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/enrolment-linked-base' },
+      { title: 'Small School Base (Reference 3)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/small-school-base' },
+      { title: 'Rural School Size Adjustment Factor (Reference 4)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/rural-school-size-adjustment-factor' },
+      { title: 'Core Index Stages 1–3 (Reference 5)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/core-index' },
+      { title: 'Size Adjustment Supplementation (Reference 6)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/size-adjustment-supplementation' },
+      { title: 'Approved Early Education Program (Reference 7)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/approved-early-education-program' },
+      { title: 'Principal Salary Adjustment (Reference 8)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/principal-salary-adjustment' },
+      { title: 'Mental Health Practitioners (Reference 119)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/mental-health-practitioners' },
+      { title: 'Camps Payment (Reference 144)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/camps-payment-reference-144' },
+      { title: 'Autism schools – Stages of Schooling (Reference 148)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-stages-of-schooling-reference-148' },
+      { title: 'Autism schools – dual enrolment linked base (Reference 149)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/autism-schools-dual-enrolment-linked-base' },
+      { title: 'Deaf facility funding (Reference 150)', url: 'https://www2.education.vic.gov.au/pal/srp-core-student-learning-allocation/guidance/deaf-facility-funding-reference-150' }
+    ]
+  }
+,
+  { id: 107.7, title: 'Student Resource Package – Equity Funding (Student-Based Funding)', category: 'Finance', tags: ['student', 'resource', 'package', 'equity', 'funding', 'student-based', 'provides', 'needs', 'based', 'policy'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for additional learning needs. Equity funding is one of two types of student based funding.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/resources' },
+    chapters: [
+      { title: 'Equity (Social Disadvantage) (Reference 11)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/equity-overview' },
+      { title: 'Equity (Catch Up) 2026 (Reference 158)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/2-equity-catch' },
+      { title: 'Mobility (Reference 14)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/3-mobility-reference' },
+      { title: 'Program for Students with Disabilities Levels 1–6 (Reference 15)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/4-program-students-0' },
+      { title: 'Special School Complexity Allowance (Reference 18)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/5-special-school' },
+      { title: 'Paramedical and Interpreter Staff Salaries (Reference 19)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/6-paramedical-and' },
+      { title: 'Medical Intervention Support (Reference 20)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/7-medical' },
+      { title: 'Special School Transport Administration (Reference 25)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/8-special-school' },
+      { title: 'EAL Program Funding (Reference 26)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/9-eal-program' },
+      { title: 'EAL Contingency (Reference 27)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/10-eal-contingency' },
+      { title: 'Disability Inclusion Tier 2 school level funding (Reference 137)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion' },
+      { title: 'Disability Inclusion Tier 3 student-level funding (Reference 138)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-0' },
+      { title: 'Disability Inclusion Transition Funding (Reference 140)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-1' }
+    ]
+  }
 ];
 
 const CATEGORIES = [
