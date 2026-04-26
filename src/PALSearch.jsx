@@ -130,8 +130,21 @@ const PAL_POLICIES = [
     { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/cessation-employment-teaching-service/overview#rpl-main' }
   ],
 },
-  { id: 15, title: 'Attendance and Working Hours — Teaching Service', category: 'HR - Leave', tags: ['working hours', 'attendance', 'lunch break', 'start date', 'hours', 'time in lieu'], summary: 'Working hours, lunch breaks (30 min min, 11:30am-2:30pm), and the common start date for school employees.', url: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines' },
-  { id: 16, title: 'Study Leave — Teaching Service', category: 'HR - Leave', tags: ['study leave', 'professional development', 'qualifications'], summary: 'Study leave with or without pay may be granted to teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview' },
+  { id: 15, title: 'Attendance and Working Hours — Teaching Service', category: 'HR - Leave', tags: ['working hours', 'attendance', 'lunch break', 'start date', 'hours', 'time in lieu'], summary: 'Working hours, lunch breaks (30 min min, 11:30am-2:30pm), and the common start date for school employees.', url: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Teacher class Education support class Common Start Date (Beginning of School Year) Attendance during additional paid leave period Common start date', href: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/policy-and-guidelines#rpl-main' }
+  ],
+},
+  { id: 16, title: 'Study Leave — Teaching Service', category: 'HR - Leave', tags: ['study leave', 'professional development', 'qualifications'], summary: 'Study leave with or without pay may be granted to teaching service employees.', url: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/study-leave-teaching-service/overview#rpl-main' }
+  ],
+},
 
   // HR - Recruitment
   { id: 17, title: 'Recruitment in Schools', category: 'HR - Recruitment', tags: ['recruitment', 'hiring', 'vacancy', 'selection', 'school jobs vic', 'applicant pool', 'ongoing', 'fixed term', 'diversity', 'inclusion', 'aboriginal', 'torres strait islander', 'position descriptions', 'ministerial order 1388'], summary: 'Recruitment and selection for school-based positions. Manage via School Jobs Vic. Child safety screening required before offer. Template position descriptions available.', url: 'https://www2.education.vic.gov.au/pal/recruitment-schools/policy', popular: true,
@@ -161,7 +174,12 @@ const PAL_POLICIES = [
       { title: 'Contact: diversity@education.vic.gov.au', note: 'inclusive recruitment advice — Equal Opportunity Act 2010' }
     ]
   },
-  { id: 18, title: 'Workforce Support and Initiatives for Schools', category: 'HR - Recruitment', tags: ['workforce', 'graduate teachers', 'international teachers', 'cwss', '5650', 'retention'], summary: 'Department initiatives including Graduate Teacher Recruitment ($5,650 incentive), International Teacher Recruitment and Central Workforce Support Service.', url: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview' },
+  { id: 18, title: 'Workforce Support and Initiatives for Schools', category: 'HR - Recruitment', tags: ['workforce', 'graduate teachers', 'international teachers', 'cwss', '5650', 'retention'], summary: 'Department initiatives including Graduate Teacher Recruitment ($5,650 incentive), International Teacher Recruitment and Central Workforce Support Service.', url: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview',
+  tabs: [ 'Skip to main content' ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/workforce-support-and-initiatives-schools/overview#rpl-main' }
+  ],
+},
   { id: 19, title: 'Workforce Planning for Schools', category: 'HR - Recruitment', tags: ['workforce planning', 'staffing', 'planning framework'], summary: 'Framework, phases and tools to support schools with workforce planning.', url: 'https://www2.education.vic.gov.au/pal/workforce-planning-schools/overview' },
   { id: 20, title: 'Transfer and Promotion for Teaching Service', category: 'HR - Recruitment', tags: ['transfer', 'promotion', 'movement', 'fixed term'], summary: 'Permanent and temporary transfers and promotions in the teaching service.', url: 'https://www2.education.vic.gov.au/pal/transfer-and-promotion-teaching-service/policy-and-guidelines' },
   { id: 21, title: 'Suitability for Child Connected Work', category: 'HR - Recruitment', tags: ['wwcc', 'working with children', 'child connected', 'screening', 'ministerial order 1359'], summary: 'Ministerial Order 1359 Clause 10.2(d)(ii). Suitability check required for preferred candidate before offer.', url: 'https://www2.education.vic.gov.au/pal/suitability-child-connected-work/policy', popular: true },
