@@ -2073,6 +2073,68 @@ const PAL_POLICIES = [
       { title: 'Disability Inclusion Transition Funding (Reference 140)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-equity-funding-student-based-funding/guidance/disability-inclusion-1' }
     ]
   }
+,
+  { id: 107.8, title: 'Student Resource Package – Overview', category: 'Finance', tags: ['student', 'resource', 'package', 'overview', 'schools', 'introduced', 'improvement', 'funding', 'policy', 'government'], summary: 'This policy provides an overview of the schools funding model. The Student Resource Package (SRP) was introduced for Victorian government schools in 2005 to bring about improvement in learning outcomes for students.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package/resources' },
+    chapters: [
+      { title: 'Student Resource Package', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/student-resource-package' },
+      { title: 'Funding Allocation and Annual Budget Cycle', url: 'https://www2.education.vic.gov.au/pal/student-resource-package/guidance/funding-allocation-and-annual-budget-cycle' }
+    ]
+  }
+,
+  { id: 107.9, title: 'Student Resource Package – School Specific Programs', category: 'Finance', tags: ['student', 'resource', 'package', 'school', 'specific', 'programs', 'funding', 'policy', 'allocated', 'provided'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for school specific programs. ‘School-based funding’ is one of 3 categories of funding provided by the SRP.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/resources' },
+    chapters: [
+      { title: 'P–12 Complexity Allowance (Reference 38)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/p-12-complexity-allowance' },
+      { title: 'Location Index Funding (Reference 39)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/location-index-funding-reference' },
+      { title: 'MARC/MACC Teachers (Reference 40)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc-macc-teachers' },
+      { title: 'Instrumental Music Programs (Reference 41)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/instrumental-music-programs' },
+      { title: 'Language Assistants Program (Reference 42)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/language-assistants-reference-42' },
+      { title: 'Country Area Program Grant (Reference 45)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/country-area-program-grant' },
+      { title: 'MARC/MACC Grant (Reference 46)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/marc/macc-grant-reference-46' },
+      { title: 'Alternative Settings Teachers (Reference 47)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-settings-teachers' },
+      { title: 'Ancillary Settings Teachers (Reference 48)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/ancillary-settings-teachers' },
+      { title: 'Alternative programs – regional grants (Reference 49)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/alternative-programs-regional' },
+      { title: 'Joint Community Program (Reference 123)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/joint-community-program' },
+      { title: 'Designated Bilingual Program (Reference 124)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/designated-bilingual-program' },
+      { title: 'Science and Technology (Reference 145)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs/guidance/science-and-technology-reference' }
+    ]
+  }
+,
+  { id: 108, title: 'Student Resource Package – Targeted Initiatives', category: 'Finance', tags: ['student', 'resource', 'package', 'targeted', 'initiatives', 'funding', 'provides', 'provided', 'categories', 'policy'], summary: 'This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for targeted initiatives. Funding for ‘targeted initiatives’ is one of 3 categories of funding provided for by the SRP.', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy', resources: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/resources' },
+    chapters: [
+      { title: 'Doctors in Secondary Schools – School program lead funding (Reference 64)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/doctors-secondary-schools-school' },
+      { title: 'Respectful Relationships (Reference 86)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/respectful-relationships-reference' },
+      { title: 'Extended Koorie Literacy and Numeracy Program: Years 4 to 6 (Reference 88)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/extended-koorie-literacy-and' },
+      { title: 'Early Years Koorie Literacy and Numeracy Program: Foundation to Year 3 (Reference 90)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/early-years-koorie-literacy-and' },
+      { title: 'Career Education Funding (Reference 91)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/career-education-funding-reference' },
+      { title: 'Swimming in Schools (Reference 115)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/swimming-school-reference-115' },
+      { title: 'Head Start (Reference 116)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/head-start-reference-116' },
+      { title: 'National Student Wellbeing Program (Reference 117)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/national-student-wellbeing-program' },
+      { title: 'Middle Years Literacy and Numeracy Support initiative (Reference 118)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/middle-years-literacy-and-numeracy' },
+      { title: 'Student Excellence Program Funding (Reference 120)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/student-excellence-program' },
+      { title: 'VCE Revision Lectures (Reference 121)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vce-revision-lectures-reference-121' },
+      { title: 'Primary Mathematics and Science Specialist Program (Reference 125)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/primary-mathematics-and-science' },
+      { title: 'Transition Funding (Rural) (Reference 126)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transition-funding-rural-reference' },
+      { title: 'Jobs, Skills and Pathways Coordination (Reference 127)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/jobs-skills-and-pathways-jsp' },
+      { title: 'Literacy and Numeracy Early Intervention Program (Reference 157)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/literacy-and-numeracy-early-intervention-program-reference-157' },
+      { title: 'Mental Health in Primary Schools (Reference 130)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-primary-schools-pilot' },
+      { title: 'Mental Health Practitioners in Specialist Schools (Reference 131)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/mental-health-practitioners' },
+      { title: 'Career Start – Transforming the First Years of the Teaching Career (Reference 132)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/transforming-first-years-teaching' },
+      { title: 'Inclusion Outreach Coaching initiative (Reference 136)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/inclusion-outreach-coaching-ioc' },
+      { title: 'School Mental Health Fund (Reference 139)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/school-mental-health-fund' },
+      { title: 'Active Schools (Reference 142)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/active-schools-reference-142' },
+      { title: 'Vocational Education and Training Delivered to School Students (Reference 143)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/vocational-education-and-training-0' },
+      { title: 'NDIS Navigators (Reference 146)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/ndis-navigators-reference-146' },
+      { title: 'Specialist School Activity Boost (Reference 147)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/specialist-school-activity-boost' },
+      { title: 'Flexible work for school leaders initiative (Reference 151)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-school-leaders-initiative-reference-151' },
+      { title: 'Hindi and Punjabi beacon schools (Reference 152)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/hindi-and-punjabi-beacon-schools-reference-152' },
+      { title: 'Flexible Work for Classroom Teachers initiative (Reference 154)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-classroom-teachers-initiative-reference-154' },
+      { title: 'Aspiring Koorie Teachers Now Program (Reference 155)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/aspiring-koorie-teachers-now-program-reference-155' },
+      { title: 'Operational Teaching Assistants Pilot (Reference 156)', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/operational-teaching-assistants-pilot-reference-156' }
+    ]
+  }
 ];
 
 const CATEGORIES = [

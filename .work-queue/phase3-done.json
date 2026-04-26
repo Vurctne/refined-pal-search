@@ -227,6 +227,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:22:15.6187308+10:00"
+                  },
+                  {
+                      "new_id":  107.8,
+                      "pal_title":  "Student Resource Package – Overview",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/student-resource-package",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:24:25.8523925+10:00"
+                  },
+                  {
+                      "new_id":  107.9,
+                      "pal_title":  "Student Resource Package – School Specific Programs",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-specific-programs",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:24:25.8563927+10:00"
+                  },
+                  {
+                      "new_id":  108.0,
+                      "pal_title":  "Student Resource Package – Targeted Initiatives",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives",
+                      "pal_native_category":  "Finance and procurement",
+                      "suggested_db_category":  "Finance",
+                      "category_certain":  true,
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:24:25.8563927+10:00"
                   }
               ]
 }
