@@ -1278,8 +1278,24 @@ const PAL_POLICIES = [
   ],
 },
   { id: 93, title: 'Acceptable Use Policy for ICT Resources', category: 'IT & Privacy', tags: ['ict', 'acceptable use', 'internet', 'email', 'aup'], summary: 'Acceptable use of Department ICT resources.', url: 'https://www2.education.vic.gov.au/pal/ict-acceptable-use/policy' },
-  { id: 94, title: 'Technologies and ICT Services', category: 'IT & Privacy', tags: ['technologies', 'ict services', 'scl', 'securing connected learners', 'backup'], summary: 'Department-provided technologies. Securing Connected Learners (SCL) migration by end of 2028.', url: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy' },
-  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy' },
+  { id: 94, title: 'Technologies and ICT Services', category: 'IT & Privacy', tags: ['technologies', 'ict services', 'scl', 'securing connected learners', 'backup'], summary: 'Department-provided technologies. Securing Connected Learners (SCL) migration by end of 2028.', url: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: 'Summary Details Department-provided technologies and ICT services Migrating to department-provided technologies and ICT services Adopting other technologies and ICT services Contact Definitions Relevant legislation', href: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/technologies-ict-services-schools/policy#rpl-main' }
+  ],
+},
+  { id: 95, title: 'Records Management', category: 'IT & Privacy', tags: ['records', 'recordkeeping', 'retention', 'archives', 'u drive'], summary: 'Records management including digital recordkeeping. Contact archives.records@education.vic.gov.au.', url: 'https://www2.education.vic.gov.au/pal/records-management/policy',
+  tabs: [ 'Skip to main content' ],
+  chapters: [
+    { title: '1. Permanent and long-term temporary records 2. Records naming conventions 3. Records that must be restricted 4. Hardcopy records storage 5. Digital recordkeeping 6. Recordkeeping requirements for third-party systems 7. Digitising hardcopy records 8. Archiving hardcopy records 9. Normal administrative practice – records that do not need to be archived 10. How to destroy ‘time-expired’ records 11. Recordkeeping – child safety and wellbeing 12. Records management support for schools', href: 'https://www2.education.vic.gov.au/pal/records-management/guidance/permanent-and-long-term-temporary-records https://www2.education.vic.gov.au/pal/records-management/guidance/records-naming-conventions https://www2.education.vic.gov.au/pal/records-management/guidance/records-that-must-be-restricted https://www2.education.vic.gov.au/pal/records-management/guidance/hardcopy-records-storage https://www2.education.vic.gov.au/pal/records-management/guidance/digital-recordkeeping https://www2.education.vic.gov.au/pal/records-management/guidance/recordkeeping-requirements-for-third-party-systems https://www2.education.vic.gov.au/pal/records-management/guidance/digitising-hardcopy-records https://www2.education.vic.gov.au/pal/records-management/guidance/archiving-hardcopy-records https://www2.education.vic.gov.au/pal/records-management/guidance/normal-administrative-practice-records-do-not-need-be-archived https://www2.education.vic.gov.au/pal/records-management/guidance/how-to-destroy-time-expired-records https://www2.education.vic.gov.au/pal/records-management/guidance/recordkeeping-child-safety-and-wellbeing https://www2.education.vic.gov.au/pal/records-management/guidance/records-management-support-schools' }
+  ],
+  resources: [
+    { label: 'Skip to main content', href: 'https://www2.education.vic.gov.au/pal/records-management/policy#rpl-main' }
+  ],
+},
 
   // Curriculum
   { id: 96, title: 'Curriculum Programs Foundation to 10', category: 'Curriculum', tags: ['curriculum', 'f-10', 'victorian curriculum', 'vc 2.0', 'vcaa'], summary: 'Curriculum requirements F-10. VC 2.0 implementation.', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy' },
