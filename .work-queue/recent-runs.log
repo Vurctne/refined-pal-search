@@ -294,3 +294,48 @@
 2026-04-26T13:46:18.9552434+10:00 BUILD_START
 2026-04-26T13:46:21.9653743+10:00 BUILD_OK
 2026-04-26T13:46:21.9893711+10:00 COMMIT_START ids=31,32
+2026-04-26T13:46:22.2364136+10:00 COMMITTED ids=31,32
+2026-04-26T13:46:22.2454727+10:00 DEPLOY_START
+2026-04-26T13:46:34.7800934+10:00 DEPLOYED
+2026-04-26T13:46:34.7930953+10:00 RUN_END succeeded=2 failed=1 remaining=73
+2026-04-26T13:47:47.1359546+10:00 RUN_START
+2026-04-26T13:47:47.2088095+10:00 BATCH_TAKEN size=3 ids=33,34,35
+2026-04-26T13:47:47.2168097+10:00 PROCESSING id=33 url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy
+2026-04-26T13:48:08.4829910+10:00 FAILED id=33 error=fetch_failed url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:48:08.4949939+10:00 PROCESSING id=34 url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy
+2026-04-26T13:48:29.9094294+10:00 FAILED id=34 error=fetch_failed url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:48:29.9144266+10:00 PROCESSING id=35 url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy
+2026-04-26T13:48:50.9102836+10:00 FAILED id=35 error=fetch_failed url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:48:50.9147706+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T13:48:50.9774027+10:00 RUN_END succeeded=0 failed=0 remaining=73
+2026-04-26T13:49:47.1131496+10:00 RUN_START
+2026-04-26T13:49:47.1909835+10:00 BATCH_TAKEN size=3 ids=33,34,35
+2026-04-26T13:49:47.1979896+10:00 PROCESSING id=33 url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy
+2026-04-26T13:50:08.5009855+10:00 FAILED id=33 error=fetch_failed url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:50:08.5114146+10:00 PROCESSING id=34 url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy
+2026-04-26T13:50:30.1412225+10:00 FAILED id=34 error=fetch_failed url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:50:30.1442143+10:00 PROCESSING id=35 url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy
+2026-04-26T13:50:51.3258921+10:00 FAILED id=35 error=fetch_failed url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:50:51.3293136+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T13:50:51.3837040+10:00 RUN_END succeeded=0 failed=0 remaining=73
+2026-04-26T13:51:47.1757851+10:00 RUN_START
+2026-04-26T13:51:47.2675040+10:00 BATCH_TAKEN size=3 ids=33,34,35
+2026-04-26T13:51:47.2761867+10:00 PROCESSING id=33 url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy
+2026-04-26T13:52:08.4022609+10:00 FAILED id=33 error=fetch_failed url=https://www2.education.vic.gov.au/pal/equal-opportunity/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:52:08.4162644+10:00 PROCESSING id=34 url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy
+2026-04-26T13:52:29.9087494+10:00 FAILED id=34 error=fetch_failed url=https://www2.education.vic.gov.au/pal/inclusive-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:52:29.9127456+10:00 PROCESSING id=35 url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy
+2026-04-26T13:52:51.0311690+10:00 FAILED id=35 error=fetch_failed url=https://www2.education.vic.gov.au/pal/respectful-workplaces/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:52:51.0341757+10:00 NO_ENRICHMENTS -- skipping build
+2026-04-26T13:52:51.0970534+10:00 RUN_END succeeded=0 failed=3 remaining=70
+2026-04-26T13:53:47.1207031+10:00 RUN_START
+2026-04-26T13:53:47.1864624+10:00 BATCH_TAKEN size=3 ids=36,38,39
+2026-04-26T13:53:47.1944613+10:00 PROCESSING id=36 url=https://www2.education.vic.gov.au/pal/industrial-action-teaching-service/policy-and-guidelines/duty-care
+2026-04-26T13:53:52.8046857+10:00 ENRICHED id=36
+2026-04-26T13:53:52.8066807+10:00 PROCESSING id=38 url=https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-9-funding-sources
+2026-04-26T13:54:10.3309321+10:00 ENRICHED id=38
+2026-04-26T13:54:10.3329325+10:00 PROCESSING id=39 url=https://www2.education.vic.gov.au/pal/finance-manual/guidance/section-11-expenditure-management
+2026-04-26T13:54:26.9937184+10:00 ENRICHED id=39
+2026-04-26T13:54:26.9947193+10:00 BUILD_START
+2026-04-26T13:54:30.1805404+10:00 BUILD_OK
+2026-04-26T13:54:30.2129310+10:00 COMMIT_START ids=36,38,39
