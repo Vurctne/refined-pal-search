@@ -1,29 +1,8 @@
 ﻿{
     "phase":  "phase2",
     "created_at":  "2026-04-26T02:34:48.752248+00:00",
-    "total":  94,
+    "total":  92,
     "items":  [
-                  {
-                      "db_id":  3,
-                      "title":  "Special Payments — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/special-payments/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  2,
-                      "status":  "pending"
-                  },
                   {
                       "db_id":  5,
                       "title":  "Overpayments",
@@ -42,28 +21,7 @@
                                              "needs_tabs"
                                          ],
                       "priority":  2,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "db_id":  8,
-                      "title":  "Annual Leave — Teaching Service",
-                      "url":  "https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy",
-                      "current_state":  {
-                                            "has_tabs":  false,
-                                            "has_chapters":  false,
-                                            "has_resources":  false,
-                                            "chapter_count":  0,
-                                            "resource_count":  0,
-                                            "chapters_have_tails":  false
-                                        },
-                      "actions_needed":  [
-                                             "needs_full_chapters",
-                                             "needs_resources",
-                                             "needs_tabs"
-                                         ],
-                      "priority":  2,
-                      "attempts":  0,
+                      "attempts":  1,
                       "status":  "pending"
                   },
                   {

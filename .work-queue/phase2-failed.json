@@ -82,6 +82,28 @@
                       "attempts":  3,
                       "status":  "pending",
                       "failed_at":  "2026-04-26T13:22:27.3005228+10:00"
+                  },
+                  {
+                      "db_id":  3,
+                      "title":  "Special Payments — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/special-payments/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  3,
+                      "status":  "pending",
+                      "failed_at":  "2026-04-26T13:26:34.9804557+10:00"
                   }
               ]
 }

@@ -139,3 +139,18 @@
 2026-04-26T13:24:12.1492900+10:00 BUILD_START
 2026-04-26T13:24:15.3763520+10:00 BUILD_OK
 2026-04-26T13:24:15.3973510+10:00 COMMIT_START ids=3.5,4
+2026-04-26T13:24:15.6289726+10:00 COMMITTED ids=3.5,4
+2026-04-26T13:24:15.6449717+10:00 DEPLOY_START
+2026-04-26T13:24:28.0513658+10:00 DEPLOYED
+2026-04-26T13:24:28.0593654+10:00 RUN_END succeeded=2 failed=0 remaining=94
+2026-04-26T13:25:47.0324640+10:00 RUN_START
+2026-04-26T13:25:47.1044166+10:00 BATCH_TAKEN size=3 ids=3,5,8
+2026-04-26T13:25:47.1124198+10:00 PROCESSING id=3 url=https://www2.education.vic.gov.au/pal/special-payments/policy
+2026-04-26T13:26:08.8791733+10:00 FAILED id=3 error=fetch_failed url=https://www2.education.vic.gov.au/pal/special-payments/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:26:08.8904890+10:00 PROCESSING id=5 url=https://www2.education.vic.gov.au/pal/overpayments/policy
+2026-04-26T13:26:30.0597187+10:00 FAILED id=5 error=fetch_failed url=https://www2.education.vic.gov.au/pal/overpayments/policy code=500 msg=5xx persistent (远程服务器返回错误: (500) 内部服务器错误。)
+2026-04-26T13:26:30.0627327+10:00 PROCESSING id=8 url=https://www2.education.vic.gov.au/pal/annual-leave-teaching-service/policy
+2026-04-26T13:26:31.8077288+10:00 ENRICHED id=8
+2026-04-26T13:26:31.8107307+10:00 BUILD_START
+2026-04-26T13:26:34.9583653+10:00 BUILD_OK
+2026-04-26T13:26:34.9834567+10:00 COMMIT_START ids=8
