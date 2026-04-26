@@ -544,3 +544,18 @@
 2026-04-26T14:22:07.8213318+10:00 BUILD_START
 2026-04-26T14:22:11.2170126+10:00 BUILD_OK
 2026-04-26T14:22:11.2505451+10:00 COMMIT_START ids=96,97,98
+2026-04-26T14:22:11.5501955+10:00 COMMITTED ids=96,97,98
+2026-04-26T14:22:11.5581941+10:00 DEPLOY_START
+2026-04-26T14:22:25.1456168+10:00 DEPLOYED
+2026-04-26T14:22:25.1561290+10:00 RUN_END succeeded=3 failed=0 remaining=31
+2026-04-26T14:23:47.3105444+10:00 RUN_START
+2026-04-26T14:23:47.3929624+10:00 BATCH_TAKEN size=3 ids=99,100,101
+2026-04-26T14:23:47.4003083+10:00 PROCESSING id=99 url=https://www2.education.vic.gov.au/pal/international-student-program/policy
+2026-04-26T14:24:07.5103374+10:00 FAILED id=99 error=fetch_failed url=https://www2.education.vic.gov.au/pal/international-student-program/policy network_error msg=未能解析此远程名称: 'www2.education.vic.gov.au'
+2026-04-26T14:24:07.5263352+10:00 PROCESSING id=100 url=https://www2.education.vic.gov.au/pal/work-experience/policy
+2026-04-26T14:24:27.5760250+10:00 FAILED id=100 error=fetch_failed url=https://www2.education.vic.gov.au/pal/work-experience/policy network_error msg=未能解析此远程名称: 'www2.education.vic.gov.au'
+2026-04-26T14:24:27.5800611+10:00 PROCESSING id=101 url=https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy
+2026-04-26T14:25:12.2688087+10:00 ENRICHED id=101
+2026-04-26T14:25:12.2728146+10:00 BUILD_START
+2026-04-26T14:25:16.1329007+10:00 BUILD_OK
+2026-04-26T14:25:16.1639111+10:00 COMMIT_START ids=101

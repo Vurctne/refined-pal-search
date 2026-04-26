@@ -1419,6 +1419,28 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:22:11.2455455+10:00"
+                  },
+                  {
+                      "db_id":  101,
+                      "title":  "Structured Workplace Learning",
+                      "url":  "https://www2.education.vic.gov.au/pal/structured-workplace-learning/policy",
+                      "current_state":  {
+                                            "has_tabs":  false,
+                                            "has_chapters":  false,
+                                            "has_resources":  false,
+                                            "chapter_count":  0,
+                                            "resource_count":  0,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters",
+                                             "needs_resources",
+                                             "needs_tabs"
+                                         ],
+                      "priority":  2,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:25:16.1538990+10:00"
                   }
               ]
 }
