@@ -57,8 +57,11 @@ const PAL_POLICIES = [
       { title: 'Apply via eduPay Employee Self Service (ESS)', note: 'primary method' },
       { title: 'Leave Administration Procedure (Word)', note: '' },
       { title: 'Australian Health Practitioner Regulation Agency (AHPRA)', note: 'list of registered practitioners' }
-    ]
-  },
+    ],
+  chapters: [
+    { title: 'Introduction Personal leave entitlement Applications for personal leave Required document Fitness for duty Other related leave provisions', href: 'https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance' }
+  ],
+},
   { id: 7, title: 'Long Service Leave — Teaching Service', category: 'HR - Leave', tags: ['lsl', 'long service', '7 years', '10 years', 'edupay ess', '495 hours', '3 months'], summary: '495.7 hours (3 months) LSL after 10 years eligible service; 247.8 hours (1.5 months) per 5 years thereafter. Pro-rata access after 7 years. View on eduPay ESS.', url: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines', popular: true,
     tabs: { overview: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/long-service-leave-teaching-service/resources' },
     chapters: [

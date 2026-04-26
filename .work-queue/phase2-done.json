@@ -1505,6 +1505,26 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T14:26:23.2514299+10:00"
+                  },
+                  {
+                      "db_id":  6,
+                      "title":  "Personal Leave — Teaching Service",
+                      "url":  "https://www2.education.vic.gov.au/pal/personal-leave-teaching-service/policy-and-guidance",
+                      "current_state":  {
+                                            "has_tabs":  true,
+                                            "has_chapters":  false,
+                                            "has_resources":  true,
+                                            "chapter_count":  0,
+                                            "resource_count":  3,
+                                            "chapters_have_tails":  false
+                                        },
+                      "actions_needed":  [
+                                             "needs_full_chapters"
+                                         ],
+                      "priority":  3,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T14:27:51.9597560+10:00"
                   }
               ]
 }
