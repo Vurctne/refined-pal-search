@@ -1,41 +1,8 @@
 ﻿{
     "phase":  "phase3",
     "created_at":  "2026-04-26T00:00:00+00:00",
-    "total":  347,
+    "total":  344,
     "items":  [
-                  {
-                      "new_id":  132.4,
-                      "pal_title":  "Visitors in Schools",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/visitors",
-                      "pal_native_category":  "School operations and student administration",
-                      "suggested_db_category":  "School Operations",
-                      "category_certain":  true,
-                      "priority":  1,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  132.5,
-                      "pal_title":  "Volunteers in Schools",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/volunteers",
-                      "pal_native_category":  "School operations and student administration",
-                      "suggested_db_category":  "School Operations",
-                      "category_certain":  true,
-                      "priority":  1,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
-                  {
-                      "new_id":  136.7,
-                      "pal_title":  "Supporting Students in Out-of-Home Care",
-                      "pal_url":  "https://www2.education.vic.gov.au/pal/supporting-students-out-home-care",
-                      "pal_native_category":  "Student health, safety, wellbeing and engagement",
-                      "suggested_db_category":  "Students",
-                      "category_certain":  true,
-                      "priority":  1,
-                      "attempts":  0,
-                      "status":  "pending"
-                  },
                   {
                       "new_id":  106.5,
                       "pal_title":  "Audits, Reviews and Assurance Programs in Schools",

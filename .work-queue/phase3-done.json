@@ -35,6 +35,42 @@
                       "attempts":  0,
                       "status":  "pending",
                       "completed_at":  "2026-04-26T19:10:17.8729683+10:00"
+                  },
+                  {
+                      "new_id":  132.4,
+                      "pal_title":  "Visitors in Schools",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/visitors",
+                      "pal_native_category":  "School operations and student administration",
+                      "suggested_db_category":  "School Operations",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:11:52.3256928+10:00"
+                  },
+                  {
+                      "new_id":  132.5,
+                      "pal_title":  "Volunteers in Schools",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/volunteers",
+                      "pal_native_category":  "School operations and student administration",
+                      "suggested_db_category":  "School Operations",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:11:52.3286934+10:00"
+                  },
+                  {
+                      "new_id":  136.7,
+                      "pal_title":  "Supporting Students in Out-of-Home Care",
+                      "pal_url":  "https://www2.education.vic.gov.au/pal/supporting-students-out-home-care",
+                      "pal_native_category":  "Student health, safety, wellbeing and engagement",
+                      "suggested_db_category":  "Students",
+                      "category_certain":  true,
+                      "priority":  1,
+                      "attempts":  0,
+                      "status":  "pending",
+                      "completed_at":  "2026-04-26T19:11:52.3296927+10:00"
                   }
               ]
 }

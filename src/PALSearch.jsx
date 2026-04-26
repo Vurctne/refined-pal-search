@@ -1857,6 +1857,47 @@ const PAL_POLICIES = [
       { title: 'Strategic planning for digital technologies', url: 'https://www2.education.vic.gov.au/pal/digital-learning/guidance/strategic-planning-for-digital-technologies' }
     ]
   }
+,
+  { id: 132.4, title: 'Visitors in Schools', category: 'School Operations', tags: ['visitors', 'schools', 'screen', 'policy', 'supervise', 'minimum', 'measures', 'purpose', 'effectively', 'place'], summary: 'The purpose of this policy is to ensure schools have measures in place to effectively screen, manage and supervise all visitors. At a minimum, these policies and procedures must:', url: 'https://www2.education.vic.gov.au/pal/visitors/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/visitors/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/visitors/policy', resources: 'https://www2.education.vic.gov.au/pal/visitors/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Types of visitors', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Visiting speakers', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Talent scouts', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' },
+      { title: 'Relevant legislation', url: 'https://www2.education.vic.gov.au/pal/visitors/policy' }
+    ]
+  }
+,
+  { id: 132.5, title: 'Volunteers in Schools', category: 'School Operations', tags: ['volunteers', 'schools', 'school', 'policy', 'rights', 'purpose', 'volunteer', 'legal', 'available', 'workers'], summary: 'The purpose of this policy is to explain the legal rights of volunteer school workers and the responsibilities of schools in managing volunteers. is available on the School Policy Templates Portal.', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/volunteers/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/volunteers/policy', resources: 'https://www2.education.vic.gov.au/pal/volunteers/resources' },
+    chapters: [
+      { title: 'Summary', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Details', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Volunteer school and student workers', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Assessing volunteer suitability', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Managing volunteers', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Compensation for personal injury or property damage', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Liability', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Centrelink benefit recipients volunteering to work in schools', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Definitions', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' },
+      { title: 'Relevant legislation and ministerial order', url: 'https://www2.education.vic.gov.au/pal/volunteers/policy' }
+    ]
+  }
+,
+  { id: 136.7, title: 'Supporting Students in Out-of-Home Care', category: 'Students', tags: ['supporting', 'students', 'out-of-home', 'care', 'partnering', 'agreement', 'obligations', 'schools', '2018', 'policy'], summary: 'This policy provides an overview of out-of-home care and to outline schools’ obligations under the Out-of-Home-Care Education Commitment: a Partnering Agreement 2018 (DOCX) External Link (the Partnering Agreement). Under the Partnering Agreement, schools must meet certain obligations to students in out-of-home care.', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/policy', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/policy', resources: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/resources' },
+    chapters: [
+      { title: '1 Appointing a learning mentor', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/appointing-learning-mentor' },
+      { title: '2 Assign a Student Support Group to the student', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/2-assign-student-support-group-student' },
+      { title: '3 Developing an Individual Education Plan', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/3-developing-individual-education-plan' },
+      { title: '4 Make a referral for an Educational Needs Analysis', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/4-make-referral-educational-needs-analysis' },
+      { title: '5 Nominating a designated teacher', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/5-nominating-designated-teacher' },
+      { title: '6 Introduction to Educational Needs Analysis Guidance', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/6-introduction-educational-needs-analysis-guidance' },
+      { title: '7 Educational Needs Analysis Process', url: 'https://www2.education.vic.gov.au/pal/supporting-students-out-home-care/guidance/7-educational-needs-analysis-process' }
+    ]
+  }
 ];
 
 const CATEGORIES = [
