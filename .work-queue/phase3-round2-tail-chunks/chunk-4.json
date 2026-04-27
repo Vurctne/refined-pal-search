@@ -1,0 +1,60 @@
+{
+  "by_entry": {
+    "106.5": {
+      "title": "Audits, Reviews and Assurance Programs in Schools",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy",
+      "summary": "This page provides an overview of the department’s regular audits, reviews and other assurance activities held in Victorian government schools. The department conducts a number of audits, reviews and other assurance activities in Victorian government schools.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "106.8": {
+      "title": "Canteens",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/canteens/policy",
+      "summary": "This policy directs schools to information about the requirements for school canteens. This page links schools to information about: When establishing and managing a canteen, schools must comply with:",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Contact",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/canteens/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "106.9": {
+      "title": "Career Education Funding",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/career-education-funding/policy",
+      "summary": "This policy outlines the requirements for schools in receipt of career education funding. Career education funding supports Victorian government secondary schools, including specialist schools and English language schools, to supplement the delivery of career education activities to all students in Years 7 to 12.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/career-education-funding/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "107.4": {
+      "title": "Procuring Low-value Construction Works or Services",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy",
+      "summary": "This policy sets out actions that schools must take to procure construction works or services valued between $5,000 and $150,000 (including GST). for instructions on how to procure construction contracts valued between $5,000 and $150,000 (including GST) in compliance with this policy.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy",
+          "snippet": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "by_entry": {
+    "106.1": {
+      "title": "VCE Vocational Major and Victorian Pathways Certificate Provision",
+      "category": "Curriculum",
+      "url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+      "summary": "This policy outlines the provision expectation for the Victorian Certificate of Education (VCE) Vocational Major (VM) and Victorian Pathways Certificate (VPC) for Victorian government secondary schools. The VCE VM is a 2-year vocational and applied learning program that enables students to transition into apprenticeships, traineeships, further education and training and university (via non-ATAR pathways).",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "107.3": {
+      "title": "Private Vehicle Use",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+      "summary": "The purpose of this policy is to ensure schools meet safety and legal requirements when using private vehicles for official business. Schools must not direct staff members to transport other staff, students or equipment.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Related topics",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "109.5": {
+      "title": "Leave — Bushfire, Flood or Other Severe Weather Event",
+      "category": "HR - Leave",
+      "url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+      "summary": "As part of the department’s duty of care principals or managers need to ensure they act sensitively towards employees whose circumstances require them to be absent from the school or workplace as a result of bushfire, flood or other severe weather event. Employees are affected in many ways either directly or indirectly, including through the loss of family or friends or through the loss or damage to their homes and property.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Contact information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+          "snippet": "Leave — Bushfire, Flood or Other Severe ... Leave — Bushfire, Flood or Other Severe Weather Event topic Policy and Guidelines Policy and Guidelines for Leave — Bushfire, Flood or Other S... Leave – Bushfire, Flood or Other Severe Weather Event Overview Reviewed 01 August 2025"
+        }
+      ]
+    }
+  }
+}

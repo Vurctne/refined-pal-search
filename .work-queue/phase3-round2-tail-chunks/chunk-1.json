@@ -1,0 +1,48 @@
+{
+  "by_entry": {
+    "108": {
+      "title": "Student Resource Package – Targeted Initiatives",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy",
+      "summary": "This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for targeted initiatives. Funding for ‘targeted initiatives’ is one of 3 categories of funding provided for by the SRP.",
+      "chapters": [
+        {
+          "chapter_idx": 24,
+          "chapter_title": "Specialist School Activity Boost (Reference 147)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/specialist-school-activity-boost",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 25,
+          "chapter_title": "Flexible work for school leaders initiative (Reference 151)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-school-leaders-initiative-reference-151",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 26,
+          "chapter_title": "Hindi and Punjabi beacon schools (Reference 152)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/hindi-and-punjabi-beacon-schools-reference-152",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 27,
+          "chapter_title": "Flexible Work for Classroom Teachers initiative (Reference 154)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-classroom-teachers-initiative-reference-154",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 28,
+          "chapter_title": "Aspiring Koorie Teachers Now Program (Reference 155)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/aspiring-koorie-teachers-now-program-reference-155",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 29,
+          "chapter_title": "Operational Teaching Assistants Pilot (Reference 156)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/operational-teaching-assistants-pilot-reference-156",
+          "snippet": ""
+        }
+      ]
+    }
+  }
+}

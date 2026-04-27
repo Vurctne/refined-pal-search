@@ -1,0 +1,66 @@
+{
+  "by_entry": {
+    "132.4": {
+      "title": "Visitors in Schools",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+      "summary": "The purpose of this policy is to ensure schools have measures in place to effectively screen, manage and supervise all visitors. At a minimum, these policies and procedures must:",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Types of visitors",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+          "snippet": "Visitors may include, but are not limited to:"
+        }
+      ]
+    },
+    "108.2": {
+      "title": "Vehicles (Excluding Buses) – Owned or Hired by a School",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/vehicles/policy",
+      "summary": "This policy sets out the requirements for vehicles owned or hired by a school, excluding buses. Schools are permitted to own or hire vehicles seating up to 9 adults (including the driver) for school activities.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vehicles/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "132.5": {
+      "title": "Volunteers in Schools",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+      "summary": "The purpose of this policy is to explain the legal rights of volunteer school workers and the responsibilities of schools in managing volunteers. is available on the School Policy Templates Portal.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "110.2": {
+      "title": "Access to Health Information — Employees",
+      "category": "HR - Pay",
+      "url": "https://www2.education.vic.gov.au/pal/access-health-information",
+      "summary": "The Health Records Act 2001 provides a legally enforceable right for people to access health information held about them in Victoria. Employees also have a right to seek access under the Freedom of Information Act 1982 to information about them including medical reports and referral letters held at the school and by the Department.",
+      "chapters": [
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/access-health-information",
+          "snippet": ""
+        }
+      ]
+    }
+  }
+}

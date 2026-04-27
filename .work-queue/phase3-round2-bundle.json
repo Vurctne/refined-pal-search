@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-04-27",
+  "phase": "phase3-round2",
+  "by_entry": {
+    "106.1": {
+      "title": "VCE Vocational Major and Victorian Pathways Certificate Provision",
+      "category": "Curriculum",
+      "url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+      "summary": "This policy outlines the provision expectation for the Victorian Certificate of Education (VCE) Vocational Major (VM) and Victorian Pathways Certificate (VPC) for Victorian government secondary schools. The VCE VM is a 2-year vocational and applied learning program that enables students to transition into apprenticeships, traineeships, further education and training and university (via non-ATAR pathways).",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Details",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 9,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vce-vocational-major-vpc-provision/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "106.5": {
+      "title": "Audits, Reviews and Assurance Programs in Schools",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy",
+      "summary": "This page provides an overview of the department’s regular audits, reviews and other assurance activities held in Victorian government schools. The department conducts a number of audits, reviews and other assurance activities in Victorian government schools.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/audits-reviews-assurance-programs-schools/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "106.8": {
+      "title": "Canteens",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/canteens/policy",
+      "summary": "This policy directs schools to information about the requirements for school canteens. This page links schools to information about: When establishing and managing a canteen, schools must comply with:",
+      "chapters": [
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Contact",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/canteens/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "106.9": {
+      "title": "Career Education Funding",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/career-education-funding/policy",
+      "summary": "This policy outlines the requirements for schools in receipt of career education funding. Career education funding supports Victorian government secondary schools, including specialist schools and English language schools, to supplement the delivery of career education activities to all students in Years 7 to 12.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/career-education-funding/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "107.3": {
+      "title": "Private Vehicle Use",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+      "summary": "The purpose of this policy is to ensure schools meet safety and legal requirements when using private vehicles for official business. Schools must not direct staff members to transport other staff, students or equipment.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 6,
+          "chapter_title": "Related topics",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/private-vehicle-use/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "107.4": {
+      "title": "Procuring Low-value Construction Works or Services",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy",
+      "summary": "This policy sets out actions that schools must take to procure construction works or services valued between $5,000 and $150,000 (including GST). for instructions on how to procure construction contracts valued between $5,000 and $150,000 (including GST) in compliance with this policy.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "108": {
+      "title": "Student Resource Package – Targeted Initiatives",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/policy",
+      "summary": "This policy provides information about how funding is allocated to schools through the Student Resource Package (SRP) for targeted initiatives. Funding for ‘targeted initiatives’ is one of 3 categories of funding provided for by the SRP.",
+      "chapters": [
+        {
+          "chapter_idx": 24,
+          "chapter_title": "Specialist School Activity Boost (Reference 147)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/specialist-school-activity-boost",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 25,
+          "chapter_title": "Flexible work for school leaders initiative (Reference 151)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-school-leaders-initiative-reference-151",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 26,
+          "chapter_title": "Hindi and Punjabi beacon schools (Reference 152)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/hindi-and-punjabi-beacon-schools-reference-152",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 27,
+          "chapter_title": "Flexible Work for Classroom Teachers initiative (Reference 154)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/flexible-work-for-classroom-teachers-initiative-reference-154",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 28,
+          "chapter_title": "Aspiring Koorie Teachers Now Program (Reference 155)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/aspiring-koorie-teachers-now-program-reference-155",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 29,
+          "chapter_title": "Operational Teaching Assistants Pilot (Reference 156)",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/student-resource-package-srp-targeted-initiatives/guidance/operational-teaching-assistants-pilot-reference-156",
+          "snippet": ""
+        }
+      ]
+    },
+    "108.2": {
+      "title": "Vehicles (Excluding Buses) – Owned or Hired by a School",
+      "category": "Finance",
+      "url": "https://www2.education.vic.gov.au/pal/vehicles/policy",
+      "summary": "This policy sets out the requirements for vehicles owned or hired by a school, excluding buses. Schools are permitted to own or hire vehicles seating up to 9 adults (including the driver) for school activities.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/vehicles/policy",
+          "snippet": ""
+        }
+      ]
+    },
+    "109.5": {
+      "title": "Leave — Bushfire, Flood or Other Severe Weather Event",
+      "category": "HR - Leave",
+      "url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+      "summary": "As part of the department’s duty of care principals or managers need to ensure they act sensitively towards employees whose circumstances require them to be absent from the school or workplace as a result of bushfire, flood or other severe weather event. Employees are affected in many ways either directly or indirectly, including through the loss of family or friends or through the loss or damage to their homes and property.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 2,
+          "chapter_title": "Contact information",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event",
+          "snippet": "Leave — Bushfire, Flood or Other Severe ... Leave — Bushfire, Flood or Other Severe Weather Event topic Policy and Guidelines Policy and Guidelines for Leave — Bushfire, Flood or Other S... Leave – Bushfire, Flood or Other Severe Weather Event Overview Reviewed 01 August 2025"
+        }
+      ]
+    },
+    "110.2": {
+      "title": "Access to Health Information — Employees",
+      "category": "HR - Pay",
+      "url": "https://www2.education.vic.gov.au/pal/access-health-information",
+      "summary": "The Health Records Act 2001 provides a legally enforceable right for people to access health information held about them in Victoria. Employees also have a right to seek access under the Freedom of Information Act 1982 to information about them including medical reports and referral letters held at the school and by the Department.",
+      "chapters": [
+        {
+          "chapter_idx": 4,
+          "chapter_title": "Relevant legislation",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/access-health-information",
+          "snippet": ""
+        }
+      ]
+    },
+    "132.4": {
+      "title": "Visitors in Schools",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+      "summary": "The purpose of this policy is to ensure schools have measures in place to effectively screen, manage and supervise all visitors. At a minimum, these policies and procedures must:",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+          "snippet": ""
+        },
+        {
+          "chapter_idx": 3,
+          "chapter_title": "Types of visitors",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/visitors/policy",
+          "snippet": "Visitors may include, but are not limited to:"
+        }
+      ]
+    },
+    "132.5": {
+      "title": "Volunteers in Schools",
+      "category": "School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+      "summary": "The purpose of this policy is to explain the legal rights of volunteer school workers and the responsibilities of schools in managing volunteers. is available on the School Policy Templates Portal.",
+      "chapters": [
+        {
+          "chapter_idx": 1,
+          "chapter_title": "Summary",
+          "chapter_url": "https://www2.education.vic.gov.au/pal/volunteers/policy",
+          "snippet": ""
+        }
+      ]
+    }
+  }
+}

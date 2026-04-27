@@ -1,0 +1,50 @@
+{
+  "by_entry": {
+    "108": {
+      "24": "Reference 147, SRP, specialist schools, activity boost, disability, per-capita funding",
+      "25": "Reference 151, school leaders, principals, flexible work, VGSA, FTE",
+      "26": "Reference 152, Hindi, Punjabi, beacon schools, LOTE, community language",
+      "27": "Reference 154, classroom teachers, flexible work, VGSA, FTE, part-time",
+      "28": "Reference 155, AKTNP, Koorie, Aboriginal, aspiring teachers, traineeship",
+      "29": "Reference 156, teaching assistants, OTA, pilot, classroom support, FTE"
+    },
+    "106.1": {
+      "1": "VCE VM, VPC, 2-year program, non-ATAR pathways, apprenticeships, traineeships",
+      "2": "VCAA registration, government secondary schools, delivery obligation, VPC replaces VCAL, AQF, VM units",
+      "9": "Education and Training Reform Act 2006, VCAA, Australian Education Act 2013, School Education Act 1999"
+    },
+    "107.3": {
+      "1": "comprehensive insurance, official business, reimbursement, staff transport prohibition, legal liability, logbook",
+      "6": "Transport of Students, School Excursions, Reimbursement of Expenses, Workers Compensation, Duty of Care"
+    },
+    "109.5": {
+      "1": "Victorian Public Service Agreement, VGSA 2022, Emergency Management Act 2013, OHS Act 2004, special leave, personal leave",
+      "2": "People Division, HR advisory, Schools People and Performance, leave approval, regional HR"
+    },
+    "132.4": {
+      "1": "screening, sign-in, identity verification, Working with Children Check, supervision, visitor register",
+      "3": "emergency services, contractors, parents, volunteers, allied health, school council members, Working with Children Check"
+    },
+    "108.2": {
+      "1": "up to 9 adults, including driver, owned or hired, school activities, excluding buses"
+    },
+    "132.5": {
+      "1": "volunteer school workers, legal rights, school responsibilities, School Policy Templates Portal"
+    },
+    "110.2": {
+      "4": "Health Records Act 2001, Privacy and Data Protection Act 2014, Public Records Act 1973, Charter of Human Rights and Responsibilities Act 2006, Freedom of Information Act 1982"
+    },
+    "106.5": {
+      "1": "VAGO, internal audit, self-assessment, compliance review, FRG, assurance activities"
+    },
+    "106.8": {
+      "2": "Healthy Eating Advisory Service, Nutrition Australia, HEAS, Health Wellbeing and Inclusion, canteen enquiries"
+    },
+    "106.9": {
+      "1": "Years 7 to 12, secondary schools, specialist schools, English language schools, career practitioners, Job Skills and Pathways"
+    },
+    "107.4": {
+      "1": "$5,000, $150,000, GST, VGPB, ProSchools, panel contractor, minor works"
+    }
+  }
+}
