@@ -1,0 +1,277 @@
+{
+  "chunk_idx": 7,
+  "items": [
+    {
+      "title": "Teaching and Learning Resources \u2013 Selecting Appropriate Materials",
+      "url": "https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-02-24",
+      "suggested_db_category": "Curriculum",
+      "new_id": 480
+    },
+    {
+      "title": "Teaching with Animals",
+      "url": "https://www2.education.vic.gov.au/pal/teaching-with-animals",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "Curriculum",
+      "new_id": 481
+    },
+    {
+      "title": "Testing and Tagging of Electrical Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-04-01",
+      "suggested_db_category": "OHS",
+      "new_id": 482
+    },
+    {
+      "title": "Time in Lieu \u2013 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2022-10-10",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 483
+    },
+    {
+      "title": "Trade Training Centres",
+      "url": "https://www2.education.vic.gov.au/pal/trade-training-centres",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-21",
+      "suggested_db_category": "Curriculum",
+      "new_id": 484
+    },
+    {
+      "title": "Trade Union Training Leave",
+      "url": "https://www2.education.vic.gov.au/pal/trade-union-training-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2022-06-14",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 485
+    },
+    {
+      "title": "Traffic Management",
+      "url": "https://www2.education.vic.gov.au/pal/traffic-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-06",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 486
+    },
+    {
+      "title": "Transition \u2013 Early Childhood to School",
+      "url": "https://www2.education.vic.gov.au/pal/transition-early-childhood-school",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-01-04",
+      "suggested_db_category": "Curriculum",
+      "new_id": 487
+    },
+    {
+      "title": "Transport Accident Commission (TAC) Leave",
+      "url": "https://www2.education.vic.gov.au/pal/transport-accident-commission-leave",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-18",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 488
+    },
+    {
+      "title": "Transport Event",
+      "url": "https://www2.education.vic.gov.au/pal/transport-event",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-18",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 489
+    },
+    {
+      "title": "Tree and Vegetation Management",
+      "url": "https://www2.education.vic.gov.au/pal/tree-vegetation-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2025-06-27",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 490
+    },
+    {
+      "title": "Trespass",
+      "url": "https://www2.education.vic.gov.au/pal/trespass",
+      "category": "School operations and student administration",
+      "last_updated": "2020-01-23",
+      "suggested_db_category": "School Operations",
+      "new_id": 491
+    },
+    {
+      "title": "Ventilation and Air Purification",
+      "url": "https://www2.education.vic.gov.au/pal/ventilation-air-purification",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-10-18",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 492
+    },
+    {
+      "title": "Victorian Public Sector Employment Principles and Standards",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 493
+    },
+    {
+      "title": "Victorian School Nursing Program",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-school-nursing-program",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-01-17",
+      "suggested_db_category": "Students",
+      "new_id": 494
+    },
+    {
+      "title": "Victorian Teaching and Learning Model 2.0",
+      "url": "https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-06-13",
+      "suggested_db_category": "Curriculum",
+      "new_id": 495
+    },
+    {
+      "title": "Visual and Performing Arts \u2013 Safety",
+      "url": "https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts",
+      "category": "Occupational health and safety",
+      "last_updated": "2025-11-03",
+      "suggested_db_category": "OHS",
+      "new_id": 496
+    },
+    {
+      "title": "Vocational Education and Training Clusters",
+      "url": "https://www2.education.vic.gov.au/pal/vocational-education-training-clusters",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-21",
+      "suggested_db_category": "Curriculum",
+      "new_id": 497
+    },
+    {
+      "title": "Vocational Education and Training Delivered to School Students",
+      "url": "https://www2.education.vic.gov.au/pal/vet-delivered-school-students",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-03-28",
+      "suggested_db_category": "Curriculum",
+      "new_id": 498
+    },
+    {
+      "title": "Voice Care for Teachers",
+      "url": "https://www2.education.vic.gov.au/pal/voice-care-teachers",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-15",
+      "suggested_db_category": "OHS",
+      "new_id": 499
+    },
+    {
+      "title": "Volunteer OHS Management",
+      "url": "https://www2.education.vic.gov.au/pal/volunteer-ohs-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-12-22",
+      "suggested_db_category": "OHS",
+      "new_id": 500
+    },
+    {
+      "title": "Walk to School Activities",
+      "url": "https://www2.education.vic.gov.au/pal/walk-school-activities",
+      "category": "School operations and student administration",
+      "last_updated": "2020-12-24",
+      "suggested_db_category": "School Operations",
+      "new_id": 501
+    },
+    {
+      "title": "Wastewater Treatment Systems",
+      "url": "https://www2.education.vic.gov.au/pal/wastewater-treatment-systems",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-01-06",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 502
+    },
+    {
+      "title": "Water \u2013 Private Drinking Water",
+      "url": "https://www2.education.vic.gov.au/pal/private-drinking-water",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-03-31",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 503
+    },
+    {
+      "title": "Weapons and Other Harmful Items \u2013 Banning, Searching and Seizing",
+      "url": "https://www2.education.vic.gov.au/pal/weapons",
+      "category": "School operations and student administration",
+      "last_updated": "2020-10-01",
+      "suggested_db_category": "School Operations",
+      "new_id": 504
+    },
+    {
+      "title": "Work Requirements \u2014 Teachers",
+      "url": "https://www2.education.vic.gov.au/pal/work-requirements-teachers",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-19",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 505
+    },
+    {
+      "title": "Work-Related Driving",
+      "url": "https://www2.education.vic.gov.au/pal/work-related-driving",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-15",
+      "suggested_db_category": "OHS",
+      "new_id": 506
+    },
+    {
+      "title": "Workforce Management \u2014 Schools",
+      "url": "https://www2.education.vic.gov.au/pal/workforce-management-schools",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-27",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 507
+    },
+    {
+      "title": "Working Alone, in Isolation or from Home",
+      "url": "https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-29",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 508
+    },
+    {
+      "title": "Working in More Than One School",
+      "url": "https://www2.education.vic.gov.au/pal/working-more-one-school",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-02-27",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 509
+    },
+    {
+      "title": "Working with Children Checks and other Suitability Checks for School Volunteers and Visitors",
+      "url": "https://www2.education.vic.gov.au/pal/suitability-checks",
+      "category": "School operations and student administration",
+      "last_updated": "2022-07-12",
+      "suggested_db_category": "School Operations",
+      "new_id": 510
+    },
+    {
+      "title": "Workplace Safety Inspections",
+      "url": "https://www2.education.vic.gov.au/pal/workplace-inspections",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-11-22",
+      "suggested_db_category": "OHS",
+      "new_id": 511
+    },
+    {
+      "title": "Young Carers \u2013 Identification and Support",
+      "url": "https://www2.education.vic.gov.au/pal/young-carers-identification-and-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-03-25",
+      "suggested_db_category": "Students",
+      "new_id": 512
+    },
+    {
+      "title": "Youth Justice \u2013 Additional Support for Young People",
+      "url": "https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-15",
+      "suggested_db_category": "Students",
+      "new_id": 513
+    }
+  ]
+}

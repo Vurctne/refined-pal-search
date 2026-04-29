@@ -1,0 +1,325 @@
+{
+  "chunk_idx": 0,
+  "items": [
+    {
+      "title": "Aboriginal Employment",
+      "url": "https://www2.education.vic.gov.au/pal/aboriginal-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-13",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 200
+    },
+    {
+      "title": "Accessible Buildings Program",
+      "url": "https://www2.education.vic.gov.au/pal/accessible-buildings-program",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 201
+    },
+    {
+      "title": "Acknowledgement of Traditional Owners and Welcome to Country in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "School Operations",
+      "new_id": 202
+    },
+    {
+      "title": "Advertising",
+      "url": "https://www2.education.vic.gov.au/pal/advertising",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 203
+    },
+    {
+      "title": "Air Quality \u2013 Impact of Smoke on Health",
+      "url": "https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health",
+      "category": "Occupational health and safety",
+      "last_updated": "2021-11-04",
+      "suggested_db_category": "OHS",
+      "new_id": 204
+    },
+    {
+      "title": "Alcohol and Other Drugs \u2013 Students",
+      "url": "https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-07-09",
+      "suggested_db_category": "Students",
+      "new_id": 205
+    },
+    {
+      "title": "Alcohol at School Events",
+      "url": "https://www2.education.vic.gov.au/pal/alcohol-school-events",
+      "category": "School councils",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "School Council",
+      "new_id": 206
+    },
+    {
+      "title": "Amusement Rides, Attractions and Fireworks",
+      "url": "https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-10-10",
+      "suggested_db_category": "OHS",
+      "new_id": 207
+    },
+    {
+      "title": "Animals \u2013 Wellbeing and Engagement",
+      "url": "https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-10-08",
+      "suggested_db_category": "Students",
+      "new_id": 208
+    },
+    {
+      "title": "Annual Implementation Plan (AIP)",
+      "url": "https://www2.education.vic.gov.au/pal/annual-implementation-plan",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-09-01",
+      "suggested_db_category": "Curriculum",
+      "new_id": 209
+    },
+    {
+      "title": "Annual Report to the School Community",
+      "url": "https://www2.education.vic.gov.au/pal/annual-report-schools-community",
+      "category": "School councils",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "School Council",
+      "new_id": 210
+    },
+    {
+      "title": "Asbestos Management",
+      "url": "https://www2.education.vic.gov.au/pal/asbestos",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 211
+    },
+    {
+      "title": "Asset Information Management System (AIMS)",
+      "url": "https://www2.education.vic.gov.au/pal/asset-information-management-system",
+      "category": "Information management, technology and security",
+      "last_updated": "2021-05-28",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 212
+    },
+    {
+      "title": "Asset Management Planning \u2013 School Upgrades",
+      "url": "https://www2.education.vic.gov.au/pal/asset-management-planning",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-05-22",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 213
+    },
+    {
+      "title": "Asset Management Roles and Responsibilities Framework",
+      "url": "https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-08-26",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 214
+    },
+    {
+      "title": "Assistant Principal Contract Renewal",
+      "url": "https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-08-31",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 215
+    },
+    {
+      "title": "Biological Materials Used in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/biological-materials-used-schools",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-17",
+      "suggested_db_category": "OHS",
+      "new_id": 216
+    },
+    {
+      "title": "Blood Spills and Open Wounds Management",
+      "url": "https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "OHS",
+      "new_id": 217
+    },
+    {
+      "title": "Blood-borne viruses",
+      "url": "https://www2.education.vic.gov.au/pal/blood-borne-viruses",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "OHS",
+      "new_id": 218
+    },
+    {
+      "title": "Building Quality Standards Handbook (BQSH) \u2013 School Construction and Design Standards",
+      "url": "https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-05-31",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 219
+    },
+    {
+      "title": "Bushfire and Grassfire Preparedness",
+      "url": "https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-17",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 220
+    },
+    {
+      "title": "Calendars \u2014 HR Administration",
+      "url": "https://www2.education.vic.gov.au/pal/calendars-hr-administration",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 221
+    },
+    {
+      "title": "Canteens, Healthy Eating and Other Food Services",
+      "url": "https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "School Operations",
+      "new_id": 222
+    },
+    {
+      "title": "Capacity and Area Allocation",
+      "url": "https://www2.education.vic.gov.au/pal/capacity-and-area-allocation",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 223
+    },
+    {
+      "title": "Capital Building Projects in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/capital-building-projects",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 224
+    },
+    {
+      "title": "Career Start",
+      "url": "https://www2.education.vic.gov.au/pal/career-start",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-11-09",
+      "suggested_db_category": "Curriculum",
+      "new_id": 225
+    },
+    {
+      "title": "Career Structure \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/career-structure-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 226
+    },
+    {
+      "title": "Careers and Recruitment",
+      "url": "https://www2.education.vic.gov.au/pal/careers-and-recruitment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 227
+    },
+    {
+      "title": "Casual Relief Teachers (CRTs)",
+      "url": "https://www2.education.vic.gov.au/pal/casual-relief-teachers",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 228
+    },
+    {
+      "title": "CCTV in Schools \u2013 Installation and Management",
+      "url": "https://www2.education.vic.gov.au/pal/cctv-in-schools",
+      "category": "Information management, technology and security",
+      "last_updated": "2021-12-06",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 229
+    },
+    {
+      "title": "Certification of Documents",
+      "url": "https://www2.education.vic.gov.au/pal/certification-documents",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 230
+    },
+    {
+      "title": "Chaplaincy",
+      "url": "https://www2.education.vic.gov.au/pal/chaplaincy",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "Students",
+      "new_id": 231
+    },
+    {
+      "title": "Chemical Management",
+      "url": "https://www2.education.vic.gov.au/pal/chemical-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-03-15",
+      "suggested_db_category": "OHS",
+      "new_id": 232
+    },
+    {
+      "title": "Child and Family Violence Information Sharing Schemes",
+      "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-03-17",
+      "suggested_db_category": "Students",
+      "new_id": 233
+    },
+    {
+      "title": "Child Link",
+      "url": "https://www2.education.vic.gov.au/pal/child-link",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-12",
+      "suggested_db_category": "Students",
+      "new_id": 234
+    },
+    {
+      "title": "Claims for Property Damage and Medical Expenses",
+      "url": "https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses",
+      "category": "School operations and student administration",
+      "last_updated": "2025-11-25",
+      "suggested_db_category": "School Operations",
+      "new_id": 235
+    },
+    {
+      "title": "Cleaning",
+      "url": "https://www2.education.vic.gov.au/pal/cleaning",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-20",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 236
+    },
+    {
+      "title": "Collection of Students",
+      "url": "https://www2.education.vic.gov.au/pal/collection-students",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 237
+    },
+    {
+      "title": "Community Use of Schools \u2013 Community Joint Use Agreements",
+      "url": "https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-11-16",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 238
+    },
+    {
+      "title": "Community Use of Schools \u2013 Hiring and Licensing",
+      "url": "https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-11-15",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 239
+    }
+  ]
+}

@@ -1,0 +1,2153 @@
+{
+  "chunk_idx": 5,
+  "processed": 40,
+  "succeeded": 40,
+  "failed": [],
+  "entries": [
+    {
+      "id": 400,
+      "title": "Release of Staff to Non-school Locations",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "January 2026",
+        "November 2025",
+        "release",
+        "non-school",
+        "locations",
+        "topic",
+        "content",
+        "advisory"
+      ],
+      "summary": "This topic has been retired. The relevant policy can now be found at Transfer and Promotion for Teaching Service External Link .",
+      "url": "https://www2.education.vic.gov.au/pal/release-non-school-locations",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/release-non-school-locations/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/release-non-school-locations/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/release-non-school-locations/resources"
+      }
+    },
+    {
+      "id": 401,
+      "title": "Religious Observance",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "February 2025",
+        "June 2020",
+        "HR",
+        "religious",
+        "observance",
+        "resources",
+        "content",
+        "advisory",
+        "library"
+      ],
+      "summary": "Refer to Policy and Guidelines tab.",
+      "url": "https://www2.education.vic.gov.au/pal/religious-observance",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/religious-observance/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/religious-observance/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/religious-observance/resources"
+      }
+    },
+    {
+      "id": 402,
+      "title": "Repeating a Year Level",
+      "category": "Curriculum",
+      "tags": [
+        "October 2025",
+        "3 months",
+        "2 years",
+        "DOCX",
+        "SSS",
+        "VCE",
+        "repeating",
+        "repeat",
+        "decision",
+        "parents"
+      ],
+      "summary": "This policy explains the department’s requirements on students repeating a year level.",
+      "url": "https://www2.education.vic.gov.au/pal/repeating-year-level",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/repeating-year-level/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/repeating-year-level/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy — 3 months, 2 years, DOCX, SSS, VCE, repeating",
+          "url": "https://www2.education.vic.gov.au/pal/repeating-year-level/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Repeating a year level information for principals(DOCX)External Link",
+          "note": "Repeating a year level information for principals (DOCX) External Link – this is a summary of the po",
+          "url": "https://content.sdp.education.vic.gov.au/media/repeating-year-level-information-for-principals-2353"
+        },
+        {
+          "title": "Repeating a year level information for families(DOCX)External Link",
+          "note": "Repeating a year level information for families (DOCX) External Link – this is a summary of the poli",
+          "url": "https://content.sdp.education.vic.gov.au/media/repeating-year-level-information-for-families-2352"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "title": "Report Fraud or Corruption",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "March 2026",
+        "June 2020",
+        "Commission External Link Public Interest Disclosures Act 2012",
+        "The Public Interest Disclosures Act 2012",
+        "Public Interest Disclosures Act 2012",
+        "PID",
+        "DOCX",
+        "IBAC",
+        "GPO",
+        "public"
+      ],
+      "summary": "If you have knowledge or reason to believe a departmental employee, contractor or service provider has been involved in fraudulent or corrupt conduct, you should report it as a complaint or public interest disclosure.",
+      "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/resources"
+      },
+      "chapters": [
+        {
+          "title": "Make a complaint — phone, email, fraud, control, avenues, taylor",
+          "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#make-a-complaint"
+        },
+        {
+          "title": "Make a public interest disclosure — IBAC, GPO, public, interest, disclosure, officers",
+          "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#make-a-public-interest-disclosure"
+        },
+        {
+          "title": "Public Interest Disclosures Act 2012 — the public interest disclosures act 2012, PID, DOCX, public, interest, disclosure",
+          "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#public-interest-disclosures-act-2012"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Making, handling and managing public interest disclosures(Word)External Link",
+          "note": "Making, handling and managing public interest disclosures (Word) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/sites/default/files/2020-06/Making%2C%20handling%20and%20managing%20public%20interest%20disclosures%20-%20procedures.docx"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "title": "Repurposing and Renaming School Spaces",
+      "category": "Infrastructure",
+      "tags": [
+        "February 2024",
+        "June 2020",
+        "SAMS",
+        "AIMS",
+        "VSBA",
+        "ESM",
+        "spaces",
+        "repurposing",
+        "renaming",
+        "changes"
+      ],
+      "summary": "This policy sets out requirements for schools repurposing or renaming spaces.",
+      "url": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy — SAMS, AIMS, ESM, changes, spaces, space",
+          "url": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "School Asset Drawing ChangesChecklistExternal Link",
+          "note": "School Asset Drawing Changes Checklist External Link",
+          "url": "https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/schoolassetdrawingchanges-checklist.pdf"
+        },
+        {
+          "title": "Application Form for Repurposing ofSpacesExternal Link",
+          "note": "Application Form for Repurposing of Spaces External Link — principals must complete and submit this ",
+          "url": "https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/repurposing-spaces-application-form.docx"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "title": "Requests for Information about Students",
+      "category": "IT & Privacy",
+      "tags": [
+        "December 2019",
+        "March 2026",
+        "Families Act 2005",
+        "Safety Act 2005",
+        "ICL",
+        "IBAC",
+        "ISE",
+        "FOI",
+        "sharing",
+        "child"
+      ],
+      "summary": "The purpose of this policy is to help schools determine when to disclose information about students to persons or entities external to the school and the Department.",
+      "url": "https://www2.education.vic.gov.au/pal/requests-about-students",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/requests-about-students/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/requests-about-students/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy — families act 2005, ICL, IBAC, ISE, sharing, child",
+          "url": "https://www2.education.vic.gov.au/pal/requests-about-students/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Privacy and Information Sharing",
+          "note": "This policy applies to external requests for information about students. For policy and guidance on ",
+          "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "For policy and guidance on sharing information under the Child Information Sharing Scheme and the Fa",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Responding to Legal Claims, Subpoenas, Summonses and Other Legal Documents",
+          "note": "If a school or staff member is served with a summons, subpoena, or court order, contact the Legal Di",
+          "url": "https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "Some Victorian court officials (such as Koorie Education Children’s Court Liaison Officers, Regional",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "In addition to sharing information with Child Protection for the above purposes, Child Protection ar",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "In addition to sharing information with health professionals for the above purposes, some health pro",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "For Department policy and guidance on managing requests for information using the Information Sharin",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Legal Claims, Subpoenas, Summonses and Other Legal Documents",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy"
+        },
+        {
+          "title": "Freedom of Information",
+          "note": "Parents, guardians, and informal carers requesting other documents (for example staff diary notes, i",
+          "url": "https://www2.education.vic.gov.au/pal/freedom-of-information/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "All Victorian schools are prescribed Information Sharing Entities under the Child Information Sharin",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Freedom of Information",
+          "note": "Refer to:",
+          "url": "https://www2.education.vic.gov.au/pal/freedom-of-information/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "In addition to sharing information with Victorian Police for the above purposes, Victoria Police are",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Freedom of Information",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/freedom-of-information/policy"
+        },
+        {
+          "title": "Legal Claims, Subpoenas, Summonses and Other Legal Documentation",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "title": "Research and Evaluation in Schools",
+      "category": "School Operations",
+      "tags": [
+        "January 2024",
+        "March 2023",
+        "18 years",
+        "RISEC",
+        "DOCX",
+        "research",
+        "evaluation",
+        "researchers",
+        "requests",
+        "conduct"
+      ],
+      "summary": "The purpose of this policy is to advise schools on processes to manage requests to conduct research in schools.",
+      "url": "https://www2.education.vic.gov.au/pal/research-in-schools",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/research-in-schools/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/research-in-schools/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy — 18 years, RISEC, DOCX, research, researchers, settings",
+          "url": "https://www2.education.vic.gov.au/pal/research-in-schools/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Privacy and Information Sharing",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "title": "Restraint and Seclusion",
+      "category": "OHS",
+      "tags": [
+        "April 2026",
+        "Ministerial Order 1388",
+        "Ministerial Order 1359",
+        "Responsibilities Act 2006",
+        "Safety Act 2005",
+        "External Link Disability Discrimination Act 1992",
+        "ISOC",
+        "EWSS",
+        "PROTECT",
+        "NDIS"
+      ],
+      "summary": "This policy outlines when physical restraint and seclusion are permitted to be used in Victorian government schools and lists practices that are not permitted to be used in Victorian government schools. This policy details reporting and notification requirements and the responsibilities school and department staff have in relation to incidents of physical restraint and seclusion.",
+      "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/restraint-seclusion/resources"
+      },
+      "chapters": [
+        {
+          "title": "Critical information about restraint and seclusion — restraint, seclusion, physical, prevent, expected, behaviour",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/critical-information-about-restraint-and-seclusion"
+        },
+        {
+          "title": "When physical restraint and seclusion are permitted — physical, restraint, physically, being, restrained, seclusion",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/when-physical-restraint-and-seclusion-are-permitted"
+        },
+        {
+          "title": "When physical restraint and seclusion are prohibited — DOCX, COVID, physical, restraint, seclusion, prohibited",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/when-physical-restraint-and-seclusion-are-prohibited"
+        },
+        {
+          "title": "Use of physical restraint and seclusion — seclusion, physical, restraint, immediately, necessary, protect",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/use-physical-restraint-and-seclusion"
+        },
+        {
+          "title": "Immediate response to a physical restraint or seclusion incident — incident, emergency, physical, restraint, seclusion, immediate",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/immediate-response"
+        },
+        {
+          "title": "Reporting — 3 hours, safety act 2004, ISOC, EWSS, incident, incidents",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/reporting"
+        },
+        {
+          "title": "Provide support — EWSS, wellbeing, physical, restraint, seclusion, employee",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/provide-support"
+        },
+        {
+          "title": "Document the incident — incident, physical, restraint, seclusion, records, document",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/document-incident"
+        },
+        {
+          "title": "Reflect on, review and learn from the physical restraint or seclusion incident — DOCX, incident, physical, restraint, seclusion, school-based",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/reflect-review-learn"
+        },
+        {
+          "title": "Professional development — EOI, TESSA, PIT, training, protective, external",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/professional-development-0"
+        },
+        {
+          "title": "The Principal Behaviour Support Adviser Unit — PBSA, ISOC, SEIL, restraint, seclusion, physical",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/principal-behaviour-support-adviser"
+        },
+        {
+          "title": "Department roles and responsibilities — PBSA, ISOC, restraint, seclusion, directors, regional",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/department-roles-and-responsibilities"
+        },
+        {
+          "title": "Definitions for restraint and seclusion — BSP, BCBA, RMP, behaviour, restraint, physical",
+          "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/definitions"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mechanical restraint transition plan template(DOCX)External Link",
+          "note": "Mechanical restraint transition plan template (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/mechanical-restraint-transition-plan-template-1979"
+        },
+        {
+          "title": "Responding to self-injurious behaviour(DOCX)External Link",
+          "note": "Responding to self-injurious behaviour (DOCX) External Link (staff login required)",
+          "url": "https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/responding-to-SIB.docx"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for students(DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for students (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-students-2255"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers(DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers (DOCX) External Link .",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-2231"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – Arabic(DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Arabic (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-arabic-docx-2232"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – Arabic(PDF)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Arabic (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-arabic-pdf-2233"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – Assyrian(DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Assyrian (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-assyrian-docx-2236"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – Assyrian(PDF)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Assyrian (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-assyrian-pdf-2238"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – ChinHakha (DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Chin Hakha (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-chin-hakha-docx-2239"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers – ChinHakha (PDF)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Chin Hakha (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-chin-hakha-pdf-2240"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers –Dari (DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Dari (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-dari-docx-2241"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers –Dari (PDF)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Dari (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-dari-pdf-2242"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers –Karen (DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Karen (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-karen-docx-2243"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers –Karen (PDF)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Karen (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-karen-pdf-2244"
+        },
+        {
+          "title": "Restraint and Seclusion Policy information for parents/carers –Khmer (DOCX)External Link",
+          "note": "Restraint and Seclusion Policy information for parents/carers – Khmer (DOCX) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-khmer-docx-2245"
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "title": "Right to Disconnect",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "February 2025",
+        "October 2024",
+        "Fair Work Act 2009",
+        "HR",
+        "right",
+        "disconnect",
+        "class",
+        "content",
+        "advisory",
+        "library"
+      ],
+      "summary": "This policy provides guidance to principals and managers on respecting employees' right to disconnect from work-related communications outside of their working hours in accordance with the provisions of the Fair Work Act 2009.",
+      "url": "https://www2.education.vic.gov.au/right-to-disconnect",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/right-to-disconnect/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/right-to-disconnect/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/right-to-disconnect/resources"
+      },
+      "chapters": [
+        {
+          "title": "Introduction — fair work act 2009, class, managers, respecting, right, disconnect",
+          "url": "https://www2.education.vic.gov.au/right-to-disconnect#introduction"
+        },
+        {
+          "title": "Contact information",
+          "url": "https://www2.education.vic.gov.au/right-to-disconnect#contact-information"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "title": "Risk Management – Schools",
+      "category": "School Operations",
+      "tags": [
+        "September 2025",
+        "6 months",
+        "Public Administration Act 2004",
+        "OHS",
+        "OHSMS",
+        "AIP",
+        "SSP",
+        "risks",
+        "register",
+        "controls"
+      ],
+      "summary": "This policy sets out the requirements for schools to identify and manage risks that might affect their students, staff or operations.",
+      "url": "https://www2.education.vic.gov.au/pal/risk-management-schools",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/risk-management-schools/resources"
+      },
+      "chapters": [
+        {
+          "title": "Step 1 – Establish the context",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-1-establish-context"
+        },
+        {
+          "title": "Step 2 – Risk identification",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-2-risk-identification"
+        },
+        {
+          "title": "Step 3 – Risk analysis",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-3-risk-analysis"
+        },
+        {
+          "title": "Step 4 – Evaluation",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-4-evaluation"
+        },
+        {
+          "title": "Step 5 – Risk treatment",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-5-risk-treatment"
+        },
+        {
+          "title": "Step 6 – Communication and consultation",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-6-communication-and-consultation"
+        },
+        {
+          "title": "Step 7 – Monitoring and review",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-7-monitor-and-review"
+        },
+        {
+          "title": "Step 8 – Recording and reporting",
+          "url": "https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-8-record-and-report"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Information Security",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/information-security/policy"
+        },
+        {
+          "title": "Information Security",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/information-security/policy"
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "title": "Roles and Responsibilities — Teaching Service",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "February 2025",
+        "January 2025",
+        "teaching",
+        "class",
+        "advisory",
+        "position",
+        "development",
+        "library"
+      ],
+      "summary": "The roles and responsibilities that can be expected of employees at the various classification levels in the Teaching Service are set out in the Guidelines and incorporate Schedule 2 and 3 of the Victorian Government Schools Agreement 2022.",
+      "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/resources"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/introduction"
+        },
+        {
+          "title": "Principals",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/principals"
+        },
+        {
+          "title": "Assistant principals",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/assistant-principals"
+        },
+        {
+          "title": "Leading teachers",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/leading-teachers"
+        },
+        {
+          "title": "Learning specialists",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/learning-specialists"
+        },
+        {
+          "title": "Classroom teachers",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/classroom-teachers"
+        },
+        {
+          "title": "Paraprofessionals",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/paraprofessionals"
+        },
+        {
+          "title": "Education support class",
+          "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/education-support-class"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "title": "Sabbatical Leave — Teaching Service",
+      "category": "HR - Leave",
+      "tags": [
+        "February 2025",
+        "June 2020",
+        "1 year",
+        "4 years",
+        "leave",
+        "sabbatical",
+        "teaching",
+        "period",
+        "resources",
+        "scheme"
+      ],
+      "summary": "Sabbatical leave is a professional renewal incentive scheme designed to provide employees with a flexible arrangement whereby they can fund a period of sabbatical leave.",
+      "url": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/resources"
+      }
+    },
+    {
+      "id": 412,
+      "title": "Salary Rates",
+      "category": "HR - Pay",
+      "tags": [
+        "September 2022",
+        "DOCX",
+        "ESC",
+        "HR",
+        "rates",
+        "external",
+        "salary",
+        "updated",
+        "august",
+        "employment"
+      ],
+      "summary": "For details of current salary rates, select the relevant employment category from the following:",
+      "url": "https://www2.education.vic.gov.au/pal/salary-rates",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/salary-rates/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/salary-rates/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/salary-rates/resources"
+      }
+    },
+    {
+      "id": 413,
+      "title": "Scholarships for Secondary Teaching Degrees",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "$93.2 million",
+        "$9,600",
+        "$5,700",
+        "January 2026",
+        "15 months",
+        "STS",
+        "ITE",
+        "VIT",
+        "FTE",
+        "teaching"
+      ],
+      "summary": "The Victorian Government has invested more than $93.2 million to deliver scholarships to support secondary and specialist initial teacher education students who enrolled in 2024 and 2025, with the cost of studying and living.",
+      "url": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/resources"
+      },
+      "chapters": [
+        {
+          "title": "Study phase — $9,600, $5,700, FTE, STS, study, phase",
+          "url": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees#study-phase"
+        },
+        {
+          "title": "Employment phase — $8,400, $18,000, 15 months, STS, ITE, VIT",
+          "url": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees#employment-phase"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "title": "School and Campus Naming",
+      "category": "School Operations",
+      "tags": [
+        "November 2025",
+        "2 years",
+        "Geographic Place Names Act 1998",
+        "VAEAI",
+        "GNV",
+        "ETRA",
+        "naming",
+        "names",
+        "existing",
+        "campus"
+      ],
+      "summary": "This policy sets out the requirements and process for naming new and existing Victorian government schools, educational services, campuses, school buildings and school spaces.",
+      "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/resources"
+      },
+      "chapters": [
+        {
+          "title": "Naming a new school",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-new-school"
+        },
+        {
+          "title": "Renaming an existing school due to changed education provision",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-due-to-changed-education"
+        },
+        {
+          "title": "Renaming an existing school due to a reorganisation (merger, demerger or relocation)",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-due-to-a-reorganisation-merger"
+        },
+        {
+          "title": "Renaming an existing school as initiated by school council",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-as-initiated-by-school-council"
+        },
+        {
+          "title": "Naming a new or temporary campus, or renaming an existing campus as initiated by school council",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-a-new-or-temporary-campus-or-renaming-an-existing"
+        },
+        {
+          "title": "Naming a new school building funded by the Victorian Government",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-a-new-school-building-funded-by-the-victorian"
+        },
+        {
+          "title": "Naming an existing school building or school space",
+          "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-an-existing-school-building-or-a-school-space"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "title": "School Communications Toolkit",
+      "category": "IT & Privacy",
+      "tags": [
+        "November 2025",
+        "June 2020",
+        "14 year",
+        "Disability Discrimination Act 1992",
+        "SEIL",
+        "communications",
+        "media",
+        "toolkit",
+        "content",
+        "community"
+      ],
+      "summary": "The following pages are available on the School Communications Toolkit External Link . A DE login is required for access.",
+      "url": "https://www2.education.vic.gov.au/pal/school-communications-toolkit",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-communications-toolkit/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-communications-toolkit/resources"
+      },
+      "chapters": [
+        {
+          "title": "Advice",
+          "url": "https://www2.education.vic.gov.au/pal/school-communications-toolkit/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "School Policy Templates Portal (staff loginrequired)External Link",
+          "note": "The School Policy Templates Portal (staff login required) External Link provides template consent fo",
+          "url": "https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Photographing-filming-and-recording-students.aspx"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "title": "School Community Safety Orders",
+      "category": "OHS",
+      "tags": [
+        "April 2026",
+        "18 years",
+        "12 months",
+        "14 days",
+        "Training Reform Act 2006",
+        "Safety Act 2005",
+        "External Link Disability Discrimination Act 1992",
+        "OHS",
+        "safety",
+        "community"
+      ],
+      "summary": "This policy supports Victorian government schools to use the school community safety order scheme (Scheme) to manage the risks to the safety of school staff, students and the broader school community from a small minority of parents, carers and other adults who engage in harmful, threatening or abusive behaviour.",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/resources"
+      },
+      "chapters": [
+        {
+          "title": "People authorised to issue, vary or revoke orders",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/people-authorised-issue-vary-or-revoke-orders"
+        },
+        {
+          "title": "Grounds for issuing an order",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/grounds-issuing-order"
+        },
+        {
+          "title": "Mandatory considerations before issuing an order",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/mandatory-considerations-issuing-order"
+        },
+        {
+          "title": "Procedures for issuing orders",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/procedures-issuing-orders"
+        },
+        {
+          "title": "Varying and revoking orders",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/varying-and-revoking-orders"
+        },
+        {
+          "title": "Interaction with other statutory schemes",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/interaction-other-statutory-schemes"
+        },
+        {
+          "title": "Minimising impacts on students",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/minimising-impacts-students"
+        },
+        {
+          "title": "Psychological safety and wellbeing support for school staff",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/psychological-safety-and-wellbeing-support-school-staff"
+        },
+        {
+          "title": "Monitoring compliance with and enforcing school community safety orders",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/monitoring-compliance-and-enforcing-school-community"
+        },
+        {
+          "title": "Rebuilding relationships with persons subject to an order",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/re-building-relationships-persons-subject-order"
+        },
+        {
+          "title": "Internal and external review of an ongoing order",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/internal-and-external-review-ongoing-order"
+        },
+        {
+          "title": "Reporting an order",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/reporting-order"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "The Education and Training Reform Act 2006 (Vic) External Link (Act) was amended by the Education an",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Amendment (Protection of School Communities) Act2021External Link",
+          "note": "The Education and Training Reform Act 2006 (Vic) External Link (Act) was amended by the Education an",
+          "url": "https://www.legislation.vic.gov.au/as-made/acts/education-and-training-reform-amendment-protection-school-communities-act-2021"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Education and Training Reform Act2006 (Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Amendment (Protection of School Communities) Act2021External Link",
+          "note": "Education and Training Reform Amendment (Protection of School Communities) Act 2021 External Link",
+          "url": "https://www.legislation.vic.gov.au/bills/education-and-training-reform-amendment-protection-school-communities-bill-2021"
+        },
+        {
+          "title": "Occupational Health and Safety Act2004 (Vic)External Link",
+          "note": "Occupational Health and Safety Act 2004 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "title": "School Community Work",
+      "category": "School Operations",
+      "tags": [
+        "August 2024",
+        "Ministerial Order 1359",
+        "Training Reform Act 2006",
+        "OHS",
+        "PROTECT",
+        "community",
+        "arrangements",
+        "requirements",
+        "learning",
+        "child"
+      ],
+      "summary": "This policy sets out the requirements for students undertaking school community work.",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-work",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-community-work/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-community-work/resources"
+      },
+      "chapters": [
+        {
+          "title": "Definitions under the Education and Training Reform Act 2006",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/1-education-and-training-reform-act-2006"
+        },
+        {
+          "title": "What is school community work?",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/what-school-community-work"
+        },
+        {
+          "title": "Host organisations that can offer school community work",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/host-organisations-can-offer-school-community-work"
+        },
+        {
+          "title": "Age of volunteer student workers",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/age-volunteer-student-workers"
+        },
+        {
+          "title": "Duty of care and school community work",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/duty-care"
+        },
+        {
+          "title": "Assessment of a host organisation’s suitability",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/1-assessment-host-organisations-suitability"
+        },
+        {
+          "title": "Assessment of the host organisation’s induction and supervision arrangements",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/2-assessment-host-organisations-induction-and-supervision"
+        },
+        {
+          "title": "Appropriateness of tasks and settings",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/3-appropriateness-tasks-and-settings"
+        },
+        {
+          "title": "Student understanding of OHS requirements",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/4-student-understanding-ohs-requirements"
+        },
+        {
+          "title": "Hours and duration of school community work",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/5-hours-and-duration-school-community-work"
+        },
+        {
+          "title": "Travel arrangements",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/6-travel-arrangements"
+        },
+        {
+          "title": "Parent/carer approval",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/7-parent/carer-approval"
+        },
+        {
+          "title": "Victorian government school arrangement form for school community work",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/8-victorian-government-school-arrangement-form-school-community"
+        },
+        {
+          "title": "Student medical information",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/9-student-medical-information"
+        },
+        {
+          "title": "Addressing issues and concerns during school community work",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/10-addressing-issues-and-concerns-during-school-community-work"
+        },
+        {
+          "title": "Insurance for school community work arrangements",
+          "url": "https://www2.education.vic.gov.au/pal/school-community-work/guidance/insurance"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "title": "School Council Employment",
+      "category": "HR - Recruitment",
+      "tags": [
+        "January 2026",
+        "Ministerial Order 1389",
+        "Ministerial Order 1280",
+        "Responsibilities Act 2006",
+        "Training Reform Act 2006",
+        "External Link Equal Opportunity Act 2010",
+        "DOCX",
+        "HR",
+        "employment",
+        "external"
+      ],
+      "summary": "Refer to Policy and Guidelines tab for:",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-employment",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/school-council-employment/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/school-council-employment/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-employment/resources"
+      },
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "title": "School Council – Composition, Eligibility and Office Bearers",
+      "category": "School Council",
+      "tags": [
+        "February 2026",
+        "8 hours",
+        "90 days",
+        "Ministerial Order 1280",
+        "Public Administration Act 2004",
+        "Sex Offenders Registration Act 2004",
+        "WWCC",
+        "DOCX",
+        "VIT",
+        "VRQA"
+      ],
+      "summary": "From the 2026 school year, school council members, except VIT registered teachers and students, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026)  school council members are not required to obtain a WWCC until they nominate for re-election/co-option.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Form 15: Co-option to a community member position on school council(PDF)External Link",
+          "note": "Form 15: Co-option to a community member position on school council (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/form-15-co-option-to-a-community-member-position-on-school-council-3527"
+        },
+        {
+          "title": "Form 16: Co-option to a casual vacancy on school council(PDF)External Link",
+          "note": "Form 16: Co-option to a casual vacancy on school council (PDF) External Link",
+          "url": "https://content.sdp.education.vic.gov.au/media/form-16-co-option-to-a-casual-vacancy-on-school-council-3528"
+        },
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "title": "School Council – Conduct and Conflict of Interest",
+      "category": "School Council",
+      "tags": [
+        "May 2024",
+        "August 2023",
+        "Ministerial Order 1280",
+        "Public Administration Act 2004",
+        "Training Reform Act 2006",
+        "DOCX",
+        "conflict",
+        "interest",
+        "conduct",
+        "public"
+      ],
+      "summary": "The purpose of this policy is to ensure school council members are aware of their obligations in relation to their Code of Conduct and conflict of interest and to provide guidance on managing school council conduct and conflict of interest issues.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-conduct",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-conduct/resources"
+      },
+      "chapters": [
+        {
+          "title": "Code of Conduct",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/code-conduct"
+        },
+        {
+          "title": "Misconduct",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/misconduct-1"
+        },
+        {
+          "title": "Avoiding or preventing conflict or conduct issues on school council",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/avoiding-or-preventing-conflict-or-conduct-issues-school"
+        },
+        {
+          "title": "Managing conflict and the conduct of meetings",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-conflict-and-conduct-meetings"
+        },
+        {
+          "title": "Managing ongoing school council conflict",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-ongoing-school-council-conflict"
+        },
+        {
+          "title": "Managing school council misconduct",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-school-council-misconduct"
+        },
+        {
+          "title": "Conflict of interest",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/conflict-interest"
+        },
+        {
+          "title": "Managing a conflict of interest",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-conflict-interest"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Regulations 2017(Vic)External Link",
+          "note": "Education and Training Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "title": "School Council – Elections",
+      "category": "School Council",
+      "tags": [
+        "February 2026",
+        "14 days",
+        "Ministerial Order 1280",
+        "Training Act 2006",
+        "External Link Financial Management Act 1994",
+        "External Link Public Administration Act 2004",
+        "WWCC",
+        "DOCX",
+        "VIT",
+        "elections"
+      ],
+      "summary": "From the 2026 school year, school council members, except VIT registered teachers and students, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026) school council members are not required to obtain a WWCC until they nominate for re-election/co-option.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-elections",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-elections/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-elections/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-elections/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Act 2006(Vic)External Link",
+          "note": "Education and Training Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "title": "School Council – Establishing a New School Council",
+      "category": "School Council",
+      "tags": [
+        "February 2026",
+        "January 2022",
+        "6 week",
+        "2 months",
+        "Ministerial Order 1280",
+        "Training Reform Act 2006",
+        "DOCX",
+        "interim",
+        "operations",
+        "governance"
+      ],
+      "summary": "This policy outlines the process and documentation required in establishing a new school council.",
+      "url": "https://www2.education.vic.gov.au/pal/establishing-new-school-council",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/establishing-new-school-council/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/establishing-new-school-council/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/establishing-new-school-council/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Expression of interest in appointment as an initial member of a school council – new school(DOCX)External Link",
+          "note": "Each proposed appointee to the new interim school council must complete an Expression of interest in",
+          "url": "http://www.education.vic.gov.au/Documents/school/principals/management/eoiapptscmember.docx"
+        },
+        {
+          "title": "External Link",
+          "note": "Prior to sending the  request for a new school council to the regional director, the principal must ",
+          "url": "https://www.education.vic.gov.au/Documents/school/principals/management/scnewguidelatt.docx"
+        },
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "title": "School Council – Liability and Legal Proceedings",
+      "category": "School Council",
+      "tags": [
+        "May 2024",
+        "June 2020",
+        "Ministerial Order 52",
+        "Ministerial Order 1280",
+        "Financial Management Act 1994",
+        "Reform Act 2006",
+        "GST",
+        "DOCX",
+        "legal",
+        "liability"
+      ],
+      "summary": "This policy assists principals to understand the extent of legal liability for school councils and school council members and sets out the processes for seeking assistance with legal claims.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-liability",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-liability/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-liability/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-liability/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education Training and Reform Act 2006(Vic)External Link",
+          "note": "Education Training and Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        },
+        {
+          "title": "Ministerial Order 52: School Council Composition andElectionsExternal Link",
+          "note": "Ministerial Order 52: School Council Composition and Elections External Link",
+          "url": "https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/2147/MO52.pdf"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "title": "School Council – Overview",
+      "category": "School Council",
+      "tags": [
+        "February 2026",
+        "August 2022",
+        "Training Reform Act 2006",
+        "OHS",
+        "PAL",
+        "outlines",
+        "training",
+        "policies",
+        "requirements",
+        "governance"
+      ],
+      "summary": "This policy provides an overview of the policies, guidance and resources available to support school councils to understand their roles, responsibilities and school council processes.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-overview",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/school-council-overview/overview",
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-overview/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-overview/resources"
+      },
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "title": "School Council – Subcommittees",
+      "category": "School Council",
+      "tags": [
+        "June 2024",
+        "June 2020",
+        "Ministerial Order 1280",
+        "Training Reform Act 2006",
+        "DOCX",
+        "subcommittees",
+        "subcommittee",
+        "finance",
+        "report",
+        "recommendations"
+      ],
+      "summary": "The purpose of this policy is to enable school councils to form subcommittees to assist the council.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-subcommittees",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-subcommittees/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-subcommittees/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-subcommittees/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link , Division 2, Regulation 38 Sub-c",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "title": "School Council – Training and Good Governance",
+      "category": "School Council",
+      "tags": [
+        "April 2026",
+        "3 years",
+        "Ministerial Order 1280",
+        "Ministerial Order 1359",
+        "Training Reform Act 2006",
+        "DOCX",
+        "WWCC",
+        "ISG",
+        "VIT",
+        "training"
+      ],
+      "summary": "From the 2026 school year, school council members, except VIT registered teachers and student members, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026) school council members are not required to obtain a WWCC until they nominate for re-election/co-option.",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-training",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-council-training/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-council-training/resources"
+      },
+      "chapters": [
+        {
+          "title": "Effective governance",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-training/guidance/effective-governance"
+        },
+        {
+          "title": "Building school council capacity",
+          "url": "https://www2.education.vic.gov.au/pal/school-council-training/guidance/building-school-council-capacity"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Sample agenda and minutes template – Meeting 1(DOCX)External Link",
+          "note": "It is recommended that principals go through the Improving school governance induction checklist (DO",
+          "url": "https://content.sdp.education.vic.gov.au/media/sample-school-council-agenda-and-minutes-template-meeting-1-3070"
+        },
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "title": "School Crossings",
+      "category": "Infrastructure",
+      "tags": [
+        "January 2026",
+        "Road Safety Act 1986",
+        "crossing",
+        "crossings",
+        "supervisor",
+        "children",
+        "safety",
+        "local"
+      ],
+      "summary": "This policy explains responsibilities for school crossings and supports schools to reduce the risk of accident or injury at and around school crossings.",
+      "url": "https://www2.education.vic.gov.au/pal/school-crossings",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-crossings/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-crossings/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-crossings/policy"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "title": "School Dates",
+      "category": "School Operations",
+      "tags": [
+        "July 2025",
+        "5 year",
+        "2 weeks",
+        "12 Year",
+        "Public Holidays Act 1993",
+        "External Link Public Holidays Act 1993",
+        "VCE",
+        "PPD",
+        "VET",
+        "VASS"
+      ],
+      "summary": "The purpose of this policy is to ensure Victorian government schools are open on school days for student instruction, to outline the process for establishing and communicating student-free days and to explain responsibilities for Year 7 orientation days.",
+      "url": "https://www2.education.vic.gov.au/pal/school-dates",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-dates/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-dates/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-dates/policy"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "title": "School Hours (including variation to hours)",
+      "category": "School Operations",
+      "tags": [
+        "September 2023",
+        "June 2022",
+        "25 hours",
+        "4 days",
+        "3 days",
+        "hours",
+        "times",
+        "including",
+        "variation",
+        "circumstances"
+      ],
+      "summary": "This policy outlines the requirements relating to school hours and any changes to schools hours.",
+      "url": "https://www2.education.vic.gov.au/pal/school-hours",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-hours/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-hours/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/school-hours/policy"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "title": "School Merger or Closure — Staffing",
+      "category": "HR - Pay (?ambig)",
+      "tags": [
+        "February 2025",
+        "September 2022",
+        "merger",
+        "closure",
+        "staffing",
+        "advisory",
+        "library",
+        "resources"
+      ],
+      "summary": "In the event of a merger of two or more schools or the closure of a school the staffing arrangements that will apply are set out in the School Merger or Closure Staffing Guide, which is available from the Policy and Guidelines tab.",
+      "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure",
+      "popular": false,
+      "tabs": {
+        "overview": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/overview",
+        "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines",
+        "resources": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/resources"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/introduction"
+        },
+        {
+          "title": "School merger",
+          "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/school-merger"
+        },
+        {
+          "title": "School closure",
+          "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/school-closure"
+        },
+        {
+          "title": "Special staffing provisions",
+          "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/special-staffing-provisions"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "title": "School Networks",
+      "category": "School Operations",
+      "tags": [
+        "April 2026",
+        "SEIL",
+        "FISO",
+        "networks",
+        "network",
+        "advisory",
+        "library",
+        "purpose",
+        "operation"
+      ],
+      "summary": "This policy outlines the purpose and operation of school networks.",
+      "url": "https://www2.education.vic.gov.au/pal/school-networks",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-networks/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-networks/resources"
+      },
+      "chapters": [
+        {
+          "title": "School network operations",
+          "url": "https://www2.education.vic.gov.au/pal/school-networks/guidance/school-network-operations"
+        },
+        {
+          "title": "School network roles and responsibilities",
+          "url": "https://www2.education.vic.gov.au/pal/school-networks/guidance/school-network-roles-responsibilities"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "title": "School Performance Reporting and Data",
+      "category": "Curriculum",
+      "tags": [
+        "October 2025",
+        "AIP",
+        "DPSM",
+        "NAPLAN",
+        "PAT",
+        "performance",
+        "panorama",
+        "reports",
+        "external",
+        "dashboards"
+      ],
+      "summary": "School Performance Reports are generated each year and contain details of how the school has performed on a selected set of student outcome measures, compared to all other government schools, by allocation to a performance group.",
+      "url": "https://www2.education.vic.gov.au/pal/performance-reporting",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/performance-reporting/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/performance-reporting/resources"
+      },
+      "chapters": [
+        {
+          "title": "Advice",
+          "url": "https://www2.education.vic.gov.au/pal/performance-reporting/advice"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Return to School Performance Reporting and DataSchool Performance Report...",
+          "note": "Return to School Performance Reporting and Data School Performance Report...",
+          "url": "https://www2.education.vic.gov.au/pal/performance-reporting"
+        },
+        {
+          "title": "School Performance Reporting and Data",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/performance-reporting"
+        },
+        {
+          "title": "Advice",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/performance-reporting/advice"
+        },
+        {
+          "title": "School PerformanceReportsExternal Link",
+          "note": "To access a School Performance Report, refer to: School Performance Reports External Link (staff log",
+          "url": "https://www.eduweb.vic.gov.au/forms/school/spreports/default.asp"
+        },
+        {
+          "title": "School PerformanceReportsExternal Link",
+          "note": "Save the School Performance Reports External Link link in the 'applications' section of My workspace",
+          "url": "https://www.eduweb.vic.gov.au/forms/school/spreports/default.asp"
+        },
+        {
+          "title": "Privacy and Information Sharing policy",
+          "note": "The information provided through Panorama is intended to support detailed and structured conversatio",
+          "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy"
+        },
+        {
+          "title": "school.performance.data@education.vic.gov.au",
+          "note": "Schools can also email  with questions about data shown in Panorama dashboards and reports.",
+          "url": "mailto:school.performance.data@education.vic.gov.au"
+        },
+        {
+          "title": "School Performance Reporting and DataAccessing performance data and data coach services",
+          "note": "School Performance Reporting and Data Accessing performance data and data coach services",
+          "url": "https://www2.education.vic.gov.au/pal/performance-reporting"
+        },
+        {
+          "title": "Print whole topic",
+          "note": "Document resource",
+          "url": "http://www2.education.vic.gov.au/pal/performance-reporting/print-all"
+        },
+        {
+          "title": "school.performance.data@education.vic.gov.au",
+          "note": "Document resource",
+          "url": "mailto:school.performance.data@education.vic.gov.au"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "title": "School Review",
+      "category": "Curriculum",
+      "tags": [
+        "September 2025",
+        "4 years",
+        "Training Reform Act 2006",
+        "PRSE",
+        "FISO",
+        "SSP",
+        "SEIL",
+        "minimum",
+        "compliance",
+        "advisory"
+      ],
+      "summary": "This policy sets out the process and requirements for school reviews.",
+      "url": "https://www2.education.vic.gov.au/pal/school-review",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-review/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-review/resources"
+      },
+      "chapters": [
+        {
+          "title": "1. School review panels",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/school-review-panels"
+        },
+        {
+          "title": "2. Preparing for a school review",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/preparing-school-review"
+        },
+        {
+          "title": "3. Pre-review self-evaluation",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/pre-review-self-evaluation"
+        },
+        {
+          "title": "4. What happens during a school review",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/what-happens-during-school-review"
+        },
+        {
+          "title": "5. School review report",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/school-review-report"
+        },
+        {
+          "title": "6. Improving outcomes for Koorie students",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/improving-outcomes-for-koorie-students"
+        },
+        {
+          "title": "7. Advice for small schools",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/8-advice-for-small-schools"
+        },
+        {
+          "title": "8. Advice for specialist schools and designated purpose settings",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/9-advice-for-specialist-and-specific-purpose-school-settings"
+        },
+        {
+          "title": "9. Assessing compliance with the Curriculum and Student Learning Minimum Standard and department policy requirements",
+          "url": "https://www2.education.vic.gov.au/pal/school-review/guidance/10-assessing-compliance-with-the-curriculum-and-student-learning-minimum-standard-and-department"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "title": "School Strategic Plan",
+      "category": "Curriculum",
+      "tags": [
+        "October 2025",
+        "4 year",
+        "4 years",
+        "Ministerial Order 470",
+        "Training Reform Act 2006",
+        "SSP",
+        "SPOT",
+        "KIS",
+        "SEIL",
+        "strategic"
+      ],
+      "summary": "This policy sets out the requirement for schools to develop a 4-year School Strategic Plan.",
+      "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-strategic-plan/resources"
+      },
+      "chapters": [
+        {
+          "title": "1. Preparing the School Strategic Plan",
+          "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/preparing-school-strategic-plan"
+        },
+        {
+          "title": "2. Developing the key directions for the School Strategic Plan",
+          "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/developing-key-directions-for-school-strategic-plan"
+        },
+        {
+          "title": "3. Advice on target setting for small schools",
+          "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/advice-on-target-setting-for-small-schools"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Under the Education and Training Reform Act 2006 (Vic) External Link and Ministerial Order 470 Exter",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Ministerial Order470External Link",
+          "note": "Under the Education and Training Reform Act 2006 (Vic) External Link and Ministerial Order 470 Exter",
+          "url": "https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/1895/MO784.pdf"
+        },
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Ministerial Order470External Link",
+          "note": "Ministerial Order 470 External Link",
+          "url": "https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/1895/MO784.pdf"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "title": "School-Based Apprenticeships and Traineeships",
+      "category": "Curriculum",
+      "tags": [
+        "September 2025",
+        "August 2025",
+        "15 years",
+        "13 hours",
+        "7 hours",
+        "Ministerial Order 1359",
+        "Training Reform Act 2006",
+        "VCE",
+        "SBAT",
+        "VPC"
+      ],
+      "summary": "This policy sets out the requirements for schools to run and manage school-based apprenticeships and traineeships for secondary school students.",
+      "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/resources"
+      },
+      "chapters": [
+        {
+          "title": "About SBATs",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/about-sbats"
+        },
+        {
+          "title": "About Head Start",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/about-head-start"
+        },
+        {
+          "title": "Child safety and duty of care",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/child-safety-duty-of-care"
+        },
+        {
+          "title": "Student eligibility and readiness",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/student-eligibility-readiness"
+        },
+        {
+          "title": "Identifying a suitable employer, training course and hours",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/identifying-suitable-employer-training"
+        },
+        {
+          "title": "SBAT documentation",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/required-sbat-documentation"
+        },
+        {
+          "title": "Delivery and monitoring of SBATs",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/delivery-and-monitoring-sbats"
+        },
+        {
+          "title": "Completion and transition",
+          "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/completion-and-transition"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "title": "School-funded Capital Projects",
+      "category": "Infrastructure",
+      "tags": [
+        "$150,000",
+        "December 2027",
+        "March 2026",
+        "4 weeks",
+        "8 weeks",
+        "30 days",
+        "Construction Management Act 1994",
+        "Fauna Guarantee Act 1988",
+        "Environment Act 1987",
+        "VSBA"
+      ],
+      "summary": "This policy sets out requirements for schools contributing or raising money to build new facilities, upgrade existing facilities, or undertake maintenance projects where the project includes ramps or the total value of the project is estimated to exceed $150,000 (including GST). This includes school-funded contributions to building projects led by the Victorian School Building Authority (VSBA).",
+      "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/resources"
+      },
+      "chapters": [
+        {
+          "title": "Step 1: Planning for investment in capital or maintenance projects",
+          "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-1"
+        },
+        {
+          "title": "Step 2: Submitting an online project proposal approval form",
+          "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-2-submitting-online-project-proposal-approval-form"
+        },
+        {
+          "title": "Step 3: Proceeding to tender and contract for project delivery",
+          "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-3"
+        },
+        {
+          "title": "Step 4: Completion of the project",
+          "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-4-completion-project-completion-construction-works"
+        }
+      ],
+      "resources": [
+        {
+          "title": "School Asset Drawing Changes Checklist(PDF)External Link",
+          "note": "For projects up to $150,000 schools must follow the related polices aligned to their project which m",
+          "url": "https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/schoolassetdrawingchanges-checklist.pdf"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "title": "Self-Harm and Attempted Suicide Response",
+      "category": "Students",
+      "tags": [
+        "March 2026",
+        "August 2025",
+        "18 years",
+        "24 hours",
+        "7 days",
+        "Safety Act 2005",
+        "External Link Health Records Act 2001",
+        "External Link Family Violence Protection Act 2008",
+        "ISOC",
+        "SSS"
+      ],
+      "summary": "In an emergency",
+      "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance",
+        "overview": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/overview",
+        "resources": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/resources"
+      },
+      "chapters": [
+        {
+          "title": "Recognising self-harm",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/recognising-self-harm"
+        },
+        {
+          "title": "Definitions and myths about self-harm",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/definitions-and-myths-about-self-harm"
+        },
+        {
+          "title": "Supporting mental health and wellbeing, and preventing self-harm",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/supporting-mental-health-and-wellbeing-and-preventing-self-harm"
+        },
+        {
+          "title": "Responding to self-harm incidents",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/responding-self-harm-incidents"
+        },
+        {
+          "title": "Managing communication",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/managing-communication"
+        },
+        {
+          "title": "Communicating with secondary school-aged students",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/communicating-with-secondary-school-aged-students"
+        },
+        {
+          "title": "Student recovery and healing",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/student-recovery-healing"
+        },
+        {
+          "title": "Self-care for school staff",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/self-care-school-staff"
+        },
+        {
+          "title": "Mental health and wellbeing and whole-school approaches",
+          "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/mental-health-and-wellbeing-and-whole-school-approaches"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Concussion Recognition Tool(PDF)External Link",
+          "note": "For more information, refer to the Concussion Recognition Tool (PDF) External Link and Blood Spills ",
+          "url": "https://bjsm.bmj.com/content/bjsports/57/11/692.full.pdf"
+        },
+        {
+          "title": "Privacy and Information Sharing",
+          "note": "Personal and health information must be collected and managed appropriately in accordance with relev",
+          "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy"
+        },
+        {
+          "title": "Child and Family Violence Information Sharing Schemes",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy"
+        },
+        {
+          "title": "Child Wellbeing and Safety (Information Sharing) Regulations 2018(Vic)External Link",
+          "note": "Child Wellbeing and Safety (Information Sharing) Regulations 2018 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/child-wellbeing-and-safety-information-sharing-regulations-2018"
+        },
+        {
+          "title": "Family Violence Protection (Information Sharing and Risk Management) Regulations 2018(Vic)External Link",
+          "note": "Family Violence Protection (Information Sharing and Risk Management) Regulations 2018 (Vic) External",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/family-violence-protection-information-sharing-and-risk-management"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "title": "Sensory Rooms and Equipment",
+      "category": "Infrastructure",
+      "tags": [
+        "December 2024",
+        "February 2022",
+        "Ministerial Order 1388",
+        "Ministerial Order 1389",
+        "Ministerial Order 1359",
+        "Responsibilities Act 2006",
+        "External Link Disability Discrimination Act 1992",
+        "Training Reform Act 2006",
+        "IEP",
+        "DOCX"
+      ],
+      "summary": "This policy describes the purpose of a sensory room and sets out the requirements for when and how a sensory room may be used by a school to support a student.",
+      "url": "https://www2.education.vic.gov.au/pal/sensory-rooms",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/sensory-rooms/resources"
+      },
+      "chapters": [
+        {
+          "title": "Definition of sensory room",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/definition-sensory-room"
+        },
+        {
+          "title": "Definition of sensory processing",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/definition-sensory-processing"
+        },
+        {
+          "title": "Sensory processing differences",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/sensory-processing-differences"
+        },
+        {
+          "title": "Sensory experiences",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/sensory-experiences"
+        },
+        {
+          "title": "Furnishing sensory rooms",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/furnishing-sensory-rooms"
+        },
+        {
+          "title": "Occupational Therapists",
+          "url": "https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/occupational-therapists"
+        }
+      ],
+      "resources": [
+        {
+          "title": "Use of sensory room statement template(DOCX)External Link",
+          "note": "Schools that have a sensory room must develop a statement that articulates how the sensory room is t",
+          "url": "https://content.sdp.education.vic.gov.au/media/use-of-sensory-room-statement-template-2541"
+        },
+        {
+          "title": "Equipment prescription template(DOCX)External Link",
+          "note": "It is recommended, but not mandatory, that occupational therapists use the department’s Equipment pr",
+          "url": "https://content.sdp.education.vic.gov.au/media/equipment-prescription-template-1495"
+        },
+        {
+          "title": "Performance and Development for Teacher Class Employees",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees"
+        },
+        {
+          "title": "Privacy and Information Sharing",
+          "note": "Document resource",
+          "url": "https://www2.education.vic.gov.au/pal/privacy-information-sharing"
+        },
+        {
+          "title": "Education and Training Reform Act 2006(Vic)External Link",
+          "note": "Education and Training Reform Act 2006 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006"
+        },
+        {
+          "title": "Education and Training Reform Regulations 2017(Vic)External Link",
+          "note": "Education and Training Reform Regulations 2017 (Vic) External Link",
+          "url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "title": "Sexuality and Consent Education",
+      "category": "Curriculum",
+      "tags": [
+        "April 2026",
+        "LGBTIQA",
+        "VCAA",
+        "FUSE",
+        "sexuality",
+        "consent",
+        "teaching",
+        "community",
+        "curriculum",
+        "resources"
+      ],
+      "summary": "The purpose of this policy is to emphasise the importance of sexuality education in Victorian government schools, including the teaching of consent, and to explain the role that principals, teaching staff and the school community, play in providing sexuality education to students.",
+      "url": "https://www2.education.vic.gov.au/pal/sexuality-education",
+      "popular": false,
+      "tabs": {
+        "guidance": "https://www2.education.vic.gov.au/pal/sexuality-education/guidance",
+        "resources": "https://www2.education.vic.gov.au/pal/sexuality-education/resources"
+      },
+      "chapters": [
+        {
+          "title": "Policy",
+          "url": "https://www2.education.vic.gov.au/pal/sexuality-education/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "chunk_idx": 6,
+  "items": [
+    {
+      "title": "Shade Sails",
+      "url": "https://www2.education.vic.gov.au/pal/shade-sails",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 440
+    },
+    {
+      "title": "Shelter-in-Place Buildings",
+      "url": "https://www2.education.vic.gov.au/pal/shelter-place-buildings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 441
+    },
+    {
+      "title": "Shipping Containers",
+      "url": "https://www2.education.vic.gov.au/pal/shipping-containers",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-26",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 442
+    },
+    {
+      "title": "Single-Use Plastics Ban",
+      "url": "https://www2.education.vic.gov.au/pal/single-use-plastics-ban",
+      "category": "School operations and student administration",
+      "last_updated": "2022-11-28",
+      "suggested_db_category": "School Operations",
+      "new_id": 443
+    },
+    {
+      "title": "Sister School Partnerships",
+      "url": "https://www2.education.vic.gov.au/pal/sister-school-partnerships",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04",
+      "suggested_db_category": "Curriculum",
+      "new_id": 444
+    },
+    {
+      "title": "Slips, Trips and Falls Prevention",
+      "url": "https://www2.education.vic.gov.au/pal/slips-trips-and-falls",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-06-24",
+      "suggested_db_category": "OHS",
+      "new_id": 445
+    },
+    {
+      "title": "Smoking and Vaping Ban",
+      "url": "https://www2.education.vic.gov.au/pal/smoking-vaping-ban",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-01-27",
+      "suggested_db_category": "Students",
+      "new_id": 446
+    },
+    {
+      "title": "Software and Administration Systems",
+      "url": "https://www2.education.vic.gov.au/pal/software-administration-systems",
+      "category": "Information management, technology and security",
+      "last_updated": "2025-02-14",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 447
+    },
+    {
+      "title": "Soil, Mulch or Loose Fill",
+      "url": "https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill",
+      "category": "Occupational health and safety",
+      "last_updated": "2024-03-04",
+      "suggested_db_category": "OHS",
+      "new_id": 448
+    },
+    {
+      "title": "Special Religious Instruction",
+      "url": "https://www2.education.vic.gov.au/pal/special-religious-instruction",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-27",
+      "suggested_db_category": "Curriculum",
+      "new_id": 449
+    },
+    {
+      "title": "Sporting Competitions Leave for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 450
+    },
+    {
+      "title": "Spouse Leave for Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-10",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 451
+    },
+    {
+      "title": "State Schools\u2019 Relief",
+      "url": "https://www2.education.vic.gov.au/pal/state-schools-relief",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "School Operations",
+      "new_id": 452
+    },
+    {
+      "title": "Statutory Declarations and Affidavits",
+      "url": "https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-02-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 453
+    },
+    {
+      "title": "Stop Pay",
+      "url": "https://www2.education.vic.gov.au/pal/stop-pay",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 454
+    },
+    {
+      "title": "Student Dress Code",
+      "url": "https://www2.education.vic.gov.au/pal/student-dress-code",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-27",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 455
+    },
+    {
+      "title": "Student Enrolment Census",
+      "url": "https://www2.education.vic.gov.au/pal/student-enrolment-census",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-06",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 456
+    },
+    {
+      "title": "Student Exchange Programs",
+      "url": "https://www2.education.vic.gov.au/pal/student-exchange-programs",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04",
+      "suggested_db_category": "Curriculum",
+      "new_id": 457
+    },
+    {
+      "title": "Student Support Groups",
+      "url": "https://www2.education.vic.gov.au/pal/student-support-groups",
+      "category": "School operations and student administration",
+      "last_updated": "2020-02-26",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 458
+    },
+    {
+      "title": "Student Support Services",
+      "url": "https://www2.education.vic.gov.au/pal/student-support-services",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-04-02",
+      "suggested_db_category": "Students",
+      "new_id": 459
+    },
+    {
+      "title": "Student Voice, Agency and Leadership",
+      "url": "https://www2.education.vic.gov.au/pal/student-voice-agency-leadership",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2022-09-29",
+      "suggested_db_category": "Students",
+      "new_id": 460
+    },
+    {
+      "title": "Student-to-Student Abuse and Harmful Sexual Behaviour",
+      "url": "https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2026-03-24",
+      "suggested_db_category": "Students",
+      "new_id": 461
+    },
+    {
+      "title": "Students Absconding or Going Missing from School",
+      "url": "https://www2.education.vic.gov.au/pal/students-absconding",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-27",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 462
+    },
+    {
+      "title": "Students with Disability",
+      "url": "https://www2.education.vic.gov.au/pal/students-disability",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2024-02-26",
+      "suggested_db_category": "Students",
+      "new_id": 463
+    },
+    {
+      "title": "Study Tours",
+      "url": "https://www2.education.vic.gov.au/pal/study-tours",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-04",
+      "suggested_db_category": "Curriculum",
+      "new_id": 464
+    },
+    {
+      "title": "Suicide Response (Postvention)",
+      "url": "https://www2.education.vic.gov.au/pal/suicide-response-postvention",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-10-14",
+      "suggested_db_category": "Students",
+      "new_id": 465
+    },
+    {
+      "title": "Suitability for Employment Checks",
+      "url": "https://www2.education.vic.gov.au/pal/suitability-employment-checks",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 466
+    },
+    {
+      "title": "Sun and UV Protection",
+      "url": "https://www2.education.vic.gov.au/pal/sun-protection",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "OHS",
+      "new_id": 467
+    },
+    {
+      "title": "Superannuation",
+      "url": "https://www2.education.vic.gov.au/pal/superannuation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 468
+    },
+    {
+      "title": "SuperStream \u2014 Updating Choice of Superannuation",
+      "url": "https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-20",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 469
+    },
+    {
+      "title": "Supporting High-Ability Students",
+      "url": "https://www2.education.vic.gov.au/pal/supporting-high-ability-students",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-02-19",
+      "suggested_db_category": "Curriculum",
+      "new_id": 470
+    },
+    {
+      "title": "Sustainable and Climate Resilient Facilities",
+      "url": "https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2026-01-09",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 471
+    },
+    {
+      "title": "Swimming Instruction and Water Safety Education",
+      "url": "https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-06-04",
+      "suggested_db_category": "Curriculum",
+      "new_id": 472
+    },
+    {
+      "title": "Swimming Pools on School Grounds",
+      "url": "https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 473
+    },
+    {
+      "title": "Syringe Disposals and Injuries",
+      "url": "https://www2.education.vic.gov.au/pal/syringe-disposal",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-31",
+      "suggested_db_category": "OHS",
+      "new_id": 474
+    },
+    {
+      "title": "Targeted Literacy and Numeracy Intervention \u2013 Small Group Learning",
+      "url": "https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-09-16",
+      "suggested_db_category": "Curriculum",
+      "new_id": 475
+    },
+    {
+      "title": "Taxation \u2014 Employees and Income Tax",
+      "url": "https://www2.education.vic.gov.au/pal/taxation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-10",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 476
+    },
+    {
+      "title": "Teach the Future Fellowship Program",
+      "url": "https://www2.education.vic.gov.au/teach-the-future-fellowship-program",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2026-03-03",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 477
+    },
+    {
+      "title": "Teacher Housing",
+      "url": "https://www2.education.vic.gov.au/pal/teacher-housing",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-31",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 478
+    },
+    {
+      "title": "Teacher Registration",
+      "url": "https://www2.education.vic.gov.au/pal/teacher-registration",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-15",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 479
+    }
+  ]
+}

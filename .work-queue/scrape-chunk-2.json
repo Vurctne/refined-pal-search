@@ -1,0 +1,325 @@
+{
+  "chunk_idx": 2,
+  "items": [
+    {
+      "title": "Elections \u2014 Employees Contesting Parliamentary Elections",
+      "url": "https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 280
+    },
+    {
+      "title": "Employment Limitation",
+      "url": "https://www2.education.vic.gov.au/pal/employment-limitation",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-11-01",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 281
+    },
+    {
+      "title": "Employment \u2014 Legal Basis",
+      "url": "https://www2.education.vic.gov.au/pal/employment-legal-basis",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 282
+    },
+    {
+      "title": "Employment-Based Degrees: Teach Today and Teach Tomorrow Programs",
+      "url": "https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-02-01",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 283
+    },
+    {
+      "title": "Enterprise Bargaining",
+      "url": "https://www2.education.vic.gov.au/pal/enterprise-bargaining",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-08-28",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 284
+    },
+    {
+      "title": "Environmental Hygiene",
+      "url": "https://www2.education.vic.gov.au/pal/environmental-hygiene",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-04",
+      "suggested_db_category": "OHS",
+      "new_id": 285
+    },
+    {
+      "title": "Environmental Sustainability in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/environmental-sustainability-schools",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2023-09-19",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 286
+    },
+    {
+      "title": "Epilepsy and Seizures",
+      "url": "https://www2.education.vic.gov.au/pal/epilepsy-and-seizures",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-20",
+      "suggested_db_category": "Students",
+      "new_id": 287
+    },
+    {
+      "title": "Equipment Isolation and Tag Out",
+      "url": "https://www2.education.vic.gov.au/pal/equipment-isolation",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-05",
+      "suggested_db_category": "OHS",
+      "new_id": 288
+    },
+    {
+      "title": "Ergonomics and Workspace",
+      "url": "https://www2.education.vic.gov.au/pal/ergonomics",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-20",
+      "suggested_db_category": "OHS",
+      "new_id": 289
+    },
+    {
+      "title": "Excess Procedures \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 290
+    },
+    {
+      "title": "Family Violence Support",
+      "url": "https://www2.education.vic.gov.au/pal/family-violence-support",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2022-06-24",
+      "suggested_db_category": "Students",
+      "new_id": 291
+    },
+    {
+      "title": "Fences",
+      "url": "https://www2.education.vic.gov.au/pal/fences",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-01-09",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 292
+    },
+    {
+      "title": "Financial Help for Families",
+      "url": "https://www2.education.vic.gov.au/pal/financial-help-families",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-27",
+      "suggested_db_category": "School Operations",
+      "new_id": 293
+    },
+    {
+      "title": "Financial Literacy",
+      "url": "https://www2.education.vic.gov.au/pal/financial-literacy",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-02-19",
+      "suggested_db_category": "Curriculum",
+      "new_id": 294
+    },
+    {
+      "title": "Fitness for Duty",
+      "url": "https://www2.education.vic.gov.au/pal/fitness-duty",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-07",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 295
+    },
+    {
+      "title": "Flags and Patriotic Ceremonies",
+      "url": "https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies",
+      "category": "School operations and student administration",
+      "last_updated": "2022-12-12",
+      "suggested_db_category": "School Operations",
+      "new_id": 296
+    },
+    {
+      "title": "Flexible Learning Options (FLOs)",
+      "url": "https://www2.education.vic.gov.au/pal/flexible-learning-options",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-31",
+      "suggested_db_category": "Curriculum",
+      "new_id": 297
+    },
+    {
+      "title": "Flexible Work for Principals",
+      "url": "https://www2.education.vic.gov.au/pal/flexible-work-principals",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2023-08-15",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 298
+    },
+    {
+      "title": "Food Handling in Canteens",
+      "url": "https://www2.education.vic.gov.au/pal/food-handling",
+      "category": "School operations and student administration",
+      "last_updated": "2020-02-28",
+      "suggested_db_category": "School Operations",
+      "new_id": 299
+    },
+    {
+      "title": "Framework for Improving Student Outcomes (FISO 2.0)",
+      "url": "https://www2.education.vic.gov.au/pal/fiso",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-10-19",
+      "suggested_db_category": "Curriculum",
+      "new_id": 300
+    },
+    {
+      "title": "Fraud and Corruption Control",
+      "url": "https://www2.education.vic.gov.au/pal/fraud-and-corruption-control",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-09",
+      "suggested_db_category": "School Operations",
+      "new_id": 301
+    },
+    {
+      "title": "Freedom of Information",
+      "url": "https://www2.education.vic.gov.au/pal/freedom-of-information",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-16",
+      "suggested_db_category": "School Operations",
+      "new_id": 302
+    },
+    {
+      "title": "Gas Heater Management",
+      "url": "https://www2.education.vic.gov.au/pal/gas-heater-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-05",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 303
+    },
+    {
+      "title": "Generative Artificial Intelligence",
+      "url": "https://www2.education.vic.gov.au/pal/generative-artificial-intelligence",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-06-20",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 304
+    },
+    {
+      "title": "Graffiti \u2013 Prevention and Management",
+      "url": "https://www2.education.vic.gov.au/pal/graffiti-prevention-management",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-01-19",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 305
+    },
+    {
+      "title": "Health, Safety and Wellbeing",
+      "url": "https://www2.education.vic.gov.au/pal/health-safety-wellbeing",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-04-22",
+      "suggested_db_category": "OHS",
+      "new_id": 306
+    },
+    {
+      "title": "Health, Wellbeing and Inclusion Workforces",
+      "url": "https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-12-20",
+      "suggested_db_category": "Curriculum",
+      "new_id": 307
+    },
+    {
+      "title": "Heritage Buildings",
+      "url": "https://www2.education.vic.gov.au/pal/heritage-buildings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-03",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 308
+    },
+    {
+      "title": "Historical Child Sexual Abuse in Victorian Government Schools",
+      "url": "https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2025-12-03",
+      "suggested_db_category": "Students",
+      "new_id": 309
+    },
+    {
+      "title": "Holocaust Education \u2013 Delivery Requirements",
+      "url": "https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2023-05-29",
+      "suggested_db_category": "Curriculum",
+      "new_id": 310
+    },
+    {
+      "title": "Home Schooling and Partial Enrolments",
+      "url": "https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-02-24",
+      "suggested_db_category": "Curriculum",
+      "new_id": 311
+    },
+    {
+      "title": "Homework",
+      "url": "https://www2.education.vic.gov.au/pal/homework",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-01-09",
+      "suggested_db_category": "Curriculum",
+      "new_id": 312
+    },
+    {
+      "title": "Hot Work",
+      "url": "https://www2.education.vic.gov.au/pal/hot-work",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-03",
+      "suggested_db_category": "OHS",
+      "new_id": 313
+    },
+    {
+      "title": "Income Statement/PAYG Payment Summary",
+      "url": "https://www2.education.vic.gov.au/pal/payg-payment-summary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-06-30",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 314
+    },
+    {
+      "title": "Individual Education Plans (IEPs)",
+      "url": "https://www2.education.vic.gov.au/pal/individual-education-plans-ieps",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-07-13",
+      "suggested_db_category": "Curriculum",
+      "new_id": 315
+    },
+    {
+      "title": "Industrial Agreements",
+      "url": "https://www2.education.vic.gov.au/pal/industrial-agreements",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-13",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 316
+    },
+    {
+      "title": "Industrial Awards",
+      "url": "https://www2.education.vic.gov.au/pal/industrial-awards",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 317
+    },
+    {
+      "title": "Infectious Diseases",
+      "url": "https://www2.education.vic.gov.au/pal/infectious-diseases",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "OHS",
+      "new_id": 318
+    },
+    {
+      "title": "Infectious Diseases Leave \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 319
+    }
+  ]
+}

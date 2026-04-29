@@ -1,0 +1,325 @@
+{
+  "chunk_idx": 1,
+  "items": [
+    {
+      "title": "Compassionate Transfer \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-31",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 240
+    },
+    {
+      "title": "Competition Grade Sporting Facilities",
+      "url": "https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-24",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 241
+    },
+    {
+      "title": "Complaint Resolution",
+      "url": "https://www2.education.vic.gov.au/pal/complaint-resolution",
+      "category": "School operations and student administration",
+      "last_updated": "2025-06-02",
+      "suggested_db_category": "School Operations",
+      "new_id": 242
+    },
+    {
+      "title": "Confined Spaces",
+      "url": "https://www2.education.vic.gov.au/pal/confined-spaces",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-19",
+      "suggested_db_category": "OHS",
+      "new_id": 243
+    },
+    {
+      "title": "Conflict of Interest",
+      "url": "https://www2.education.vic.gov.au/pal/conflict-interest",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2025-03-03",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 244
+    },
+    {
+      "title": "Congestion Levy Fees",
+      "url": "https://www2.education.vic.gov.au/pal/congestion-levy",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-25",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 245
+    },
+    {
+      "title": "Consultation with School Based Staff",
+      "url": "https://www2.education.vic.gov.au/pal/consultation-school-based-staff",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 246
+    },
+    {
+      "title": "Continence Care",
+      "url": "https://www2.education.vic.gov.au/pal/continence",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "Students",
+      "new_id": 247
+    },
+    {
+      "title": "Contract of Employment",
+      "url": "https://www2.education.vic.gov.au/pal/contract-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-30",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 248
+    },
+    {
+      "title": "Contractor OHS Management",
+      "url": "https://www2.education.vic.gov.au/pal/contractor-ohs-management",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "OHS",
+      "new_id": 249
+    },
+    {
+      "title": "Cooling Towers",
+      "url": "https://www2.education.vic.gov.au/pal/cooling-towers",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 250
+    },
+    {
+      "title": "Court Appointments",
+      "url": "https://www2.education.vic.gov.au/pal/court-appointments",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-04-02",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 251
+    },
+    {
+      "title": "COVID-19 \u2013 School Operations",
+      "url": "https://www2.education.vic.gov.au/pal/covid-19-school-operations",
+      "category": "Occupational health and safety",
+      "last_updated": "2024-05-03",
+      "suggested_db_category": "OHS",
+      "new_id": 252
+    },
+    {
+      "title": "Crime Prevention in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/crime-prevention-schools",
+      "category": "School councils",
+      "last_updated": "2020-03-18",
+      "suggested_db_category": "School Council",
+      "new_id": 253
+    },
+    {
+      "title": "Cycling to and from School",
+      "url": "https://www2.education.vic.gov.au/pal/cycling-and-school",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20",
+      "suggested_db_category": "School Operations",
+      "new_id": 254
+    },
+    {
+      "title": "Data Collection and Surveys",
+      "url": "https://www2.education.vic.gov.au/pal/data-collection-surveys",
+      "category": "School operations and student administration",
+      "last_updated": "2020-05-20",
+      "suggested_db_category": "School Operations",
+      "new_id": 255
+    },
+    {
+      "title": "Decision Making Responsibilities for Students",
+      "url": "https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students",
+      "category": "School operations and student administration",
+      "last_updated": "2020-06-09",
+      "suggested_db_category": "Students (?ambig)",
+      "new_id": 256
+    },
+    {
+      "title": "Deductions From Salary",
+      "url": "https://www2.education.vic.gov.au/pal/deductions",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 257
+    },
+    {
+      "title": "Delegations",
+      "url": "https://www2.education.vic.gov.au/pal/delegations",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 258
+    },
+    {
+      "title": "Demolition",
+      "url": "https://www2.education.vic.gov.au/pal/demolition",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-11",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 259
+    },
+    {
+      "title": "Dental Services",
+      "url": "https://www2.education.vic.gov.au/pal/dental-services",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27",
+      "suggested_db_category": "Students",
+      "new_id": 260
+    },
+    {
+      "title": "Designated Purpose Settings",
+      "url": "https://www2.education.vic.gov.au/pal/designated-purpose-settings",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-07-18",
+      "suggested_db_category": "Curriculum",
+      "new_id": 261
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://www2.education.vic.gov.au/pal/diabetes",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-03-18",
+      "suggested_db_category": "Students",
+      "new_id": 262
+    },
+    {
+      "title": "Digital Technologies \u2013 Responsible Use",
+      "url": "https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use",
+      "category": "Information management, technology and security",
+      "last_updated": "2024-12-04",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 263
+    },
+    {
+      "title": "Dimensions of Work \u2014 Education Support Class",
+      "url": "https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 264
+    },
+    {
+      "title": "Direct Crediting of Salary",
+      "url": "https://www2.education.vic.gov.au/pal/direct-crediting-salary",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-08",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 265
+    },
+    {
+      "title": "Disability and Reasonable Adjustments \u2013 Staff",
+      "url": "https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-05-27",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 266
+    },
+    {
+      "title": "Doctors in Secondary Schools",
+      "url": "https://www2.education.vic.gov.au/pal/doctors-secondary-schools",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27",
+      "suggested_db_category": "Students",
+      "new_id": 267
+    },
+    {
+      "title": "Domain (URL) names",
+      "url": "https://www2.education.vic.gov.au/pal/domain-url-names",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-02-17",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 268
+    },
+    {
+      "title": "Donating Furniture and Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/donating-furniture-equipment",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2021-06-24",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 269
+    },
+    {
+      "title": "Drones",
+      "url": "https://www2.education.vic.gov.au/pal/drones",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-01-22",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 270
+    },
+    {
+      "title": "EAL Support and Funding",
+      "url": "https://www2.education.vic.gov.au/pal/eal-support",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-03-01",
+      "suggested_db_category": "Curriculum",
+      "new_id": 271
+    },
+    {
+      "title": "EAL \u2013 Provision for Newly Arrived Students",
+      "url": "https://www2.education.vic.gov.au/pal/eal-provision",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-05-24",
+      "suggested_db_category": "Curriculum",
+      "new_id": 272
+    },
+    {
+      "title": "Early Childhood Education and Care Services at Schools",
+      "url": "https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2025-10-22",
+      "suggested_db_category": "School Operations",
+      "new_id": 273
+    },
+    {
+      "title": "Early Education Programs",
+      "url": "https://www2.education.vic.gov.au/pal/early-education-programs",
+      "category": "School operations and student administration",
+      "last_updated": "2022-02-16",
+      "suggested_db_category": "School Operations",
+      "new_id": 274
+    },
+    {
+      "title": "Eating and Drinking Supervision",
+      "url": "https://www2.education.vic.gov.au/pal/eating-drinking-supervision",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2020-02-27",
+      "suggested_db_category": "Students",
+      "new_id": 275
+    },
+    {
+      "title": "Education Support Staff Working in Classroom Support Roles",
+      "url": "https://www2.education.vic.gov.au/pal/es-staff-classroom-support",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-11-13",
+      "suggested_db_category": "Curriculum",
+      "new_id": 276
+    },
+    {
+      "title": "eduMail (employee email)",
+      "url": "https://www2.education.vic.gov.au/pal/edumail",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-29",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 277
+    },
+    {
+      "title": "eduPay and eduPay Help",
+      "url": "https://www2.education.vic.gov.au/pal/edupay-and-edupay-help",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-08",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 278
+    },
+    {
+      "title": "Elections \u2013 Schools as Voting Centres and Polling Places",
+      "url": "https://www2.education.vic.gov.au/pal/polling-places",
+      "category": "School operations and student administration",
+      "last_updated": "2022-09-07",
+      "suggested_db_category": "School Operations",
+      "new_id": 279
+    }
+  ]
+}

@@ -2241,7 +2241,4415 @@ const PAL_POLICIES = [
       { title: 'Relevant legislation — Health Records Act 2001, Privacy and Data Protection Act 2014, Public Records Act 1973, Charter of Human Rights and Responsibilities Act 2006, Freedom of Information Act 1982', url: 'https://www2.education.vic.gov.au/pal/access-health-information' },
       { title: 'Contact information — Access to Health Information, principals and managers, medical reports, referral letters, Reviewed 25 February 2025', url: 'https://www2.education.vic.gov.au/pal/access-health-information' }
     ]
+  },
+  { id: 200, title: 'Aboriginal Employment', category: 'HR - Recruitment', tags: ['18 months', 'VAAF', 'VPS', 'GTS', 'VPSC', 'certificate', 'overview', 'marrung', 'aboriginal', 'education'], summary: 'The department is committed to theVictorian Aboriginal Affairs Framework 2018 to 2023(VAAF)External Linkand theSelf-Determination ReformFrameworkExternal Linkthat places Aboriginal Victorians at the centre of decision-making where they will be better supported to be healthy, safe, resilient, thriving and living a culturally rich life. The department is also committed to the Victorian Public Service (VPS) Aboriginal employment targets that set the goal of having a minimum of 2% representation of Aboriginal and Torres Strait Islander peoples in our workforce.', url: 'https://www2.education.vic.gov.au/pal/aboriginal-employment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/resources' },
+    chapters: [
+      { title: 'Overview — 18 months, VAAF, VPS, GTS, certificate, aboriginal', url: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/overview' },
+      { title: 'Policy and Guidelines — resources, refer, links, whole, plans, frameworks', url: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/policy-and-guidelines' },
+      { title: 'Resources — PDF, DOCX, external, aboriginal, resources, inclusion', url: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/resources' }
+    ],
+    resources: [
+      { title: 'Marrung – Aboriginal Education Plan 2016 to2026External Link', url: 'https://www.vic.gov.au/marrung' },
+      { title: 'Dhelk Wukang – Aboriginal Inclusion Plan 2022–2026(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/dhelk-wukang-aboriginal-inclusion-plan-2022-26-pdf-1027' },
+      { title: 'Dhelk Wukang – Aboriginal Inclusion Plan 2022–2026(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/dhelk-wukang-aboriginal-inclusion-plan-2022-26-docx-1026' },
+      { title: 'Barring Djinang: First Peoples Workforce DevelopmentFrameworkExternal Link', note: '(Victorian Public Sector Commission)', url: 'https://www.vpsc.vic.gov.au/workforce-programs/first-peoples-workforce/barring-djinang-first-peoples-workforce-development-framework/' },
+      { title: 'Aboriginal Employment Plan 2025–2029(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/aboriginal-employment-plan-2025-2029-3364' },
+      { title: 'Aboriginal Employment Plan 2025–2029(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/aboriginal-employment-plan-2025-2029-3363' },
+      { title: 'Aspiring Koorie Teachers NowwebpageExternal Link', url: 'https://www.vic.gov.au/become-koorie-teacher-victoria' },
+      { title: 'Aspiring Koorie Teachers Now host school FAQs(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/aspiring-koorie-teachers-now-host-school-faqs-2892' },
+      { title: 'Host School Expression of InterestformExternal Link', url: 'https://www.vic.gov.au/aspiring-koorie-teachers-now' },
+      { title: 'Teach the FuturewebsiteExternal Link', url: 'https://www.vic.gov.au/employment-based-teaching-degrees' },
+      { title: 'AboriginalVictoriaExternal Link', url: 'https://www.aboriginalvictoria.vic.gov.au/aboriginal-victoria' },
+      { title: 'Early Childhood Aboriginal PathwayScholarshipsExternal Link', url: 'https://www.education.vic.gov.au/childhood/professionals/profdev/Pages/scholarships.aspx#link65' },
+      { title: 'Victorian Government Self-Determination ReformFrameworkExternal Link', note: '(Aboriginal Victoria)', url: 'https://www.aboriginalvictoria.vic.gov.au/self-determination-reform-framework' },
+      { title: 'Workforce diversity and inclusion collaboration page (staff loginrequired)External Link', url: 'https://edugate.eduweb.vic.gov.au/edrms/PEOD/WDI/Pages/Home.aspx' },
+      { title: 'Youth EmploymentSchemeExternal Link', url: 'https://djsir.vic.gov.au/about-us/careers/employment-programs-at-djsir' }
+    ]
+  },
+  { id: 201, title: 'Accessible Buildings Program', category: 'Infrastructure', tags: ['$5,000', 'VSBA', 'GST', 'ABP', 'AS', 'summary', 'scope', 'application', 'considerations', 'ongoing'], summary: 'This policy explains how schools can access the Accessible Buildings Program to makereasonableadjustmentsExternal Linkto school facilities for eligible members of the school community with disability, and to purchase hearing equipment for students with hearing loss.', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/policy', guidance: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance', resources: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/resources' },
+    chapters: [
+      { title: 'Accessible Buildings Program guidelines overview — accessible, buildings, overview, victorian, building, authority', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/accessible-buildings-program-guidelines-overview' },
+      { title: 'Eligibility considerations – facilities — ABP, modifications, access, adjustments, eligible, community', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/eligibility-considerations' },
+      { title: 'Hearing technology eligibility — ABP, hearing, technology, equipment, through, eligible', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/hearing-technology-eligibility' },
+      { title: 'Application and approval process — AIMS, ABP, SAMS, approval, application, hearing', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/application-approval-process' },
+      { title: 'Assessment and approval – roles and responsibilities — ABP, VSBA, approval, applications, accessible, buildings', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/assessment-and-approval' },
+      { title: 'Project delivery — ABP, VSBA, AIMS, contractor, register, equipment', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/project-delivery' },
+      { title: 'Contacts — DE, victoria, region, victorian, south, western', url: 'https://www2.education.vic.gov.au/pal/accessible-buildings-program/guidance/contacts' }
+    ]
+  },
+  { id: 202, title: 'Acknowledgement of Traditional Owners and Welcome to Country in Schools', category: 'School Operations', tags: ['PDF', 'RAP', 'summary', 'acknowledgement', 'traditional', 'owners', 'welcome', 'country', 'related', 'policies'], summary: 'This policy outlines the process for arranging a Welcome to Country at school or acknowledging the Traditional Owners of the land, and the types of occasions when schools may consider these events and acknowledgements.', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/policy', resources: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/resources-0', overview: 'https://www2.education.vic.gov.au/pal/aboriginal-employment/overview' },
+    chapters: [
+      { title: 'Policy — PDF, RAP, traditional, owners, country, aboriginal', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/resources-0' },
+      { title: 'Resources — VAEAI, aboriginal, traditional, external, education, victorian', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/resources' }
+    ],
+    resources: [
+      { title: 'Return to Acknowledgement of Traditional Owners and Welcome to Country in SchoolsAcknowledgement of Tradit...', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools' },
+      { title: 'Home', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library', url: 'https://www2.education.vic.gov.au/pal' },
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/policy' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/resources-0' },
+      { title: 'Resources', url: 'https://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/resources' },
+      { title: 'Print whole topic', url: 'http://www2.education.vic.gov.au/pal/acknowledgement-traditional-owners-and-welcome-country-schools/print-all' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' },
+      { title: 'Report a website issue', url: 'https://www.education.vic.gov.au/about/contact/Pages/websitefeedback.aspx' }
+    ]
+  },
+  { id: 203, title: 'Advertising', category: 'Infrastructure', tags: ['18 years', 'TV', 'DOCX', 'procurement', 'licence', 'summary', 'difference', 'between', 'advertising', 'sponsorship'], summary: 'This policy sets out requirements for Victorian government schools regarding advertising, including advertising undertaken by the school, as well as advertising by third parties on school sites and in school publications.', url: 'https://www2.education.vic.gov.au/pal/advertising', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/advertising/policy', guidance: 'https://www2.education.vic.gov.au/pal/advertising/guidance', resources: 'https://www2.education.vic.gov.au/pal/advertising/resources', overview: 'https://www2.education.vic.gov.au/pal/code-conduct/overview' },
+    chapters: [
+      { title: 'Policy — 18 years, TV, DOCX, procurement, licence, advertising', url: 'https://www2.education.vic.gov.au/pal/advertising/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/advertising/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/advertising/resources' }
+    ]
+  },
+  { id: 204, title: 'Air Quality – Impact of Smoke on Health', category: 'OHS', tags: ['14 years', 'COVID', 'DOCX', 'EMP', 'OHS', 'register', 'summary', 'quality', 'impact', 'smoke'], summary: 'This policy supports schools to prepare for and minimise the potential health risks for students and staff when smoke from fire impacts air quality.', url: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/policy', guidance: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/guidance', resources: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/resources' },
+    chapters: [
+      { title: 'Policy — 14 years, COVID, DOCX, EMP, register, quality', url: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/guidance' },
+      { title: 'Resources — EPA, external, quality, vicemergency, health, smoke', url: 'https://www2.education.vic.gov.au/pal/air-quality-impact-smoke-health/resources' }
+    ],
+    resources: [
+      { title: 'EPAAirWatchExternal Link', note: 'For information about the air quality in your area visit.', url: 'https://www.epa.vic.gov.au/for-community/airwatch' },
+      { title: 'VicEmergency – Apps on GooglePlayExternal Link', note: 'To receive early notification of an incident or emergency near you downloadorVicEmergency on the App', url: 'https://play.google.com/store/apps/details?id=com.naturallybeing.fireready&hl=en_AU&gl=US' },
+      { title: 'VicEmergency on the AppStoreExternal Link', note: 'To receive early notification of an incident or emergency near you downloadVicEmergency – Apps on Go', url: 'https://apps.apple.com/au/app/vicemergency/id356559665' },
+      { title: 'VicEmergency supportExternal Link', note: 'To setup and customise your app visit(click on the link to the VicEmergency Knowledge Base).', url: 'https://emergency.vic.gov.au/about-this-site/support' },
+      { title: 'VicEmergencywebsiteExternal Link', note: 'For up-to-date information on local incidents and warnings visit the.', url: 'https://www.emergency.vic.gov.au/respond/' },
+      { title: 'air quality and outdoor activity: guide for schools and early childhoodcentresExternal Link', note: 'The Environment Protection Authority\'s (EPA) school-specific resource(published 24 March 2021).', url: 'https://www.epa.vic.gov.au/about-epa/publications/1816-1' },
+      { title: 'information and resources on airqualityExternal Link', note: 'Asthma Australia providesand the potential impacts on people living with asthma.', url: 'https://asthma.org.au/?s=air+quality+' },
+      { title: 'Bushfires – Guidelines for use of facemasksExternal Link', note: 'The Department of Health provides information on the use of P2 and N95 face masks in fire affected a', url: 'https://www.health.vic.gov.au/emergency-type/community-factsheets-bushfires' },
+      { title: 'smokeExternal Link', note: 'EPA provides information and guidance on,air quality categories and general healthadviceExternal Lin', url: 'https://www.epa.vic.gov.au/for-community/environmental-information/air-quality/smoke/about-smoke' },
+      { title: 'air quality categories and general healthadviceExternal Link', note: 'EPA provides information and guidance onsmokeExternal Link,, the impact ofsmoke and yourhealthExtern', url: 'https://www.epa.vic.gov.au/for-community/monitoring-your-environment/about-epa-airwatch/air-quality-categories' },
+      { title: 'smoke and yourhealthExternal Link', note: 'EPA provides information and guidance onsmokeExternal Link,air quality categories and general health', url: 'https://www.epa.vic.gov.au/for-community/environmental-information/air-quality/smoke/smoke-your-health' },
+      { title: 'factsheets in languages other than English about smoke and firerecoveryExternal Link', note: 'EPA provides information and guidance onsmokeExternal Link,air quality categories and general health', url: 'https://www.epa.vic.gov.au/for-community/environmental-information/air-quality/smoke/smoke-your-health#find-out-more-about-smoke-and-your-health' }
+    ]
+  },
+  { id: 205, title: 'Alcohol and Other Drugs – Students', category: 'Students', tags: ['18 years', 'DHHS', 'permit', 'summary', 'alcohol', 'drug', 'education', 'harm', 'minimisation', 'camps'], summary: 'This policy provides schools with information on supporting the whole school approach to:', url: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/resources' },
+    chapters: [
+      { title: 'Substance type — depressants — depressants, example, substance, cannabis, depress, function', url: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/guidance/drugs-and-their-effects' },
+      { title: 'Substance type — stimulants — MDMA, stimulants, increased, substance, speed, stimulate', url: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/guidance/substance-type-stimulants' },
+      { title: 'Substance type — hallucinogens — LSD, hallucinogens, sense, substance, distort, person', url: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/guidance/substance-type-hallucinogens' },
+      { title: 'Substance type — novel psychoactive substances — NPS, psychoactive, drugs, novel, substances, effects', url: 'https://www2.education.vic.gov.au/pal/alcohol-and-other-drugs-students/guidance/substance-type-novel-psychoactive-substances' }
+    ],
+    resources: [
+      { title: 'DirectLineExternal Link', note: 'State-wide Alcohol and Other Drugs (AOD) advice service, phone1800 888 236, 24 hours, 7 days', url: 'https://www.directline.org.au/' },
+      { title: '1800 888 236', note: 'State-wide Alcohol and Other Drugs (AOD) advice serviceDirectLineExternal Link, phone, 24 hours, 7 d', url: 'https://www2.education.vic.gov.autel:1800888236' },
+      { title: 'Youth, Drugs and Alcohol Advice(YoDAA)External Link', note: 'Youth-specific service, phone1800 458 685, 9 am to 8 pm Monday to Friday', url: 'https://ydir.com.au/resources/yodda' },
+      { title: '1800 458 685', note: 'Youth-specific serviceYouth, Drugs and Alcohol Advice(YoDAA)External Link, phone, 9 am to 8 pm Monda', url: 'https://www2.education.vic.gov.autel:1800458685' },
+      { title: 'Better HealthChannelExternal Link', note: '– contains more information on the physiological effects and immediate health and safety risks assoc', url: 'https://www.betterhealth.vic.gov.au/healthyliving/drugs' },
+      { title: 'Department of Health: National DrugStrategyExternal Link', note: '– an Australian Government website where the National Drug Strategy 2017 to 2026 can be downloaded', url: 'https://www.health.gov.au/resources/collections/national-drug-strategy' },
+      { title: 'Alcohol and DrugFoundationExternal Link', note: '– includes more information and resources on alcohol and other drug harm minimisation', url: 'https://adf.org.au/' },
+      { title: 'Department of Education and Training: DrugeducationExternal Link', note: '– further information on drug education in schools, including whole school approaches', url: 'https://www.education.vic.gov.au/school/teachers/teachingresources/discipline/physed/Pages/drugeducation.aspx' }
+    ]
+  },
+  { id: 206, title: 'Alcohol at School Events', category: 'School Council', tags: ['approval', 'licence', 'summary', 'functions', 'premises', 'camps', 'excursions', 'related', 'policies', 'legislation'], summary: 'This policy sets out the circumstances in which schools may or may not allow the consumption of alcohol on school premises or at school events or school-approved activities of any kind.', url: 'https://www2.education.vic.gov.au/pal/alcohol-school-events', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/policy', guidance: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/guidance', resources: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/resources' },
+    chapters: [
+      { title: 'Policy — approval, licence, alcohol, premises, liquor, functions', url: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/policy' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/alcohol-school-events/resources' }
+    ]
+  },
+  { id: 207, title: 'Amusement Rides, Attractions and Fireworks', category: 'OHS', tags: ['DOCX', 'HSR', 'OHS', 'AS', 'approval', 'risk assessment', 'contractor', 'summary', 'roles', 'responsibilities'], summary: 'This policy sets out the health and safety requirements relating to the management of risks associated with the use of amusement rides, attractions and fireworks for school events.', url: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/policy', resources: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/resources', overview: 'https://www2.education.vic.gov.au/pal/school-council-overview/overview' },
+    chapters: [
+      { title: '1. Preparing and planning for the use and operation of amusement rides, attractions or fireworks — $10 million, 7 days, OHS, DOCX, APRA, contractor', url: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/procedure/preparing-and-planning-use-and-operation' },
+      { title: '2. Hazard, incident and near miss reporting — incident, reporting, incidents, emergency, critical, managing', url: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/procedure/hazard-incident-and-near-miss-reporting' },
+      { title: '3. Monitoring and reviewing — incident, monitoring, reviewing, regularly, processes, implementation', url: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/procedure/monitoring-and-reviewing' },
+      { title: '4. Record keeping — risk assessment, certificate, approval, records, evidence, operator', url: 'https://www2.education.vic.gov.au/pal/amusement-rides-attractions-fireworks/procedure/record-keeping' }
+    ],
+    resources: [
+      { title: 'School council amusement services and equipment agreement template(DOCX)External Link', note: 'School council contract –(staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/school-council-amusement-services-and-equipment-agreement.docx' },
+      { title: 'Amusement rides, attractions and fireworks checklist(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/628' },
+      { title: 'Parent or carer consent form – amusement rides, attractions or fireworks(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/629' },
+      { title: 'health and safety guides about managingeventsExternal Link', note: 'WorkSafe Victoria has developed a range ofinvolving various types of amusement devices and fireworks', url: 'https://www.worksafe.vic.gov.au/major-events' },
+      { title: 'Amusement ride hirechecklistsExternal Link', note: ', which include:planning for safetychoosing rides safety checklistelectrical safety checklistrisk as', url: 'https://www.worksafe.vic.gov.au/amusement-ride-hire-checklists' },
+      { title: 'Effective patron restraint systems for Cha Cha, Scrambler and Sizzler amusementridesExternal Link', url: 'https://www.worksafe.vic.gov.au/resources/effective-patron-restraint-systems-cha-cha-scrambler-and-sizzler-amusement-rides' },
+      { title: 'Land-borne inflatable amusementdevicesExternal Link', url: 'https://www.worksafe.vic.gov.au/land-borne-inflatable-amusement-devices' },
+      { title: 'FireworksExternal Link', url: 'https://www.worksafe.vic.gov.au/using-fireworks' }
+    ]
+  },
+  { id: 208, title: 'Animals – Wellbeing and Engagement', category: 'Students', tags: ['NDIS', 'PDF', 'procurement', 'register', 'licence', 'summary', 'pets', 'dogs', 'assistance', 'animals'], summary: 'This policy sets out requirements for the use of animals in Victorian government schools as part of the delivery of a variety of animal-assisted wellbeing and engagement programs, including school support animals, animal-assisted therapy and animal-assisted activities, to support the wellbeing and engagement of students.', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/policy', guidance: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance', resources: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/resources' },
+    chapters: [
+      { title: 'Acquiring and supporting a school-owned wellbeing and engagement animal — DOCX, procurement, animal, wellbeing, engagement, owned', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/acquiring-and-supporting-a-school-owned-wellbeing-and-engagement-animal' },
+      { title: 'Engaging an external provider for wellbeing and engagement animals — procurement, provider, external, wellbeing, engagement, animal', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/engaging-an-external-provider-for-wellbeing-and-engagement-animals' },
+      { title: 'Training requirements for wellbeing and engagement animals and animal handlers — register, animal, wellbeing, engagement, training, animals', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/training-requirements-for-wellbeing-and-engagement-animals-and-animal-handlers' },
+      { title: 'Risk and incident management — register, animal, wellbeing, engagement, risks, incident', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/risk-and-incident-management' },
+      { title: 'Specific requirements for wellbeing and engagement dogs — contractor, animal, requirements, handler, welfare, signs', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/specific-requirements-for-wellbeing-and-engagement-dogs' },
+      { title: 'Animal welfare — animal, welfare, animals, handler, wellbeing, designated', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/animal-welfare' },
+      { title: 'Communication with the school community and consent — DOCX, wellbeing, animal, engagement, assisted, activity', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/communication-with-the-school-community-and-consent' },
+      { title: 'Biosecurity and hygiene — animals, disease, biosecurity, hygiene, pests, diseases', url: 'https://www2.education.vic.gov.au/pal/animals-wellbeing-engagement/guidance/biosecurity-and-hygiene' }
+    ],
+    resources: [
+      { title: 'Wellbeing and engagement animals risk register(DOCX)External Link', note: 'Schools are encouraged to complete thebefore an animal-assisted wellbeing and engagement program beg', url: 'https://content.sdp.education.vic.gov.au/media/animal-assisted-programs-risk-register-template-2956' },
+      { title: 'sample wellbeing and engagement animals consent form(DOCX)External Link', note: 'Ais available for schools to use with their school community.', url: 'https://content.sdp.education.vic.gov.au/media/wellbeing-engagement-animal-sample-consent-form-2957' },
+      { title: 'School council agreement – wellbeing and engagement animal handler (school-owned)(DOCX)External Link', note: 'School councils must use the(staff login required) when entering into an agreement with a staff memb', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/School-council-agreement-wellbeing-and-engagement-animal-handler-school-owned.docx' },
+      { title: 'School council agreement – wellbeing and engagement animal handler (staff-owned)(DOCX)External Link', note: 'Schools must use the(staff login required) when entering an arrangement with a staff member for thei', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/School-council-agreement-wellbeing-and-engagement-animal-handler-staff-owned.docx' },
+      { title: 'Dogs at school (staff loginrequired)External Link', note: 'Schools may choose to implement a local school policy onavailable on the School Policy Template Port', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Dogs-at-school.aspx' },
+      { title: 'Implementing animal-assisted wellbeing and engagement programs inschoolsExternal Link', note: 'Access the department’s free 20-minute online module on.', url: 'https://www.deafeducation.vic.edu.au/professional-learning/template?eventtemplate=188-animalassisted-wellbeing-and-engagement-programs' },
+      { title: 'Implementing Animal-Assisted SchoolProgramsExternal Link', note: 'Register for the La Trobe University 10-week course:.', url: 'https://shortcourses.latrobe.edu.au/implementing-animal-assisted-school-programs' },
+      { title: 'Animal WelfareVictoriaExternal Link', note: 'website:', url: 'https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria' },
+      { title: 'Guide dogs, seeing eye dogs and assistancedogsExternal Link', url: 'https://agriculture.vic.gov.au/livestock-and-animals/animal-welfare-victoria/dogs/guide-dogs-seeing-eye-dogs-and-assistance-dogs' },
+      { title: 'Assistance animals |NDISExternal Link', url: 'https://www.ndis.gov.au/participants/assistive-technology-explained/assistance-animals' },
+      { title: 'NDIS participant-trained assistance dogs (DOCX482KB)External Link', url: 'https://www.ndis.gov.au/media/2543/download?attachment' },
+      { title: 'Key terms for animals in disability assistance roles (DOCX356KB)External Link', url: 'https://www.ndis.gov.au/media/2542/download?attachment' },
+      { title: 'Assistance animals including dog guides |NDISExternal Link', url: 'https://ourguidelines.ndis.gov.au/supports-you-can-access-menu/equipment-and-technology/assistance-animals-including-dog-guides' }
+    ]
+  },
+  { id: 209, title: 'Annual Implementation Plan (AIP)', category: 'Curriculum', tags: ['AIP', 'SSP', 'KIS', 'SEIL', 'related', 'policies', 'legislation', 'annual', 'implementation'], summary: 'This policy sets out the requirement for all schools to develop an Annual Implementation Plan (AIP) each year.', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/policy', guidance: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance', resources: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/resources' },
+    chapters: [
+      { title: '1. What’s new in the Annual Implementation Plan — AIP, SSP, NAPLAN, reading, target, number', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/whats-new-aip' },
+      { title: '2. Annual Implementation Plan timelines — AIP, SPOT, SEIL, complete, feedback, monitoring', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/aip-timelines' },
+      { title: '3. End-of-year assessment of the Annual Implementation Plan — AIP, SPOT, KIS, practice, assessment, progress', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/end-of-year-assessment-aip' },
+      { title: '4. Developing the next Annual Implementation Plan — 12 months, AIP, SSP, KIS, actions, action', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/developing-next-aip' },
+      { title: '5. Endorsement and communication of the Annual Implementation Plan — AIP, SPOT, SEIL, community, endorsement, communication', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/endorsement-communication-aip' },
+      { title: '6. Implementing the Annual Implementation Plan — AIP, SIT, KIS, implementation, processes, implementing', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/implementing-aip' },
+      { title: '7. Monitoring delivery of the Annual Implementation Plan — AIP, SPOT, monitoring, implementation, undertake, progress', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/monitoring-delivery-of-aip' },
+      { title: '8. Advice for schools in review — AIP, SSP, SEIL, develop, until, endorsed', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/advice-schools-review' },
+      { title: '9. Advice for new schools — 12 months, AIP, SSP, KIS, first, operation', url: 'https://www2.education.vic.gov.au/pal/annual-implementation-plan/guidance/advice-new-schools' }
+    ],
+    resources: [
+      { title: '2026 AIP additional supporting resources (PPTX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:p:/r/sites/SchoolsSecure/Shared%20Documents/AIP-additional-supporting-resources-2026.pptx' },
+      { title: 'Victorian Teaching and Learning Model (VTLM 2.0) ImplementationRubricExternal Link', note: 'School leaders can use thewhen completing the VLTM 2.0 self-assessment questions in the 2025 AIP end', url: 'https://arc.educationapps.vic.gov.au/learning/resource/85712/vtlm-20-implementation-rubric' },
+      { title: 'SPOTExternal Link', note: 'School leaders can use theVictorian Teaching and Learning Model (VTLM 2.0) ImplementationRubricExter', url: 'https://apps.edustar.vic.edu.au/spot/' },
+      { title: 'SPOT troubleshooting guide (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/SPOT-troubleshooting-guide.docx' },
+      { title: 'FISO 2.0 Policy', note: '– sets out the implementation process for using the new FISO 2.0', url: 'https://www2.education.vic.gov.au/pal/fiso/policy' },
+      { title: 'FISO 2.0 practice tools guidance', note: '– contains an overview of each of the tools that will help schools to implement FISO 2.0', url: 'https://www2.education.vic.gov.au/pal/fiso/guidance/practice-tools' },
+      { title: 'PanoramaExternal Link', note: '(staff login required) – includes access to School Performance Reports and range of dashboards with', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/TEB/Panorama/Pages/panorama.aspx' },
+      { title: 'Insight assessmentplatformExternal Link', note: '– includes access to English and Mathematics online interviews, Abilities Based Learning and Educati', url: 'https://www.vcaa.vic.edu.au/assessment/f-10assessment/insight/Pages/index.aspx' },
+      { title: 'One school oneviewExternal Link', note: '– a ‘live’, interactive dashboard providing a single view of school context, performance, financial', url: 'https://datazoneviz.eduweb.vic.gov.au/views/1S1VSchoolReport/OneSchoolOneView?&:embed=y&:display_count=no&:showVizHome=no&:toolbar=top&:customViews=n#1?pageid=7&sid=7' },
+      { title: 'VCAA dataserviceExternal Link', note: '– provides a comprehensive range of reports to all Victorian schools on results from the National As', url: 'https://dataservice.vcaa.vic.edu.au/Account/Login?ReturnUrl=%2F' },
+      { title: 'Curriculum Programs Foundation – 10', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/policy' },
+      { title: 'Victorian Teaching and Learning Model 2.0', url: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model/policy' },
+      { title: 'Victoria’s approach to teaching readingF–2External Link', url: 'https://arc.educationapps.vic.gov.au/learning/sites/literacy/2484/Victorias-approach-to-teaching-reading-F-2' },
+      { title: 'Victorian Lesson Plans', url: 'https://www2.education.vic.gov.au/pal/curriculum-programs/guidance/victorian-lesson-plans' },
+      { title: 'Assessment of Student Achievement and Progress Foundation to 10', url: 'https://www2.education.vic.gov.au/pal/assessment-student-achievement/policy' }
+    ]
+  },
+  { id: 210, title: 'Annual Report to the School Community', category: 'School Council', tags: ['SPOT', 'VRQA', 'DOCX', 'SEIL', 'register', 'ministerial order', 'summary', 'exemptions', 'completing', 'annual'], summary: 'This policy sets out the requirement for schools to develop an Annual Report to the School Community (Annual Report).', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/policy', guidance: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance', resources: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/resources' },
+    chapters: [
+      { title: '1. Guide to completing the Annual Report — SPOT, VRQA, compliance, register, report, annual', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/completing-annual-report-spot' },
+      { title: '2. School performance summary for the 2025 Annual Report — NAPLAN, SPOT, performance, summary, annual, report', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/school-performance-summary-2023-annual-report' },
+      { title: '3. Completing the ‘About our school’ commentary — SPOT, AI, SSP, contractor, highlights, engagement', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/completing-about-our-school' },
+      { title: '4. Endorsement and attestation — SPOT, VIT, VRQA, exemption, ministerial order, compliance', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/attestation-and-endorsement' },
+      { title: '5. Quality assurance — SPOT, contractor, quality, assurance, annual, standards', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/quality-assurance' },
+      { title: '6. Sharing the Annual Report with the school community — SPOT, VRQA, register, report, annual, final', url: 'https://www2.education.vic.gov.au/pal/annual-report-schools-community/guidance/sharing-annual-report' }
+    ],
+    resources: [
+      { title: 'SPOT troubleshooting guide(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/SPOT-troubleshooting-guide.docx' },
+      { title: 'spot.support@education.vic.gov.au', note: 'For SPOT technical support, please email:', url: 'https://www2.education.vic.gov.aumailto:spot.support@education.vic.gov.au' },
+      { title: 'schoolannualreport@education.vic.gov.au', note: 'For questions regarding the Annual Report process, please email:', url: 'https://www2.education.vic.gov.aumailto:schoolannualreport@education.vic.gov.au' }
+    ]
+  },
+  { id: 211, title: 'Asbestos Management', category: 'Infrastructure', tags: ['3 years', '5 years', 'OHS', 'ACM', 'SAMP', 'AIMS', 'certificate', 'register', 'audit', 'summary'], summary: 'The purpose of this policy is to support schools to understand their health and safety obligations relating to asbestos management and to comply with relevant regulatory and department requirements.', url: 'https://www2.education.vic.gov.au/pal/asbestos', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/asbestos/policy', guidance: 'https://www2.education.vic.gov.au/pal/asbestos/guidance', resources: 'https://www2.education.vic.gov.au/pal/asbestos/resources' },
+    chapters: [
+      { title: 'Policy — 3 years, 5 years, OHS, ACM, SAMP, certificate', url: 'https://www2.education.vic.gov.au/pal/asbestos/policy' },
+      { title: 'Procedure — procedure, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/asbestos/guidance' },
+      { title: 'Resources — SAMP, DOCX, ACM, register, audit, asbestos', url: 'https://www2.education.vic.gov.au/pal/asbestos/resources' }
+    ],
+    resources: [
+      { title: 'Schools Asbestos Management Plan (SAMP) template(DOCX)External Link', note: '– contains a documented outline of how asbestos containing materials (ACM) in schools will be manage', url: 'https://content.sdp.education.vic.gov.au/media/school-asbestos-management-plan-1567' },
+      { title: 'AIMSExternal Link', note: 'The Asbestos Register is used to record current information about the existence and location of any', url: 'https://vsba-aims.maxicloud.co/maximo/ui' },
+      { title: 'Asbestos register(XLSX)External Link', note: 'The Asbestos Register is used to record current information about the existence and location of any', url: 'https://content.sdp.education.vic.gov.au/media/asbestos-register-2590' },
+      { title: 'Asbestos label register(XLSX)External Link', note: 'The Asbestos Label Register is used to record school buildings which are labelled to indicate the pr', url: 'https://content.sdp.education.vic.gov.au/media/asbestos-label-register-2070' },
+      { title: 'OHS activities calendar and OHS risk register', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/resources' },
+      { title: 'Australian Government - Asbestos safety and eradicationagencyExternal Link', note: '– contains further details about:', url: 'https://www.asbestossafety.gov.au/about-asbestos/about-asbestos' }
+    ]
+  },
+  { id: 212, title: 'Asset Information Management System (AIMS)', category: 'IT & Privacy', tags: ['AIMS', 'VSBA', 'IT', 'DET', 'compliance', 'register', 'summary', 'benefits', 'for?', 'training'], summary: 'This advice describes the new asset information management system (AIMS) which is a web-based, centralised portal that has replaced schools’ existing asset information management systems.', url: 'https://www2.education.vic.gov.au/pal/asset-information-management-system', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/guidance', resources: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/resources' },
+    chapters: [
+      { title: 'Advice — AIMS, VSBA, IT, compliance, register, asset', url: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/advice' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/guidance' },
+      { title: 'Resources — AIMS, DOCX, PDF, approval, compliance, access', url: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/resources' }
+    ],
+    resources: [
+      { title: 'Asset information management system(AIMS)External Link', note: 'AIMS can be accessed at:(staff login required).', url: 'https://vsba-aims.maxicloud.co/maximo/ui' },
+      { title: 'ServicesPortalExternal Link', note: 'For system support or assistance, access the(staff login required) or contact the asset information', url: 'https://services.educationapps.vic.gov.au/dp?id=sc_cat_item&sys_id=b73928e2db924450c317f6fcbf9619ff' },
+      { title: '1800 641 943', note: 'For system support or assistance, access theServicesPortalExternal Link(staff login required) or con', url: 'https://www2.education.vic.gov.autel:1800641943' },
+      { title: 'Asset Information Management System (AIMS) SchoolAccessExternal Link', note: 'To raise an AIMS access request (school log in required) open the Services Portal, select Services C', url: 'https://services.educationapps.vic.gov.au/dp?id=sc_cat_item&sys_id=c574aa5887eadd149edbffb8dabb35e4&sysparm_category=3a77ca22dbe90810c317f6fcbf9619c5' },
+      { title: 'AIMS userguide (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/aims-user-guide-593' },
+      { title: 'AIMS userguide (PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/aims-user-guide-pdf-594' },
+      { title: 'AIMSKnowledge CentreExternal Link', note: 'The(staff login required) is a central repository of practical information to help schools use AIMS,', url: 'https://eduvic.sharepoint.com/sites/AIMSKnowledgeCentre' },
+      { title: 'School facilities managementhandbook (PDF)External Link', note: 'Theis a consolidated support resource for school principals, business managers and facility managers', url: 'https://content.sdp.education.vic.gov.au/media/school-facilities-management-handbook-2437' }
+    ]
+  },
+  { id: 213, title: 'Asset Management Planning – School Upgrades', category: 'Infrastructure', tags: ['5 years', 'AMP', 'VSBA', 'PEN', 'SDS', 'approval', 'summary', 'boundaries', 'received', 'capital'], summary: 'This policy explains the asset management planning process for schools that receive capital funding.', url: 'https://www2.education.vic.gov.au/pal/asset-management-planning', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/asset-management-planning/policy', guidance: 'https://www2.education.vic.gov.au/pal/asset-management-planning/guidance', resources: 'https://www2.education.vic.gov.au/pal/asset-management-planning/resources' },
+    chapters: [
+      { title: '1. Asset management planning guidance — AMP, VSBA, DOCX, project, schedules, space', url: 'https://www2.education.vic.gov.au/pal/asset-management-planning/guidance/asset-management-planning-guidance' },
+      { title: '2. School functionality — VSBA, AMP, VFM, functionality, victorian, learning', url: 'https://www2.education.vic.gov.au/pal/asset-management-planning/guidance/school-functionality' },
+      { title: '3. Project control group terms of reference — $10 million, PCG, VSBA, AMP, procurement, compliance', url: 'https://www2.education.vic.gov.au/pal/asset-management-planning/guidance/project-control-group-terms-reference' }
+    ],
+    resources: [
+      { title: 'Everything you need to know about a school building project(DOCX)External Link', note: '– a practical guide for schools that covers roles and responsibilities, Bricks and Mortar training,', url: 'https://content.sdp.education.vic.gov.au/media/amp-everything-you-need-to-know-about-school-building-project-627' },
+      { title: 'Donating Furniture and Equipment', note: '– information for schools regarding how they can donate their unwanted school furniture and equipmen', url: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment/policy' },
+      { title: 'School funded Capital Projects policy', note: 'Good Neighbour Guide (available from the) – provide schools with guidance on considering neighbours', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/policy' },
+      { title: 'School Maintenance Plans and Rolling Facilities Evaluations policy', note: 'Theexplains the process that schools must follow to create a 5-year School Maintenance Plan. It also', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy' },
+      { title: 'Project Management Framework (PMF) (staff loginrequired)External Link', note: '– information regarding budget and financial management of Capital and Maintenance projects', url: 'https://edugate.eduweb.vic.gov.au/sc/sites/Infonline/Policies%20Guidelines%20and%20Procedures/Forms/PMF.aspx' },
+      { title: 'School Facility Area Schedules (staff loginrequired)External Link', note: '– specifies the square metre area allocations to use when planning and designing new schools or upgr', url: 'https://edugate.eduweb.vic.gov.au/sc/sites/Infonline/Facilities%20Schedules/Forms/AllItems.aspx' },
+      { title: 'Asset Management Phase 1 communication process (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP1-communications-process.docx' },
+      { title: 'Asset Management Phase 1 communication template (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP1-communications-templates.docx' },
+      { title: 'Asset Management Plan Design and Construction Phases – communication process (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP-design-construction-communications-process.docx' },
+      { title: 'Asset Management Plan Design and Construction Phases – communication template (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP-design-construction-communications-templates.docx' },
+      { title: 'Toolbox(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/asset-management-planning-toolbox-661' },
+      { title: 'Image cards(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/asset-management-planning-image-cards-660' },
+      { title: '3 layer learning base(PPTX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/asset-management-planning-3-layer-learning-base-activity-659' }
+    ]
+  },
+  { id: 214, title: 'Asset Management Roles and Responsibilities Framework', category: 'Infrastructure', tags: ['5 years', 'PPP', 'DOCX', 'VSBA', 'AMP', 'compliance', 'procurement', 'summary', 'shared', 'responsibility'], summary: 'The purpose of this advice is to outline school asset management roles and responsibilities for corporate staff, principals, and school councils.', url: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/guidance', resources: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/resources', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/procuring-low-value-construction/policy', overview: 'https://www2.education.vic.gov.au/pal/school-council-overview/overview' },
+    chapters: [
+      { title: 'Plan — AMP, VSBA, DOCX, compliance, approval, corporate', url: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/guidance/plan' },
+      { title: 'Build — $200,000, VSBA, BQSH, GST, approval, projects', url: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/guidance/build' },
+      { title: 'Manage — $50,000, $2 million, 5 years, AIMS, VSBA, SRP', url: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/guidance/manage' },
+      { title: 'Dispose — $50,000, VSBA, RPP, GST, approval, contractor', url: 'https://www2.education.vic.gov.au/pal/asset-management-roles-responsibilities-framework/guidance/dispose' }
+    ],
+    resources: [
+      { title: 'Bricks and Mortar Asset ManagementprogramExternal Link', url: 'https://www.academy.vic.gov.au/professional-learning/bricks-and-mortar-asset-management' },
+      { title: 'Key asset management roles and responsibilities(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/asset-management-roles-and-responsibilities-table-662' }
+    ]
+  },
+  { id: 215, title: 'Assistant Principal Contract Renewal', category: 'HR - Recruitment', tags: ['5 years', 'HR', 'overview', 'related', 'policies', 'legislation', 'assistant', 'contract', 'renewal'], summary: 'Assistant Principal positions are tenured for up to 5 years with the tenure specified in the position advertisement. The successful applicant will be ongoing with tenure in the leadership position.', url: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/resources' },
+    chapters: [
+      { title: 'Overview — 5 years, HR, tenure, performance, development, class', url: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/overview' },
+      { title: 'Policy and Guidelines — 5 years, 12 weeks, assistant, contract, renewal, employment', url: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/policy-and-guidelines' },
+      { title: 'Resources — renewal, external, resources, assistant, forma, administration', url: 'https://www2.education.vic.gov.au/pal/assistant-principal-contract-renewal/resources' }
+    ],
+    resources: [
+      { title: 'Assistant Principal Renewal or Non-Renewal pro forma(Word)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1564' },
+      { title: 'Administration Procedures(Word)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1565' }
+    ]
+  },
+  { id: 216, title: 'Biological Materials Used in Schools', category: 'OHS', tags: ['OHS', 'OHSMS', 'HSR', 'XLSX', 'register', 'summary', 'animal', 'tissue', 'contaminated', 'partially'], summary: 'The purpose of this policy is to ensure risks associated with the use of biological materials in the teaching of science are managed appropriately.', url: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/policy', guidance: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/resources' },
+    chapters: [
+      { title: 'Policy — OHS, OHSMS, HSR, register, biological, material', url: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/policy' },
+      { title: 'Procedure — procedure, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/guidance' },
+      { title: 'Resources — EPA, OHS, XLSX, register, waste, external', url: 'https://www2.education.vic.gov.au/pal/biological-materials-used-schools/resources' }
+    ],
+    resources: [
+      { title: 'EPA clinical and related waste – operationalguidanceExternal Link', note: '– information on how to find an EPA-approved biomedical waste incinerator', url: 'https://www.epa.vic.gov.au/about-epa/publications/iwrg612-1' },
+      { title: 'OHS risk register(XLSX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/ohs-risk-register-2572' }
+    ]
+  },
+  { id: 217, title: 'Blood Spills and Open Wounds Management', category: 'OHS', tags: ['OHS', 'compliance', 'summary', 'treating', 'bleeding', 'managing', 'blood', 'spills', 'related', 'policies'], summary: 'This policy guides schools around safe responses to students with open wounds and blood spills.', url: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/policy', guidance: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/guidance', resources: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/resources' },
+    chapters: [
+      { title: 'Policy — OHS, compliance, blood, spills, first, bleeding', url: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/guidance' },
+      { title: 'Resources — DOCX, external, resources, hepatitis, procedure, cleaning', url: 'https://www2.education.vic.gov.au/pal/blood-spills-and-open-wounds-management/resources' }
+    ],
+    resources: [
+      { title: 'Guidelines for Hepatitis(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidelines-for-hepatitis-2614' },
+      { title: 'Safe Work Procedure – Cleaning and Handling of Blood and Bodily Fluids(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/safe-work-procedure-cleaning-and-handling-of-blood-and-bodily-fluids-2703' }
+    ]
+  },
+  { id: 218, title: 'Blood-borne viruses', category: 'OHS', tags: ['HIV', 'BBV', 'DOCX', 'authorised', 'summary', 'health', 'planning', 'privacy', 'protection', 'discrimination'], summary: 'This policy outlines how schools deal with blood-borne viruses.', url: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/policy', guidance: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/guidance', resources: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/resources' },
+    chapters: [
+      { title: 'Policy — HIV, BBV, DOCX, blood, borne, health', url: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/guidance' },
+      { title: 'Resources — DOCX, BBV, health, external, guidance, hepatitis', url: 'https://www2.education.vic.gov.au/pal/blood-borne-viruses/resources' }
+    ],
+    resources: [
+      { title: 'Student Health Support Plan(DOCX)External Link', note: '– should be developed (where appropriate) to assist a student with a BBV in collaboration with the p', url: 'https://content.sdp.education.vic.gov.au/media/student-health-support-plan-2478' },
+      { title: 'Guidelines for Hepatitis(DOCX)External Link', note: '– the department’s guidance on how to prevent and control Hepatitis in schools, central and regional', url: 'https://content.sdp.education.vic.gov.au/media/guidelines-for-hepatitis-2614' },
+      { title: 'Communicable Disease Prevention and ControlUnitExternal Link', note: '– a Department of Health and Human Services resource that contains further information about BBV and', url: 'https://www2.health.vic.gov.au/public-health/infectious-diseases' }
+    ]
+  },
+  { id: 219, title: 'Building Quality Standards Handbook (BQSH) – School Construction and Design Standards', category: 'Infrastructure', tags: ['BQSH', 'NCC', 'OHS', 'DET', 'compliance', 'summary', 'universal', 'design', 'child', 'safety'], summary: 'This policy explains how theBuilding Quality Standards Handbook(BQSH)External Linkensures high-quality and inclusive designs for school facilities across Victoria. The BQSH is a key design document that sets the minimum standards for construction and design for all of the department’s building projects.', url: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/policy', guidance: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/guidance', resources: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/resources' },
+    chapters: [
+      { title: 'Policy — BQSH, NCC, OHS, compliance, design, building', url: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/policy' },
+      { title: 'Guidance — guidance, latest, version, building, quality, standards', url: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/guidance' },
+      { title: 'Resources — resources, access, latest, version, building, quality', url: 'https://www2.education.vic.gov.au/pal/bqsh-school-construction-design-standards/resources' }
+    ],
+    resources: [
+      { title: 'Building Quality StandardsHandbookExternal Link', note: 'Access the latest version of the.', url: 'https://www.schoolbuildings.vic.gov.au/building-quality-standards-handbook' }
+    ]
+  },
+  { id: 220, title: 'Bushfire and Grassfire Preparedness', category: 'Infrastructure', tags: ['VRQA', 'BARR', 'FDR', 'EMP', 'register', 'risk assessment', 'summary', 'bushfire', 'grassfire', 'risk'], summary: 'This policy outlines actions schools and early childhood services must take in relation to bushfire and grassfire risk.', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/policy', guidance: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance', resources: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/resources', overview: 'https://www2.education.vic.gov.au/pal/leave-bushfire-flood-or-other-severe-weather-event/overview' },
+    chapters: [
+      { title: 'Pre-emptive actions — 4 days, FDR, LGA, CFA, risk assessment, emptive', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance/pre-emptive-actions' },
+      { title: 'Community bushfire safety options on school premises — NSP, SIP, CFA, community, bushfire, external', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance/community-bushfire-safety-options-school-premises' },
+      { title: 'Bushfire safety information — BARR, CFA, DOCX, register, bushfire, external', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance/bushfire-safety-information-schools-barr' },
+      { title: 'Vegetation management — BARR, BPVP, VMP, register, bushfire, vegetation', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance/vegetation-management' },
+      { title: 'Grassfire safety information — grassfire, safety, early, childhood, grassfires, danger', url: 'https://www2.education.vic.gov.au/pal/bushfire-and-grassfire-preparedness/guidance/grassfire-safety-information' }
+    ],
+    resources: [
+      { title: 'Bushfire preparedness procedures for education facilities(PDF)External Link', note: '– outline what schools and early childhood services need to do to prepare for bushfires and grassfir', url: 'https://content.sdp.education.vic.gov.au/media/bushfire-preparedness-procedures-education-facilities-1291' },
+      { title: 'Pre-season bushfire preparedness for schools(DOCX)External Link', note: '– this checklist outlines the activities schools should take prior to the commencement of the high-r', url: 'https://content.sdp.education.vic.gov.au/media/pre-season-bushfire-preparedness-for-schools-2412' },
+      { title: 'Pre-emptive relocation plan template(DOCX)External Link', note: '– a template for Category 0 to 2 schools to develop a pre-emptive relocation plan for days of elevat', url: 'https://content.sdp.education.vic.gov.au/media/pre-emptive-relocation-plan-2411' },
+      { title: 'Pre-emptive closure plan template(DOCX)External Link', note: '– a template for Category 0 to 2 schools to develop a pre-emptive closure plan for days of elevated', url: 'https://content.sdp.education.vic.gov.au/media/pre-emptive-closure-plan-2409' },
+      { title: 'Enacting your pre-emptive action plan (relocation or closure) checklist(DOCX)External Link', note: '– a checklist for Category 0 to 2 schools to enact their pre-emptive action plan (relocation or clos', url: 'https://content.sdp.education.vic.gov.au/media/enacting-pre-emptive-action-plan-1490' },
+      { title: 'Enacting your Catastrophic FDR school closure checklist(DOCX)External Link', note: '– a checklist for all BARR and Category 4 schools to support closure on a day of Catastrophic fire d', url: 'https://content.sdp.education.vic.gov.au/media/enacting-catastrophic-fdr-school-closure-checklist-docx-1488' },
+      { title: 'Enacting your Catastrophic FDR service closure checklist(DOCX)External Link', note: '– a checklist for all BARR and Category 4 early childhood services to support closure on a day of Ca', url: 'https://content.sdp.education.vic.gov.au/media/enacting-catastrophic-fdr-service-closure-checklist-docx-1489' },
+      { title: 'Guidelines on bushfirepreparednessExternal Link', note: 'Schools and early childhood services can use the site readiness review checklists to help guide thei', url: 'https://www2.vrqa.vic.gov.au/your-school-bushfire-ready' },
+      { title: 'School bushfire site readiness reviewchecklist (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-bushfire-site-readiness-review-checklist-2343' },
+      { title: 'Early childhood services bushfire site readiness reviewchecklist (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/bushfire-and-grassfire-readiness-review-checklist-555' },
+      { title: 'Presentation: Ensuring our school is bushfire ready(PPTX)External Link', note: '– a PowerPoint presentation for schools to use in communicating about bushfire preparedness with the', url: 'https://content.sdp.education.vic.gov.au/media/ensuring-our-school-is-bushfire-ready-presentation-1493' },
+      { title: 'Newsletter article: Communications to parents on fire preparation for category 0, 1 and 2schools (DOCX)External Link', note: '– a template for schools to publish in a newsletter or on their website to communicate their school’', url: 'https://content.sdp.education.vic.gov.au/media/communications-to-parents-fire-preparation-category-0-2-schools-1333' },
+      { title: 'Newsletter article: Communications to parents on fire preparation for category 3 and 4 schools(DOCX)External Link', note: '– a template for schools to publish in a newsletter or on their website to communicate their school’', url: 'https://content.sdp.education.vic.gov.au/media/communications-to-parents-fire-preparation-category-3-4-schools-1334' },
+      { title: 'Letter – socialise your school’sEMPExternal Link', note: 'andShort form – socialise your school’s EMP(DOCX)External Link- sample communications to share key m', url: 'https://content.sdp.education.vic.gov.au/media/letter-template-socialise-the-schools-emergency-management-plan-2921' },
+      { title: 'Short form – socialise your school’s EMP(DOCX)External Link', note: 'Letter – socialise your school’sEMPExternal Linkand- sample communications to share key messages reg', url: 'https://content.sdp.education.vic.gov.au/media/short-form-template-socialise-the-schools-emergency-management-plan-2922' }
+    ]
+  },
+  { id: 221, title: 'Calendars — HR Administration', category: 'HR - Pay (?ambig)', tags: ['PDF', 'HR', 'overview', 'finalisation', 'calendars', 'administrative', 'administration'], summary: 'The following calendars show the fortnightly pay periods and pay days for Department employees. The calendars also show the confirmed school vacation periods for school employees (note: the attendance days for students may differ).', url: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/resources' },
+    chapters: [
+      { title: 'Overview — PDF, HR, calendars, external, finalisation, excel', url: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/policy-and-guidelines' },
+      { title: 'Resources — PDF, external, excel, calendars, resources, showing', url: 'https://www2.education.vic.gov.au/pal/calendars-hr-administration/resources' }
+    ],
+    resources: [
+      { title: '2024 to2030 (Excel)External Link', url: 'https://www.education.vic.gov.au/hrweb/documents/PayDayCalendars-2024-2030.xlsx' },
+      { title: '2024 to 2030(PDF)External Link', url: 'https://www.education.vic.gov.au/hrweb/documents/PayDayCalendars-2024-2030.pdf' },
+      { title: '2022 (Excel)External Link', url: 'https://content.sdp.education.vic.gov.au/media/2022-pay-finalise-981' },
+      { title: '2023(Excel)External Link', url: 'https://content.sdp.education.vic.gov.au/media/2023-pay-finalisation-calendar-1036' },
+      { title: '2024(Excel)External Link', url: 'https://content.sdp.education.vic.gov.au/media/2024-pay-finalisation-calendar-1037' },
+      { title: '2025(Excel)External Link', url: 'https://content.sdp.education.vic.gov.au/media/2025-pay-finalisation-calendar-3008' },
+      { title: '2026(Excel)External Link', url: 'https://content.sdp.education.vic.gov.au/media/2026-pay-finalise-3526' }
+    ]
+  },
+  { id: 222, title: 'Canteens, Healthy Eating and Other Food Services', category: 'School Operations', tags: ['procurement', 'summary', 'background', 'special', 'dietary', 'requirements', 'anaphylactic', '(severe)', 'food', 'allergy'], summary: 'The purpose of this policy is to ensure school food services provide food and drinks which contribute to a supportive, healthy school environment.', url: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/policy', guidance: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/guidance', resources: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/resources' },
+    chapters: [
+      { title: 'Introduction — healthy, foods, health, promoting, approach, eating', url: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/guidance/introduction' },
+      { title: 'Role of the canteen and/or other food service — canteen, important, educational, daily, canteens, resources', url: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/guidance/role-canteen-and/or-other-food-service' },
+      { title: 'Guiding principles for food selection — foods, healthy, choose, principles, selection, range', url: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/guidance/guiding-principles-food-selection' },
+      { title: 'Everyday, Select Carefully and Occasionally food categories — PDF, foods, drinks, category, select, everyday', url: 'https://www2.education.vic.gov.au/pal/canteens-and-healthy-eating/guidance/everyday-select-carefully-and-occasionally-food-categories' }
+    ],
+    resources: [
+      { title: 'FoodCheckerExternal Link', note: '– Schools can use this tool to help classify individual recipes and food/drink products, plan health', url: 'https://foodchecker.au/' },
+      { title: 'Confectionery – definition and examples(DOCX)External Link', note: 'provides a definition and examples of confectionery for schools to use when selecting products to su', url: 'https://content.sdp.education.vic.gov.au/media/confectionery-definition-and-examples-2883' },
+      { title: 'Healthy EatingAdvisory ServiceExternal Link', note: 'Thesupports schools to provide and promote nutritious foods and drinks in line with department polic', url: 'https://heas.health.vic.gov.au' },
+      { title: 'resourcesExternal Link', note: 'The Healthy Eating Advisory Service provides a range of services andincluding:', url: 'https://heas.health.vic.gov.au/resources/' },
+      { title: 'FoodCheckerExternal Link', note: '– online menu assessment tool', url: 'http://heas.health.vic.gov.au/schools/menu-product-and-recipe-assessments' },
+      { title: 'onlinetrainingExternal Link', note: '– a free 1-hour self-paced online training module suitable for anyone involved in food provision in', url: 'https://heas.health.vic.gov.au/training/healthy-school-food-services/' },
+      { title: 'healthy school celebrationideasExternal Link', url: 'https://heas.health.vic.gov.au/schools/promoting-healthy-foods-and-drinks/healthy-school-celebration-ideas' },
+      { title: 'healthy fundraisingideasExternal Link', url: 'https://heas.health.vic.gov.au/resources/plan-a-menu/food-fundraising-ideas/' },
+      { title: 'non-food fundraisingideasExternal Link', url: 'https://heas.health.vic.gov.au/resources/promoting-healthy-eating/non-food-fundraising-ideas-schools/' },
+      { title: '1300 22 52 88', note: 'Further information is available on theHealthy Eating Advisory ServicewebsiteExternal Linkor by call', url: 'https://www2.education.vic.gov.autel:1300225288' },
+      { title: 'Vic Kids EatWellExternal Link', note: 'is designed to support schools to implement the Healthy Eating, Canteens and Other Food Services pol', url: 'https://www.vickidseatwell.health.vic.gov.au/' },
+      { title: 'Healthy Schools AchievementProgramExternal Link', note: 'Schools that participate in Vic Kids Eat Well are encouraged to continue their healthy eating journe', url: 'https://www.achievementprogram.health.vic.gov.au/education/schools' },
+      { title: 'Multicultural Inclusion Resource(PDF)External Link', note: 'The department’sprovides advice to schools to help them ensure that amenities such as canteens are c', url: 'https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/multicultural/Student_Leaders_for_Multicultural_Inclusion.pdf' },
+      { title: 'ArcExternal Link', note: '– resources for learning and teaching aligned to the Victorian Curriculum', url: 'https://arc.educationapps.vic.gov.au/learning' },
+      { title: 'Better HealthChannelExternal Link', url: 'https://www.betterhealth.vic.gov.au/healthyliving' }
+    ]
+  },
+  { id: 223, title: 'Capacity and Area Allocation', category: 'Infrastructure', tags: ['VSBA', 'AIMS', 'PRISM', 'ISP', 'register', 'overview', 'summary', 'current', 'built', 'capacity'], summary: 'This advice describes current built capacity, site capacity and additional capacity considerations for Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation/guidance', resources: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation/resources', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/policy' },
+    chapters: [
+      { title: 'Advice — VSBA, AIMS, PRISM, register, capacity, current', url: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation/advice' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/capacity-and-area-allocation/resources' }
+    ]
+  },
+  { id: 224, title: 'Capital Building Projects in Schools', category: 'Infrastructure', tags: ['$50,000', 'VSBA', 'GST', 'PDF', 'AMP', 'approval', 'authorised', 'procurement', 'summary', 'asset'], summary: 'This policy explains the roles and responsibilities of schools and theVictorian School BuildingAuthorityExternal Link(VSBA) for capital building projects delivered by the VSBA.', url: 'https://www2.education.vic.gov.au/pal/capital-building-projects', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/capital-building-projects/policy', guidance: 'https://www2.education.vic.gov.au/pal/capital-building-projects/guidance', resources: 'https://www2.education.vic.gov.au/pal/capital-building-projects/resources' },
+    chapters: [
+      { title: 'Policy — $50,000, VSBA, GST, PDF, approval, procurement', url: 'https://www2.education.vic.gov.au/pal/capital-building-projects/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/capital-building-projects/guidance' },
+      { title: 'Resources — PDF, DOCX, AMP, approval, external, template', url: 'https://www2.education.vic.gov.au/pal/capital-building-projects/resources' }
+    ],
+    resources: [
+      { title: 'School asset drawing changes checklist(PDF)External Link', note: '– when changes to school facilities occur as a result of school-funded and led capital projects, sch', url: 'https://content.sdp.education.vic.gov.au/media/school-asset-drawing-changes-checklist-130' },
+      { title: 'Template 1 – School Council Declaration(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-1-school-council-declaration-2458' },
+      { title: 'Template 2 – Approval to Proceed to Consultant Tender(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-2-approval-to-proceed-to-consultant-tender-2459' },
+      { title: 'Template 3 – Approval to Enter into Consultant Contracts(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-3-approval-to-enter-into-consultant-contracts-2460' },
+      { title: 'Template 4 – Approval to Proceed to Construction Tender(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-4-approval-to-proceed-to-construction-tender-2461' },
+      { title: 'Template 5 – Approval to Enter Into Construction Contracts(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-5-approval-to-enter-into-construction-contracts-2462' },
+      { title: 'Template 7 – Conflict of Interest form(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/sfcp-template-7-conflict-of-interest-form-2463' },
+      { title: 'Good neighbour guide(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/good-neighbour-guide-1920' },
+      { title: 'Good neighbour checklist(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/good-neighbour-checklist-1919' },
+      { title: 'General building works letter template(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/general-building-works-letter-template.docx' },
+      { title: 'Information session letter template(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/info-session-letter-template.docx' },
+      { title: 'Traffic and parking letter template(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/traffic-and-parking-letter-template.docx' },
+      { title: 'Asset Management Phase 1 Communication Process(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP1-communications-process.docx' },
+      { title: 'Asset Management Phase 1 Communication Template(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP1-communications-templates.docx' },
+      { title: 'Asset Management Plan Design and Construction Phases – Communication Process(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/AMP-design-construction-communications-process.docx' }
+    ]
+  },
+  { id: 225, title: 'Career Start', category: 'Curriculum', tags: ['LANTITE', 'summary', 'eligibility', 'related', 'policies', 'career', 'start'], summary: 'This policy supports implementation of the Career Start program in Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/career-start', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/career-start/policy', guidance: 'https://www2.education.vic.gov.au/pal/career-start/guidance', resources: 'https://www2.education.vic.gov.au/pal/career-start/resources', overview: 'https://www2.education.vic.gov.au/pal/attendance-and-working-hours-teaching-service/overview' },
+    chapters: [
+      { title: 'Time release for graduate and mentor teachers — 10 week, 1 hour, VGSA, release, graduate, career', url: 'https://www2.education.vic.gov.au/pal/career-start/guidance/time-release-graduate-mentor-teachers' },
+      { title: 'Use of time release — 1 day, learning, professional, graduate, alliance, practice', url: 'https://www2.education.vic.gov.au/pal/career-start/guidance/use-time-release' },
+      { title: 'Mentor selection — mentor, graduate, experience, model, consider, mentors', url: 'https://www2.education.vic.gov.au/pal/career-start/guidance/mentor-teacher-selection' },
+      { title: 'Support for schools — SRP, funding, participating, resource, package, cycle', url: 'https://www2.education.vic.gov.au/pal/career-start/guidance/support-schools' },
+      { title: 'Support for Aboriginal and/or Torres Strait Islander graduate teachers — graduate, first, nations, career, start, aboriginal', url: 'https://www2.education.vic.gov.au/pal/career-start/guidance/support-for-aboriginal-and/or-torres-strait-islander-graduate-teachers' }
+    ]
+  },
+  { id: 226, title: 'Career Structure — Teaching Service', category: 'HR - Pay (?ambig)', tags: ['HR', 'overview', 'related', 'topics', 'legislation', 'career', 'structure', 'teaching'], summary: 'The department is committed to attracting, retaining and developing high quality principals, teachers and education support staff. To this end, the respective classification structures provide the opportunity to progress within each structure and to transfer and, or promote through the various structures.', url: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, class, education, teaching, employment, performance', url: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/overview' },
+      { title: 'Policy and Guidelines — $0, 5 years, 2 years, SRP, class, range', url: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/career-structure-teaching-service/resources' }
+    ]
+  },
+  { id: 227, title: 'Careers and Recruitment', category: 'HR - Recruitment', tags: ['overview', 'qualified', 'find', 'special', 'attraction', 'recruitment', 'programs', 'related', 'topics', 'careers'], summary: 'A career in education and early childhood development can be stimulating, satisfying and rewarding, and provides the opportunity to influence and shape many lives.', url: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/resources' },
+    chapters: [
+      { title: 'Overview — education, external, early, childhood, programs, career', url: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic', url: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/policy-and-guidelines' },
+      { title: 'Resources — resources, refer, overview, links', url: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/resources' }
+    ],
+    resources: [
+      { title: 'Overview', note: 'Refer to thetab for all relevant links and information.', url: 'https://www2.education.vic.gov.au/pal/careers-and-recruitment/overview' }
+    ]
+  },
+  { id: 228, title: 'Casual Relief Teachers (CRTs)', category: 'HR - Recruitment', tags: ['CRT', 'OHSMS', 'HR', 'overview', 'casual', 'relief', 'panel', 'related', 'policies', 'legislation'], summary: 'Casual relief teachers (CRTs) are casual employees engaged by school councils under Part 2.3 of the Education and Training Reform Act 2006.', url: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/resources' },
+    chapters: [
+      { title: 'Overview — CRT, OHSMS, HR, employment, external, casual', url: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/overview' },
+      { title: 'Policy and Guidelines — CRT, employment, casual, relief, handbook, resources', url: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/policy-and-guidelines' },
+      { title: 'Resources — casual, relief, sheet, employment, handbook, external', url: 'https://www2.education.vic.gov.au/pal/casual-relief-teachers/resources' }
+    ],
+    resources: [
+      { title: 'hereExternal Link', note: 'The Casual Relief Teacher Employment Handbook can be found.', url: 'https://content.sdp.education.vic.gov.au/media/crt-handbook-3066' },
+      { title: 'Information Sheet - Casual Relief Teachers(Word)External Link', url: 'https://content.sdp.education.vic.gov.au/media/info-sheet-crt-1528' }
+    ]
+  },
+  { id: 229, title: 'CCTV in Schools – Installation and Management', category: 'IT & Privacy', tags: ['31 days', 'CCTV', 'DET', 'DOCX', 'approval', 'summary', 'installation', 'operation', 'definitions', 'related'], summary: 'This policy outlines the requirements relating to the design, installation and responsible management and use of closed-circuit television (CCTV) systems in Victorian government schools. Schools must implement and operate CCTV systems in accordance with this policy.', url: 'https://www2.education.vic.gov.au/pal/cctv-in-schools', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/policy', guidance: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/resources' },
+    chapters: [
+      { title: 'Policy — 31 days, CCTV, DET, DOCX, approval, footage', url: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/guidance' },
+      { title: 'Resources — CCTV, DOCX, register, external, login, checklist', url: 'https://www2.education.vic.gov.au/pal/cctv-in-schools/resources' }
+    ],
+    resources: [
+      { title: 'CCTV implementationchecklist (DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-implementation-checklist.docx' },
+      { title: 'CCTV installation guidingprinciples (DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-installation-guiding-principles.docx' },
+      { title: 'CCTV installation information for school community – samplecontent (DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-installation-information-for-school-community-sample.docx' },
+      { title: 'CCTV maintenancechecklist (DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-maintenance-checklist.docx' },
+      { title: 'CCTV policy acknowledgement(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-policy-acknowledgement.docx' },
+      { title: 'CCTV privacy notice template(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-privacy-notice-template.docx' },
+      { title: 'CCTV recorded and viewed footageregister (DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-recorded-and-viewed-footage-register.docx' },
+      { title: 'CCTV system expression of interest form(DOCX)External Link', note: '(staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/CCTV-system-expression-of-interest.docx' }
+    ]
+  },
+  { id: 230, title: 'Certification of Documents', category: 'HR - Pay (?ambig)', tags: ['HR', 'authorised', 'overview', 'related', 'topics', 'certification', 'documents'], summary: 'Applicants for employment with the Department or a school will be required to provide a range of documentation in support of their application. Documentation to be provided may include evidence of date of birth, change of name, residency status, qualifications, experience and academic and training qualifications.', url: 'https://www2.education.vic.gov.au/pal/certification-documents', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/certification-documents/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/certification-documents/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/certification-documents/resources' },
+    chapters: [
+      { title: 'Overview — HR, documents, statutory, documentation, qualifications, authorised', url: 'https://www2.education.vic.gov.au/pal/certification-documents/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/certification-documents/policy-and-guidelines' },
+      { title: 'Resources — external, resources, useful, links, visit, justice', url: 'https://www2.education.vic.gov.au/pal/certification-documents/resources' }
+    ],
+    resources: [
+      { title: 'Certified copies of originaldocumentsExternal Link', url: 'https://www.justice.vic.gov.au/certifiedcopies' },
+      { title: 'StatutoryDeclarationsExternal Link', url: 'https://www.justice.vic.gov.au/statdecs' }
+    ]
+  },
+  { id: 231, title: 'Chaplaincy', category: 'Students', tags: ['DOCX', 'SRP', 'IV', 'PDF', 'certificate', 'summary', 'chaplaincy', 'engagement', 'qualifications', 'consent'], summary: 'This policy explains how Victorian government schools can implement chaplaincy services not funded through theNational Student WellbeingProgramExternal Link.', url: 'https://www2.education.vic.gov.au/pal/chaplaincy', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/chaplaincy/policy', guidance: 'https://www2.education.vic.gov.au/pal/chaplaincy/guidance', resources: 'https://www2.education.vic.gov.au/pal/chaplaincy/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, SRP, IV, certificate, chaplaincy, chaplains', url: 'https://www2.education.vic.gov.au/pal/chaplaincy/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/chaplaincy/guidance' },
+      { title: 'Resources — DOCX, external, chaplaincy, consent, conduct, position', url: 'https://www2.education.vic.gov.au/pal/chaplaincy/resources' }
+    ],
+    resources: [
+      { title: 'Chaplaincy case note form(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1089' },
+      { title: 'Chaplaincy parent consent(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1084' },
+      { title: 'Chaplaincy referral/intake form(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1088' },
+      { title: 'Code of Conduct(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1087' },
+      { title: 'Frequently asked questions on parental consent(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1085' },
+      { title: 'General service agreement(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1091' },
+      { title: 'Position description(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/1086' },
+      { title: 'National Student WellbeingProgramExternal Link', note: '– guidelines for the engagement of chaplains through the Commonwealth-funded National Student Wellbe', url: 'https://www.vic.gov.au/national-student-wellbeing-program' }
+    ]
+  },
+  { id: 232, title: 'Chemical Management', category: 'OHS', tags: ['5 years', 'OHS', 'XLSX', 'SDS', 'DOCX', 'register', 'summary', 'definitions', 'related', 'policies'], summary: 'The purpose of this policy is to ensure that risks associated with the storage, handling, use and disposal of chemicals in schools are effectively managed', url: 'https://www2.education.vic.gov.au/pal/chemical-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/chemical-management/policy', resources: 'https://www2.education.vic.gov.au/pal/chemical-management/resources' },
+    chapters: [
+      { title: '1. Identify dangerous goods and hazardous chemicals — dangerous, goods, hazardous, chemicals, rooms, areas', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/1-identify-dangerous-goods-and-hazardous-chemicals' },
+      { title: '2. Establish/review the chemical register — XLSX, register, chemical, chemicals, establish, delegate', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/2-establish/review-chemical-register' },
+      { title: '3. Obtain safety data sheets — 5 years, SDS, register, manufacturer, supplier, safety', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/3-obtain-safety-data-sheets' },
+      { title: '4. Prohibited and restricted chemicals — DOCX, prohibited, chemicals, restricted, refer, guidance', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/4-prohibited-and-restricted-chemicals' },
+      { title: '5. Procurement of dangerous goods and hazardous chemicals — HSR, SDS, OHS, procurement, dangerous, goods', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/5-procurement-dangerous-goods-and-hazardous-chemicals' },
+      { title: '6. Risk assessment of dangerous goods and hazardous chemicals — DOCX, SDS, HSR, risk assessment, register, assessment', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/6-risk-assessment-dangerous-goods-and-hazardous-chemicals' },
+      { title: '7. Controlling risks associated with dangerous goods and hazardous chemicals and their mixtures — HSR, SDS, OHS, approval, contractor, chemical', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/controlling-risks-associated-dangerous-goods-and-hazardous' },
+      { title: '8. Emergency procedures — HSR, PPE, DOCX, emergency, procedures, chemical', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/8-emergency-procedures' },
+      { title: '9. Consultation, information and training — HSR, OHS, SDS, chemicals, consultation, training', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/9-consultation-information-and-training' },
+      { title: '10. Record-keeping — SDS, register, records, record, keeping, delegate', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/10-record-keeping' },
+      { title: '11. Legislation, codes of practice, standards and guidance — PDF, HCIS, external, dangerous, goods, regulations', url: 'https://www2.education.vic.gov.au/pal/chemical-management/procedure/11-legislation-codes-practice-standards-and-guidance' }
+    ],
+    resources: [
+      { title: 'Chemical register(XLSX)External Link', note: '– a template that schools can use to record chemicals', url: 'https://content.sdp.education.vic.gov.au/media/chemical-register-2674' },
+      { title: 'OHS Purchasing checklist template(DOCX)External Link', note: '– must be completed where new dangerous goods and/or hazardous chemicals are introduced into the sch', url: 'https://content.sdp.education.vic.gov.au/media/ohs-purchasing-checklist-2772' },
+      { title: 'Risk Assessment template(DOCX)External Link', note: '– conducted by employees who , as part of their role, are required to prepare chemical mixtures (for', url: 'https://content.sdp.education.vic.gov.au/media/risk-assessment-template-2807' },
+      { title: 'Safe Work procedure template(DOCX)External Link', note: '– must be completed for the storage and handling of dangerous goods and/or hazardous chemicals with', url: 'https://content.sdp.education.vic.gov.au/media/safe-work-procedure-template-2621' },
+      { title: 'Guidance Sheet 1: Chemical Storage(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-1-chemical-storage-2607' },
+      { title: 'Guidance Sheet 2: Dangerous Goods Classification System(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-2-dangerous-goods-classification-system-2608' },
+      { title: 'Guidance Sheet 3: Prohibited and Restricted Chemicals(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-3-prohibited-and-restricted-chemicals-2609' },
+      { title: 'Guidance Sheet 4: Chemical Spill Management(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-4-chemical-spill-management-2610' },
+      { title: 'Guidance Sheet 5: Major Chemical Spill Management(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-5-major-chemical-spill-management-2611' },
+      { title: 'Guidance Sheet 6: Hazardous Chemical Disposal(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guidance-sheet-6-hazardous-chemical-disposal-2612' },
+      { title: 'Termiticides in Schools Guidelines(DOCX)External Link', note: '– provides guidance for effective and safe control of termites in schools', url: 'https://content.sdp.education.vic.gov.au/media/termiticides-in-schools-guidelines-2839' },
+      { title: 'Department of Primary Industries (AgricultureVictoria)External Link', note: '– has a list of restricted non-schedule 7 agricultural chemicals', url: 'https://agriculture.vic.gov.au/farm-management/chemicals/offlabel-chemical-use/restricted-use-and-restricted-supply-chemicals' },
+      { title: 'Workplace Exposure Standards for AirborneContaminantsExternal Link', note: 'accessible on theHazardous Chemical Information System - further information on exposure standards', url: 'http://hcis.safeworkaustralia.gov.au/' },
+      { title: 'Chemwatch SDSlibraryExternal Link', note: '– Safety Data Sheet (SDS) library where schools can access and download SDSs', url: 'https://jr.chemwatch.net/chemwatch.web/account/autologin?domain=vicedu&login=ReadOnly&token=uDlSuNMvBX56lL7KBb1hg3eFTYwrYRwZhQSiulABWDU%3d&module=home' }
+    ]
+  },
+  { id: 233, title: 'Child and Family Violence Information Sharing Schemes', category: 'Students', tags: ['CISS', 'FVISS', 'ISE', 'MARAM', 'authorisations', 'authorised', 'summary', 'sharing', 'schemes', 'background'], summary: 'The purpose of this policy is to support Victorian government schools to request and share information under the Child Information Sharing Scheme (CISS) and Family Violence Information Sharing Scheme (FVISS).', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy', guidance: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance', resources: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/resources' },
+    chapters: [
+      { title: 'Chapter 1 — About the Information Sharing Schemes — 18 years, FIRST, risk assessment, sharing, child, family', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/about-information-sharing-schemes' },
+      { title: 'Chapter 2 — Definitions — RAE, FVISS, risk assessment, family, violence, sharing', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-2-definitions' },
+      { title: 'Chapter 3 — Preparing for the Information Sharing Schemes — sharing, schemes, appropriate, share, identify, behalf', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-3-preparing-information-sharing-schemes' },
+      { title: 'Chapter 4 — Guiding principles for the Information Sharing Schemes — child, family, sharing, violence, safety, principles', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-4-guiding-principles-information-sharing-schemes' },
+      { title: 'Chapter 5 — Requirements before sharing information under the Information Sharing Schemes — 18 years, FISO, VEYLDF, PDF, risk assessment, sharing', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-5-requirements-sharing-information-under' },
+      { title: 'Chapter 6 — Responding to requests for information under the Information Sharing Schemes — CISS, PDF, FVISS, risk assessment, sharing, shared', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-6-responding-requests-information-under' },
+      { title: 'Chapter 7 — Requesting information under the Information Sharing Schemes — 18 years, CISS, FVISS, DOCX, risk assessment, sharing', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-7-requesting-information-under-information-sharing' },
+      { title: 'Chapter 8 — Proactively sharing information under the Information Sharing Schemes — CISS, FVISS, DOCX, risk assessment, sharing, entity', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-8-proactively-sharing-information-under' },
+      { title: 'Chapter 9 — Considerations when sharing information about diverse and at-risk communities — 65 years, 45 years, CALD, LGBTIQA, sharing, family', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-9-considerations-when-sharing-information-about' },
+      { title: 'Chapter 10 — Complaint handling under the information sharing schemes — OVIC, HCC, CISS, risk assessment, sharing, complaints', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-10-complaint-handling-under-information-sharing' },
+      { title: 'Chapter 11 — Safeguards when using the Information Sharing Schemes — compliance, sharing, schemes, conduct, safeguards, shared', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/guidance/chapter-11-safeguards-when-using-information-sharing' }
+    ],
+    resources: [
+      { title: 'Information Sharing and Family Violence Reforms: Guidance andToolsExternal Link', note: 'For more detailed information on how schools can embed information sharing and MARAM, refer to.', url: 'https://www.vic.gov.au/information-sharing-guidance-and-tools' },
+      { title: 'Tools for staff who use CISS andFVISSExternal Link', url: 'https://www.vic.gov.au/information-sharing-guidance-and-tools/staff-who-use-ciss-and-fviss/tools-staff-who-use-ciss-and-fviss' },
+      { title: 'Tools for school and serviceleadersExternal Link', note: '.', url: 'https://www.vic.gov.au/information-sharing-guidance-and-tools/school-and-service-leaders/tools-school-and-service-leaders' },
+      { title: 'Training for the information sharing and MARAMreformsExternal Link', note: 'Training is available via eLearn or webinar. For more information, refer to \'Information sharing tra', url: 'https://www.vic.gov.au/training-for-information-sharing-and-maram' },
+      { title: 'Child Information Sharing Scheme MinisterialGuidelinesExternal Link', url: 'https://www.vic.gov.au/child-information-sharing-scheme-ministerial-guidelines' },
+      { title: 'Family Violence Information SharingSchemeExternal Link', note: '.', url: 'https://www.vic.gov.au/family-violence-information-sharing-scheme' },
+      { title: 'Child Link', note: 'is a key enabler of the Child Information Sharing Scheme (CISS) with the complementary aim of improv', url: 'https://www2.education.vic.gov.au/pal/child-link/policy' },
+      { title: 'Information Sharing Entity (ISE)listExternal Link', url: 'https://iselist.www.vic.gov.au/ise/list/' },
+      { title: 'Child Information SharingSchemeExternal Link', note: '– for additional information including resources for families and communities, Aboriginal and Torres', url: 'https://www.vic.gov.au/child-information-sharing-scheme' },
+      { title: 'Family Violence Support', note: '– for more information about MARAM', url: 'https://www2.education.vic.gov.au/pal/family-violence-support/policy' },
+      { title: 'PROTECTExternal Link', url: 'https://www.schools.vic.gov.au/child-protection-and-child-safe-standards-protect' },
+      { title: 'Best Interests Framework for Vulnerable Children andYouthExternal Link', url: 'https://providers.dffh.vic.gov.au/best-interests-framework-vulnerable-children-and-youth-pdf' },
+      { title: 'Child SafeStandardsExternal Link', url: 'https://www.vic.gov.au/child-safe-standards-schools-guidance' },
+      { title: 'Framework for Improving StudentOutcomesExternal Link', url: 'https://www2.education.vic.gov.au/pal/fiso/policy' },
+      { title: 'Victorian Early Years Learning and Development Framework(VEYLDF)External Link', url: 'https://www.vic.gov.au/victorian-early-years-learning-development-framework-veyldf' }
+    ]
+  },
+  { id: 234, title: 'Child Link', category: 'Students', tags: ['18 years', 'CISS', 'VRQA', 'CPO', 'MARAM', 'authorised', 'summary', 'child', 'link', 'sharing'], summary: 'All Victorian government schools are progressively gaining access toChildLinkExternal Linkthrough a phased, area-based approach.', url: 'https://www2.education.vic.gov.au/pal/child-link', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/child-link/policy', guidance: 'https://www2.education.vic.gov.au/pal/child-link/guidance', resources: 'https://www2.education.vic.gov.au/pal/child-link/resources' },
+    chapters: [
+      { title: 'Roles and responsibilities of school principals as Child Link Authorisers — 4 months, 90 days, PEC, WWC, VIT, child', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/roles-responsibilities-school-principals-child-link-authorisers' },
+      { title: 'Roles and responsibilities of school staff as Child Link Users — 90 days, WWCC, VIT, MARAM, child, access', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/roles-responsibilities-school-staff-child-link-users' },
+      { title: 'Using the information on Child Link to promote student wellbeing and safety — 3 months, 4 year, MCH, DE, KEC, child', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/using-information-child-link-promote-student-wellbeing-and-safety' },
+      { title: 'Complaints handling for Child Link — CWS, child, complaints, privacy, handling, complaint', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/complaints-handling-child-link' },
+      { title: 'Information management and security for Child Link — child, access, unauthorised, disclosure, security, privacy', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/information-management-and-security-child-link' },
+      { title: 'Definitions — child, sharing, entities, authorised, person, access', url: 'https://www2.education.vic.gov.au/pal/child-link/guidance/definitions' }
+    ],
+    resources: [
+      { title: 'Training for the information sharing andMARAM reformsExternal Link', note: 'Anoptional online Child Link Authoriser moduleis also available for professionals who are eligible t', url: 'https://www.vic.gov.au/training-for-information-sharing-and-maram' },
+      { title: 'Child Link Authoriser InductionGuideExternal Link', url: 'https://www.vic.gov.au/child-link-authoriser-induction-guide' },
+      { title: 'Child Link Guide for School Principals as Authorisers(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/child-link-guide-for-school-principals-as-authorisers-1040' },
+      { title: 'Child Link Secretary’sGuidelinesExternal Link', url: 'https://www.vic.gov.au/child-link-secretarys-guidelines' },
+      { title: 'Child LinkloginExternal Link', url: 'https://login.childlink.vic.gov.au/96cd841e-b094-47b5-841f-735c74647f35/b2c_1a_cl_signin_register/oauth2/v2.0/authorize?client_id=4dd82e76-a649-404d-8296-7a8d2f5ff5d2&scope=https%3A%2F%2Fchildlinkvicb2c.onmicrosoft.com%2Fb846bf58-23c0-4390-8e97-dc6456fd0b39%2FDAS.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fwww.childlink.vic.gov.au&client-request-id=97a4b835-15ae-48e9-a6f4-94b31f3277fe&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.23.0&client_info=1&code_challenge=fTkz6N4nhGakrtnmkgqA1_nMtPiFDvrf0lQUgOSNIFA&code_challenge_method=S256&nonce=dca45620-07ed-4691-a2c3-1fa9c47f3c57&state=eyJpZCI6IjUyYmMwOWYyLTRkZDUtNDY0ZC04NTQ1LWU5ODhiOGMxZDU4OSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D' },
+      { title: 'ChildLinkExternal Link', url: 'https://www.vic.gov.au/child-link' },
+      { title: 'Child protection in early childhood(PROTECT)External Link', url: 'https://www.vic.gov.au/child-protection-early-childhood-protect' },
+      { title: '1800 549 646', note: 'Phone:', url: 'https://www2.education.vic.gov.autel:1800549646' },
+      { title: 'childlink@education.vic.gov.au', note: 'Email:', url: 'https://www2.education.vic.gov.aumailto:childlink@education.vic.gov.au' }
+    ]
+  },
+  { id: 235, title: 'Claims for Property Damage and Medical Expenses', category: 'School Operations', tags: ['summary', 'damage', 'students’', 'personal', 'items/property', 'property', 'medical', 'expenses', 'disputes', 'regarding'], summary: 'This policy provides guidance to principals for managing potential claims for compensation for damage to a student’s personal item/property or for student medical expenses, and potential claims for costs incurred by a student damaging school property.', url: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/policy', guidance: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/guidance', resources: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/resources' },
+    chapters: [
+      { title: 'Policy — ambulance, medical, parents, principals, carers, property', url: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/claims-property-damage-and-medical-expenses/resources' }
+    ]
+  },
+  { id: 236, title: 'Cleaning', category: 'Infrastructure', tags: ['5 years', 'VSBA', 'DOCX', 'AIMS', 'OHS', 'exemption', 'incident report', 'contractor', 'summary', 'metropolitan'], summary: 'Please take note of the following information:', url: 'https://www2.education.vic.gov.au/pal/cleaning', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/cleaning/policy', guidance: 'https://www2.education.vic.gov.au/pal/cleaning/guidance', resources: 'https://www2.education.vic.gov.au/pal/cleaning/resources', overview: 'https://www2.education.vic.gov.au/pal/school-council-employment/overview' },
+    chapters: [
+      { title: 'Cleaning regional schools — procurement, compliance, cleaning, contract, regional, current', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools' },
+      { title: 'Understanding the school\'s cleaning needs — SRP, CAR, SAMS, cleaning, cleanable, areas', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/understanding-the-schools-cleaning-needs' },
+      { title: 'Determining the school’s budget — SRP, CAR, licence, cleaning, areas, budget', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/determining-schools-budget' },
+      { title: 'Determining the market approach — $2,500, GST, PDF, procurement, contract, market', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/determining-market-approach' },
+      { title: 'Developing request for quote or tender documentation — CAR, DOCX, AIMS, procurement, scope, provider', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/developing-request-quote-tender-documentation' },
+      { title: 'Releasing a quote or tender — AIMS, LGA, ABN, compliance, agreement, council', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/releasing-quote-tender' },
+      { title: 'Conducting site visits — DDMMYY, tender, meeting, inspection, quote, mandatory', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/conducting-site-visits' },
+      { title: 'Evaluating the cleaning proposals — $10 million, $75,000, PDF, CPI, WWCC, procurement', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/evaluating-cleaning-proposal' },
+      { title: 'After completing the evaluation — $150,000, WWCC, ABN, LHL, certificate, licence', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/after-completing-the-evaluation' },
+      { title: 'Exemptions — 3 weeks, 12 months, VSBA, DOCX, exemption, cleaning', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-regional-schools/exemptions' },
+      { title: 'Managing the agreement — 8 weeks, 5 years, OHS, DOCX, AIMS, compliance', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/regional-schools-managing-the-agreement' },
+      { title: 'Cleaning metropolitan Melbourne schools — DOCX, SRP, VSBA, compliance, audit, cleaning', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-metropolitan-melbourne-schools' },
+      { title: 'Types of cleaning services — 2 hours, DOCX, AIMS, CAR, incident report, contractor', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-metropolitan-melbourne-schools/types-cleaning-services' },
+      { title: 'Establishing services and agreeing a cleaning services plan — DOCX, VSBA, compliance, approval, cleaning, provider', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-metropolitan-melbourne-schools/establishing-services-agreeing-cleaning-services-plan' },
+      { title: 'Specific arrangements and service provider responsibilities during cleaning activities — 5 years, OHS, SDS, cleaning, provider, waste', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-metropolitan-melbourne-schools/specific-arrangements-service-provider-responsibilities' },
+      { title: 'Resolving issues with the school’s cleaning — DOCX, AIMS, VSBA, audit, contractor, incident report', url: 'https://www2.education.vic.gov.au/pal/cleaning/guidance/cleaning-metropolitan-schools-resolving-issues-with-the-schools-cleaning' }
+    ],
+    resources: [
+      { title: 'How to raise a Cleaning Incident Report (PDF) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/sites/AIMSKnowledgeCentre/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAIMSKnowledgeCentre%2FShared%20Documents%2FCleaning%20%2D%20Add%20a%20Cleaning%20Incident%2Epdf&parent=%2Fsites%2FAIMSKnowledgeCentre%2FShared%20Documents' },
+      { title: 'Cleaning standards and frequency guide(DOCX)External Link', note: '– information about school cleaning standards and an overview of the cleaning frequency for primary', url: 'https://content.sdp.education.vic.gov.au/media/metro-schools-cleaning-services-for-schools-2361' },
+      { title: 'Area-based cleaning model for metropolitan Melbourne – Activitycalendar (DOCX)External Link', note: '– a yearly calendar which provides a guide on how schools can work together with their service provi', url: 'https://content.sdp.education.vic.gov.au/media/area-based-cleaning-model-metro-activity-calendar-655' },
+      { title: 'SRP Contract Cleaning', note: 'Student Resource Package – contract cleaning – the base cleaning services provided to your school by', url: 'https://www2.education.vic.gov.au/pal/student-resource-package-srp-school-infrastructure/guidance/contract-cleaning-reference-28' },
+      { title: 'sams@education.vic.gov.au', note: 'School Asset Management System (SAMS) plans – school building and room information are recorded in s', url: 'https://www2.education.vic.gov.aumailto:sams@education.vic.gov.au' },
+      { title: 'Asset Information Management System (AIMS)', note: 'Theis a web-based, centralised portal that has replaced schools\' existing asset information manageme', url: 'https://www2.education.vic.gov.au/pal/asset-information-management-system/advice' },
+      { title: 'School council cleaning checklist(DOCX)External Link', note: '– enables schools to customise their cleaning requirements by identifying their particular needs, be', url: 'https://content.sdp.education.vic.gov.au/media/school-council-cleaning-checklist-2934' },
+      { title: 'School council provision of cleaning services agreement(DOCX)External Link', note: '– intended for use when a school purchases cleaning services', url: 'https://content.sdp.education.vic.gov.au/media/school-council-provision-of-cleaning-services-agreement-2935' },
+      { title: 'Guide to completion – school council agreement – provision of cleaning services(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/guide-to-completing-school-council-cleaning-agreement-docx-1234' },
+      { title: 'Contract extension letter(DOCX)External Link', note: '– where a school council wishes to extend its cleaning services agreement by exercising any availabl', url: 'https://content.sdp.education.vic.gov.au/media/regional-schools-cleaning-de-legal-services-extension-letter-template-2347' },
+      { title: 'Notice to unsuccessful respondentsletter (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/regional-schools-cleaning-notice-to-unsuccessful-respondents-2348' },
+      { title: 'Notice to successful respondents letter(DOCX)External Link', url: 'https://edugate.eduweb.vic.gov.au/edrms/PD/PT/A9%20Notification%20to%20Respondents%20-%20Successful%20v1.docx' },
+      { title: 'Variation agreement to services(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/regional-schools-cleaning-variation-agreement-2349' },
+      { title: 'Variation notice (scope servicessuspension) (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/regional-schools-cleaning-variation-notice-scope-services-suspension-2350' },
+      { title: 'Notice for breach of school cleaning servicesagreement (DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/regional-schools-breach-of-school-cleaning-agreement-notice-2344' }
+    ]
+  },
+  { id: 237, title: 'Collection of Students', category: 'Students (?ambig)', tags: ['30 years', 'DOCX', 'XLSX', 'ID', 'DFFH', 'authorised', 'summary', 'hours', 'records', 'related'], summary: 'The purpose of this policy is to ensure schools have appropriate processes in place for the safe collection of students during normal school hours and to support schools to manage situations in which the students are not collected at the normal collection time, without notice from the parent or carer.', url: 'https://www2.education.vic.gov.au/pal/collection-students', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/collection-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/collection-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/collection-students/resources' },
+    chapters: [
+      { title: 'Policy — 30 years, DOCX, XLSX, ID, licence, incident report', url: 'https://www2.education.vic.gov.au/pal/collection-students/policy' },
+      { title: 'Guidance — guidance, there, topic, refer, resources', url: 'https://www2.education.vic.gov.au/pal/collection-students/guidance' },
+      { title: 'Resources — DOCX, sample, collection, resources, early, external', url: 'https://www2.education.vic.gov.au/pal/collection-students/resources' }
+    ],
+    resources: [
+      { title: 'Student early collection form(DOCX)External Link', note: 'A sampleis available for schools. Schools may wish to tailor the form to suit local needs however pr', url: 'https://content.sdp.education.vic.gov.au/media/student-early-collection-form-119' }
+    ]
+  },
+  { id: 238, title: 'Community Use of Schools – Community Joint Use Agreements', category: 'Infrastructure', tags: ['5 years', '30 years', 'CJUA', 'CJAU', 'VSBA', 'approval', 'authorise', 'licence', 'summary', 'overview'], summary: 'This policy explains how schools can enter community joint use agreements (CJUAs) for the construction and ongoing management of jointly used community facilities such as stadiums, sporting grounds and theatres.', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements/policy', guidance: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements/guidance', resources: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements/resources' },
+    chapters: [
+      { title: 'Entering into a community joint use agreement — CJUA, VSBA, DOCX, community, joint, facility', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements/guidance/entering-into-cjua' },
+      { title: 'Opportunities for schools and the community — community, facilities, communities, opportunities, sense, result', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-community-joint-use-agreements/guidance/opportunities' }
+    ],
+    resources: [
+      { title: 'Guide to understanding and developing community joint use agreements(DOCX)External Link', note: '– an overview of CJUAs, their key concepts and the processes to be followed to create them. This doc', url: 'https://content.sdp.education.vic.gov.au/media/guide-to-understanding-developing-community-joint-use-agreements-1925' },
+      { title: 'Community joint use proposal(DOCX)External Link', note: '– captures essential information to enable the CJUA to be drafted. This form is to be completed by a', url: 'https://content.sdp.education.vic.gov.au/media/community-joint-use-proposal-1337' },
+      { title: 'Instructions and explanatory notes for completing a community joint use agreement proposal(DOCX)External Link', note: '– these are guidelines that provide supporting information to enable parties to complete the CJUA pr', url: 'https://content.sdp.education.vic.gov.au/media/instructions-for-completing-community-joint-use-agreement-proposal-1945' },
+      { title: 'Community joint use agreement contract template(DOCX)External Link', note: 'comprising core and option clauses – the formal legal agreement setting out the rights and responsib', url: 'https://content.sdp.education.vic.gov.au/media/community-joint-use-agreement-contract-template-1336' },
+      { title: 'Explanatory table of clauses(DOCX)External Link', note: '– this document provides an explanation of the core and option clauses, helping the parties to under', url: 'https://content.sdp.education.vic.gov.au/media/explanatory-table-of-clauses-1847' }
+    ]
+  },
+  { id: 239, title: 'Community Use of Schools – Hiring and Licensing', category: 'Infrastructure', tags: ['$10 million', '5 years', 'AIMS', 'DOCX', 'ICUSF', 'SWV', 'licence', 'summary', 'proposed', 'hire'], summary: 'This policy explains how schools can enter hire and licence agreements to facilitate community use of school facilities.', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/policy', guidance: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance', resources: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/resources' },
+    chapters: [
+      { title: 'Completing a school council hire agreement template — $110, $22, 14 days, DOCX, GST, WWCC', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance/completing-hire-template' },
+      { title: 'Completing a school council licence agreement template — $100, $1,000, DOCX, GST, WWCC, licence', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance/completing-licence-template' },
+      { title: 'Cost recovery for community use — 600 hours, 40 hours, VMIA, PDF, certificate, costs', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance/cost-recovery-for-community-use' },
+      { title: 'Managing relationships with third parties using school facilities — register, third, community, cleaning, equipment, party', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance/managing-relationships-with-third-parties-using-school-facilities' },
+      { title: 'Community use case studies — CCPS, OSHC, EOI, approval, compliance, community', url: 'https://www2.education.vic.gov.au/pal/community-use-schools-hiring-and-licensing/guidance/community-use-case-studies' }
+    ],
+    resources: [
+      { title: 'School council hire agreement template (DOCX) (staff loginrequired)External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Agreement%20-%20Hire.docx?Web=1' },
+      { title: 'School council hire agreements – template completion checklist(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-council-hire-agreements-guide-to-completion-checklist-2430' },
+      { title: 'School council licence agreement template (DOCX) (staff loginrequired)External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Licence%20-%20Template.docx?Web=1' },
+      { title: 'School council licence agreements – template completion checklist(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-council-licence-agreements-guide-to-completion-checklist-2433' },
+      { title: 'Community use of school facilities signage – editable (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Community-use-of-school-facilities-signage.docx?d=w69a793b68a5f4f93bae561b725ae4ca9&csf=1&web=1&e=f7tbbm' },
+      { title: 'Community use of school facilities signage (PDF) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/Community-use-of-school-facilities-signage.pdf?csf=1&web=1&e=abaJRC' }
+    ]
+  },
+  { id: 240, title: 'Compassionate Transfer — Teaching Service', category: 'HR - Pay (?ambig)', tags: ['ESSS', 'staffing', 'processes', 'legitimate', 'expectations', 'priority', 'status', 'excess', 'workplace', 'requirements'], summary: 'School staffing policy seeks to balance the obligation to select employees through open merit-based processes with the legitimate expectations of employees with priority status (those who are excess to workplace requirements, have compassionate transfer status or are disability retirement benefits pensioners found fit for employment) to be placed into a suitable position.', url: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/resources' },
+    chapters: [
+      { title: 'Introduction — staffing, processes, legitimate, expectations, priority, status', url: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/policy-and-guidelines/introduction' },
+      { title: 'Compassionate transfer status — compassionate, transfer, status, class, consider, circumstances', url: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/policy-and-guidelines/compassionate-transfer-status' },
+      { title: 'Disability and temporary benefits pensioners — return to work — ESSS, 2 year, disability, temporary, benefits, pensioners', url: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/policy-and-guidelines/disability-and-temporary-benefits' },
+      { title: 'Further assistance — compassionate, transfers, list, advisory, library, using', url: 'https://www2.education.vic.gov.au/pal/compassionate-transfer-teaching-service/policy-and-guidelines/further-assistance' }
+    ],
+    resources: [
+      { title: 'Application for Compassionate Transfer Status Form(Word)External Link', note: 'Application for Compassionate Transfer Status Form (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1631' }
+    ]
+  },
+  { id: 241, title: 'Competition Grade Sporting Facilities', category: 'Infrastructure', tags: ['VSBA', 'BQSH', 'advises', 'constructing', 'managing', 'competition', 'grade', 'sports', 'facilities', 'share'], summary: 'This page advises schools on constructing and managing competition-grade sports facilities they share with the community.', url: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities/guidance', resources: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities/resources' },
+    chapters: [
+      { title: 'Advice — VSBA, BQSH, advises, constructing, managing, competition', url: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities/advice' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities/guidance' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/competition-grade-sporting-facilities/resources' }
+    ]
+  },
+  { id: 242, title: 'Complaint Resolution', category: 'School Operations', tags: ['purpose', 'manage', 'resolve', 'complaints', 'raised', 'complainants', 'parents', 'carers', 'representatives', 'community'], summary: 'The purpose of this policy is to support schools to manage and resolve complaints raised by complainants including parents/carers, students, their representatives, and school community members in a fair and transparent manner, with a focus on student wellbeing, student engagement in learning, and a continual improvement mindset. Complaints raised by community members (persons who do not or did not have a child enrolled in the school) are considered within this policy.', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/complaint-resolution/overview', guidance: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance', resources: 'https://www2.education.vic.gov.au/pal/complaint-resolution/resources' },
+    chapters: [
+      { title: 'Guiding principles — guiding, principles, resolving, complaints, addressing, complaint', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/guiding-principles' },
+      { title: 'School role, responsibilities and outcomes — role, responsibilities, outcomes, receive, manage, complaints', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/school-role-responsibilities-outcomes' },
+      { title: 'Support person role — person, role, complainant, assist, time, complaint', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/support-person-role' },
+      { title: 'Regional office role and responsibilities — regional, office, role, responsibilities, assist, complainants', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/regional-office-role-responsibilities' },
+      { title: 'Central office role and responsibilities — CIU, 30 days, central, office, role, responsibilities', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/central-office-role-and-responsibilities' },
+      { title: 'Support for school staff in managing complaints — SEIL, managing, complaints, operational, specific, complaint', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/support-for-school-staff-in-managing-complaints' }
+    ],
+    resources: [
+      { title: 'Support for school staff in managing complaints', note: 'Refer to the section on the Guidance tab for regional and central office support and advice.', url: 'https://www2.education.vic.gov.au/pal/complaint-resolution/guidance/support-for-school-staff-in-managing-complaints' },
+      { title: 'Complaints policy template (staff loginrequired)External Link', note: 'A Complaints policy template (staff login required) External Link and a Parent disputes policy template (staff login req', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Complaints.aspx' },
+      { title: 'Parent disputes policy template (staff loginrequired)External Link', note: 'A Complaints policy template (staff login required) External Link and a Parent disputes policy template (staff login req', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Parent-disputes.aspx' },
+      { title: 'acknowledge receipt of a complaint (DOCX) (staff loginrequired)External Link', note: 'Email templates are available to acknowledge receipt of a complaint (DOCX) (staff login required) External Link and to c', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Acknowledge-receipt-of-complaint-template.docx' },
+      { title: 'communicate the outcome of a complaint (DOCX) (staff loginrequired)External Link', note: 'Email templates are available to acknowledge receipt of a complaint (DOCX) (staff login required) External Link and to c', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Communicating-outcome-of-complaint-template.docx' },
+      { title: 'Respectful Behaviours within the School CommunitypolicyExternal Link', note: 'Refer to the Respectful Behaviours within the School Community policy External Link to understand the shared roles of pa', url: 'https://www.vic.gov.au/respectful-behaviours-within-school-community-policy' },
+      { title: 'Schools Standing Up ToRacismExternal Link', note: 'For school resources related to racism, refer to the Schools Standing Up To Racism External Link page on the Centre for', url: 'https://www.cmy.net.au/schools-standing-up-to-racism/' },
+      { title: 'Aboriginal and Torres Strait Islanderself-determinationExternal Link', note: 'For Koorie cultural inclusion and Koorie education guidance and support, refer to Contact a Koorie education coordinator', url: 'https://vpsc.vic.gov.au/workforce-programs/aboriginal-cultural-capability-toolkit/aboriginal-self-determination/' },
+      { title: 'Make a complaint about yourschoolExternal Link', note: 'Information for complainants on how to raise a complaint about a Victorian government school is available at Make a comp', url: 'https://www.vic.gov.au/school-complaints' },
+      { title: 'Raising and resolving issues at school – factsheet(PDF)External Link', note: 'Raising and resolving issues at school – factsheet (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/raising-and-resolving-issues-at-school-factsheet-3129' },
+      { title: 'Raising and resolving issues at school – factsheet(DOCX)External Link', note: 'Raising and resolving issues at school – factsheet (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/raising-and-resolving-issues-at-school-factsheet-3384' },
+      { title: 'Raising and resolving issues at school – posters(PDF)External Link', note: 'Raising and resolving issues at school – posters (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/raising-and-resolving-issues-at-school-posters-3130' },
+      { title: 'Raising and resolving issues at school – scenarios(PDF)External Link', note: 'Raising and resolving issues at school – scenarios (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/raising-and-resolving-issues-at-school-scenarios-3131' },
+      { title: 'Raising and resolving issues at school – scenarios(DOCX)External Link', note: 'Raising and resolving issues at school – scenarios (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/raising-and-resolving-issues-at-school-factsheet-scenarios-3385' },
+      { title: 'Family engagement in learning(DOCX)External Link', note: 'A flyer has been developed by the department in partnership with VicSRC and Parents Victoria outlining the benefits of r', url: 'https://content.sdp.education.vic.gov.au/media/family-engagement-in-learning-docx-1852' },
+      { title: 'Steps to raise concerns and resolve a complaint with yourschoolExternal Link', note: 'This resource can be provided to parents and caregivers of students with disability to support them to raise, escalate,', url: 'https://www.education.gov.au/disability-standards-education-2005/resources/steps-raise-concerns-and-resolve-complaint-your-school' }
+    ]
+  },
+  { id: 243, title: 'Confined Spaces', category: 'OHS', tags: ['OHS', 'DOCX', 'OHSMS', 'XLSX', 'outlines', 'occupational', 'health', 'safety', 'requirements', 'confined'], summary: 'This policy outlines the Occupational Health and Safety (OHS) requirements for confined spaces.', url: 'https://www2.education.vic.gov.au/pal/confined-spaces', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/confined-spaces/guidance', resources: 'https://www2.education.vic.gov.au/pal/confined-spaces/resources' },
+    chapters: [
+      { title: '1 Confined space identification — OHS, confined, space, identification, delegate, suspected', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/1-confined-space-identification' },
+      { title: '2 Confined space hazard identification — HSR, OHS, XLSX, confined, space, hazard', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/confined-space-hazard-identification' },
+      { title: '3 Implement controls — HSR, DOCX, PPE, implement, controls, once', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/3-implement-controls' },
+      { title: '4 Record confined space risk controls — HSR, OHS, XLSX, record, confined, space', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/4-record-confined-space-risk-controls' },
+      { title: '5 Additional controls — GATIC, DOCX, controls, securing, confined, space', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/5-additional-controls' },
+      { title: '6 Confined space contractor responsibilities — OHS, DEFWHS010, DOCX, SWMS, PPE, confined', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/6-confined-space-contractor-responsibilities' },
+      { title: '7 Incident reporting — incident, reporting, delegate, hazards, incidents, injuries', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/7-incident-reporting' },
+      { title: '8 Legislation, codes of practice, standards and guidance — legislation, codes, practice, standards, guidance, occupational', url: 'https://www2.education.vic.gov.au/pal/confined-spaces/procedure/8-legislation-codes-practice-standards-and-guidance' }
+    ],
+    resources: [
+      { title: 'Confined Spaces Entry Permit Template(DOCX)External Link', note: 'Confined Spaces Entry Permit Template (DOCX) External Link – a confined space entry permit is to be issued by the princi', url: 'https://content.sdp.education.vic.gov.au/media/confined-space-entry-permit-2593' },
+      { title: 'OHS risk register(XLSX)External Link', note: 'OHS risk register (XLSX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/ohs-risk-register-2572' },
+      { title: 'Safe Work Method Statement(DOCX)External Link', note: 'Safe Work Method Statement (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/safe-work-method-statement-2620' }
+    ]
+  },
+  { id: 244, title: 'Conflict of Interest', category: 'HR - Pay (?ambig)', tags: ['DOPI', '5 days', 'sets', 'obligations', 'principals', 'address', 'integrity', 'risks', 'created', 'conflicts'], summary: 'This policy sets out the obligations for all school staff, including principals, to address integrity risks created by conflicts of interest that may arise between a school staff member’s private interests and their public duties.', url: 'https://www2.education.vic.gov.au/pal/conflict-interest', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/conflict-interest/overview', guidance: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance', resources: 'https://www2.education.vic.gov.au/pal/conflict-interest/resources' },
+    chapters: [
+      { title: 'Identifying conflicts of interest — identifying, conflicts, interest, conflict, occurs, member', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/identifying-conflicts-of-interest' },
+      { title: 'Making a conflict of interest declaration — making, conflict, interest, declaration, identified, conflicts', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/making-a-conflict-of-interest-declaration' },
+      { title: 'Managing conflicts of interest — 12 months, managing, conflicts, interest, conflict, cannot', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/managing-conflicts-of-interest' },
+      { title: 'Speaking up — IBAC, speaking, building, culture, integrity, throughout', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/speaking-up' },
+      { title: 'Breaches — IBAC, breaches, takes, allegations, seriously, investigated', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/breaches' },
+      { title: 'Monitoring and reporting — monitoring, reporting, conduct, routine, compliance, obligations', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/monitoring-and-reporting' },
+      { title: 'Declaration of private interests — DOPI, ABN, declaration, private, interests, designed', url: 'https://www2.education.vic.gov.au/pal/conflict-interest/guidance/declaration-of-private-interests' }
+    ],
+    resources: [
+      { title: 'Conflict of Interest Toolkit(DOCX)External Link', note: 'Conflict of Interest Toolkit (DOCX) External Link – includes links to a variety of practical resources – last updated 12', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-contents-docx-1726' },
+      { title: 'Conflict of Interest Toolkit(PDF)External Link', note: 'Conflict of Interest Toolkit (PDF) External Link – includes links to a variety of practical resources – last updated 12/', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-contents-pdf-1727' },
+      { title: 'General Information(DOCX)External Link', note: 'General Information (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-general-docx-1732' },
+      { title: 'General Information(PDF)External Link', note: 'General Information (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-general-pdf-1733' },
+      { title: 'Managing COI in Recruitment(DOCX)External Link', note: 'Managing COI in Recruitment (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-recruitment-docx-1736' },
+      { title: 'Managing COI in Recruitment(PDF)External Link', note: 'Managing COI in Recruitment (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-recruitment-pdf-1737' },
+      { title: 'Managing COI in Other Employment(DOCX)External Link', note: 'Managing COI in Other Employment (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-other-employment-docx-1679' },
+      { title: 'Managing COI in Other Employment(PDF)External Link', note: 'Managing COI in Other Employment (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-other-employment-pdf-1680' },
+      { title: 'Managing COI When Procuring Goods and Services(DOCX)External Link', note: 'Managing COI When Procuring Goods and Services (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-procurement-docx-1734' },
+      { title: 'Managing COI When Procuring Goods and Services(PDF)External Link', note: 'Managing COI When Procuring Goods and Services (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/coi-toolkit-procurement-pdf-1735' },
+      { title: 'Conflict of Interest animatedvideoExternal Link', note: 'For an introduction to conflicts of interest, refer to the Conflict of Interest animated video External Link . This tool', url: 'https://vimeo.com/724421195' },
+      { title: 'Conflict of Interest eLearn module (staff loginrequired)External Link', note: 'To learn more about how to identify, declare, avoid and manage conflicts of interest, complete the Conflict of Interest', url: 'https://edupay.eduweb.vic.gov.au/psp/EDUPPRD1/EMPLOYEE/PSFT_LM/c/LM_OD_EMPLOYEE_FL.LM_CRS_DTL_FL.GBL?Page=LM_CRS_DTL_FL&Action=U&LM_ACT_ID=1144&LM_CI_ID=1052&NAV=URL' }
+    ]
+  },
+  { id: 245, title: 'Congestion Levy Fees', category: 'Infrastructure', tags: ['VSBA', 'outlines', 'congestion', 'levy', 'paid', 'victorian', 'building', 'authority', 'falls', 'manage'], summary: 'This policy outlines how schools can have their Congestion Levy fee paid by the Victorian School Building Authority (VSBA). This policy falls within the \'Manage\' stage of the School Asset Lifec ycle.', url: 'https://www2.education.vic.gov.au/pal/congestion-levy', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/congestion-levy/guidance', resources: 'https://www2.education.vic.gov.au/pal/congestion-levy/resources' },
+    chapters: [
+      { title: 'Policy — VSBA, outlines, congestion, levy, paid, victorian', url: 'https://www2.education.vic.gov.au/pal/congestion-levy/policy' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/congestion-levy/guidance' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/congestion-levy/resources' }
+    ]
+  },
+  { id: 246, title: 'Consultation with School Based Staff', category: 'HR - Pay (?ambig)', tags: ['CPSU', 'PR911257', 'OHS', 'responsibility', 'make', 'decisions', 'deliver', 'government', 'education', 'objectives'], summary: 'It is the principal\'s responsibility to make the school-based decisions required to deliver Government education objectives within a framework that enables staff to have input into the decisions that affect their working lives. This is an acceptable and recognised aspect of good management practice.', url: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/resources' },
+    chapters: [
+      { title: 'Overview — CPSU, PR911257, OHS, responsibility, make, decisions', url: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/overview' },
+      { title: 'Policy and Guidelines — SRP, 12 months, 30 hours, consultative, structures, place', url: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/policy-and-guidelines' },
+      { title: 'Resources — resources, procedures, forms, consultative, arrangements, reporting', url: 'https://www2.education.vic.gov.au/pal/consultation-school-based-staff/resources' }
+    ],
+    resources: [
+      { title: 'School Consultative Arrangements reportingportalExternal Link', note: 'School Consultative Arrangements reporting portal External Link (login required) - available between 1 August and 1 Sept', url: 'https://scareporting.eduweb.vic.gov.au/' },
+      { title: 'School Based Consultation Arrangements(Word)External Link', note: 'School Based Consultation Arrangements (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1555' }
+    ]
+  },
+  { id: 247, title: 'Continence Care', category: 'Students', tags: ['DOCX', 'outlines', 'strategies', 'adopt', 'needing', 'continence', 'care', 'attend', 'summary', 'requiring'], summary: 'This policy outlines strategies that schools can adopt to support students needing continence care to attend school.', url: 'https://www2.education.vic.gov.au/pal/continence', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/continence/guidance', resources: 'https://www2.education.vic.gov.au/pal/continence/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, outlines, strategies, adopt, needing, continence', url: 'https://www2.education.vic.gov.au/pal/continence/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/continence/guidance' },
+      { title: 'Resources — DOCX, resources, templates, forms, health, plan', url: 'https://www2.education.vic.gov.au/pal/continence/resources' }
+    ],
+    resources: [
+      { title: 'Student Health SupportPlan (DOCX)External Link', note: 'Student Health Support Plan (DOCX) External Link — template for schools planning medical or health-related support at sc', url: 'https://content.sdp.education.vic.gov.au/media/student-health-support-plan-2478' },
+      { title: 'Functional Needs – Medical AdviceForm (DOCX)External Link', note: 'Functional Needs – Medical Advice Form (DOCX) External Link — may be used by the treating health team to describe a stud', url: 'https://content.sdp.education.vic.gov.au/media/functional-needs-medical-advice-form-3476' },
+      { title: 'Toileting Care and Personal Hygiene Learning Plan(DOCX)External Link', note: 'Toileting Care and Personal Hygiene Learning Plan (DOCX) External Link — schools may choose to use this plan as a sugges', url: 'https://content.sdp.education.vic.gov.au/media/personal-hygiene-learning-plan-1098' },
+      { title: 'Continence Health Australia: Teenagers and youngadultsExternal Link', note: 'Continence Health Australia: Teenagers and young adults External Link — information, resources for teenagers and young a', url: 'https://www.continence.org.au/pages/child_teens.html' },
+      { title: 'Continence Health Australia: ToiletTacticsExternal Link', note: 'Continence Health Australia: Toilet Tactics External Link – program and resources for primary schools to promote healthy', url: 'https://www.continence.org.au/incontinence/who-it-affects/children/toilet-tactics' },
+      { title: 'Raising Children Network: School-agetoiletingExternal Link', note: 'Raising Children Network: School-age toileting External Link – information for parents and carers about incontinence and', url: 'https://raisingchildren.net.au/school-age/health-daily-care/toileting' }
+    ]
+  },
+  { id: 248, title: 'Contract of Employment', category: 'HR - Recruitment', tags: ['5 years', 'assistant', 'executive', 'class', 'positions', 'tenured', 'years', 'individual', 'enter', 'contract'], summary: 'Principal, assistant principal and executive class positions are tenured for up to 5 years and an individual is required to enter a contract of employment on appointment to one of these positions. The period of the contract of employment will be clearly specified at the time of the employment offer.', url: 'https://www2.education.vic.gov.au/pal/contract-employment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/contract-employment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/contract-employment/resources' },
+    chapters: [
+      { title: 'Introduction — 5 years, renewing, assistant, contracts, leading, teacher', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/introduction-contract-employment' },
+      { title: 'Guiding principles — guiding, principles, contract, renewal, process, predicated', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/guiding-principles' },
+      { title: 'Setting expectations — setting, expectations, regional, director, responsible, contract', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/setting-expectations' },
+      { title: 'Link to performance and development — link, performance, development, year, principals, participate', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/link-performance-and-development' },
+      { title: 'Contract renewal process — 9 months, 4 months, 1 year, 6 months, 3 months, 5 years', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/contract-renewal-process' },
+      { title: 'Contract renewal outcome — 4 months, 5 year, 5 years, 3 years, contract, renewal', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/contract-renewal-outcomes' },
+      { title: 'Roles and responsibilities — roles, responsibilities, regional, director, clarify, expectations', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/roles-and-responsibilities' },
+      { title: 'Grievances — grievances, terms, contract, employment, dissatisfied, outcome', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/grievances' },
+      { title: 'Further assistance — contract, renewal, referring, policies, contacting, people', url: 'https://www2.education.vic.gov.au/pal/contract-employment/policy-and-guidelines/further-assistance' }
+    ],
+    resources: [
+      { title: 'Sample-Assistant-Principal-Contract-of-Employment-Accumulation-Superannuation-Scheme(Word)External Link', note: 'Sample-Assistant-Principal-Contract-of-Employment-Accumulation-Superannuation-Scheme (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/sample-assistant-principal-contract-of-employment-accumulation-superannuation-scheme-3516' },
+      { title: 'Sample-Assistant-Principal-Contract-of-Employment-Defined-Benefit-Statutory-Superannuation-Scheme(Word)External Link', note: 'Sample-Assistant-Principal-Contract-of-Employment-Defined-Benefit-Statutory-Superannuation-Scheme (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/sample-assistant-principal-contract-of-employment-defined-benefit-statutory-superannuation-scheme-3517' },
+      { title: 'Sample Schedule B for Principal Contract of Employment(Word)External Link', note: 'Sample Schedule B for Principal Contract of Employment (Word) External Link External Link — last updated 7 March 2025', url: 'https://content.sdp.education.vic.gov.au/media/schedule-b-principal-sample-docx-1562' },
+      { title: 'External Link', note: 'Sample Schedule B for Principal Contract of Employment (Word) — last updated 7 March 2025', url: 'https://www.education.vic.gov.au/hrweb/Documents/Schedule-B-Principal-sample.docx' },
+      { title: 'Sample Schedule B for Principal Contract ofEmployment (PDF)External Link', note: 'Sample Schedule B for Principal Contract of Employment (PDF) External Link — last updated 7 March 2025', url: 'https://content.sdp.education.vic.gov.au/media/schedule-b-principal-sample-pdf-1563' },
+      { title: 'Sample Schedule B for Assistant Principal Contract of Employment(Word)External Link', note: 'Sample Schedule B for Assistant Principal Contract of Employment (Word) External Link — last updated 15 July 2013', url: 'https://content.sdp.education.vic.gov.au/media/schedule-b-asstprin-sample-docx-1560' },
+      { title: 'Sample Schedule B for Assistant Principal Contract ofEmployment (PDF)External Link', note: 'Sample Schedule B for Assistant Principal Contract of Employment (PDF) External Link — last updated 15 July 2013', url: 'https://content.sdp.education.vic.gov.au/media/schedule-b-asstprin-sample-pdf-1561' },
+      { title: 'Contract Renewal Administration Procedures(Word)External Link', note: 'Contract Renewal Administration Procedures (Word) External Link — last updated 22 September 2017', url: 'https://content.sdp.education.vic.gov.au/media/contract-tenure-renewal-pce-lt-1565' },
+      { title: 'Assistant Principal Contract Renewal Advice(Word)External Link', note: 'Assistant Principal Contract Renewal Advice (Word) External Link — last updated 9 November 2020', url: 'https://content.sdp.education.vic.gov.au/media/a-p-contract-renewal-advice-1564' }
+    ]
+  },
+  { id: 249, title: 'Contractor OHS Management', category: 'OHS', tags: ['OHS', 'VSBA', 'WWCC', 'AIMS', 'PPP', 'outlines', 'occupational', 'health', 'safety', 'requirements'], summary: 'This policy outlines the occupational health and safety (OHS) requirements in schools associated with the management and monitoring of contractors engaged by the school or via central areas of the department and the works or services they undertake.', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/resources' },
+    chapters: [
+      { title: '1. Engaging contractors and AIMS — AIMS, OHS, DOCX, engaging, contractors, strongly', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/engaging-contractors-aims' },
+      { title: '2. Contractor OHS induction — OHS, DOCX, VSBA, AIMS, SWMS, 12 months', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/contractor-ohs-induction' },
+      { title: '3. Required task documentation — SWMS, SMWS, PPP, VSBA, AIMS, 2 metres', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/required-task-documentation' },
+      { title: '4. Communication and supervision of contractors — OHS, SWMS, VSBA, PPP, communication, supervision', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/communication-supervision-contractors' },
+      { title: '5. Hazard, incident and near miss reporting — EMP, PPP, hazard, incident, near, miss', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/hazard-incident-near-miss-reporting' },
+      { title: '6. Record keeping — OHS, SWMS, JSA, AIMS, record, keeping', url: 'https://www2.education.vic.gov.au/pal/contractor-ohs-management/procedure/record-keeping' }
+    ],
+    resources: [
+      { title: 'Contractor hazard identification and control guide(DOCX)External Link', note: 'Contractor hazard identification and control guide (DOCX) External Link – can be used to aid in assessing the quality of', url: 'https://content.sdp.education.vic.gov.au/media/contractor-hazard-identification-and-control-guide-2594' },
+      { title: 'Contractor OHS induction checklist(DOCX)External Link', note: 'Contractor OHS induction checklist (DOCX) External Link – used to assist in conducting an OHS induction. Induction check', url: 'https://content.sdp.education.vic.gov.au/media/contractor-ohs-induction-checklist-3143' },
+      { title: 'eduSafe Plus (staff loginrequired)External Link', note: 'Contractor OHS induction checklist (DOCX) External Link – used to assist in conducting an OHS induction. Induction check', url: 'https://services.educationapps.vic.gov.au/edusafeplus' },
+      { title: 'Managing OHSinductionsExternal Link', note: 'Contractor OHS induction checklist (DOCX) External Link – used to assist in conducting an OHS induction. Induction check', url: 'https://services.educationapps.vic.gov.au/edusafeplus?id=kb_article_view&sysparm_article=KB0011835' },
+      { title: 'Contractor OHS induction handbook(DOCX)External Link', note: 'Contractor OHS induction handbook (DOCX) External Link – the department has provided a template for schools to tailor an', url: 'https://content.sdp.education.vic.gov.au/media/contractor-ohs-induction-handbook-3144' },
+      { title: 'Contractor register(XLSX)External Link', note: 'Contractor register (XLSX) External Link – provides a way to record and manage the induction details of the contractor c', url: 'https://content.sdp.education.vic.gov.au/media/contractor-register-2595' },
+      { title: 'Confined space entry permit(DOCX)External Link', note: 'Confined space entry permit (DOCX) External Link – for contractors engaged to work in confined spaces', url: 'https://content.sdp.education.vic.gov.au/media/confined-space-entry-permit-2593' },
+      { title: 'Safe Work Method Statement(DOCX)External Link', note: 'Safe Work Method Statement (DOCX) External Link – for completion where high risk work is being undertaken', url: 'https://content.sdp.education.vic.gov.au/media/safe-work-method-statement-2620' },
+      { title: 'OHS Advisory Service and the Statewide OHS Services Team', url: 'https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/guidance/useful-contacts' },
+      { title: 'pvis.ppp@education.vic.gov.au', note: 'Partnerships Victoria in Schools (PViS) –', url: 'mailto:pvis.ppp@education.vic.gov.au' },
+      { title: 'public.private.partnership@education.vic.gov.au', note: 'New Schools PPP (NSPPP) –', url: 'mailto:public.private.partnership@education.vic.gov.au' },
+      { title: 'vsba@education.vic.gov.au', note: 'Email:', url: 'mailto:vsba@education.vic.gov.au' },
+      { title: '1800 896 950', note: 'Phone:', url: 'tel:1800896950' },
+      { title: 'Foundations for success – managing OHS inductions and training at school webinar recording onVimeoExternal Link', note: 'Watch the Foundations for success – managing OHS inductions and training at school webinar recording on Vimeo External L', url: 'https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvimeo.com%2F1123071776%2Feb1e824ff6%3Fts%3D0%26share%3Dcopy&data=05%7C02%7CLea.Costa%40education.vic.gov.au%7C9360e874ebf14dad70b708de169627dd%7Cd96cb3371a8744cfb69b3cec334a4c1f%7C0%7C0%7C638973031349608303%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dT%2F1WRGK3yZEdEIyYp6u5PRdw7hc7rbhS45yKXDb40I%3D&reserved=0' },
+      { title: 'Foundations for success – managing OHS inductions and training at school’(PPTX)External Link', note: 'Foundations for success – managing OHS inductions and training at school’ (PPTX) External Link - webinar presentation sl', url: 'https://content.sdp.education.vic.gov.au/media/schools-ohs-induction-slides-august-2025-3375' }
+    ]
+  },
+  { id: 250, title: 'Cooling Towers', category: 'Infrastructure', tags: ['OHS', 'OHSMS', 'DHHS', 'XLSX', 'purpose', 'risks', 'associated', 'cooling', 'towers', 'identified'], summary: 'The purpose of this policy is to ensure all risks associated with cooling towers within schools are identified and managed.', url: 'https://www2.education.vic.gov.au/pal/cooling-towers', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/cooling-towers/guidance', resources: 'https://www2.education.vic.gov.au/pal/cooling-towers/resources' },
+    chapters: [
+      { title: '1. Risk management plan — HSR, OHS, XLSX, risk, management, plan', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/1-risk-management-plan' },
+      { title: '2. Cooling tower installation — cooling, tower, installation, event, installed, delegate', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/2-cooling-tower-installation' },
+      { title: '3. Cooling tower testing and maintenance — cooling, tower, testing, maintenance, delegate, planned', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/3-cooling-tower-testing-and-maintenance' },
+      { title: '4. Audit of risk management plan — OHS, XLSX, audit, risk, management, plan', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/4-audit-risk-management-plan' },
+      { title: '5. Record risk controls — OHS, XLSX, record, risk, controls, delegate', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/5-record-risk-controls' },
+      { title: '6. Monitor and review controls — OHS, XLSX, monitor, review, controls, delegate', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/6-monitor-and-review-controls' },
+      { title: '7. Notifying the Department of Health and Human Services — notifying, health, human, services, delegate, notified', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/7-notifying-department-health-and-human-services' },
+      { title: '8. Legislation, codes of practice, standards and guidance — NZS, legislation, codes, practice, standards, guidance', url: 'https://www2.education.vic.gov.au/pal/cooling-towers/procedures/8-legislation-codes-practice-standards-and-guidance' }
+    ],
+    resources: [
+      { title: 'Cooling tower risk managementplanExternal Link', note: 'Cooling tower risk management plan External Link', url: 'https://www.health.vic.gov.au/water/risk-management-cooling-towers-section-5#development-of-risk-management-plans' },
+      { title: 'Health and safety representative guide(DOCX)External Link', note: 'Health and safety representative guide (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/health-and-safety-representative-guide-2726' },
+      { title: 'OHS activities calendar(XLSX)External Link', note: 'OHS activities calendar (XLSX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/ohs-activities-calendar-2768' },
+      { title: 'OHS risk register(XLSX)External Link', note: 'OHS risk register (XLSX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/ohs-risk-register-2572' }
+    ]
+  },
+  { id: 251, title: 'Court Appointments', category: 'HR - Recruitment', tags: ['5 days', 'bail', 'justice', 'employee', 'granted', 'unpaid', 'leave', 'attend', 'training', 'course'], summary: 'An employee may be granted unpaid leave to attend a training course for appointment as a bail justice.', url: 'https://www2.education.vic.gov.au/pal/court-appointments', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/court-appointments/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/court-appointments/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/court-appointments/resources' },
+    chapters: [
+      { title: 'Overview — 5 days, bail, justice, employee, granted, unpaid', url: 'https://www2.education.vic.gov.au/pal/court-appointments/overview' },
+      { title: 'Policy and Guidelines — there, guidance, resources', url: 'https://www2.education.vic.gov.au/pal/court-appointments/policy-and-guidelines-1' },
+      { title: 'Resources — resources, procedures, forms, leave, application, word', url: 'https://www2.education.vic.gov.au/pal/court-appointments/resources' }
+    ],
+    resources: [
+      { title: 'Leave Application(Word)External Link', note: 'Leave Application (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1029' }
+    ]
+  },
+  { id: 252, title: 'COVID-19 – School Operations', category: 'OHS', tags: ['1 July 2025', 'COVID', 'PPE', '7 days', 'guidance', 'operations', 'manage', 'outlined', 'below', 'covidsafe'], summary: 'Department policy, guidance and advice on school operations to manage COVID-19 is set out in the information outlined below.', url: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/overview', guidance: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/guidance', resources: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/resources' },
+    chapters: [
+      { title: 'Advice — 1 July 2025, COVID, PPE, guidance, operations, manage', url: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/advice' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/guidance' },
+      { title: 'Resources — COVID, NURSE, CALL, 24 Hours, 7 days, resources', url: 'https://www2.education.vic.gov.au/pal/covid-19-school-operations/resources' }
+    ],
+    resources: [
+      { title: 'COVID-19 employee health, safety and wellbeing supports for schools', note: '.', url: 'https://www2.education.vic.gov.au/pal/occupational-health-safety-wellbeing-management/guidance/covid-19' },
+      { title: 'Department of HealthadviceExternal Link', note: 'Department staff working onsite in schools are encouraged to familiarise themselves with official Department of Health a', url: 'https://www.coronavirus.vic.gov.au/health-advice' },
+      { title: '1300 60 60 24', note: 'Phone: Hours: 24 hours 7 days a week', url: 'tel:1300606024' }
+    ]
+  },
+  { id: 253, title: 'Crime Prevention in Schools', category: 'School Council', tags: ['DOCX', 'CCTV', 'ISOC', 'outlines', 'strategies', 'adopted', 'prevent', 'criminal', 'activity', 'premises'], summary: 'This policy outlines strategies that can be adopted by schools to prevent criminal activity on school premises.', url: 'https://www2.education.vic.gov.au/pal/crime-prevention-schools', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/crime-prevention-schools/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, CCTV, outlines, strategies, adopted, prevent', url: 'https://www2.education.vic.gov.au/pal/crime-prevention-schools/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/crime-prevention-schools/procedure' },
+      { title: 'Resources — DOCX, resources, booklet, securing, guide, principals', url: 'https://www2.education.vic.gov.au/pal/crime-prevention-schools/resources' }
+    ],
+    resources: [
+      { title: 'Securing your school – an information guide for principals and school leaders (DOCX) (staff loginrequired)External Link', note: 'The booklet Securing your school – an information guide for principals and school leaders (DOCX) (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Securing-your-school.docx' }
+    ]
+  },
+  { id: 254, title: 'Cycling to and from School', category: 'School Operations', tags: ['NZS', '12 years', 'clarifies', 'roles', 'responsibilities', 'parents', 'relation', 'travelling', 'particularly', 'cycling'], summary: 'This policy clarifies roles and responsibilities of parents and schools in relation to students travelling to and from school, particularly in relation to cycling.', url: 'https://www2.education.vic.gov.au/pal/cycling-and-school', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/cycling-and-school/guidance', resources: 'https://www2.education.vic.gov.au/pal/cycling-and-school/resources' },
+    chapters: [
+      { title: 'Policy — 12 years, clarifies, roles, responsibilities, parents, relation', url: 'https://www2.education.vic.gov.au/pal/cycling-and-school/policy' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/cycling-and-school/guidance' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/cycling-and-school/resources' }
+    ]
+  },
+  { id: 255, title: 'Data Collection and Surveys', category: 'School Operations', tags: ['CASES21', 'AEDC', 'NCCD', 'explains', 'data', 'collection', 'meet', 'reporting', 'obligations', 'requirements'], summary: 'This policy explains department data collection from schools to meet reporting and other obligations. This policy also explains requirements for schools to participate in specific surveys.', url: 'https://www2.education.vic.gov.au/pal/data-collection-surveys', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/data-collection-surveys/guidance', resources: 'https://www2.education.vic.gov.au/pal/data-collection-surveys/resources' },
+    chapters: [
+      { title: 'Attitudes to School Survey — ORIMA, attitudes, survey, conducted, annually, term', url: 'https://www2.education.vic.gov.au/pal/data-collection-surveys/guidance/attitudes-school-survey' },
+      { title: 'Parent/Caregiver/Guardian Opinion Survey — ORIMA, PIN, parent, caregiver, guardian, opinion', url: 'https://www2.education.vic.gov.au/pal/data-collection-surveys/guidance/parent-opinion-survey' }
+    ],
+    resources: [
+      { title: 'ORIMA survey administrationportalExternal Link', note: 'Login details will be emailed to each school for access to the ORIMA survey administration portal External Link .', url: 'https://research.orima.com.au/vic/schoolsurvey/logon/Logon.php?orimaW=1000' },
+      { title: 'Attitudes to School Survey framework(DOCX)External Link', note: 'Attitudes to School Survey framework (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/attitudes-to-school-survey-framework-docx-663' },
+      { title: 'Attitudes to School Survey framework(PDF)External Link', note: 'Attitudes to School Survey framework (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/attitudes-to-school-survey-framework-pdf-664' },
+      { title: 'Parent/Caregiver/Guardian Opinion Survey framework(DOCX)External Link', note: 'Parent/Caregiver/Guardian Opinion Survey framework (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/data-collection-parent-caregiver-guardian-opinion-survey-framework-docx-1401' },
+      { title: 'Parent/Caregiver/Guardian Opinion Survey framework(PDF)External Link', note: 'Parent/Caregiver/Guardian Opinion Survey framework (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/parent-caregiver-guardian-opinion-survey-framework-1402' },
+      { title: 'School Staff Survey framework(DOCX)External Link', note: 'School Staff Survey framework (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-staff-survey-framework-1403' },
+      { title: 'School Staff Survey framework(PDF)External Link', note: 'School Staff Survey framework (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-staff-survey-framework-1404' },
+      { title: 'Victorian Student Health and Wellbeing Survey framework(DOCX)External Link', note: 'Victorian Student Health and Wellbeing Survey framework (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/victorian-student-health-and-wellbeing-survey-framework-1949' },
+      { title: 'Victorian Student Health and Wellbeing Survey framework(PDF)External Link', note: 'Victorian Student Health and Wellbeing Survey framework (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/victorian-student-health-and-wellbeing-survey-framework-1950' },
+      { title: 'Results support resource for schools (PDF) (staff loginrequired)External Link', note: 'Results support resource for schools (PDF) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/data-collection-atoss-pos-results-resource.pdf' },
+      { title: 'Results support resource for schools (DOCX) (staff loginrequired)External Link', note: 'Results support resource for schools (DOCX) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/data-collection-atoss-pos-results-resource.docx' },
+      { title: 'Australian Early Development Census (AEDC) VictoriawebsiteExternal Link', note: 'Data from previous years, including case studies and data visualisations at a local level, can be found on the Australia', url: 'https://www.vic.gov.au/australian-early-development-census-victoria' },
+      { title: 'aedc@education.vic.gov.au', note: 'For further enquiries, contact:', url: 'mailto:aedc@education.vic.gov.au' },
+      { title: 'PanoramaExternal Link', note: 'Principals – login to Panorama External Link', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/TEB/panorama/pages/panorama.aspx' }
+    ]
+  },
+  { id: 256, title: 'Decision Making Responsibilities for Students', category: 'Students (?ambig)', tags: ['18 years', 'guidance', 'responsible', 'decisions', 'common', 'need', 'made', 'relation', 'education', 'welfare'], summary: 'This policy provides guidance as to who is responsible for decisions about students including for the common decisions that need to be made in relation to their education and welfare.', url: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/overview', guidance: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/resources' },
+    chapters: [
+      { title: 'Policy — 18 years, guidance, responsible, decisions, common, need', url: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/guidance' },
+      { title: 'Resources — PDF, resources, informal, carer, statutory, declaration', url: 'https://www2.education.vic.gov.au/pal/decision-making-responsibilities-students/resources' }
+    ],
+    resources: [
+      { title: 'Informal carer statutory declaration(PDF)External Link', note: 'A template is available: Informal carer statutory declaration (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/informal-carer-statutory-declaration-template-1943' }
+    ]
+  },
+  { id: 257, title: 'Deductions From Salary', category: 'HR - Pay', tags: ['general', 'facility', 'deduct', 'dollar', 'amount', 'employee', 'fortnightly', 'salary', 'forward', 'approved'], summary: 'The Department provides a facility to deduct a set dollar amount from an employee\'s fortnightly salary and forward that amount to an approved organisation.', url: 'https://www2.education.vic.gov.au/pal/deductions', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/deductions/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/deductions/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/deductions/resources' },
+    chapters: [
+      { title: 'Overview — general, facility, deduct, dollar, amount, employee', url: 'https://www2.education.vic.gov.au/pal/deductions/overview' },
+      { title: 'Policy and Guidelines', url: 'https://www2.education.vic.gov.au/pal/deductions/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/deductions/resources' }
+    ]
+  },
+  { id: 258, title: 'Delegations', category: 'HR - Pay (?ambig)', tags: ['public', 'administration', 'education', 'training', 'reform', 'ministerial', 'orders', 'made', 'secretary', 'employer'], summary: 'The Public Administration Act 2004 and the Education and Training Reform Act 2006 (and the Ministerial Orders made under that Act) provide the Secretary (as employer) with powers and functions in relation to the employment and management of employees. The Secretary has delegated some of these powers and functions to the occupants of particular positions.', url: 'https://www2.education.vic.gov.au/pal/delegations', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/delegations/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/delegations/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/delegations/resources' },
+    chapters: [
+      { title: 'Overview — public, administration, education, training, reform, ministerial', url: 'https://www2.education.vic.gov.au/pal/delegations/overview' },
+      { title: 'Policy and Guidelines — there, guidance, resources', url: 'https://www2.education.vic.gov.au/pal/delegations/policy-and-guidelines' },
+      { title: 'Resources — 23 January 2026, PDF, resources, procedures, forms, delegation', url: 'https://www2.education.vic.gov.au/pal/delegations/resources' }
+    ],
+    resources: [
+      { title: 'Secretary\'s Teaching Service delegations(Word)External Link', note: 'Secretary\'s Teaching Service delegations (Word) External Link — last updated 23 January 2026', url: 'https://content.sdp.education.vic.gov.au/media/teaching-service-secretarys-delegations-docx-1570' },
+      { title: 'Secretary\'s Teaching Service delegations(PDF)External Link', note: 'Secretary\'s Teaching Service delegations (PDF) External Link — last updated 23 January 2026', url: 'https://content.sdp.education.vic.gov.au/media/teaching-service-secretarys-delegations-pdf-1571' }
+    ]
+  },
+  { id: 259, title: 'Demolition', category: 'Infrastructure', tags: ['$50,000', 'VSBA', 'GST', 'SRP', 'PDF', 'explains', 'roles', 'responsibilities', 'victorian', 'building'], summary: 'This policy explains the roles and responsibilities of schools and the Victorian School Building Authority (VSBA) for the demolition of school buildings.', url: 'https://www2.education.vic.gov.au/pal/demolition', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/demolition/guidance', resources: 'https://www2.education.vic.gov.au/pal/demolition/resources' },
+    chapters: [
+      { title: 'Policy — $50,000, VSBA, GST, SRP, PDF, explains', url: 'https://www2.education.vic.gov.au/pal/demolition/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/demolition/guidance' },
+      { title: 'Resources — PDF, resources, asset, drawing, changes, checklist', url: 'https://www2.education.vic.gov.au/pal/demolition/resources' }
+    ],
+    resources: [
+      { title: 'School asset drawing changes checklist(PDF)External Link', note: 'School asset drawing changes checklist (PDF) External Link – schools must use this document to review and the complete t', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/schoolassetdrawingchanges-checklist.pdf' }
+    ]
+  },
+  { id: 260, title: 'Dental Services', category: 'Students', tags: ['supports', 'make', 'local', 'decisions', 'facilitate', 'access', 'dental', 'services', 'promote', 'good'], summary: 'This policy supports schools to make local decisions to facilitate access to dental services and promote good oral health.', url: 'https://www2.education.vic.gov.au/pal/dental-services', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/dental-services/guidance', resources: 'https://www2.education.vic.gov.au/pal/dental-services/resources' },
+    chapters: [
+      { title: 'About Smile Squad — 2 years, 6 months, smile, squad, delivered, dental', url: 'https://www2.education.vic.gov.au/pal/dental-services/guidance/about-smile-squad' },
+      { title: 'Steps for implementing Smile Squad in schools — steps, implementing, smile, squad, step, initial', url: 'https://www2.education.vic.gov.au/pal/dental-services/guidance/implementing-smile-squad' },
+      { title: 'Consent and other requirements — PDF, 18 years, consent, requirements, purpose, guidance', url: 'https://www2.education.vic.gov.au/pal/dental-services/guidance/consent-other-requirements' }
+    ],
+    resources: [
+      { title: 'School council health services licence agreement – dentist(DOCX)External Link', note: 'School council health services licence agreement – dentist (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/school-council-health-services-licence-dentist-template.docx' },
+      { title: 'Health ServicesExternal Link', note: 'For information regarding this process, visit the Legal Services website, at Health Services External Link (staff login', url: 'https://edugate.eduweb.vic.gov.au/sites/intranet/Services/Legal-Services/Purchasing-Contracts-and-Licencing/Licencing-School-Facilities/Pages/Health-services.aspx' },
+      { title: 'legal.services@education.vic.gov.au', note: 'For information regarding this process, visit the Legal Services website, at Health Services External Link (staff login', url: 'mailto:legal.services@education.vic.gov.au' },
+      { title: 'Oral HealthVictoriaExternal Link', note: 'Oral Health Victoria External Link aims to improve the oral health of all Victorians, including school aged children, an', url: 'https://www.dhsv.org.au/' },
+      { title: 'Community dentalclinicsExternal Link', note: 'the location of dental clinics where many children are eligible to receive free public dental care, refer to: Community', url: 'https://www.dhsv.org.au/clinic-locations/community-dental-clinics' },
+      { title: 'Dental care for kids andteensExternal Link', note: 'eligibility criteria for children and young people, refer to: Dental care for kids and teens External Link', url: 'https://www.dhsv.org.au/public-dental-services/dental-care-for-kids' },
+      { title: 'Special needs dental healthservicesExternal Link', note: 'special needs vans that deliver general dental care to children with a variety of physical and intellectual disabilities', url: 'https://www.dhsv.org.au/public-dental-services/special-needs-dental-health-services' }
+    ]
+  },
+  { id: 261, title: 'Designated Purpose Settings', category: 'Curriculum', tags: ['DPS', 'DNS', 'note', 'replaces', 'specialism', 'programs', 'purpose', 'define', 'designated', 'settings'], summary: 'Please note: This policy replaces the Specialism Schools and Programs policy.', url: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/guidance', resources: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/resources' },
+    chapters: [
+      { title: 'Modifying special entry criteria and establishing new designated purpose settings — DPS, PDF, modifying, special, entry, criteria', url: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/guidance/modifying-special-entry-criteria-and-establishing-new-designated-purpose-settings' },
+      { title: 'Designated purpose schools — VRQA, designated, purpose, specialise, specific, subject', url: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/guidance/designated-purpose-schools' },
+      { title: 'Designated purpose campuses — designated, purpose, campuses, supplementary, neighbourhood, dnss', url: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/guidance/designated-purpose-campuses' },
+      { title: 'Designated purpose programs — DNS, designated, purpose, programs, program, delivered', url: 'https://www2.education.vic.gov.au/pal/designated-purpose-settings/guidance/designated-purpose-programs' }
+    ],
+    resources: [
+      { title: 'Victorian Registration and Qualifications Authority: StateRegisterExternal Link', note: 'Victorian Registration and Qualifications Authority: State Register External Link – The State Register provides informat', url: 'https://www.vrqa.vic.gov.au/StateRegister/Search.aspx/Search?SearchType=0' },
+      { title: 'Template enrolment policies – specialist schools and supported inclusion schools (staff loginrequired)External Link', note: 'Template enrolment policies – specialist schools and supported inclusion schools (staff login required) External Link –', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Enrolment-specialist-settings.aspx' }
+    ]
+  },
+  { id: 262, title: 'Diabetes', category: 'Students', tags: ['DOCX', 'DOC', '12 months', 'purpose', 'diabetes', 'develop', 'implement', 'management', 'plans', 'living'], summary: 'The purpose of this policy is to ensure that schools support students with diabetes and to provide advice for schools as they develop and implement support and management plans for students living with diabetes.', url: 'https://www2.education.vic.gov.au/pal/diabetes', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/diabetes/guidance', resources: 'https://www2.education.vic.gov.au/pal/diabetes/resources' },
+    chapters: [
+      { title: 'Overview and how to use these Guidelines — number, enrolled, victorian, affected, type, diabetes', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/how-use-these-guidelines' },
+      { title: 'What is Diabetes? — diabetes, there, main, types, type, gestational', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/what-diabetes' },
+      { title: 'Shared responsibility — shared, responsibility, parents, carers, diabetes, treating', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/shared-responsibility' },
+      { title: 'Communication – an ongoing conversation — communication, ongoing, conversation, diabetes, management, requires', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/communication-ongoing-conversation' },
+      { title: 'Training – building capability and confidence to support students with type 1 diabetes — training, building, capability, confidence, type, diabetes', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/training-building-capability-and-confidence-support-students-type-1-diabetes' },
+      { title: 'Treatment – implementing the Diabetes Management Plan and Diabetes Action Plan — treatment, implementing, diabetes, management, plan, action', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/treatment-implementing-diabetes-management-plan-and-diabetes-action-plan' },
+      { title: 'Reasonable adjustments: creating a supportive environment — reasonable, adjustments, creating, supportive, environment, disability', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/reasonable-adjustments-creating-supportive-environment' },
+      { title: 'Appendix 1 – Legal and policy obligations — DOCX, appendix, legal, obligations, diabetes, individual', url: 'https://www2.education.vic.gov.au/pal/diabetes/guidance/appendix-1-legal-and-policy-obligations' }
+    ],
+    resources: [
+      { title: 'Student Health Support Plan(DOCX)External Link', note: 'Student Health Support Plan (DOCX) External Link – this must be developed by the school in consultation with the parents', url: 'https://content.sdp.education.vic.gov.au/media/student-health-support-plan-2478' },
+      { title: 'Medication Authority Form(DOCX)External Link', note: 'Medication Authority Form (DOCX) External Link – this form details the medications required during regular school hours,', url: 'https://content.sdp.education.vic.gov.au/media/medication-authority-form-1095' },
+      { title: 'Diabetes Action and ManagementPlansExternal Link', note: 'Diabetes Action and Management Plans External Link – Diabetes Victoria contains links to both the diabetes management pl', url: 'https://www.diabetesvic.org.au/support-services/diabetes-in-youth/diabetes-action-and-management-plans/' },
+      { title: 'Diabetes in SchoolsProgramExternal Link', note: 'Diabetes in Schools Program External Link – online learning modules and interactive training for schools', url: 'https://www.diabetesinschools.com.au/training-and-support/' },
+      { title: 'Diabetes inYouthExternal Link', note: 'Diabetes in Youth External Link – information and resource hub to support Victorian students living with diabetes', url: 'https://www.diabetesvic.org.au/support-services/diabetes-in-youth/' },
+      { title: 'DiabetesVictoriaExternal Link', note: 'Diabetes Victoria External Link – information and resources about diabetes for the wider community', url: 'https://www.diabetesvic.org.au/' }
+    ]
+  },
+  { id: 263, title: 'Digital Technologies – Responsible Use', category: 'IT & Privacy', tags: ['10 December 2025', 'PDF', 'AUA', '16 years', 'outlines', 'requirements', 'engage', 'digital', 'technologies', 'safe'], summary: 'This policy outlines requirements for schools to engage with digital technologies in a safe and responsible manner, ensuring cybersafety and supporting student learning.', url: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use/overview', guidance: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use/guidance', resources: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use/resources' },
+    chapters: [
+      { title: 'Managing external access in online environments — PDF, managing, external, access, online, environments', url: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use/guidance/managing-external-access-in-online-environments' },
+      { title: 'Social media use for student learning — VCE, social, media, learning, establishing, protocols', url: 'https://www2.education.vic.gov.au/pal/digital-technologies-responsible-use/guidance/social-media-use-for-student-learning' }
+    ],
+    resources: [
+      { title: 'SafeSocialsExternal Link', note: 'Safe Socials External Link provides information and resources for secondary school students, and parents and carers of p', url: 'https://www.vic.gov.au/safe-socials' },
+      { title: 'Student fact sheet(secondary)External Link', note: 'Student fact sheet (secondary) External Link : how secondary students can have a healthy relationship with social media,', url: 'https://www.vic.gov.au/safe-socials-students' },
+      { title: 'Parent fact sheet(secondary)External Link', note: 'Parent fact sheet (secondary) External Link : helps parents and carers support their child to be safe online, recognise', url: 'https://www.vic.gov.au/safe-socials-parents-and-carers-secondary' },
+      { title: 'Parent fact sheet(primary)External Link', note: 'Parent fact sheet (primary) External Link : helps parents and carers prepare their child to be safe on social media even', url: 'https://www.vic.gov.au/safe-socials-parents-and-carers-primary' },
+      { title: 'advice sheets for adults (including schoolstaff)External Link', note: 'The department’s Bully Stoppers online toolkit includes advice sheets for adults (including school staff) External Link', url: 'https://www.vic.gov.au/advice-sheets-adults' },
+      { title: 'dedicated schoolssectionExternal Link', note: 'The department’s Bully Stoppers online toolkit includes advice sheets for adults (including school staff) External Link', url: 'https://www.vic.gov.au/bully-stoppers-schools' },
+      { title: 'Bully Stoppers step-by-step guide for schools(PDF)External Link', note: 'Schools can also consult the Bully Stoppers step-by-step guide for schools (PDF) External Link to respond to an online i', url: 'https://content.sdp.education.vic.gov.au/media/step-by-step-guide-online-incidents-pdf-2476' },
+      { title: 'eSmartExternal Link', note: 'eSmart External Link Schools is an initiative of the Alannah and Madeline Foundation, where schools are provided with su', url: 'https://www.alannahandmadeline.org.au/what-we-do/prevention-programs/esmart' },
+      { title: 'eSafety Commissioner’s educatorspageExternal Link', note: 'The eSafety Commissioner’s educators page External Link provides access to advice and support, information, current rese', url: 'https://www.esafety.gov.au/educators' },
+      { title: 'eSafety Toolkit forSchoolsExternal Link', note: 'The eSafety Toolkit for Schools External Link is designed to support schools to create safer online environments. The re', url: 'https://www.esafety.gov.au/educators/toolkit-schools' },
+      { title: 'eSafety Commissioner’s professional learning program forteachersExternal Link', note: 'The eSafety Commissioner’s professional learning program for teachers External Link includes webinars, staff meeting ser', url: 'https://www.esafety.gov.au/educators/training-for-professionals/teachers-professional-learning-program' },
+      { title: 'eSafetyGuideExternal Link', note: 'The eSafety Guide External Link provides information about different platforms including how to protect your personal in', url: 'https://www.esafety.gov.au/key-topics/esafety-guide' },
+      { title: 'spotlight oncyberbullyingExternal Link', note: 'The spotlight on cyberbullying External Link includes links to a range of resources across the eSafety website and inclu', url: 'https://www.esafety.gov.au/educators/spotlight-on-cyberbullying' },
+      { title: 'Trusted eSafety ProviderprogramExternal Link', note: 'The Trusted eSafety Provider program External Link consists of quality online safety education providers who have had th', url: 'https://www.esafety.gov.au/educators/trusted-providers' },
+      { title: 'Managing and Reporting School Incidents (Including Emergencies)', note: 'Read and follow the department policy – .', url: 'https://www2.education.vic.gov.au/pal/reporting-and-managing-school-incidents-including-emergencies/policy' },
+      { title: 'Managing Conduct and Unsatisfactory Performance in the Teaching Service policy', note: 'Information on how to respond to teacher misconduct relating to digital technology use can be found in the .', url: 'https://www2.education.vic.gov.au/pal/complaints-misconduct-and-unsatisfactory-performance/policy-and-guidelines/part-3-guidelines' },
+      { title: 'responding to a copyright infringement notice', note: 'The National Copyright Unit supports the department and schools with guidance on .', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/copyright-infringement-notices' },
+      { title: 'Bully Stoppers step-by-step guide for schools(PDF)External Link', note: 'The department’s Bully Stoppers step-by-step guide for schools (PDF) External Link provides advice on how to respond to', url: 'https://content.sdp.education.vic.gov.au/media/step-by-step-guide-online-incidents-pdf-2476' },
+      { title: 'eSafety Commissioner’s RespondresourcesExternal Link', note: 'The eSafety Commissioner’s Respond resources External Link help schools to effectively assess and respond to online inci', url: 'https://www.esafety.gov.au/educators/toolkit-for-schools/respond' },
+      { title: 'eSafety Commissioner\'s parentresourcesExternal Link', note: 'The eSafety Commissioner\'s parent resources External Link provides resources to support families to discuss online safet', url: 'https://www.esafety.gov.au/parents/resources' }
+    ]
+  },
+  { id: 264, title: 'Dimensions of Work — Education Support Class', category: 'HR - Pay (?ambig)', tags: ['education', 'class', 'dimensions', 'assess', 'value', 'position', 'levels', 'level', 'general', 'statement'], summary: 'The Dimensions of Work for the education support class are used to assess the work value of a position. The education support class has 6 work value levels.', url: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/resources' },
+    chapters: [
+      { title: 'Overview — education, class, dimensions, assess, value, position', url: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/overview' },
+      { title: 'Policy and Guidelines — there, guidance, resources', url: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/policy-and-guidelines' },
+      { title: 'Resources — PDF, resources, procedures, forms, dimensions, word', url: 'https://www2.education.vic.gov.au/pal/dimensions-work-education-support-class/resources' }
+    ],
+    resources: [
+      { title: 'Dimensions ofWork (Word)External Link', note: 'Dimensions of Work (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1572' },
+      { title: 'Dimensions of Work(PDF)External Link', note: 'Dimensions of Work (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1573' }
+    ]
+  },
+  { id: 265, title: 'Direct Crediting of Salary', category: 'HR - Pay', tags: ['ESS', 'SLP', 'paid', 'central', 'payroll', 'system', 'direct', 'crediting', 'electronic', 'funds'], summary: 'All employees of the Department paid through the central payroll system are required to use direct crediting (electronic funds transfer) for their salary payments. On first appointment with the Department, initial direct crediting arrangement details must be provided in writing to the principal or workplace manager for entry onto the payroll.', url: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/resources' },
+    chapters: [
+      { title: 'Overview — ESS, paid, central, payroll, system, direct', url: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/overview' },
+      { title: 'Policy and Guidelines — there, guidance, resources', url: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/policy-and-guidelines' },
+      { title: 'Resources — ESS, resources, procedures, forms, direct, credit', url: 'https://www2.education.vic.gov.au/pal/direct-crediting-salary/resources' }
+    ],
+    resources: [
+      { title: 'Direct Credit of Pay ApplicationForm (Word)External Link', note: 'Direct Credit of Pay Application Form (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1632' },
+      { title: 'Cancellation of Direct Credit Request Form(Excel)External Link', note: 'Cancellation of Direct Credit Request Form (Excel) External Link', url: 'https://content.sdp.education.vic.gov.au/media/1575' },
+      { title: 'eduPay and eduPAY Help', note: 'information about using eduPay —', url: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/overview' },
+      { title: 'eduPayExternal Link', note: 'to access ESS (including remote access from home) — eduPay External Link', url: 'https://edupay.eduweb.vic.gov.au/psp/sras/?cmd=login' }
+    ]
+  },
+  { id: 266, title: 'Disability and Reasonable Adjustments – Staff', category: 'HR - Pay (?ambig)', tags: ['committed', 'building', 'diverse', 'inclusive', 'workplaces', 'developing', 'workplace', 'cultures', 'safe', 'accessible'], summary: 'The department is committed to building diverse and inclusive workplaces and developing workplace cultures that are safe and accessible, build respect, foster inclusiveness, promote diversity and embrace the unique skills and qualities of all our employees.', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/guidance', resources: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/resources' },
+    chapters: [
+      { title: 'Introduction — HIV, purpose, document, principals, managers, request', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/introduction' },
+      { title: 'What are workplace adjustments? — workplace, adjustments, referred, reasonable, adjustment, modification', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/what-are-workplace-adjustments' },
+      { title: 'Sharing of staff disability information (disclosure) — sharing, disability, disclosure, there, many, reasons', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/sharing-staff-disability-information' },
+      { title: 'Legal protections — legal, protections, federal, state, anti, discrimination', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/legal-protections' },
+      { title: 'Implementing workplace adjustments — OHS, implementing, workplace, adjustments, responsibility, principals', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/implementing-workplace-adjustments' },
+      { title: 'Workplace adjustments across the employee lifecycle — workplace, adjustments, across, employee, lifecycle', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/workplace-adjustments' },
+      { title: 'Flexible working arrangements and workplace adjustments — 21 days, flexible, arrangements, workplace, adjustments, choose', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/flexible-working-arrangements-and' },
+      { title: 'Personal emergency evacuation plan — PEEP, DOCX, personal, emergency, evacuation, plan', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/personal-emergency-evacuation-plan' },
+      { title: 'Grievances — grievances, applicant, member, considers, treated, unfairly', url: 'https://www2.education.vic.gov.au/pal/disability-and-reasonable-adjustment/policy-and-guidelines/grievances' }
+    ],
+    resources: [
+      { title: 'EnablersNetworkExternal Link', note: 'Enablers Network External Link : The Enablers Network provides peer-support to department employees with lived experienc', url: 'https://eduvic.sharepoint.com/sites/DiversityInclusionNetworks/SitePages/Enablers-Network.aspx' },
+      { title: 'Disability Employment Plan(WORD)External Link', note: 'Disability Employment Plan (WORD) External Link', url: 'https://content.sdp.education.vic.gov.au/media/disability-employment-plan-docx-1580' },
+      { title: 'Disability Employment Plan(PDF)External Link', note: 'Disability Employment Plan (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/disability-employment-plan-pdf-1581' },
+      { title: 'Inclusive Workplaces Guide', url: 'https://www2.education.vic.gov.au/pal/inclusive-workplaces/overview' },
+      { title: 'Personal Emergency Evacuation Plan template(DOCX)External Link', note: 'Personal Emergency Evacuation Plan template (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/peep-employee-template-2387' },
+      { title: 'diversity@education.vic.gov.au', note: 'Workforce Diversity and Inclusion team provides advice and support on the workplace adjustment guidelines and implementa', url: 'mailto:diversity@education.vic.gov.au' },
+      { title: 'Australian Network on Disability: WorkplaceAdjustmentsExternal Link', note: 'Australian Network on Disability: Workplace Adjustments External Link', url: 'https://www.and.org.au/resources/designing-an-accessible-workplace-test/#point-2' },
+      { title: 'Disability Action Plan 2018 to2021External Link', note: 'Disability Action Plan 2018 to 2021 External Link', url: 'https://www.vic.gov.au/strategy-action-plans-department-education#2018-21-disability-action-plan' },
+      { title: 'Victorian Equal Opportunity and Human RightsCommissionExternal Link', note: 'Victorian Equal Opportunity and Human Rights Commission External Link', url: 'https://www.humanrightscommission.vic.gov.au/' },
+      { title: 'Australian Human RightsCommissionExternal Link', note: 'Australian Human Rights Commission External Link', url: 'https://www.humanrights.gov.au/' },
+      { title: 'JobAccessExternal Link', note: 'JobAccess External Link – driving disability employment', url: 'https://www.jobaccess.gov.au/home' },
+      { title: 'Inclusive Victoria: state disability plan(2022–2026)External Link', note: 'Inclusive Victoria: state disability plan (2022–2026) External Link', url: 'https://www.vic.gov.au/state-disability-plan' },
+      { title: 'Getting to work: Victorian public sector disability employment action plan 2018 to2025External Link', note: 'Getting to work: Victorian public sector disability employment action plan 2018 to 2025 External Link', url: 'https://vpsc.vic.gov.au/workforce-programs/disability-employment/public-sector-action-plan/' },
+      { title: 'Workforce Diversity and Inclusion Collaboration intranetpageExternal Link', note: 'Workforce Diversity and Inclusion Collaboration intranet page External Link', url: 'https://edugate.eduweb.vic.gov.au/edrms/PEOD/WDI/Pages/Home.aspx' }
+    ]
+  },
+  { id: 267, title: 'Doctors in Secondary Schools', category: 'Students', tags: ['DOCX', 'SPL', 'operational', 'guidance', 'requirements', 'participating', 'doctors', 'secondary', 'program', 'summary'], summary: 'This policy provides the operational guidance and requirements for schools participating in the Doctors in Secondary Schools program.', url: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, operational, guidance, requirements, participating, doctors', url: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools/policy' },
+      { title: 'Guidance — 18 years, consent, confidentiality, background, clear, medical', url: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools/guidance' },
+      { title: 'Resources — DOCX, PDF, resources, doctors, secondary, external', url: 'https://www2.education.vic.gov.au/pal/doctors-secondary-schools/resources' }
+    ],
+    resources: [
+      { title: 'Doctors in SecondarySchoolsExternal Link', note: 'Doctors in Secondary Schools External Link – provides further information about the program', url: 'https://www.vic.gov.au/doctors-in-secondary-schools' },
+      { title: 'Operational guide (DOCX) (staff loginrequired)External Link', note: 'Operational guide (DOCX) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/doctors-in-secondary-schools-operational-guide-2024.docx' },
+      { title: 'Operational guide (PDF) (staff loginrequired)External Link', note: 'Operational guide (PDF) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/doctors-in-secondary-schools-operational-guide-2024.pdf?csf=1&web=1&e=eQd9Ub' },
+      { title: 'Best practice guide (DOCX) (staff loginrequired)External Link', note: 'Best practice guide (DOCX) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/doctors-in-secondary-schools-best-practice-guide-2024%20.docx?' },
+      { title: 'Best practice guide (PDF) (staff loginrequired)External Link', note: 'Best practice guide (PDF) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/doctors-in-secondary-schools-best-practice-guide-2024%20.pdf?csf=1&web=1&e=AEkQiD' },
+      { title: 'School licence agreement template(DOCX)External Link', note: 'School licence agreement template (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-council-health-services-licence-diss-3355' },
+      { title: 'School licence agreement template(PDF)External Link', note: 'School licence agreement template (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/school-council-health-services-licence-diss-3356' },
+      { title: 'Parent – information sheet(PDF)External Link', note: 'Parent – information sheet (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/consent-and-confidentiality-parent-information-sheet-968' },
+      { title: 'Parent – information sheet(DOCX)External Link', note: 'Parent – information sheet (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/consent-and-confidentiality-parent-information-sheet-967' },
+      { title: 'Student – information sheet(PDF)External Link', note: 'Student – information sheet (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/consent-and-confidentiality-student-information-sheet-966' },
+      { title: 'Student – information sheet(DOCX)External Link', note: 'Student – information sheet (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/consent-and-confidentiality-student-information-sheet-964' }
+    ]
+  },
+  { id: 268, title: 'Domain (URL) names', category: 'IT & Privacy', tags: ['ESA', 'TSSP', 'URL', 'ICT', 'purpose', 'website', 'addresses', 'created', 'registered', 'managed'], summary: 'The purpose of this policy is to ensure school website addresses are created, registered and managed appropriately.', url: 'https://www2.education.vic.gov.au/pal/domain-url-names', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/domain-url-names/overview', guidance: 'https://www2.education.vic.gov.au/pal/domain-url-names/guidance', resources: 'https://www2.education.vic.gov.au/pal/domain-url-names/resources' },
+    chapters: [
+      { title: 'Policy — ESA, TSSP, purpose, website, addresses, created', url: 'https://www2.education.vic.gov.au/pal/domain-url-names/policy' },
+      { title: 'Guidance — ESA, ABN, details, processes, creating, maintaining', url: 'https://www2.education.vic.gov.au/pal/domain-url-names/guidance' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/domain-url-names/resources' }
+    ]
+  },
+  { id: 269, title: 'Donating Furniture and Equipment', category: 'Infrastructure', tags: ['purpose', 'make', 'sure', 'aware', 'opportunities', 'donate', 'unwanted', 'furniture', 'equipment', 'playground'], summary: 'The purpose of this policy is to make sure schools are aware of the opportunities to donate unwanted school furniture and equipment, including playground equipment, thereby reducing waste sent to landfill.', url: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment/guidance', resources: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment/resources' },
+    chapters: [
+      { title: 'Recycling options for disposing furniture, playground equipment and other school equipment — VSBA, recycling, options, disposing, furniture, playground', url: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment/guidance/recycling-options-disposing-furniture-playground' },
+      { title: 'School accountability and donations — $5,000, CASES21, accountability, donations, finance, manual', url: 'https://www2.education.vic.gov.au/pal/donating-furniture-equipment/guidance/school-accountability-and-donations' }
+    ]
+  },
+  { id: 270, title: 'Drones', category: 'Infrastructure', tags: ['CASA', 'explains', 'drones', 'grounds', 'ensuring', 'compliance', 'legal', 'requirements', 'summary', 'there'], summary: 'This policy explains when drones can be used on school grounds, ensuring compliance with legal requirements.', url: 'https://www2.education.vic.gov.au/pal/drones', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/drones/guidance', resources: 'https://www2.education.vic.gov.au/pal/drones/resources' },
+    chapters: [
+      { title: 'Policy — CASA, explains, drones, grounds, ensuring, compliance', url: 'https://www2.education.vic.gov.au/pal/drones/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/drones/guidance' },
+      { title: 'Resources — CASA, PDF, resources, useful, websites, videos', url: 'https://www2.education.vic.gov.au/pal/drones/resources' }
+    ],
+    resources: [
+      { title: 'Civil Aviation Safety Authority(CASA)External Link', note: 'The Civil Aviation Safety Authority (CASA) External Link has published a variety of useful resources for schools and mem', url: 'https://www.casa.gov.au/' },
+      { title: 'Drone safetyrulesExternal Link', note: 'Drone safety rules External Link', url: 'https://www.casa.gov.au/drones/drone-rules/drone-safety-rules' },
+      { title: 'Drone safety rules – flying for fun onYouTubeExternal Link', note: 'Watch Drone safety rules – flying for fun on YouTube External Link', url: 'https://www.youtube.com/watch?v=-urP2fIJYk8' },
+      { title: 'Drone safety rules – flying for fun (transcript,PDF)External Link', note: 'Drone safety rules – flying for fun (transcript, PDF) External Link', url: 'https://www.casa.gov.au/sites/default/files/2021-03/transcript-drone-safety-rules-recreational-drone-operators.pdf' },
+      { title: 'CASA – Drones atschoolExternal Link', note: 'CASA – Drones at school External Link', url: 'https://www.casa.gov.au/drones/drone-rules/drones-school' },
+      { title: 'CASA-verified drone safetyappsExternal Link', note: 'CASA-verified drone safety apps External Link', url: 'https://www.casa.gov.au/knowyourdrone/drone-safety-apps' },
+      { title: 'myCASAExternal Link', note: 'myCASA External Link', url: 'https://my.casa.gov.au/' },
+      { title: 'OperatoraccreditationExternal Link', note: 'Operator accreditation External Link', url: 'https://www.casa.gov.au/drones/get-your-operator-credentials/operator-accreditation' }
+    ]
+  },
+  { id: 271, title: 'EAL Support and Funding', category: 'Curriculum', tags: ['EAL', 'SRP', 'TESOL', 'victorian', 'curriculum', 'english', 'language', 'mandated', 'government', 'outlines'], summary: 'The Victorian Curriculum F-10 English as an Additional Language (EAL) is the mandated curriculum for EAL students in all Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/eal-support', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/eal-support/guidance', resources: 'https://www2.education.vic.gov.au/pal/eal-support/resources' },
+    chapters: [
+      { title: 'Introduction — EAL, learners, diverse, group, learning, needs', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/introduction' },
+      { title: 'A whole-school approach to EAL programming and provision — EAL, whole, approach, programming, provision, catering', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/whole-school-approach-eal-programming-and-provision' },
+      { title: 'Framework for Improving Student Outcomes (FISO 2.0) – EAL students — FISO, EAL, SSP, AIP, 4 years, framework', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/framework-improving-student-outcomes-eal-students' },
+      { title: 'EAL program documentation — EAL, program, documentation, encouraged, develop, statement', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/eal-program-documentation' },
+      { title: 'Student information required to support EAL learners in school — EAL, CASES21, ST21034, ST21031, ST21905, 7 years', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/student-information-required-support-eal-learners-school' },
+      { title: 'Student learning needs — EAL, learning, needs, learner, cohort, across', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/student-learning-needs' },
+      { title: 'Program decisions — EAL, TESOL, program, decisions, there, many', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/program-decisions' },
+      { title: 'Collaborative planning and teaching — EAL, collaborative, planning, teaching, element, implementation', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/collaborative-planning-and-teaching' },
+      { title: 'The mainstream classroom program — EAL, mainstream, classroom, program, even, teacher', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/mainstream-classroom-prgroam' },
+      { title: 'EAL electives in secondary schools — EAL, electives, secondary, offered, elective, subject', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/eal-electives-secondary-schools' },
+      { title: 'The professional learning needs of staff — EAL, LMERC, professional, learning, needs, early', url: 'https://www2.education.vic.gov.au/pal/eal-support/guidance/professional-learning-needs-staff' }
+    ],
+    resources: [
+      { title: 'The MEA handbook(PDF)External Link', note: 'The MEA handbook (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/eal-mea-handbook-1483' },
+      { title: 'The MEA handbook(DOCX)External Link', note: 'The MEA handbook (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/eal-mea-handbook-1482' },
+      { title: 'Interpreting and Translation Services', note: 'Refer to:', url: 'https://www2.education.vic.gov.au/node/497' },
+      { title: 'A closer look at the Language and LearninginterviewExternal Link', note: 'Government schools may wish to use the A closer look at the Language and Learning interview External Link guide to gathe', url: 'https://fuse.education.vic.gov.au/Resource/LandingPage?ObjectId=14c128d2-8b5f-4117-ad61-ba4d4120fca3&SearchScope=All' },
+      { title: 'Panorama learning page (staff loginrequired)External Link', note: 'For more information about using the Panorama dashboards, please refer to the Panorama learning page (staff login requir', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/TEB/Panorama/Pages/Panorama-Learning-Videos.aspx' },
+      { title: 'EAL Resources DirectorydiagramExternal Link', note: 'EAL Resources Directory diagram External Link can be used by teachers for guidance on the resources available and where', url: 'https://content.sdp.education.vic.gov.au/media/eal-resources-diagram-1175' },
+      { title: 'Victorian Curriculum F–10 EAL – getting to know thecurriculumExternal Link', note: 'Victorian Curriculum F–10 EAL – getting to know the curriculum External Link contains materials to support teachers and', url: 'https://fuse.education.vic.gov.au/?FHHM24' },
+      { title: 'Languages and Multicultural Education Resource Centre(LMERC)External Link', note: 'A range of factual and fictional materials in students’ home languages can be found at the Languages and Multicultural E', url: 'http://www.education.vic.gov.au/school/teachers/support/pages/lmerc.aspx' },
+      { title: 'National CareerInstituteExternal Link', note: 'National Career Institute External Link and Your Career External Link website – provides information and support on care', url: 'https://www.dewr.gov.au/nci' },
+      { title: 'YourCareerExternal Link', note: 'National Career Institute External Link and Your Career External Link website – provides information and support on care', url: 'https://www.yourcareer.gov.au/' },
+      { title: 'myfutureExternal Link', note: 'myfuture External Link website – provides resources for students to explore career pathways and tools to develop self-kn', url: 'https://myfuture.edu.au/' },
+      { title: 'Victorian Tertiary AdmissionsCentreExternal Link', note: 'Victorian Tertiary Admissions Centre External Link – for information on tertiary course prerequisites in Victoria', url: 'https://www.vtac.edu.au/who/meeting-prerequisites.html' }
+    ]
+  },
+  { id: 272, title: 'EAL – Provision for Newly Arrived Students', category: 'Curriculum', tags: ['EAL', 'VNAP', 'SRP', '12 months', '18 months', '6 months', '2 years', 'purpose', 'aware', 'requirement'], summary: 'The purpose of this policy is to ensure schools are aware of the requirement to inform parents or carers of newly arrived students for whom English is an additional language of the intensive English language support available for their children, and how it can be accessed.', url: 'https://www2.education.vic.gov.au/pal/eal-provision', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/eal-provision/guidance', resources: 'https://www2.education.vic.gov.au/pal/eal-provision/resources' },
+    chapters: [
+      { title: 'Policy — EAL, VNAP, SRP, 12 months, purpose, aware', url: 'https://www2.education.vic.gov.au/pal/eal-provision/policy' },
+      { title: 'Guidance — EAL, ELS, ELC, provision, newly, arrived', url: 'https://www2.education.vic.gov.au/pal/eal-provision/guidance' },
+      { title: 'Resources — LMERC, EAL, RPO, resources, arrivals, languages', url: 'https://www2.education.vic.gov.au/pal/eal-provision/resources' }
+    ],
+    resources: [
+      { title: 'lmerc.library@education.vic.gov.au', note: 'For more information contact the EAL regional program officer (RPO) in your region or LMERC:', url: 'mailto:lmerc.library@education.vic.gov.au' },
+      { title: 'No English: Don\'tpanicExternal Link', note: 'No English: Don\'t panic External Link provides information and strategies for primary classroom teachers to support newl', url: 'https://fuse.education.vic.gov.au/Resource/ByPin?Pin=GX5XHW&SearchScope=All' },
+      { title: 'No English 2: Questions andanswersExternal Link', note: 'No English 2: Questions and answers External Link provides answers to some of the questions primary classroom teachers m', url: 'https://fuse.education.vic.gov.au/Resource/ByPin?Pin=XH9ZCR&SearchScope=All' },
+      { title: 'EAL Resources DirectorydiagramExternal Link', note: 'EAL Resources Directory diagram External Link – can be used by teachers for guidance on the resources available and wher', url: 'https://content.sdp.education.vic.gov.au/media/eal-resources-diagram-1175' },
+      { title: 'Curriculum companionresourcesExternal Link', note: 'Curriculum companion resources External Link – support the teaching of the EAL curriculum', url: 'https://www.education.vic.gov.au/school/teachers/support/diversity/eal/companion/Pages/default.aspx' },
+      { title: 'Victorian Curriculum F–10EALExternal Link', note: 'Victorian Curriculum F–10 EAL External Link – getting to know the curriculum – provides additional resources for EAL tea', url: 'https://arc.educationapps.vic.gov.au/learning/resource/03dc35fa-98f0-4619-8b2f-ca14fa3103ec' }
+    ]
+  },
+  { id: 273, title: 'Early Childhood Education and Care Services at Schools', category: 'School Operations', tags: ['ECEC', 'ELV', 'KOSS', 'EYM', 'ECIB', 'supports', 'principals', 'leaders', 'collaboratively', 'early'], summary: 'This policy supports principals and school leaders to work collaboratively with Early Childhood Education and Care (ECEC) services built and funded by the government that are located at or near schools, on government land. This includes Early Learning Victoria (ELV) centres that deliver long day care with an integrated kindergarten program, and Kindergarten on Schools Sites (KOSS) that deliver sessional kindergarten services.', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/resources' },
+    chapters: [
+      { title: 'Building and establishment of the Early Childhood Education and Care service — ECEC, VSBA, KOSS, ELV, VBSA, building', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance/building-and-establishment-of-the-early-childhood-education-and-care-service' },
+      { title: 'Ways of working with the ECEC Service Manager — ECEC, ELV, ways, service, manager, services', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance/ways-of-working-with-the-ecec-service-manager' },
+      { title: 'Enrolment — ECEC, ELV, VSBA, enrolment, enrolments, managed', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance/enrolment' },
+      { title: 'ECEC service session times — ECEC, ELV, service, session, times, provider', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance/ecec-service-session-times' },
+      { title: 'Curriculum and pedagogy — ECEC, VTLM, curriculum, pedagogy, transition, periods', url: 'https://www2.education.vic.gov.au/pal/early-childhood-education-and-care-services-at-schools/guidance/curriculum-and-pedagogy' }
+    ],
+    resources: [
+      { title: 'Early childhood education - information forprofessionalsExternal Link', note: 'The resources below provide an overview of the compliance and policy requirements for early childhood education provider', url: 'https://www.vic.gov.au/early-childhood-education-information-professionals' },
+      { title: 'Best Start Best LifereformsExternal Link', note: 'The resources below provide an overview of the compliance and policy requirements for early childhood education provider', url: 'https://www.vic.gov.au/best-start-best-life-reforms' },
+      { title: 'Enrolling in new government builtECECExternal Link', note: 'Enrolling in new government built ECEC External Link - this fact sheet for schools provides guidance to families interes', url: 'https://content.sdp.education.vic.gov.au/media/enrolling-in-new-government-built-ecec-3368' },
+      { title: 'National QualityFrameworkExternal Link', note: 'ECEC services are regulated under the National Quality Framework External Link .', url: 'https://www.vic.gov.au/national-quality-framework' },
+      { title: 'Quality Assessment and RegulationDivisionExternal Link', note: 'The Department of Education is the Regulatory Authority in Victoria. The Secretary of the department delegates to the Qu', url: 'https://www.vic.gov.au/role-quality-assessment-and-regulation-division' },
+      { title: 'Child Safe Standards in the early childhoodsectorExternal Link', note: 'QARD is also the regulator of Child Safe Standards in the early childhood sector External Link .', url: 'https://www.vic.gov.au/early-childhood-services-child-safe-standards' },
+      { title: 'Australian Children’s Education and Care QualityAuthorityExternal Link', note: 'The department shares responsibility for regulation with the Australian Children’s Education and Care Quality Authority', url: 'https://www.acecqa.gov.au/nqf/national-law-regulations/approved-learning-frameworks' },
+      { title: 'PolicyFrameworkExternal Link', note: 'The Early Years Management (EYM) Policy Framework External Link outlines the partnership approach between EYM organisati', url: 'https://www.education.vic.gov.au/Documents/childhood/providers/edcare/EYMPolicyFramework.pdf' },
+      { title: 'Early Learning AssociationAustraliaExternal Link', note: 'Early Learning Association Australia External Link is the Victorian peak body championing excellence in early learning f', url: 'https://elaa.org.au/' },
+      { title: 'kindergarten fundingguideExternal Link', note: 'Victorian Kindergarten funding eligibility criteria and accountability in receiving funding is outlined in the departmen', url: 'https://www.vic.gov.au/kindergarten-funding-guide' },
+      { title: 'Types of Careers in the Early ChildhoodSectorExternal Link', note: 'The roles and responsibilities of the Early Years Manager and Children’s Services Manager can be viewed on the Types of', url: 'https://www.vic.gov.au/types-careers-early-childhood-sector' },
+      { title: 'Early Childhood ImprovementBranchExternal Link', note: 'Contact your local Early Childhood Improvement Branch External Link or Senior Education Improvement Leader External Link', url: 'https://www.vic.gov.au/contact-early-childhood-office' },
+      { title: 'Senior Education ImprovementLeaderExternal Link', note: 'Contact your local Early Childhood Improvement Branch External Link or Senior Education Improvement Leader External Link', url: 'https://www.vic.gov.au/office-locations-department-education' }
+    ]
+  },
+  { id: 274, title: 'Early Education Programs', category: 'School Operations', tags: ['NDIS', 'CASES21', '2 years', '8 months', '4 years', 'sets', 'requirements', 'operating', 'approved', 'early'], summary: 'This policy sets out the requirements for schools operating approved early education programs.', url: 'https://www2.education.vic.gov.au/pal/early-education-programs', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/early-education-programs/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/early-education-programs/guidance', resources: 'https://www2.education.vic.gov.au/pal/early-education-programs/resources' },
+    chapters: [
+      { title: 'Policy — NDIS, 2 years, 8 months, 4 years, sets, requirements', url: 'https://www2.education.vic.gov.au/pal/early-education-programs/policy' },
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/early-education-programs/guidance' },
+      { title: 'Resources — resources, currently, there', url: 'https://www2.education.vic.gov.au/pal/early-education-programs/resources' }
+    ]
+  },
+  { id: 275, title: 'Eating and Drinking Supervision', category: 'Students', tags: ['DOCX', 'purpose', 'offer', 'level', 'need', 'supervision', 'eating', 'drinking', 'safety', 'wellbeing'], summary: 'The purpose of this policy is to ensure schools offer the appropriate level of support for students who need supervision when eating or drinking for their safety and wellbeing at school.', url: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision/guidance', resources: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, purpose, offer, level, need, supervision', url: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision/guidance' },
+      { title: 'Resources — DOCX, resources, templates, forms, health, plan', url: 'https://www2.education.vic.gov.au/pal/eating-drinking-supervision/resources' }
+    ],
+    resources: [
+      { title: 'Student Health Support Plan(DOCX)External Link', note: 'Student Health Support Plan (DOCX) External Link – template for schools planning medical or health-related support at sc', url: 'https://content.sdp.education.vic.gov.au/media/student-health-support-plan-2478' },
+      { title: 'Functional Needs Medical Advice Form(DOCX)External Link', note: 'Functional Needs Medical Advice Form (DOCX) External Link – may be used by the treating health team to describe a studen', url: 'https://content.sdp.education.vic.gov.au/media/functional-needs-medical-advice-form-3476' }
+    ]
+  },
+  { id: 276, title: 'Education Support Staff Working in Classroom Support Roles', category: 'Curriculum', tags: ['KIS', 'FISO', 'VGSA', 'SSP', 'AIP', 'purpose', 'principals', 'leaders', 'make', 'decisions'], summary: 'The purpose of this policy is to support principals and school leaders to make decisions about the effective use of education support staff in the classroom.', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/overview', guidance: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance', resources: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/resources' },
+    chapters: [
+      { title: 'Overview — FISO, KIS, SSP, SPOT, purpose, help', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/overview' },
+      { title: 'How to use key improvement strategies — KIS, AIP, FISO, SSP, improvement, strategies', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/how-use-key-improvement-strategies' },
+      { title: 'Key improvement strategy 1: Roles, responsibilities and teamwork — FISO, improvement, strategy, roles, responsibilities, teamwork', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/key-improvement-strategy-1-roles-responsibilities-and' },
+      { title: 'Key improvement strategy 2: Professional learning and development — PDP, SSS, improvement, strategy, professional, learning', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/key-improvement-strategy-2-professional-learning-and' },
+      { title: 'Key improvement strategy 3: Collaboration and consultation — SSS, SSG, improvement, strategy, collaboration, consultation', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/key-improvement-strategy-3-collaboration-and-consultation' },
+      { title: 'Key improvement strategy 4: Student-centred practice — VTLM, improvement, strategy, centred, practice, guidance', url: 'https://www2.education.vic.gov.au/pal/es-staff-classroom-support/guidance/key-improvement-strategy-4-student-centred-practice' }
+    ],
+    resources: [
+      { title: 'ES Staff working in Classroom Support Roles Guidelines KIS and Actions Audit Tool(DOCX)External Link', note: 'ES Staff working in Classroom Support Roles Guidelines KIS and Actions Audit Tool (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/es-guidelines-kis-actions-audit-tool-1498' },
+      { title: 'Key improvement strategies (KIS) and actions quality practice exemplars(DOCX)External Link', note: 'Key improvement strategies (KIS) and actions quality practice exemplars (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/es-kis-actions-quality-practice-exemplars-1499' },
+      { title: 'ES Staff working in Classroom Support Roles Guidelines Key Research Findings(DOCX)External Link', note: 'ES Staff working in Classroom Support Roles Guidelines Key Research Findings (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/es-guidelines-key-research-findings-1497' },
+      { title: 'ES Staff working in Classroom Support Roles Guidance Note — remote and flexible learning(DOCX)External Link', note: 'ES Staff working in Classroom Support Roles Guidance Note — remote and flexible learning (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/es-guidance-note-remote-flexible-learning-1496' }
+    ]
+  },
+  { id: 277, title: 'eduMail (employee email)', category: 'IT & Privacy', tags: ['ICT', 'SSPR', '14 days', 'edumail', 'education', 'mail', 'external', 'link', 'employee', 'number'], summary: 'Log in to eduMail or education mail External Link', url: 'https://www2.education.vic.gov.au/pal/edumail', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/edumail/overview', resources: 'https://www2.education.vic.gov.au/pal/edumail/resources' },
+    chapters: [
+      { title: 'Advice — ICT, edumail, education, mail, external, link', url: 'https://www2.education.vic.gov.au/pal/edumail/advice' },
+      { title: 'Guidance — 2 hours, using, edumail, account, there, functions', url: 'https://www2.education.vic.gov.au/pal/edumail/using-your-edumail-account' },
+      { title: 'Resources — PDF, SPEA, resources, edumail, user, visit', url: 'https://www2.education.vic.gov.au/pal/edumail/resources' }
+    ],
+    resources: [
+      { title: 'eduMail intranetpageExternal Link', note: 'Staff can visit the eduMail intranet page External Link (staff login required) for a range of supporting resources and u', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/default.aspx' },
+      { title: 'eduMailExternal Link', note: 'eduMail External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/introduction.aspx' },
+      { title: 'eduMail – End User Quarantine(PDF)External Link', note: 'eduMail – End User Quarantine (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20-%20End%20User%20Quarantine%20%20FAQ.pdf' },
+      { title: 'OutlookExternal Link', note: 'Outlook External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/outlook.aspx' },
+      { title: 'Outlook forMacExternal Link', note: 'Outlook for Mac External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/outlookformac.aspx' },
+      { title: 'Outlook on thewebExternal Link', note: 'Outlook on the web External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/outlookontheweb.aspx' },
+      { title: 'MobiledevicesExternal Link', note: 'Mobile devices External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/mobiledevices.aspx' },
+      { title: 'PasswordsExternal Link', note: 'Passwords External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/passwords.aspx' },
+      { title: 'EmailsecurityExternal Link', note: 'Email security External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/edumailSecurity.aspx' },
+      { title: 'Schools andprincipalsExternal Link', note: 'Schools and principals External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/schoolprin.aspx' },
+      { title: 'School CouncilPresidentExternal Link', note: 'School Council President External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/scp.aspx' },
+      { title: 'Special Purpose eduMail account(SPEA)External Link', note: 'Special Purpose eduMail account (SPEA) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/Pages/spea.aspx' },
+      { title: 'eduMail quick guides and quick referenceguidesExternal Link', note: 'A range of eduMail quick guides and quick reference guides External Link (staff login required) are also available on th', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/Forms/AllItems.aspx' },
+      { title: 'eduMail – ReportingSpamExternal Link', note: 'eduMail – Reporting Spam External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20-%20Reporting%20Spam.pdf' },
+      { title: 'eduMail – Troubleshooting AccountLockoutExternal Link', note: 'eduMail – Troubleshooting Account Lockout External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20-%20Troubleshooting%20Account%20Lockout.pdf' },
+      { title: 'eduMail SupportedClientsExternal Link', note: 'eduMail Supported Clients External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20Supported%20Clients.pdf' },
+      { title: 'SPEA ManagementOwner GuideExternal Link', note: 'SPEA Management Owner Guide External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/SPEA%20Management%20Owner%20Guide.pdf' },
+      { title: 'eduMail Mobile Devices – Quick ReferenceGuideExternal Link', note: 'eduMail Mobile Devices – Quick Reference Guide External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20Mobile%20Devices%20-%20Quick%20Reference%20Guide.pdf' },
+      { title: 'eduMail Outlook 2016 for Mac – Quick ReferenceGuideExternal Link', note: 'eduMail Outlook 2016 for Mac – Quick Reference Guide External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/edumail/QuickGuides/eduMail%20Outlook%202016%20for%20Mac%20-%20Quick%20Reference%20Guide.pdf' },
+      { title: 'eduMail Outlook 2016 for Windows – Quick ReferenceGuideExternal Link', note: 'eduMail Outlook 2016 for Windows – Quick Reference Guide External Link (staff login required)', url: 'https://eduvic.sharepoint.com/sites/Technology/Shared%20Documents/eduMail%20Outlook%202016%20for%20Windows%20-%20Quick%20Reference%20Guide.pdf' }
+    ]
+  },
+  { id: 278, title: 'eduPay and eduPay Help', category: 'HR - Pay', tags: ['ICT', 'ESS', 'edupay', 'external', 'link', 'email', 'address', 'password', 'payroll', 'system'], summary: 'Log in to eduPay External Link (Department email address and email password is required).', url: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/resources' },
+    chapters: [
+      { title: 'Overview — ICT, edupay, external, link, email, address', url: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/overview' },
+      { title: 'Policy and Guidelines — there, guidance, resources', url: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/policy-and-guidelines' },
+      { title: 'Resources — ESS, PDP, MSS, resources, procedures, forms', url: 'https://www2.education.vic.gov.au/pal/edupay-and-edupay-help/resources' }
+    ],
+    resources: [
+      { title: 'Forms — Teaching Service and HR Administration', note: '— for use with eduPay where ESS cannot be used', url: 'https://www2.education.vic.gov.au/pal/forms-teaching-service-and-hr-administration/resources' },
+      { title: 'Teacher classemployeesExternal Link', note: 'Teacher class employees External Link', url: 'https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees' },
+      { title: 'Principal classemployeesExternal Link', note: 'Principal class employees External Link', url: 'https://www2.education.vic.gov.au/pal/performance-and-development-principal-class' },
+      { title: 'Education support classemployeesExternal Link', note: 'Education support class employees External Link', url: 'https://www2.education.vic.gov.au/pal/performance-development-education-support' },
+      { title: 'Navigating PDP ineduPayExternal Link', note: 'Navigating PDP in eduPay External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/HR/Pages/managerpdp.aspx' },
+      { title: 'online PDP support andresourcesExternal Link', note: 'additional help — online PDP support and resources External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/Schools/SchoolStaffPerformanceDev/Pages/OnlinePDP.aspx' },
+      { title: 'school.leadership@education.vic.gov.au', note: 'for policy related enquiries — email', url: 'mailto:school.leadership@edumail.vic.gov.au' },
+      { title: '1800 641 943', note: 'for system related enquiries — phone .', url: 'tel:1800641943' },
+      { title: 'Employee Self Service(ESS) helpExternal Link', note: 'Employee Self Service (ESS) help External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/eduPay-user-guides.aspx' },
+      { title: 'Manager Self Service(MSS) helpExternal Link', note: 'Manager Self Service (MSS) help External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-self-service-guides.aspx' },
+      { title: 'How to run a report ineduPayExternal Link', note: 'How to run a report in eduPay External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-how-to-run-a-report.aspx' },
+      { title: 'Types of eduPayreportsExternal Link', note: 'Types of eduPay reports External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-types-of-eduPay-reports.aspx' },
+      { title: 'Assign access to eduPay(schools)External Link', note: 'Assign access to eduPay (schools) External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-assign-access-to-eduPay.aspx' },
+      { title: 'Access to eduPay(schools)External Link', note: 'Access to eduPay (schools) External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-access-to-eduPay.aspx' },
+      { title: 'PayrollvalidationExternal Link', note: 'Payroll validation External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/HR-Admin-validate-payroll-(schools).aspx' },
+      { title: 'PayrollcertificationExternal Link', note: 'Payroll certification External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-certify-payroll.aspx' },
+      { title: 'ManagedelegationsExternal Link', note: 'Manage delegations External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/Manager-manage-delegations.aspx' },
+      { title: 'HR administrator eduPay user guides andchecklistsExternal Link', note: 'HR administrator eduPay user guides and checklists External Link', url: 'https://eduvic.sharepoint.com/sites/eduPay/SitePages/HR-admin-guides.aspx' },
+      { title: 'School local payrollresourcesExternal Link', note: 'School local payroll resources External Link (login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/HR/Pages/slp.aspx' },
+      { title: 'clearing browser cache resolving useability issues(Word)External Link', note: 'clearing browser cache resolving useability issues (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/media/clearing-cache-following-upgrade-1588' }
+    ]
+  },
+  { id: 279, title: 'Elections – Schools as Voting Centres and Polling Places', category: 'School Operations', tags: ['$400', 'VEC', 'AEC', '7 days', '3 weeks', 'outlines', 'obligations', 'relating', 'requests', 'premises'], summary: 'This policy outlines school obligations relating to requests to use school premises as voting centres and polling places for state and federal elections (including by-elections) and a referendum.', url: 'https://www2.education.vic.gov.au/pal/polling-places', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/polling-places/overview', guidance: 'https://www2.education.vic.gov.au/pal/polling-places/guidance', resources: 'https://www2.education.vic.gov.au/pal/polling-places/resources' },
+    chapters: [
+      { title: 'Policy — VEC, AEC, 7 days, outlines, obligations, relating', url: 'https://www2.education.vic.gov.au/pal/polling-places/policy' },
+      { title: 'Guidance — guidance, there, resources', url: 'https://www2.education.vic.gov.au/pal/polling-places/guidance' },
+      { title: 'Resources — DOCX, resources, licence, template, being, polling', url: 'https://www2.education.vic.gov.au/pal/polling-places/resources' }
+    ],
+    resources: [
+      { title: 'Licence template(DOCX)External Link', note: 'Licence template (DOCX) External Link (staff login required) for the Australian Electoral Commission', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Licence%20-%20Polling%20Place.docx?Web=1' },
+      { title: 'legal.services@education.vic.gov.au', note: 'For advice on licensing, contact the Legal Division at or 03 9637 3146 .', url: 'mailto:legal.services@edumail.vic.gov.au' },
+      { title: '03 9637 3146', note: 'For advice on licensing, contact the Legal Division at legal.services@education.vic.gov.au or .', url: 'tel:0396373146' }
+    ]
+  },
+  { id: 280, title: 'Elections — Employees Contesting Parliamentary Elections', category: 'HR - Pay (?ambig)', tags: ['elections', 'contesting', 'parliamentary', 'superannuation', 'legislation', 'constitution', 'employment', 'conditions'], summary: 'Policy and guidance on elections — employees contesting parliamentary elections for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary/resources' },
+    chapters: [
+      { title: 'contesting federal elections — contesting, federal, elections', url: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary' },
+      { title: 'contesting state elections — contesting, state, elections', url: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary' },
+      { title: 'reinstatement on ceasing to be a Member of Parliament — reinstatement, ceasing, member', url: 'https://www2.education.vic.gov.au/pal/elections-employees-contesting-parliamentary' }
+    ],
+    resources: [
+      { title: 'Constitution Act 1975(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975' },
+      { title: 'Parliamentary Salaries, Allowance and Superannuation Act 1968(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/parliamentary-salaries-allowances-and-superannuation-act-1968' },
+      { title: 'Public Administration Act 2004(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/public-administration-act-2004' },
+      { title: 'Commonwealth of Australia Constitution Act(Cth)External Link', url: 'https://www.legislation.gov.au/Details/C2013Q00005' },
+      { title: 'Parliamentary Contributory Superannuation Act 1948(Cth)External Link', url: 'https://www.legislation.gov.au/Details/C2020C00052' },
+      { title: 'Parliamentary Superannuation Act 2004(Cth)External Link', url: 'https://www.legislation.gov.au/Details/C2018C00009' }
+    ]
+  },
+  { id: 281, title: 'Employment Limitation', category: 'HR - Recruitment', tags: ['employment', 'limitation', 'person', 'conduct', 'part', 'reference', 'recruitment', 'appointment'], summary: 'This policy provides guidelines for schools on employment limitations.', url: 'https://www2.education.vic.gov.au/pal/employment-limitation', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/employment-limitation/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/employment-limitation/guidance', resources: 'https://www2.education.vic.gov.au/pal/employment-limitation/resources' },
+    chapters: [
+      { title: 'Policy — employment, limitations', url: 'https://www2.education.vic.gov.au/pal/employment-limitation' },
+      { title: 'Summary — summary, employment, limitation, person, casual, employee', url: 'https://www2.education.vic.gov.au/pal/employment-limitation' },
+      { title: 'Details — details, employment, limitation, obligation, maintenance, proper', url: 'https://www2.education.vic.gov.au/pal/employment-limitation' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Public Administration Act 2004(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/public-administration-act-2004' },
+      { title: 'Child Wellbeing and Safety Act 2005(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/child-wellbeing-and-safety-act-2005' },
+      { title: 'Freedom of Information Act 1982(Cth)External Link', url: 'https://www.legislation.gov.au/C2004A02562/latest/versions' },
+      { title: 'Independent Broad-based Anti-corruption Commission Act2011External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/independent-broad-based-anti-corruption-commission-act-2011' },
+      { title: 'Public Interest Disclosure Act 2012(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/public-interest-disclosures-act-2012' }
+    ]
+  },
+  { id: 282, title: 'Employment — Legal Basis', category: 'HR - Recruitment', tags: ['employment', 'legal', 'basis', 'public', 'legislation', 'training', 'recruitment', 'appointment'], summary: 'Persons are employed by the Department as teaching service employees under Part 2.4 of theEducation and Training Reform Act2006External Linkor Victorian Public Service (VPS) employees under Part 3 Division 4 of the Public Administration Act 2004.', url: 'https://www2.education.vic.gov.au/pal/employment-legal-basis', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/employment-legal-basis/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/employment-legal-basis/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/employment-legal-basis/resources' },
+    chapters: [
+      { title: 'Accessing the latest versions of Victorian legislation — accessing, latest, versions, legislation, view, date', url: 'https://www2.education.vic.gov.au/pal/employment-legal-basis' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act2006External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'VictorianLegislationExternal Link', url: 'https://www.legislation.vic.gov.au/' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' }
+    ]
+  },
+  { id: 283, title: 'Employment-Based Degrees: Teach Today and Teach Tomorrow Programs', category: 'HR - Recruitment', tags: ['employment', 'degrees', 'teach', 'today', 'tomorrow', 'programs', 'teaching', 'participating', 'recruitment', 'appointment'], summary: 'The Victorian Government is investing in employment-based teaching degrees to fast-track student teachers into classrooms.', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs/resources' },
+    chapters: [
+      { title: 'Benefits for participating schools — benefits, participating, priority, subject, hosting, enrolled', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs' },
+      { title: 'Priority subject areas include: — priority, subject, areas, participants, mentor, science', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs' },
+      { title: 'Case study — case, study, view, teach, future, kurnai', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs' },
+      { title: 'How to express your interest as a host school — express, interest, host, create, help, click', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs' },
+      { title: 'Related topics — topics, recruitment, teaching, careers, forms, administration', url: 'https://www2.education.vic.gov.au/pal/teach-today-teach-tomorrow-programs' }
+    ],
+    resources: [
+      { title: 'Undergraduate employment-based teaching degrees |vic.gov.auExternal Link', url: 'https://www.vic.gov.au/undergraduate-employment-based-teaching-degrees' },
+      { title: 'Postgraduate employment-based teaching degrees |vic.gov.auExternal Link', url: 'https://www.vic.gov.au/postgraduate-employment-based-teaching-degrees' },
+      { title: 'employment-based teaching degreeswebsiteExternal Link', url: 'https://www.vic.gov.au/employment-based-teaching-degrees' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' }
+    ]
+  },
+  { id: 284, title: 'Enterprise Bargaining', category: 'HR - Pay (?ambig)', tags: ['enterprise', 'bargaining', 'action', 'industrial', 'protected', 'ballot', 'members', 'employment', 'conditions'], summary: 'The Department of Education is in the process of bargaining with representatives of employees of the government teaching service for an enterprise agreement to replace the Victorian Government Schools Agreement 2022.', url: 'https://www2.education.vic.gov.au/pal/enterprise-bargaining', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/enterprise-bargaining/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/enterprise-bargaining/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/enterprise-bargaining/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 285, title: 'Environmental Hygiene', category: 'OHS', tags: ['environmental', 'hygiene', 'exposure', 'safety', 'risk', 'management', 'ventilation', 'blood', 'health', 'hazard'], summary: 'There is no longer a policy for this topic. For more information, refer to the related policies listed below.', url: 'https://www2.education.vic.gov.au/pal/environmental-hygiene', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/environmental-hygiene/policy-and-guidelines', procedure: 'https://www2.education.vic.gov.au/pal/environmental-hygiene', resources: 'https://www2.education.vic.gov.au/pal/environmental-hygiene/resources' },
+    chapters: [
+      { title: 'Environmental Hygiene Policy — environmental, hygiene, there, longer, topic, refer', url: 'https://www2.education.vic.gov.au/pal/environmental-hygiene' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 286, title: 'Environmental Sustainability in Schools', category: 'Infrastructure', tags: ['environmental', 'sustainability', 'climate', 'change', 'plan', 'infrastructure', 'facilities'], summary: 'This policy outlines requirements, advice and supports for schools in relation to environmental sustainability and climate change. This policy contains 2 mandatory requirements outlined below.', url: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools/resources' },
+    chapters: [
+      { title: 'Policy — outlines, supports, relation, environmental, sustainability, climate', url: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools' },
+      { title: 'Detail — detail, environmental, action, operations, teaching', url: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools' },
+      { title: 'Mandatory requirements — mandatory, balloon, releases, balloons, elements, follow', url: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools' },
+      { title: 'Definitions — definitions, climate, change, human, systems, mitigation', url: 'https://www2.education.vic.gov.au/pal/environmental-sustainability-schools' }
+    ],
+    resources: [
+      { title: 'ResourceSmart SchoolsprogramExternal Link', url: 'https://www.sustainability.vic.gov.au/energy-efficiency-and-reducing-emissions/resourcesmart-schools' },
+      { title: 'Balloon releases and thelawExternal Link', url: 'https://www.vic.gov.au/balloon-releases-and-law-victoria' },
+      { title: 'Climate Change Act2017External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/climate-change-act-2017' },
+      { title: 'Environmental Protection Act2017External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/environment-protection-act-2017' },
+      { title: 'Environment Protection Amendment (Banning Single-Use Plastic Items) Regulations2022External Link', url: 'https://www.legislation.vic.gov.au/as-made/statutory-rules/environment-protection-amendment-banning-single-use-plastic-items' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' }
+    ]
+  },
+  { id: 287, title: 'Epilepsy and Seizures', category: 'Students', tags: ['epilepsy', 'seizures', 'student', 'seizure', 'medication', 'emergency', 'wellbeing', 'welfare'], summary: 'The purpose of this policy is to ensure that schools support students diagnosed with epilepsy and students having a non-epileptic seizure event appropriately.', url: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures/guidance', resources: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures/resources' },
+    chapters: [
+      { title: 'Policy — purpose, diagnosed, epilepsy, having, epileptic, seizure', url: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures' },
+      { title: 'Summary — summary, medication, student, epilepsy', url: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures' },
+      { title: 'Details — details, epilepsy, disability, discrimination', url: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures' },
+      { title: 'Definitions — definitions, seizures, brain, epileptic, epilepsy, electrical', url: 'https://www2.education.vic.gov.au/pal/epilepsy-and-seizures' }
+    ],
+    resources: [
+      { title: 'Epilepsy ManagementPlanExternal Link', url: 'http://epilepsyfoundation.org.au/understanding-epilepsy/epilepsy-and-seizure-management-tools/epilepsy-plans/' },
+      { title: 'Emergency Medication ManagementPlanExternal Link', url: 'http://epilepsyfoundation.org.au/understanding-epilepsy/epilepsy-and-seizure-management-tools/epilepsy-plans/' },
+      { title: 'epilepsy managementplanExternal Link', url: 'http://epilepsyfoundation.org.au/understanding-epilepsy/epilepsy-and-seizure-management-tools/epilepsy-plans/' },
+      { title: 'Equal Opportunity Act 2010(Vic)External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010' },
+      { title: 'Disability Discrimination Act 1992(Cth),External Link', url: 'https://www.legislation.gov.au/Details/C2018C00125' },
+      { title: 'seizuretypesExternal Link', url: 'https://epilepsyfoundation.org.au/understanding-epilepsy/seizures/types-of-seizures/' }
+    ]
+  },
+  { id: 288, title: 'Equipment Isolation and Tag Out', category: 'OHS', tags: ['equipment', 'isolation', 'step', 'followed', 'sets', 'practical', 'instructions', 'implementing', 'safety', 'health'], summary: 'The Equipment Isolation and Tag Out Procedure must be followed and sets out the practical step-by-step instructions for implementing the Equipment Isolation and Tag Out Policy.', url: 'https://www2.education.vic.gov.au/pal/equipment-isolation', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/equipment-isolation/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/equipment-isolation/guidance', resources: 'https://www2.education.vic.gov.au/pal/equipment-isolation/resources' },
+    chapters: [
+      { title: 'Equipment Isolation and Tag Out Procedure — equipment, isolation, step, followed, sets, practical', url: 'https://www2.education.vic.gov.au/pal/equipment-isolation' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 289, title: 'Ergonomics and Workspace', category: 'OHS', tags: ['ergonomics', 'workspace', 'workstation', 'checklist', 'worksafe', 'ergonomic', 'safety', 'health'], summary: 'Policy and guidance on ergonomics and workspace for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/ergonomics', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/ergonomics/policy-and-guidelines', procedure: 'https://www2.education.vic.gov.au/pal/ergonomics', resources: 'https://www2.education.vic.gov.au/pal/ergonomics/resources' },
+    chapters: [
+      { title: 'Templates and forms — templates, forms, xlsx, activities', url: 'https://www2.education.vic.gov.au/pal/ergonomics' },
+      { title: 'Useful websites — useful, websites, worksafe, comcare', url: 'https://www2.education.vic.gov.au/pal/ergonomics' }
+    ],
+    resources: [
+      { title: 'WorkSafe Victoria Compliance code: Hazardous manual handling(PDF)External Link', url: 'https://content.api.worksafe.vic.gov.au/sites/default/files/2020-02/ISBN-Compliance-code-hazardous-manual-handling-2019-12.pdf' },
+      { title: 'WorkSafe VictoriaOfficewiseExternal Link', url: 'https://www.worksafe.vic.gov.au/resources/officewise-guide-health-and-safety-office-handbook' },
+      { title: 'Comcare: Workstation set-up guide(PDF)External Link', url: 'https://www.comcare.gov.au/about/forms-publications/documents/publications/safety/setting-up-your-workstation-factsheet.pdf' },
+      { title: 'WorkSafe Victoria Resources: How WorkSafe applies the law in relation to ReasonablyPracticableExternal Link', url: 'https://www.worksafe.vic.gov.au/resources/how-worksafe-applies-law-relation-reasonably-practicable' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' }
+    ]
+  },
+  { id: 290, title: 'Excess Procedures — Teaching Service', category: 'HR - Pay (?ambig)', tags: ['excess', 'teaching', 'employment', 'legislation', 'industrial', 'situation', 'conditions'], summary: 'An excess staff situation arises where a school has a greater number of employees than is necessary as identified in the school\'s preferred staffing profile.', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service/resources' },
+    chapters: [
+      { title: 'consultation — consultation', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'identification — identification', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'retraining or career transition support — retraining, career, transition', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'gainful employment — gainful, employment', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'redeployment — redeployment', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'retrenchment — retrenchment', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' },
+      { title: 'grievances — grievances', url: 'https://www2.education.vic.gov.au/pal/excess-procedures-teaching-service' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 291, title: 'Family Violence Support', category: 'Students', tags: ['family', 'violence', 'maram', 'nominated', 'contains', 'chapters', 'framework', 'student', 'wellbeing'], summary: 'Policy and guidance on family violence support for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/family-violence-support', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/family-violence-support/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/family-violence-support/guidance', resources: 'https://www2.education.vic.gov.au/pal/family-violence-support/resources' },
+    chapters: [
+      { title: 'Family violence and the MARAM framework — family, violence, maram', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'School leader responsibilities — leader', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'All staff responsibilities', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'MARAM nominated staff responsibilities — maram, nominated', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'Identifying family violence for all staff — identifying, family, violence', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'Screening for family violence for MARAM nominated staff — screening, family, violence', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'Safety planning for MARAM nominated staff — safety, planning, maram', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'Providing ongoing support — providing, ongoing', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' },
+      { title: 'Record keeping — record, keeping', url: 'https://www2.education.vic.gov.au/pal/family-violence-support' }
+    ],
+    resources: [
+      { title: 'Quick exit', url: 'https://www.google.com' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 292, title: 'Fences', category: 'Infrastructure', tags: ['fences', 'there', 'topic', 'infrastructure', 'facilities', 'building'], summary: 'Policy and guidance on fences for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/fences', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/fences/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/fences/guidance', resources: 'https://www2.education.vic.gov.au/pal/fences/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 293, title: 'Financial Help for Families', category: 'School Operations', tags: ['financial', 'help', 'families', 'hardship', 'family', 'parent', 'sensitively', 'operations', 'administration'], summary: 'Schools must be proactive in sensitively identifying families who may be reluctant to access arrangements and refer them to their nominated parent payments contact to determine if support is needed.', url: 'https://www2.education.vic.gov.au/pal/financial-help-families', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/financial-help-families/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/financial-help-families/guidance', resources: 'https://www2.education.vic.gov.au/pal/financial-help-families/resources' },
+    chapters: [
+      { title: 'Recognising financial hardship — recognising, financial, hardship, families, parent, reluctant', url: 'https://www2.education.vic.gov.au/pal/financial-help-families' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 294, title: 'Financial Literacy', category: 'Curriculum', tags: ['financial', 'literacy', 'budgeting', 'planning', 'skills', 'understand', 'oecd', 'knowledge', 'curriculum', 'learning'], summary: 'Financial literacyis defined by the world’s Organisation for Economic Co-operation and Development (OECD) as a combination of financial awareness, knowledge, skills, attitudes and behaviours necessary to make sound financial decisions and achieve individual financial well-being.', url: 'https://www2.education.vic.gov.au/pal/financial-literacy', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/financial-literacy/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/financial-literacy/guidance', resources: 'https://www2.education.vic.gov.au/pal/financial-literacy/resources' },
+    chapters: [
+      { title: 'What is financial literacy? — financial, literacy, skills, curriculum, defined, world', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'References — references, oecd, website, accessed', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'Why is financial literacy education in schools important? — financial, literacy, important, understand, financially, individuals', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'References — references, financial, website, accessed', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'Where is financial literacy taught in the Victorian Curriculum? — financial, literacy, taught, curriculum, consumer, strand', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'Considerations for teaching financial literacy — considerations, teaching, financial, learning, literacy, economics', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' },
+      { title: 'References — references, financial, literacy, mathematics', url: 'https://www2.education.vic.gov.au/pal/financial-literacy' }
+    ],
+    resources: [
+      { title: 'Recommendation of the Council on FinancialLiteracyExternal Link', url: 'https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0461' },
+      { title: 'Victorian Curriculum2.0External Link', url: 'https://f10.vcaa.vic.edu.au/' },
+      { title: 'National financial capability strategy 2022–2032(PDF)External Link', url: 'https://files.moneysmart.gov.au/media/vyfbpg4x/national-financial-capability-strategy-2022.pdf' },
+      { title: 'Money and mentalhealthExternal Link', url: 'https://www.beyondblue.org.au/mental-health/financial-wellbeing' },
+      { title: 'Financial literacy of young Australians: What they know, what they don\'t know, and what we can do tohelpExternal Link', url: 'https://financialbasics.org.au/financial-literacy-of-young-australians-march-2022/' },
+      { title: 'Generation Z: Life at23External Link', url: 'https://lsay.edu.au/publications/search-for-lsay-publications/generation-z-life-at-23' }
+    ]
+  },
+  { id: 295, title: 'Fitness for Duty', category: 'HR - Pay (?ambig)', tags: ['fitness', 'duty', 'employee', 'medical', 'manager', 'assessment', 'practitioner', 'refer', 'employment', 'conditions'], summary: 'Where a manager has concerns about an employee’s fitness for duty, ability to fulfil the duties reasonably required of them, or capacity to perform the inherent requirements of their role, the manager may require the employee to undergo a medical assessment by a medical practitioner.', url: 'https://www2.education.vic.gov.au/pal/fitness-duty', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/fitness-duty/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/fitness-duty/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/fitness-duty/resources' },
+    chapters: [
+      { title: 'Medical assessment — medical, assessment, manager, practitioner, employee, referral', url: 'https://www2.education.vic.gov.au/pal/fitness-duty' },
+      { title: 'Mental or physical incapacity — mental, physical, incapacity, teaching, employee, incapable', url: 'https://www2.education.vic.gov.au/pal/fitness-duty' }
+    ],
+    resources: [
+      { title: 'Conduct andIntegrityExternal Link', url: 'https://eduvic.sharepoint.com/SitePages/Conduct-and-Integrity-Division.aspx' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 296, title: 'Flags and Patriotic Ceremonies', category: 'School Operations', tags: ['flags', 'patriotic', 'ceremonies', 'contains', 'chapters', 'flagpoles', 'flying', 'operations', 'administration'], summary: 'Policy and guidance on flags and patriotic ceremonies for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies/guidance', resources: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies/resources' },
+    chapters: [
+      { title: 'Flagpoles — flagpoles', url: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies' },
+      { title: 'Flying flags — flying, flags', url: 'https://www2.education.vic.gov.au/pal/flag-flying-and-patriotic-ceremonies' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 297, title: 'Flexible Learning Options (FLOs)', category: 'Curriculum', tags: ['flexible', 'learning', 'options', 'flos', 'mandatory', 'student', 'placement', 'curriculum', 'teaching'], summary: 'The Flexible Learning Options Mandatory Guidelines and Procedures (Guidance and Procedures) specify expectations regarding the operations of existing Flexible Learning Options (FLOs) and their interactions with schools.', url: 'https://www2.education.vic.gov.au/pal/flexible-learning-options', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/flexible-learning-options/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/flexible-learning-options/guidance', resources: 'https://www2.education.vic.gov.au/pal/flexible-learning-options/resources' },
+    chapters: [
+      { title: 'Flexible Learning Options — Mandatory Guidelines and Procedures — flexible, learning, options, student, placement', url: 'https://www2.education.vic.gov.au/pal/flexible-learning-options' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 298, title: 'Flexible Work for Principals', category: 'HR - Pay (?ambig)', tags: ['flexible', 'principals', 'arrangements', 'case', 'teaching', 'supports', 'employment', 'conditions'], summary: 'The Department of Education (the department) supports flexible work options for principals and recognises the importance of flexible work arrangements in maintaining a diverse, adaptive and high-performing workforce.', url: 'https://www2.education.vic.gov.au/pal/flexible-work-principals', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/flexible-work-principals/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/flexible-work-principals/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/flexible-work-principals/resources' },
+    chapters: [
+      { title: 'Flexible Work — flexible', url: 'https://www2.education.vic.gov.au/pal/flexible-work-principals' },
+      { title: 'Higher Duties – Teaching Service — higher, teaching', url: 'https://www2.education.vic.gov.au/pal/flexible-work-principals' },
+      { title: 'Part-time Employment – Teaching Service — part, employment, teaching', url: 'https://www2.education.vic.gov.au/pal/flexible-work-principals' },
+      { title: 'Principal Selection — selection', url: 'https://www2.education.vic.gov.au/pal/flexible-work-principals' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 299, title: 'Food Handling in Canteens', category: 'School Operations', tags: ['food', 'handling', 'canteens', 'safe', 'summarises', 'recommended', 'practices', 'operations', 'administration'], summary: 'This guidance summarises recommended practices that will assist schools in complying with food safety and food handling regulations.', url: 'https://www2.education.vic.gov.au/pal/food-handling', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/food-handling/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/food-handling/guidance', resources: 'https://www2.education.vic.gov.au/pal/food-handling/resources' },
+    chapters: [
+      { title: 'Safe Food Handling Guidance — safe, food, handling, summarises, recommended', url: 'https://www2.education.vic.gov.au/pal/food-handling' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 300, title: 'Framework for Improving Student Outcomes (FISO 2.0)', category: 'Curriculum', tags: ['framework', 'improving', 'student', 'outcomes', 'fiso', 'contains', 'chapters', 'curriculum', 'learning'], summary: 'Policy and guidance on framework for improving student outcomes (fiso 2.0) for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/fiso', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/fiso/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/fiso/guidance', resources: 'https://www2.education.vic.gov.au/pal/fiso/resources' },
+    chapters: [
+      { title: 'FISO 2.0 core elements and dimensions — fiso, core, elements', url: 'https://www2.education.vic.gov.au/pal/fiso' },
+      { title: 'Using FISO 2.0 to plan for school improvement — using, fiso, plan', url: 'https://www2.education.vic.gov.au/pal/fiso' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 301, title: 'Fraud and Corruption Control', category: 'School Operations', tags: ['fraud', 'corruption', 'control', 'risks', 'cash', 'controls', 'finance', 'handling', 'operations', 'administration'], summary: 'Schools are obliged to ensure they implement fraud and corruption controls. This guidance provides a checklist for some of the fraud and corruption risks commonly encountered in schools and the types of controls that can assist in addressing these risks.', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control/guidance', resources: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control/resources' },
+    chapters: [
+      { title: 'Fraud and Corruption Control in Schools — Implementation Guidance — fraud, corruption, control, controls, risks, obliged', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Key risks and controls — risks, controls, fraud, corruption, control, policies', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Checklist of risks and controls — checklist, risks, controls', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Cash and finance — cash, finance, handling, risks, theft, misappropriation', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Employment, conduct and recruitment — employment, conduct, recruitment, risks, leave, applications', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Procurement — procurement, risks, gifts, benefits, hospitality, value', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' },
+      { title: 'Assets — assets, theft, risks, fraud, corruption, purchasing', url: 'https://www2.education.vic.gov.au/pal/fraud-and-corruption-control' }
+    ],
+    resources: [
+      { title: 'Fraud, Corruption and Other Losses Control Policy(DOCX)External Link', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/integrity/Documents/Fraud%20Corruption%20and%20Other%20Losses%20Control%20Policy.docx' },
+      { title: 'Cash handling policy (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Cash-handling.aspx' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' }
+    ]
+  },
+  { id: 302, title: 'Freedom of Information', category: 'School Operations', tags: ['freedom', 'there', 'topic', 'operations', 'administration'], summary: 'Policy and guidance on freedom of information for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/freedom-of-information', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/freedom-of-information/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/freedom-of-information/guidance', resources: 'https://www2.education.vic.gov.au/pal/freedom-of-information/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 303, title: 'Gas Heater Management', category: 'Infrastructure', tags: ['heater', 'management', 'there', 'topic', 'infrastructure', 'facilities', 'building'], summary: 'Policy and guidance on gas heater management for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/gas-heater-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/gas-heater-management/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/gas-heater-management/guidance', resources: 'https://www2.education.vic.gov.au/pal/gas-heater-management/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 304, title: 'Generative Artificial Intelligence', category: 'IT & Privacy', tags: ['generative', 'artificial', 'intelligence', 'tools', 'contains', 'chapters', 'introducing', 'privacy', 'data'], summary: 'Policy and guidance on generative artificial intelligence for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/guidance', resources: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/resources' },
+    chapters: [
+      { title: 'Introducing generative AI tools — introducing, generative, tools', url: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence' },
+      { title: 'Protecting privacy and personal data — protecting, privacy, personal', url: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence' },
+      { title: 'Appropriate use of generative AI tools — generative, tools', url: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence' },
+      { title: 'Promoting academic integrity — promoting, academic, integrity', url: 'https://www2.education.vic.gov.au/pal/generative-artificial-intelligence' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 305, title: 'Graffiti – Prevention and Management', category: 'Infrastructure', tags: ['graffiti', 'prevention', 'management', 'there', 'topic', 'infrastructure', 'facilities', 'building'], summary: 'Policy and guidance on graffiti – prevention and management for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/graffiti-prevention-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/graffiti-prevention-management/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/graffiti-prevention-management/guidance', resources: 'https://www2.education.vic.gov.au/pal/graffiti-prevention-management/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 306, title: 'Health, Safety and Wellbeing', category: 'OHS', tags: ['health', 'safety', 'wellbeing', 'there', 'topic', 'refer', 'hazard'], summary: 'Policy and guidance on health, safety and wellbeing for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/health-safety-wellbeing', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/health-safety-wellbeing/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/health-safety-wellbeing/guidance', resources: 'https://www2.education.vic.gov.au/pal/health-safety-wellbeing/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 307, title: 'Health, Wellbeing and Inclusion Workforces', category: 'Curriculum', tags: ['health', 'wellbeing', 'inclusion', 'workforces', 'student', 'access', 'visiting', 'curriculum', 'learning'], summary: 'This guidance explains how the Health, Wellbeing and Inclusion Workforces (HWIW) help schools with student needs relating to engagement, wellbeing, inclusion and learning. To access Student Support Services and the Visiting Teacher Service, obtaining informed consent is necessary.', url: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces/guidance', resources: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces/resources' },
+    chapters: [
+      { title: 'Health, Wellbeing and Inclusion Workforces service provision in Victorian government schools — health, wellbeing, inclusion', url: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces' },
+      { title: 'Health and Wellbeing Key Contact function — health, wellbeing', url: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces' },
+      { title: 'Informed consent to access Student Support Services and the Visiting Teacher Service — informed, consent, access', url: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces' },
+      { title: 'Recovery and Resilience Model — recovery, resilience, model', url: 'https://www2.education.vic.gov.au/pal/health-wellbeing-inclusion-workforces' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 308, title: 'Heritage Buildings', category: 'Infrastructure', tags: ['heritage', 'buildings', 'there', 'topic', 'refer', 'infrastructure', 'facilities', 'building'], summary: 'Policy and guidance on heritage buildings for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/heritage-buildings', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/heritage-buildings/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/heritage-buildings/guidance', resources: 'https://www2.education.vic.gov.au/pal/heritage-buildings/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 309, title: 'Historical Child Sexual Abuse in Victorian Government Schools', category: 'Students', tags: ['historical', 'child', 'sexual', 'abuse', 'former', 'reports', 'requests', 'student', 'wellbeing'], summary: 'Policy and guidance on historical child sexual abuse in victorian government schools for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools/resources' },
+    chapters: [
+      { title: 'Acknowledging and learning from the past — acknowledging, learning, past', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Reports and disclosures from former students of historical sexual abuse — reports, disclosures, former', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Requests from former students for information or school records — requests, former, records', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Queries about historical sexual abuse from media, law firms and the community — queries, historical, sexual', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Media reports or new criminal proceedings about historical sexual abuse at a school — media, reports, criminal', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Personal acknowledgement and apologies for former students — personal, acknowledgement, apologies', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'LOUD fence ribbons on school fences — loud, fence, ribbons', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' },
+      { title: 'Requests for memorials or other physical forms of acknowledgement — requests, memorials, physical', url: 'https://www2.education.vic.gov.au/pal/historical-child-sexual-abuse-victorian-government-schools' }
+    ],
+    resources: [
+      { title: 'Quick exit', url: 'https://www.google.com' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 310, title: 'Holocaust Education – Delivery Requirements', category: 'Curriculum', tags: ['holocaust', 'delivery', 'contains', 'chapters', 'study', 'delivering', 'quality', 'curriculum', 'learning'], summary: 'Policy and guidance on holocaust education – delivery requirements for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements/guidance', resources: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements/resources' },
+    chapters: [
+      { title: 'Why study the Holocaust — study, holocaust', url: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements' },
+      { title: 'Delivering a quality Holocaust education program — delivering, quality, holocaust', url: 'https://www2.education.vic.gov.au/pal/holocaust-education-delivery-requirements' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 311, title: 'Home Schooling and Partial Enrolments', category: 'Curriculum', tags: ['schooling', 'partial', 'enrolments', 'enrolment', 'registration', 'child', 'parent', 'curriculum', 'learning'], summary: 'The Education and Training Reform Act 2006 (Vic) (the Act) requires that all children of compulsory school age (6 to 17 years) are enrolled in a school or registered for home schooling. Under the Act, the Victorian Registration and Qualifications Authority (VRQA) has responsibility for the registration of home schooling students.', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments/guidance', resources: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments/resources' },
+    chapters: [
+      { title: 'Guidelines for Partial Enrolment for Registered Home Schooled Students — partial, enrolment, registered', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Guiding principles — guiding, principles, parent, program, child', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Enrolment conditions and responsibilities — enrolment, conditions, compulsory, subjects, activities, partial', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Students already registered for home schooling — already, registered, schooling, parents, letter', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Students not yet registered for home schooling — registered, schooling, enrolment, registration, arrangement', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Attendance requirements — attendance, enrolled, expected, usual, partial, enrolments', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Assessment and reporting — assessment, reporting, enrolled, student, partially, activity', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Funding implications — funding, implications, student, package, rata', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Parent payments — parent, payments, partially, enrolled, parents, expected', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' },
+      { title: 'Student transport — student, transport, conveyance, allowance, program, access', url: 'https://www2.education.vic.gov.au/pal/home-schooling-and-partial-enrolments' }
+    ],
+    resources: [
+      { title: 'My SchoolwebsiteExternal Link', url: 'http://www.myschool.edu.au' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 312, title: 'Homework', category: 'Curriculum', tags: ['homework', 'there', 'topic', 'refer', 'curriculum', 'learning', 'teaching'], summary: 'Policy and guidance on homework for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/homework', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/homework/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/homework/guidance', resources: 'https://www2.education.vic.gov.au/pal/homework/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 313, title: 'Hot Work', category: 'OHS', tags: ['tasks', 'risk', 'register', 'xlsx', 'undertaken', 'template', 'safety', 'health'], summary: 'Policy and guidance on hot work for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/hot-work', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/hot-work/policy-and-guidelines', procedure: 'https://www2.education.vic.gov.au/pal/hot-work', resources: 'https://www2.education.vic.gov.au/pal/hot-work/resources' },
+    chapters: [
+      { title: 'Templates relevant to this policy and procedure — templates, tasks, risk, register', url: 'https://www2.education.vic.gov.au/pal/hot-work' }
+    ],
+    resources: [
+      { title: 'Risk Assessment Template(DOCX)External Link', url: 'https://www.education.vic.gov.au/hrweb/Documents/OHS/riskassessmenttemplate.docx' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 314, title: 'Income Statement/PAYG Payment Summary', category: 'HR - Pay', tags: ['income', 'statement', 'payg', 'payment', 'summary', 'historical', 'employment', 'summaries', 'salary'], summary: 'From 2020 the PAYG — Payment Summary is now known as the Income Statement. The Income Statement is only available from your myGov account for both Department and School Local Payroll (SLP) employment.', url: 'https://www2.education.vic.gov.au/pal/payg-payment-summary', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/payg-payment-summary/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/payg-payment-summary/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/payg-payment-summary/resources' },
+    chapters: [
+      { title: 'Replacement of Lost or Damaged Summaries — replacement, lost, damaged, historical, payg, payment', url: 'https://www2.education.vic.gov.au/pal/payg-payment-summary' }
+    ],
+    resources: [
+      { title: 'MyTaxExternal Link', url: 'https://www.ato.gov.au/individuals-and-families/your-tax-return/how-to-lodge-your-tax-return/lodge-your-tax-return-online-with-mytax' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 315, title: 'Individual Education Plans (IEPs)', category: 'Curriculum', tags: ['individual', 'plans', 'ieps', 'contains', 'chapters', 'importance', 'develop', 'curriculum', 'learning'], summary: 'Policy and guidance on individual education plans (ieps) for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps/guidance', resources: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps/resources' },
+    chapters: [
+      { title: 'The importance of an individual education — importance, individual', url: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps' },
+      { title: 'How to develop an individual education plan — develop, individual, plan', url: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps' },
+      { title: 'SMART goals — smart, goals', url: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps' },
+      { title: 'Related plans — plans', url: 'https://www2.education.vic.gov.au/pal/individual-education-plans-ieps' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 316, title: 'Industrial Agreements', category: 'HR - Pay (?ambig)', tags: ['industrial', 'agreements', 'commission', 'july', 'fair', 'agreement', 'workplace', 'employment', 'conditions'], summary: 'On 18 July 2022, the Fair Work Commission approved theVictorian Government Schools Agreement 2022to take effect from 25 July 2022.', url: 'https://www2.education.vic.gov.au/pal/industrial-agreements', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/industrial-agreements/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/industrial-agreements/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/industrial-agreements/resources' },
+    chapters: [
+      { title: 'Teaching service — teaching, july, agreement, workplace, relations, fair', url: 'https://www2.education.vic.gov.au/pal/industrial-agreements' },
+      { title: 'Further information — enterprise, agreements, commission, general, approval, fair', url: 'https://www2.education.vic.gov.au/pal/industrial-agreements' }
+    ],
+    resources: [
+      { title: 'Enterprise agreementsbenchbookExternal Link', url: 'https://www.fwc.gov.au/benchbook/enterprise-agreements-benchbook' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 317, title: 'Industrial Awards', category: 'HR - Pay (?ambig)', tags: ['industrial', 'awards', 'award', 'federal', 'legislation', 'employment', 'public', 'ministerial', 'conditions'], summary: 'The following Federal awards apply to teaching service, public service or school council employees:', url: 'https://www2.education.vic.gov.au/pal/industrial-awards', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/industrial-awards/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/industrial-awards/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/industrial-awards/resources' },
+    chapters: [
+      { title: 'Victorian Government Schools Award 2016 — award', url: 'https://www2.education.vic.gov.au/pal/industrial-awards' },
+      { title: 'Victorian Government Schools — Early Childhood — Award 2016 — early, childhood, award', url: 'https://www2.education.vic.gov.au/pal/industrial-awards' },
+      { title: 'Victorian Public Service Award 2016 — public, award', url: 'https://www2.education.vic.gov.au/pal/industrial-awards' }
+    ],
+    resources: [
+      { title: 'Fair WorkCommissionExternal Link', url: 'http://www.fwa.gov.au/' },
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 318, title: 'Infectious Diseases', category: 'OHS', tags: ['infectious', 'diseases', 'there', 'topic', 'safety', 'health', 'hazard'], summary: 'Policy and guidance on infectious diseases for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/infectious-diseases/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/infectious-diseases/guidance', resources: 'https://www2.education.vic.gov.au/pal/infectious-diseases/resources' },
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 319, title: 'Infectious Diseases Leave — Teaching Service', category: 'HR - Leave', tags: ['infectious', 'diseases', 'leave', 'teaching', 'legislation', 'industrial', 'employment', 'absence', 'entitlement'], summary: 'Policy and guidance on infectious diseases leave — teaching service for Victorian government schools and staff.', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service/resources' },
+    chapters: [
+      { title: 'First Aid for Students and Staff — first', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service' },
+      { title: 'Infectious Diseases — infectious, diseases', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service' },
+      { title: 'OHS Management System Overview — Employee Health Safety and Wellbeing Policy — management, system', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service' },
+      { title: 'Workers\' Compensation — workers, compensation', url: 'https://www2.education.vic.gov.au/pal/infectious-diseases-leave-teaching-service' }
+    ],
+    resources: [
+      { title: 'Schools home', url: 'https://www.schools.vic.gov.au/' },
+      { title: 'Accessibility', url: 'https://www.vic.gov.au/digital-accessibility-requirements' },
+      { title: 'Privacy', url: 'https://www.vic.gov.au/department-of-education-privacy-policy' },
+      { title: 'Copyright', url: 'https://www.vic.gov.au/disclaimer' },
+      { title: 'Contact us', url: 'https://www.vic.gov.au/contact-department-education-and-training' }
+    ]
+  },
+  { id: 320, title: 'Intellectual Property and Copyright', category: 'IT & Privacy', tags: ['1968', 'ICT', 'IP', 'DE', 'purpose', 'managing', 'intellectual', 'property', 'accordance', 'copyright'], summary: 'The purpose of this policy is to provide schools with information on managing intellectual property in accordance with the department’s Intellectual Property and Copyright Policy External Link (staff login required).', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance', resources: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/resources' },
+    chapters: [
+      { title: 'Copyright — copyright, kind, intellectual, property, most, produced', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/copyright' },
+      { title: 'Using copyright material — LMS, using, copyright, material, many, everyday', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/using-copyright-material' },
+      { title: 'Sharing copyright material — CC, sharing, copyright, material, most, circumstances', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/sharing-copyright-material' },
+      { title: 'Copyright infringement notices — copyright, infringement, notices, companies, representing, owners', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/copyright-infringement-notices' },
+      { title: 'Definitions — CC, definitions, attribution, acknowledgment, creator, copied', url: 'https://www2.education.vic.gov.au/pal/intellectual-property-and-copyright/guidance/definitions' }
+    ],
+    resources: [
+      { title: 'Intellectual property and copyright conversation cards(Word)External Link', note: 'Intellectual property and copyright conversation cards (Word) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/IP-copyright-conversation-cards-schools-accessible-version.docx%20' },
+      { title: 'Intellectual property and copyright conversation cards(PDF)External Link', note: 'Intellectual property and copyright conversation cards (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/IP-copyright-conversation-cards-schools.pdf%20' },
+      { title: 'Conversation cards — Policy principlesactivityExternal Link', note: 'Conversation cards — Policy principles activity External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/IP-copyright-conversation-cards-schools-30min-activity.pptx' },
+      { title: 'Intellectual Property and Copyright Quick Reference Guide forschoolsExternal Link', note: 'The Department’s Intellectual Property and Copyright Quick Reference Guide for schools External Link (staff login required) is a quick reference sheet describing the Department’s IP principles and key', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/Intellectual_Property_and_Copyright_QRG-schools.docx' },
+      { title: 'SmartcopyingExternal Link', note: 'Smartcopying External Link — the official guide to copyright issues for all Australian schools. Smartcopying resources for schools include:', url: 'https://smartcopying.edu.au/guidelines/library-exam-and-disability-copying/library-fair-dealing-and-copying-notice/' },
+      { title: 'InformationsheetsExternal Link', note: 'Information sheets External Link — practical copyright examples for schools covering a wide range of topics such as, copying for exams, YouTube, using images from the internet and copying sheet music.', url: 'http://www.smartcopying.edu.au/information-sheets/schools' },
+      { title: 'Frequently asked questions(FAQs)External Link', note: 'Frequently asked questions (FAQs) External Link — quick answers to common copyright questions asked by school and technical and further education (TAFE) teachers.', url: 'http://www.smartcopying.edu.au/faqs' },
+      { title: 'Labelling andAttributingExternal Link', note: 'Labelling and Attributing External Link — information for teachers who create or compile resources for students, including how to attribute other creators', url: 'https://smartcopying.edu.au/information-sheets/schools/labelling-and-attributing' },
+      { title: 'Copyright permission form — studentworkExternal Link', note: 'Copyright permission form — student work External Link (staff login required) — form to seek permission for use of student work.', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/Copyright_Permission_Form-student-work.docx' },
+      { title: 'Copyright permission form — external thirdpartiesExternal Link', note: 'Copyright permission form — external third parties External Link (staff login required) — form to seek permission for use of third party works from external organisations or individuals.', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/ip-copyright-permission-letter.docx' },
+      { title: 'Online tools for collaboration andlearningExternal Link', note: 'For information on copying for students ‘learning from home’ during the COVID-19 period, refer to: Online tools for collaboration and learning External Link on the Victorian Government’s Coronavirus (', url: 'https://www.coronavirus.vic.gov.au/online-tools-collaboration-and-learning' },
+      { title: 'Creative Commons licence forschoolsExternal Link', note: 'Creative Commons licence for schools External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/Creative_Commons_licence_for_schools.docx' },
+      { title: 'Creative Commons licence forcorporateExternal Link', note: 'Creative Commons licence for corporate External Link (staff login required)', url: 'https://eduvic.sharepoint.com/sites/CopyrightIntellectualProperty/SitePages/Copyright-Release-Guidelines.aspx' }
+    ]
+  },
+  { id: 321, title: 'International Delegations – Visits to Victorian Schools', category: 'School Operations', tags: ['2020', 'IEPD', 'FRA', 'requirements', 'international', 'delegations', 'program', 'hosting', 'incoming', 'summary'], summary: 'This policy sets out the requirements of the department’s International Delegations Program and provides information for schools hosting incoming international delegations.', url: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools/resources' },
+    chapters: [
+      { title: 'Policy — IEPD, requirements, international, delegations, program, hosting', url: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools/guidance' },
+      { title: 'Resources — 2020, DFAT, resources, international, delegations, study', url: 'https://www2.education.vic.gov.au/pal/international-delegations-visits-victorian-schools/resources' }
+    ],
+    resources: [
+      { title: 'International Delegations – StudyVictoriaExternal Link', note: 'International Delegations – Study Victoria External Link – information for schools and incoming delegations', url: 'https://www.study.vic.gov.au/en/global-learning-and-engagement/international-delegations' },
+      { title: 'DFAT Foreign ArrangementsFAQsExternal Link', note: 'DFAT Foreign Arrangements FAQs External Link – frequently asked questions page providing answers to common questions to assist users navigating the Foreign Arrangements Scheme', url: 'https://www.foreignarrangements.gov.au/resources/faqs' },
+      { title: 'Sister Schools – StudyVictoriaExternal Link', note: 'Sister Schools – Study Victoria External Link – website to help schools understand how the Foreign Relations Act 2020 impacts sister school partnerships', url: 'https://www.study.vic.gov.au/en/global-learning-and-engagement/school-and-community-programs/sister-schools' }
+    ]
+  },
+  { id: 322, title: 'Interpreting and Translation Services', category: 'School Operations', tags: ['EAL', 'outlines', 'requirements', 'services', 'government', 'interpreting', 'translation', 'assistance', 'communicate', 'parents'], summary: 'This policy outlines the requirements and services available to Victorian government schools who need interpreting and translation assistance to communicate with parents and carers.', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance', resources: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/resources' },
+    chapters: [
+      { title: 'Interpreting services — interpreting, services, on-site, telephone, video, interpreters', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/interpreting-services-government-schools' },
+      { title: 'Booking an interpreter — PIN, booking, interpreter, most, interpreting, translating', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/booking-interpreter' },
+      { title: 'Telephone interpreting service — PIN, telephone, interpreting, service, interpreter, facilitates', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/telephone-interpreting-service' },
+      { title: 'Translation assignments — translation, assignments, services, normally, only, categories', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/translation-assignments' },
+      { title: 'Procedures for requesting translations — DOCX, procedures, requesting, translations, request, translation', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/procedures-requesting-translations' },
+      { title: 'Cancellation — cancellation, graduates, send, booking, reminders, email', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/cancellation' },
+      { title: 'Complaints — complaints, quality, services, provided, graduates, raised', url: 'https://www2.education.vic.gov.au/pal/interpreting-and-translation-services/guidance/complaints' }
+    ],
+    resources: [
+      { title: 'Tips for starting primary and secondaryschoolExternal Link', note: 'Tips for starting primary and secondary school External Link', url: 'https://www.vic.gov.au/tips-starting-school' }
+    ]
+  },
+  { id: 323, title: 'Intervention Orders', category: 'School Operations', tags: ['2006', '1958', '2008', '2010', 'OHS', 'DOCX', 'ISOC', 'purpose', 'understand', 'respond'], summary: 'The purpose of this policy is to ensure that staff:', url: 'https://www2.education.vic.gov.au/pal/intervention-orders', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/intervention-orders/guidance', resources: 'https://www2.education.vic.gov.au/pal/intervention-orders/resources' },
+    chapters: [
+      { title: 'Policy — purpose, understand, respond, appropriately, persons, protected', url: 'https://www2.education.vic.gov.au/pal/intervention-orders/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/intervention-orders/guidance' },
+      { title: 'Resources — DOCX, resources, template, plans, principals, templates', url: 'https://www2.education.vic.gov.au/pal/intervention-orders/resources' }
+    ],
+    resources: [
+      { title: 'Template individual safety plan for intervention orders(DOCX)External Link', note: 'Template individual safety plan for intervention orders (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/Safety%20Plan%20template%20IVOs.docx' }
+    ]
+  },
+  { id: 324, title: 'Jobs, Skills and Pathways Coordination', category: 'Curriculum', tags: ['2023', '2025', 'VDSS', 'VCE', 'VCAL', 'VET', 'RTO', 'VPC', 'SRP', 'outlines'], summary: 'This policy outlines Jobs, Skills and Pathways Coordination funding support for eligible schools to help with the coordination and delivery of vocational and applied learning, in particular the Vocational Education and Training Delivered to School Students (VDSS), work related learning and the VCE Vocational Major and Victorian Pathways Certificate which from 2023 will replace VCAL', url: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination/guidance', resources: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination/resources' },
+    chapters: [
+      { title: 'Policy — 2023, 2025, VDSS, VCE, VCAL, outlines', url: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination/policy' },
+      { title: 'Guidance — FTE, VET, VCE, examples, jobs, skills', url: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination/guidance' },
+      { title: 'Resources — VASS, resources, example, accountabilities, functions, position', url: 'https://www2.education.vic.gov.au/pal/jobs-skills-pathways-coordination/resources' }
+    ],
+    resources: [
+      { title: 'CareerseducationExternal Link', note: 'Careers education External Link and vocational and applied learning in the pre-senior secondary years and', url: 'https://www.vic.gov.au/transforming-career-education' }
+    ]
+  },
+  { id: 325, title: 'Jury Service', category: 'HR - Pay (?ambig)', tags: ['HR', 'overview', 'related', 'policies', 'court', 'attendance', 'leave', 'legislation', 'delegations', 'industrial'], summary: 'Refer to the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/jury-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/jury-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/jury-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/jury-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, related, policies, court, attendance', url: 'https://www2.education.vic.gov.au/pal/jury-service/overview' },
+      { title: 'Policy and Guidelines — 2000, leave, shall, granted, employee, juries', url: 'https://www2.education.vic.gov.au/pal/jury-service/policy-and-guidelines' },
+      { title: 'Resources — eduPay, ESS, resources, procedures, applies, relation', url: 'https://www2.education.vic.gov.au/pal/jury-service/resources' }
+    ]
+  },
+  { id: 326, title: 'Land Acquisition', category: 'Infrastructure', tags: ['$1,000,000', '1986', '2006', 'VSBA', 'VGLM', 'overview', 'circumstances', 'methods', 'building', 'authority'], summary: 'This policy provides an overview of the circumstances and methods by which the Victorian School Building Authority (VSBA) acquires new land for schools.', url: 'https://www2.education.vic.gov.au/pal/land-acquisition', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/land-acquisition/guidance', resources: 'https://www2.education.vic.gov.au/pal/land-acquisition/resources' },
+    chapters: [
+      { title: 'Policy — VSBA, overview, circumstances, methods, building, authority', url: 'https://www2.education.vic.gov.au/pal/land-acquisition/policy' },
+      { title: 'Guidance — government, site, selection, criteria, guidance, purpose', url: 'https://www2.education.vic.gov.au/pal/land-acquisition/guidance' },
+      { title: 'Resources — PDF, DOCX, resources, government, site, selection', url: 'https://www2.education.vic.gov.au/pal/land-acquisition/resources' }
+    ],
+    resources: [
+      { title: 'Education forallExternal Link', note: 'Education for all External Link', url: 'https://www.vic.gov.au/education-all' },
+      { title: 'Kindergarten at or next door toschoolExternal Link', note: 'Kindergarten at or next door to school External Link', url: 'https://www.schoolbuildings.vic.gov.au/kindergartens-or-next-door-schools' },
+      { title: 'Skills First – Real training for realjobsExternal Link', note: 'Skills First – Real training for real jobs External Link', url: 'https://www.vic.gov.au/skills-first' },
+      { title: 'Victoria PlanningProvisionsExternal Link', note: 'Victoria Planning Provisions External Link', url: 'https://planning-schemes.app.planning.vic.gov.au/Victoria%20Planning%20Provisions/ordinance' },
+      { title: 'A Practitioner’s Guide to Victorian PlanningSchemesExternal Link', note: 'A Practitioner’s Guide to Victorian Planning Schemes External Link', url: 'https://www.planning.vic.gov.au/guide-home/a-practitioners-guide-to-victorian-planning-schemes' },
+      { title: 'Precinct Structure Planning Guidelines: New Communities inVictoriaExternal Link', note: 'Precinct Structure Planning Guidelines: New Communities in Victoria External Link', url: 'https://vpa.vic.gov.au/project/psp-guidelines/' }
+    ]
+  },
+  { id: 327, title: 'Land Disposal', category: 'Infrastructure', tags: ['2017', '2022', '2016', 'VSBA', 'PDF', 'SRS', 'DELWP', 'explains', 'building', 'authority'], summary: 'This policy explains the Victorian School Building Authority (VSBA) land disposal process.', url: 'https://www2.education.vic.gov.au/pal/land-disposal', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/land-disposal/guidance', resources: 'https://www2.education.vic.gov.au/pal/land-disposal/resources' },
+    chapters: [
+      { title: 'Policy — 2017, 2022, VSBA, PDF, explains, building', url: 'https://www2.education.vic.gov.au/pal/land-disposal/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/land-disposal/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/land-disposal/resources' }
+    ],
+    resources: [
+      { title: 'Victorian Government Landholding Policy and Guidelines (2017)(PDF)External Link', note: 'Retention and sale of land occurs in line with the Victorian Government Landholding Policy and Guidelines (2017) (PDF) External Link and the Victorian Government Land Transactions Policy and Guideline', url: 'https://www.dtf.vic.gov.au/sites/default/files/2018-03/Victorian%20Government%20Landholding%20Policy%20and%20Guidelines%20%28September%202017%29.PDF' },
+      { title: 'Victorian Government Land Transactions Policy and Guidelines (2022)(PDF)External Link', note: 'Retention and sale of land occurs in line with the Victorian Government Landholding Policy and Guidelines (2017) (PDF) External Link and the Victorian Government Land Transactions Policy and Guideline', url: 'https://www.dtf.vic.gov.au/sites/default/files/document/Victorian%20Government%20Land%20Transactions%20Policy.pdf' },
+      { title: 'regionalofficesExternal Link', note: 'When the department identifies an alternate education use for a closed school site, it will notify the Minister for Education of its intention. For more information, contact one of the department’s re', url: 'https://www.vic.gov.au/office-locations-department-education' },
+      { title: 'Victorian Government Strategic Crown Land Assessment Policy and Guidelines(2016)External Link', note: 'The Department of Environment, Land, Water and Planning (DELWP) assesses Crown land sites under Victorian Government Strategic Crown Land Assessment Policy and Guidelines (2016) External Link .', url: 'https://www.dtf.vic.gov.au/sites/default/files/2018-01/Victorian%20Government%20Strategic%20Crown%20Land%20Assessment%20Policy%20and%20Guidelines.pdf' },
+      { title: 'Government Land Standing AdvisoryCommitteeExternal Link', note: 'To help reduce this timeframe, the department may seek approval from the Minister for Planning to exhibit a planning scheme amendment based on the advice of DELWP’s Government Land Standing Advisory C', url: 'https://engage.vic.gov.au/glsac' },
+      { title: 'Victorian Government Land TransactionsPolicyExternal Link', note: 'All land sales are made in accordance with the Valuer-General Victoria\'s valuation as specified by the Victorian Government Land Transactions Policy External Link requirements.', url: 'https://www.planning.vic.gov.au/__data/assets/pdf_file/0030/125877/VGLTPG-Victorian-Government-Land-Transactions-Policy-and-Guidelines-2016-Final.pdf' }
+    ]
+  },
+  { id: 328, title: 'Languages Education', category: 'Curriculum', tags: ['2006', '2017', 'VIT', 'CASES21', 'VCAA', 'DOCX', 'VRQA', 'VSL', 'PTT', 'outlines'], summary: 'This policy outlines the requirements relating to language provision in Victorian schools.', url: 'https://www2.education.vic.gov.au/pal/languages-education', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/languages-education/guidance', resources: 'https://www2.education.vic.gov.au/pal/languages-education/resources' },
+    chapters: [
+      { title: 'What makes a quality language program — makes, quality, language, program, sure, programs', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/what-makes-quality-language-program' },
+      { title: 'Start a new language program — start, language, program, considerations, setting, overview', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/start-new-language-program' },
+      { title: 'Staffing a language program — VIT, staffing, language, program, delivered, institute', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/staffing-language-program' },
+      { title: 'Language assistants programs — language, assistants, programs, number, selected, months', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/language-assistants-program' },
+      { title: 'Language program funding, resources and support — SRP, PDF, XSLX, language, program, funding', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/language-program-funding-resources-and-support' },
+      { title: 'Approaches to teaching languages — CLIL, approaches, teaching, languages, types, programs', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/approaches-teaching-languages' },
+      { title: 'Complementary language providers — VCE, VSL, complementary, language, providers, out-of-school-hours', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/complementary-language-providers' },
+      { title: 'Promote learning a language — promote, learning, language, materials, students, community', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/promote-learning-language' },
+      { title: 'Languages data and research — 2020, 2019, PDF, languages, data, research', url: 'https://www2.education.vic.gov.au/pal/languages-education/guidance/languages-data-and-research' }
+    ],
+    resources: [
+      { title: 'Victorian Curriculum and Assessment Authority Curriculum —LanguagesExternal Link', note: 'Victorian Curriculum and Assessment Authority Curriculum — Languages External Link', url: 'https://www.vcaa.vic.edu.au/curriculum/foundation-10/resources/languages/Pages/default.aspx?Redirect=1' }
+    ]
+  },
+  { id: 329, title: 'Leading Teachers and Learning Specialists', category: 'HR - Pay (?ambig)', tags: ['HR', 'overview', 'leading', 'teacher', 'learning', 'specialist', 'positions', 'tenured', 'years', 'tenure'], summary: 'Leading teacher and learning specialist positions are tenured for up to 5 years with the tenure specified in the position advertisement. The successful applicant will be ongoing with tenure in the leadership position. Tenure is renewable. Leading teacher or learning specialist tenure renewal policy is available in the guidelines under the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/resources' },
+    chapters: [
+      { title: 'Overview — overview, leading, teacher, learning, specialist, positions', url: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/overview' },
+      { title: 'Policy and Guidelines — 2018, 2006, tenure, renewal, leading, teachers', url: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/policy-and-guidelines' },
+      { title: 'Resources — DOCX, resources, leading, teacher, learning, specialist', url: 'https://www2.education.vic.gov.au/pal/leading-teachers-and-learning-specialists/resources' }
+    ]
+  },
+  { id: 330, title: 'Leave for Defence Reserve Service', category: 'HR - Leave', tags: ['HR', 'overview', 'related', 'policies', 'personal', 'leave', 'teaching', 'service', 'military', 'sick'], summary: 'Refer to the Policy and Guidelines tab for more information.', url: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, related, policies, personal, leave', url: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/overview' },
+      { title: 'Policy and Guidelines — 2001, ADF, employee, entitled, leave, defence', url: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/policy-and-guidelines' },
+      { title: 'Resources — eduPay, ESS, resources, procedures, applies, relation', url: 'https://www2.education.vic.gov.au/pal/leave-defence-reserve-service/resources' }
+    ]
+  },
+  { id: 331, title: 'Legal Claims, Subpoenas, Summonses and Other Legal Documents', category: 'School Operations', tags: ['2014', '2001', 'GPO', 'purpose', 'outline', 'action', 'responding', 'legal', 'claims', 'subpoenas'], summary: 'The purpose of this policy is to outline the action schools must take in responding to legal claims, subpoenas, summonses to produce documents or appear as a witness in court and other legal documents and to explain the Department’s process for responding to claims of negligence.', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/guidance', resources: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/resources' },
+    chapters: [
+      { title: 'Policy — purpose, outline, action, responding, legal, claims', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/guidance' },
+      { title: 'Resources — resources, templates, downloadable, template, government, personal', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/resources' }
+    ],
+    resources: [
+      { title: 'Personal property (staff loginrequired)External Link', note: 'Personal property (staff login required) External Link', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/retired-topics.aspx' },
+      { title: 'Insurance (staff loginrequired)External Link', note: 'Insurance (staff login required) External Link', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Insurance-including-personal-property.aspx' },
+      { title: 'ModelLitigant GuidelinesExternal Link', note: 'Model Litigant Guidelines External Link', url: 'https://www.justice.vic.gov.au/justice-system/laws-and-regulation/victorian-model-litigant-guidelines' },
+      { title: 'CommonGuiding PrinciplesExternal Link', note: 'Common Guiding Principles External Link', url: 'https://www.justice.vic.gov.au/justice-system/laws-and-regulation/common-guiding-principles-child-sexual-abuse-civil-claims' }
+    ]
+  },
+  { id: 332, title: 'Legislation — Employment Topics', category: 'HR - Recruitment', tags: ['2006', '1975', '2010', '1982', '1999', '2001', '2004', '2014', '2012', '1979'], summary: 'The following Victorian Acts and Regulations relate to the employment conditions of staff in the Department:', url: 'https://www2.education.vic.gov.au/pal/legislation', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/legislation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/legislation/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/legislation/resources' },
+    chapters: [
+      { title: 'Overview — 2006, 1975, 2010, 1982, 1999, 2001', url: 'https://www2.education.vic.gov.au/pal/legislation/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic', url: 'https://www2.education.vic.gov.au/pal/legislation/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/legislation/resources' }
+    ],
+    resources: [
+      { title: 'VictorianlegislationExternal Link', note: 'To view up to date versions of any State legislation, and parliamentary documents, visit Victorian legislation External Link .', url: 'https://www.legislation.vic.gov.au/' },
+      { title: 'Federal Register ofLegislationExternal Link', note: 'Current versions of Commonwealth legislation are available on the Federal Register of Legislation External Link .', url: 'http://www.comlaw.gov.au/' }
+    ]
+  },
+  { id: 333, title: 'LGBTIQA+ Student Support', category: 'Students', tags: ['2006', '2010', '1984', 'LGBTIQA', 'purpose', 'lesbian', 'bisexual', 'trans', 'gender', 'diverse'], summary: 'The purpose of this policy is to ensure schools support lesbian, gay, bisexual, trans and gender diverse, intersex, queer, questioning and asexual (LGBTIQA+) students.', url: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support/guidance', resources: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support/resources' },
+    chapters: [
+      { title: 'Policy — LGBTIQA, purpose, lesbian, bisexual, trans, gender', url: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support/guidance' },
+      { title: 'Resources — resources, bully, stoppers, external, supports, students', url: 'https://www2.education.vic.gov.au/pal/lgbtiq-student-support/resources' }
+    ],
+    resources: [
+      { title: 'BullyStoppersExternal Link', note: 'Bully Stoppers External Link – supports students, parents, teachers and principals in working together to make sure schools are safe and supportive places, where everyone is empowered to help reduce t', url: 'https://www.vic.gov.au/bully-stoppers' },
+      { title: 'School SportVictoriaExternal Link', note: 'School Sport Victoria External Link – provides guidance to support trans and gender diverse students participate in its events', url: 'https://www.ssv.vic.edu.au/Pages/inclusion.aspx' },
+      { title: 'Minus18External Link', note: 'Minus18 External Link – provided mental health and peer mentoring support to same sex attracted and gender diverse young people from all over Australia', url: 'https://minus18.org.au/' },
+      { title: 'National Safe SchoolsFrameworkExternal Link', note: 'National Safe Schools Framework External Link – provides Australian schools with a vision and a set of guiding principles that assist school communities to develop positive and practical student safet', url: 'https://www.education.gov.au/student-resilience-and-wellbeing/australian-student-wellbeing-framework' },
+      { title: 'RainbowDoorExternal Link', note: 'Rainbow Door External Link – a free specialist LGBTIQA+ helpline providing information, support, and referral to all LGBTIQA+ Victorians, their friends and family, run by Switchboard Victoria', url: 'https://www.rainbowdoor.org.au/' },
+      { title: 'RainbowNetworkExternal Link', note: 'Rainbow Network External Link – a network of Same Sex Attracted, Intersex, Trans and Gender Diverse (SSAITGD) youth groups with activities including; the exchanging of ideas, information and resources', url: 'http://www.rainbownetwork.com.au/' },
+      { title: 'Royal Children\'s Hospital MelbourneGender ServiceExternal Link', note: 'Royal Children\'s Hospital Melbourne Gender Service External Link – provides children and adolescents up to 17 years with a multidisciplinary approach to the assessment, care and treatment of gender dy', url: 'https://www.rch.org.au/adolescent-medicine/gender-service' },
+      { title: 'TranscendExternal Link', note: 'Transcend External Link – a parent led support network and information hub for transgender children and their families in Australia', url: 'http://www.transcendsupport.com.au/' },
+      { title: 'TransgenderVictoriaExternal Link', note: 'Transgender Victoria External Link – works with and for, the trans community as well as its allies, to create positive change in areas that impact the human rights of trans people. Transgender Victori', url: 'https://tgv.org.au/' },
+      { title: 'Victorian Equal Opportunity & Human RightsCommissionExternal Link', note: 'Victorian Equal Opportunity & Human Rights Commission External Link – educates people about the rights and responsibilities contained in the Charter and reports annually to the government about the op', url: 'https://www.humanrightscommission.vic.gov.au/' },
+      { title: 'Zoe Belle GenderCollectiveExternal Link', note: 'Zoe Belle Gender Collective External Link – provides online support, referrals, recommendations and resources for the greater trans and gender diverse community in Victoria', url: 'https://zbgc.org.au/' }
+    ]
+  },
+  { id: 334, title: 'Management of Modular Classrooms and Facilities', category: 'Infrastructure', tags: ['VSBA', 'MCP', 'requirements', 'using', 'maintaining', 'modifying', 'relocatable', 'modular', 'classrooms', 'facilities'], summary: 'This policy sets out requirements for schools using, maintaining and modifying relocatable modular classrooms and facilities, provided through the Victorian School Building Authority’s (VSBA) Modular Classrooms Program (MCP).', url: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities/guidance', resources: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities/resources' },
+    chapters: [
+      { title: 'Policy — VSBA, MCP, requirements, using, maintaining, modifying', url: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities/policy' },
+      { title: 'Guidance — VSBA, MCP, guidance, allocation, modular, classrooms', url: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/management-modular-classrooms-facilities/resources' }
+    ]
+  },
+  { id: 335, title: 'Managing Extreme Heat', category: 'Students', tags: ['2017', '2013', '1986', '1955', '2004', '1987', '2008', '2007', 'OHS', 'EMP'], summary: 'This policy provides direction for schools to prepare for, manage and respond to risks associated with extreme heat to ensure the health, safety, and wellbeing of students, staff, volunteers, visitors and contractors during all school activities, on and off school grounds.', url: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat/guidance', resources: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat/resources' },
+    chapters: [
+      { title: 'Policy — direction, prepare, manage, respond, risks, associated', url: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat/policy' },
+      { title: 'Guidance — guidance, individuals, at-risk, heat, related, health', url: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat/guidance' },
+      { title: 'Resources — DOCX, PDF, resources, emergency, critical, incident', url: 'https://www2.education.vic.gov.au/pal/managing-extreme-heat/resources' }
+    ],
+    resources: [
+      { title: 'Bureau of Meteorology heatwave service forAustraliaExternal Link', note: 'Bureau of Meteorology heatwave service for Australia External Link', url: 'https://www.bom.gov.au/weather-and-climate/specialised-forecasts-and-observations/heatwave' },
+      { title: 'Heatwave knowledgecentreExternal Link', note: 'Heatwave knowledge centre External Link – further information about heatwaves and the BoM heatwave services', url: 'https://beta.bom.gov.au/resources/learn-and-explore/heatwave-knowledge-centre' },
+      { title: 'Extreme heat andheatwavesExternal Link', note: 'Extreme heat and heatwaves External Link – Department of Health information about planning, warnings and communications for extreme heat', url: 'https://www.health.vic.gov.au/environmental-health/extreme-heat-and-heatwaves' },
+      { title: 'State Emergency Management Plan – Extreme HeatSub-PlanExternal Link', note: 'State Emergency Management Plan – Extreme Heat Sub-Plan External Link', url: 'https://www.emv.vic.gov.au/responsibilities/state-emergency-management-plan-sub-plans/semp-extreme-heat-sub-plan' },
+      { title: 'VicEmergencyExternal Link', note: 'VicEmergency External Link', url: 'https://emergency.vic.gov.au/respond/' },
+      { title: 'Better Health Channel – ExtremeheatExternal Link', note: 'Better Health Channel – Extreme heat External Link', url: 'https://www.betterhealth.vic.gov.au/extreme-heat' }
+    ]
+  },
+  { id: 336, title: 'Manual Handling', category: 'OHS', tags: ['2004', '2017', 'OHS', 'eduPay', 'DOCX', 'HSR', 'XLSX', 'MSD', 'outlines', 'requirements'], summary: 'This policy outlines the requirements for schools relating to the management of risks and prevention of injury from tasks involving manual handling.', url: 'https://www2.education.vic.gov.au/pal/manual-handling', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/manual-handling/resources' },
+    chapters: [
+      { title: 'Preparing, planning and ongoing management of hazardous manual handling risk — OHS, preparing, planning, ongoing, management, hazardous', url: 'https://www2.education.vic.gov.au/pal/manual-handling/procedure/preparing-planning-manual-handling' },
+      { title: 'Identifying and assessing the risks of hazardous manual handling — OHS, identifying, assessing, risks, hazardous, manual', url: 'https://www2.education.vic.gov.au/pal/manual-handling/procedure/identifying-risks-manual-handling' },
+      { title: 'Controlling the risks — OHS, controlling, risks, once, hazardous, manual', url: 'https://www2.education.vic.gov.au/pal/manual-handling/procedure/controlling-risks' },
+      { title: 'Hazard, incident and near miss reporting — hazard, incident, near, miss, reporting, manual', url: 'https://www2.education.vic.gov.au/pal/manual-handling/procedure/hazard-incident-near-miss-reporting' }
+    ],
+    resources: [
+      { title: 'Compliance code: Hazardous manualhandlingExternal Link', note: 'Compliance code: Hazardous manual handling External Link', url: 'https://www.worksafe.vic.gov.au/resources/compliance-code-hazardous-manual-handling' },
+      { title: 'Choosing and usingtrolleysExternal Link', note: 'Choosing and using trolleys External Link', url: 'https://www.worksafe.vic.gov.au/choosing-and-using-trolleys' },
+      { title: 'Assisting people inwheelchairsExternal Link', note: 'Assisting people in wheelchairs External Link', url: 'https://www.worksafe.vic.gov.au/resources/assisting-people-wheelchairs-health-and-safety-solution' },
+      { title: 'Handling tubs or containers ofproductExternal Link', note: 'Handling tubs or containers of product External Link', url: 'https://www.worksafe.vic.gov.au/handling-tubs-or-containers-product' },
+      { title: 'Improving manual handling risk controls after musculoskeletaldisordersExternal Link', note: 'Improving manual handling risk controls after musculoskeletal disorders External Link', url: 'https://www.worksafe.vic.gov.au/resources/improving-manual-handling-risk-controls-after-musculoskeletal-disorders' }
+    ]
+  },
+  { id: 337, title: 'Mature Minors and Decision Making', category: 'School Operations', tags: ['2006', '2001', '2014', 'SSS', 'FIRST', 'purpose', 'guidance', 'assess', 'student', 'mature'], summary: 'The purpose of this policy is to provide guidance on when and how to assess a student as being mature enough to make their own decision about a particular issue.', url: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making/guidance', resources: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making/resources' },
+    chapters: [
+      { title: 'Policy — purpose, guidance, assess, student, mature, enough', url: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making/guidance' },
+      { title: 'Resources — resources, local, mature, minors, rely, department\'s', url: 'https://www2.education.vic.gov.au/pal/mature-minors-and-decision-making/resources' }
+    ],
+    resources: [
+      { title: 'School Policy Templates Portal – Mature minors (staff loginrequired)External Link', note: 'Refer to the School Policy Templates Portal – Mature minors (staff login required) External Link for further information and a template mature minors policy.', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Mature-minors.aspx' }
+    ]
+  },
+  { id: 338, title: 'Meal Allowances — Teaching Service', category: 'HR - Pay', tags: ['HR', 'overview', 'meal', 'allowance', 'payable', 'employee', 'outside', 'normal', 'hours', 'duty'], summary: 'A meal allowance may be payable to an employee if they are required to work outside their normal hours of duty.', url: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, meal, allowance, payable, employee', url: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/overview' },
+      { title: 'Policy and Guidelines — employee, teacher, paraprofessional, class, full-time, duty', url: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/meal-allowances-teaching-service/resources' }
+    ]
+  },
+  { id: 339, title: 'Media Requests and Attendance at Schools', category: 'Students (?ambig)', tags: ['requirements', 'liaising', 'journalists', 'media', 'outlets', 'details', 'members', 'allowed', 'grounds', 'consent'], summary: 'This policy sets out requirements for schools when liaising with journalists and media outlets.', url: 'https://www2.education.vic.gov.au/pal/media-requests', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/media-requests/guidance', resources: 'https://www2.education.vic.gov.au/pal/media-requests/resources' },
+    chapters: [
+      { title: 'Policy — requirements, liaising, journalists, media, outlets, details', url: 'https://www2.education.vic.gov.au/pal/media-requests/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/media-requests/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/media-requests/resources' }
+    ]
+  },
+  { id: 340, title: 'Medical Advisory Service', category: 'HR - Pay (?ambig)', tags: ['overview', 'medical', 'advisory', 'service', 'operated', 'health', 'previously', 'injurynet', 'specialised', 'principals'], summary: 'The Medical Advisory Service, operated by Max Health (previously InjuryNet), is a specialised support service for principals and managers to help them fulfill their responsibilities in relation to employee health. Information and advice is provided by a team of occupational health practitioners including nurses, injury management advisors, doctors and allied health professionals all of whom have extensive experience in early intervention, physical and psychological injury management and return to work strategies.', url: 'https://www2.education.vic.gov.au/pal/medical-advisory-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/resources' },
+    chapters: [
+      { title: 'Overview — overview, medical, advisory, service, operated, health', url: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/overview' },
+      { title: 'Policy and Guidelines — medical, advisory, service, familiar, department\'s, human', url: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/policy-and-guidelines' },
+      { title: 'Resources — DET, MAX, resources, health, telephone, email', url: 'https://www2.education.vic.gov.au/pal/medical-advisory-service/resources' }
+    ],
+    resources: [
+      { title: 'Department of Education (DET) Medical Advisory Service - MAXHealthExternal Link', note: 'Login to: Department of Education (DET) Medical Advisory Service - MAX Health External Link', url: 'https://www.injurynet.com.au/DET/' }
+    ]
+  },
+  { id: 341, title: 'Medication', category: 'School Operations', tags: ['DOCX', 'ASCIA', 'GP', 'PRN', 'purpose', 'store', 'administer', 'medication', 'correctly', 'topic'], summary: 'The purpose of this policy is to ensure schools store and administer medication correctly. This topic relates to all medications including prescription and over-the-counter medication.', url: 'https://www2.education.vic.gov.au/pal/medication', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/medication/guidance', resources: 'https://www2.education.vic.gov.au/pal/medication/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, ASCIA, purpose, store, administer, medication', url: 'https://www2.education.vic.gov.au/pal/medication/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/medication/guidance' },
+      { title: 'Resources — DOCX, MEDICINE, resources, administration, medication, template', url: 'https://www2.education.vic.gov.au/pal/medication/resources' }
+    ],
+    resources: [
+      { title: 'Administration of Medication policy template (staff loginrequired)External Link', note: 'Administration of Medication policy template (staff login required) External Link – local policy template that schools may modify to suit their local circumstances', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Medication.aspx' },
+      { title: '1300MEDICINEExternal Link', note: '1300 MEDICINE External Link is a free service staffed by registered pharmacists to answer consumer questions about medications – phone 1300 633 424 , Monday to Friday 9 am to 5 pm AEST', url: 'https://1300medicine.com.au/about/' },
+      { title: 'Poisons InformationLineExternal Link', note: 'Poisons Information Line External Link is an emergency phone assessment and first aid advice service for poisoning, overdose and medication errors – phone 13 11 26 , 24 hours a day, Australia-wide', url: 'https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/poisons-information-centre/health-information-and-referral/5e2f52d9-9eef-af8d-f8e6-2d10669e9ca8' },
+      { title: 'NURSE-ON-CALLExternal Link', note: 'NURSE-ON-CALL External Link is a dedicated nurse advice phone line for general health enquiries from the general public – phone 1300 60 60 24 , Victoria', url: 'https://www.healthdirect.gov.au/nurse-on-call' },
+      { title: 'Asthma Australia –MedicinesExternal Link', note: 'Asthma Australia – Medicines External Link – information about treatments, devices and their correct use', url: 'https://asthma.org.au/medicines/' },
+      { title: 'NPS Medicinewise – Using medicines atschoolExternal Link', note: 'NPS Medicinewise – Using medicines at school External Link – information for parents and carers about safe use of medicines at school', url: 'https://www.nps.org.au/consumers/using-medicines-at-school#medicines-at-school' },
+      { title: 'Raising Children – Medicines for children: aguideExternal Link', note: 'Raising Children – Medicines for children: a guide External Link – a simple explainer about common medicines used or avoided in children', url: 'https://raisingchildren.net.au/guides/a-z-health-reference/medications' }
+    ]
+  },
+  { id: 342, title: 'Members of Parliament and Candidates Visiting and Corresponding with Schools', category: 'School Operations', tags: ['1975', '2004', 'Ministerial Order 1388', 'MP', 'DOCX', 'PDF', 'outlines', 'roles', 'responsibilities', 'members'], summary: 'This policy outlines school staff roles and responsibilities when members of parliament (MPs) or candidates for election visit Victorian government schools, attend school functions, or correspond with schools, including during referendum or election years, and caretaker periods.', url: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools/resources' },
+    chapters: [
+      { title: 'Policy — MP, outlines, roles, responsibilities, members, parliament', url: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/members-parliament-visiting-schools/resources' }
+    ],
+    resources: [
+      { title: 'Template specific event and media consent form– student (DOCX)External Link', note: 'Specific consent must be obtained for photos or filming of students with MPs or candidates. This requires use of the Template specific event and media consent form – student (DOCX) External Link .', url: 'https://edugate.eduweb.vic.gov.au/edrms/ISP/Intranet_linked_docs/Template-Consent-Form-Specific-Event-and-Media-student.docx' },
+      { title: 'Constitution Act 1975(Vic)External Link', note: 'Constitution Act 1975 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/constitution-act-1975' },
+      { title: 'Public Administration Act 2004(Vic)External Link', note: 'Public Administration Act 2004 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/public-administration-act-2004' }
+    ]
+  },
+  { id: 343, title: 'Mental Health Practitioners initiative', category: 'Students', tags: ['2019', '2021', 'MHP', 'AHPRA', 'ACA', 'PACFA', 'ES', 'SRP', 'MHC', 'SSS'], summary: 'This policy outlines how schools plan for and implement the Mental Health Practitioners initiative, to provide students with access to support from qualified mental health practitioners.', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance', resources: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/resources' },
+    chapters: [
+      { title: 'Recruiting a mental health practitioner — recruiting, mental, health, practitioner, qualifications, registration', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/recruiting-mental-health-practitioner' },
+      { title: 'Mental Health Practitioner initiative funding — FTE, MHP, SRP, mental, health, practitioner', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/mental-health-practitioner-initiative-funding' },
+      { title: 'Mental health practitioner scope of practice — MHP, mental, health, practitioner, scope, practice', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/mental-health-practitioner-scope-practice' },
+      { title: 'Mental health practitioner practice supports — MHP, mental, health, practitioner, practice, supports', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/mental-health-practitioner-practice-supports' },
+      { title: 'Referral and consent processes — MHP, referral, consent, internal, referrals, established', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/referral-and-consent-processes' },
+      { title: 'Student risk assessment and safety planning — MHP, student, risk, assessment, safety, planning', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/student-risk-assessment-and-safety-planning' },
+      { title: 'Complaints process — complaints, parents, carers, students, like, complaint', url: 'https://www2.education.vic.gov.au/pal/mental-health-practitioners-initiative/guidance/complaints-process' }
+    ],
+    resources: [
+      { title: 'Recruitment advice(DOCX)External Link', note: 'Recruitment advice (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/MHPi-recruitment-advice.docx' },
+      { title: 'School JobsVicExternal Link', note: 'School Jobs Vic External Link – provides resources to support the recruitment of mental health practitioners, including position descriptions, templates and suggested interview questions', url: 'https://www.vic.gov.au/school-jobs' },
+      { title: 'Alternative funding plantemplateExternal Link', note: 'Alternative funding plan template External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/tracking/Pages/CnBDashboard.aspx' },
+      { title: 'Template offer of employment – counsellor applicants(DOCX)External Link', note: 'Template offer of employment – counsellor applicants (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/MHPi-template-offer-of-employment-counsellor-applicants.docx' },
+      { title: 'Template offer of employment – mental health nurse/occupational therapist/psychologist applicants(DOCX)External Link', note: 'Template offer of employment – mental health nurse/occupational therapist/psychologist applicants (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/MHPi-template-offer-of-employment-OTs-psychs-mental-health-nurses.docx' },
+      { title: 'Template offer of employment – social work applicants(DOCX)External Link', note: 'Template offer of employment – social work applicants (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/MHPi-template-offer-of-employment-social-work-applicants.docx' },
+      { title: 'Professional Supervision Framework(PDF)External Link', note: 'Professional Supervision Framework (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/HR/Documents/Professional%20Supervision%20Framework%20Updated%20Feb222018.pdf' },
+      { title: 'Mental health and wellbeingtoolkitExternal Link', note: 'Mental health and wellbeing toolkit External Link', url: 'https://www.vic.gov.au/mental-health-and-wellbeing-toolkit' },
+      { title: 'PROTECTExternal Link', note: 'PROTECT External Link', url: 'https://www.vic.gov.au/protect' },
+      { title: 'HeadspaceExternal Link', note: 'Headspace External Link', url: 'https://headspace.org.au/' },
+      { title: 'eHeadspaceExternal Link', note: 'eHeadspace External Link phone: 1800 650 890 , 9 am to 1 am Australian Eastern Standard Time', url: 'https://headspace.org.au/online-and-phone-support/' },
+      { title: 'KidsHelplineExternal Link', note: 'Kids Helpline External Link phone: 1800 551 800 , 24 hours a day 7 days a week', url: 'https://kidshelpline.com.au/' },
+      { title: 'BeyondBlueExternal Link', note: 'Beyond Blue External Link phone: 1300 224 636', url: 'https://www.beyondblue.org.au/' },
+      { title: 'Yarning SafeNStrong(YSNS)External Link', note: 'Yarning SafeNStrong (YSNS) External Link phone 1800 959 563', url: 'https://www.vahs.org.au/yarning-safenstrong/' },
+      { title: 'ReachOutAustraliaExternal Link', note: 'ReachOut Australia External Link', url: 'https://au.reachout.com/' },
+      { title: 'Child and Adolescent Mental HealthServicesExternal Link', note: 'Child and Adolescent Mental Health Services External Link', url: 'https://www.health.vic.gov.au/mental-health-services/direct-care-child-and-adolescent' },
+      { title: 'LifelineExternal Link', note: 'Lifeline External Link phone: 13 11 14 , 24 hours a day 7 days a week', url: 'https://www.lifeline.org.au/' }
+    ]
+  },
+  { id: 344, title: 'Merit Protection Boards', category: 'HR - Pay (?ambig)', tags: ['HR', 'overview', 'merit', 'protection', 'boards', 'administer', 'grievance', 'school-based', 'external', 'obtained'], summary: 'The Merit Protection Boards administer a grievance process that is available to Department employees including school-based staff.', url: 'https://www2.education.vic.gov.au/pal/merit-protection-boards', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, merit, protection, boards, administer', url: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, resources', url: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/policy-and-guidelines' },
+      { title: 'Resources — resources, useful, merit, protection, boards, home', url: 'https://www2.education.vic.gov.au/pal/merit-protection-boards/resources' }
+    ],
+    resources: [
+      { title: 'Merit Protection Boards — homepageExternal Link', note: 'Merit Protection Boards — home page External Link', url: 'https://www.mpb.vic.gov.au' },
+      { title: 'Merit Protection Boards — TeachingServiceExternal Link', note: 'Merit Protection Boards — Teaching Service External Link', url: 'https://www.mpb.vic.gov.au/teaching-service/Pages/default.aspx' }
+    ]
+  },
+  { id: 345, title: 'Military Service Sick Leave', category: 'HR - Leave', tags: ['HR', 'overview', 'resources', 'military', 'service', 'administration', 'procedures', 'related', 'policies', 'personal'], summary: 'Refer to the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, resources, military, service, administration', url: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/overview' },
+      { title: 'Policy and Guidelines — 1962, employee, least, months, continuous, paid', url: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/policy-and-guidelines' },
+      { title: 'Resources — resources, procedures, service, sick, leave, administration', url: 'https://www2.education.vic.gov.au/pal/military-service-sick-leave/resources' }
+    ]
+  },
+  { id: 346, title: 'Minimum Standards and School Registration', category: 'School Operations', tags: ['2006', '2017', 'Ministerial Order 706', 'Ministerial Order 1359', 'VCAA', 'VRQA', 'VCE', 'VPC', 'VCAL', 'PDF'], summary: 'This policy sets out the requirements for all government schools to be correctly registered with the Victorian Registration and Qualifications Authority and to comply with the Minimum Standards for school registration.', url: 'https://www2.education.vic.gov.au/pal/minimum-standards', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/minimum-standards/guidance', resources: 'https://www2.education.vic.gov.au/pal/minimum-standards/resources' },
+    chapters: [
+      { title: 'Policy — VRQA, requirements, government, correctly, registered, registration', url: 'https://www2.education.vic.gov.au/pal/minimum-standards/policy' },
+      { title: 'Guidance — minimum, standards, compliance, assessment, involves, stages', url: 'https://www2.education.vic.gov.au/pal/minimum-standards/guidance' },
+      { title: 'Resources — 2021, DOCX, VRQA, resources, undertaking, minimum', url: 'https://www2.education.vic.gov.au/pal/minimum-standards/resources' }
+    ],
+    resources: [
+      { title: 'Minimum Standards self-assessment checklist(DOCX)External Link', note: 'Minimum Standards self-assessment checklist (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-self-assessment-checklist.docx' },
+      { title: 'Minimum Standards requirements guide(DOCX)External Link', note: 'Minimum Standards requirements guide (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-requirements-guide.docx' },
+      { title: 'Guidelines to the Minimum Standards and Requirements for SchoolRegistrationExternal Link', note: 'Registered schools and applicants for registration must comply with the updated Victorian Registration and Qualifications Authority\'s Guidelines to the Minimum Standards and Requirements for School Re', url: 'https://www2.vrqa.vic.gov.au/guidelines-and-standards-for-schools' },
+      { title: 'New government school application form(DOCX)External Link', note: 'New government school application form (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-new-government-school-application-form.docx' },
+      { title: 'Amend registration application form(DOCX)External Link', note: 'Amend registration application form (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-amend-registration-application-form.docx' },
+      { title: 'Additional campus evidence checklist(DOCX)External Link', note: 'Additional campus evidence checklist (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-additional-campus-evidence-checklist.docx' },
+      { title: 'Relocation evidence checklist(DOCX)External Link', note: 'Relocation evidence checklist (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-relocation-evidence-checklist.docx' },
+      { title: 'Additional year level evidence checklist(DOCX)External Link', note: 'Additional year level evidence checklist (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/minimum-standards-additional-year-level-evidence-checklist.docx' }
+    ]
+  },
+  { id: 347, title: 'Ministerial Orders — Employment', category: 'HR - Recruitment', tags: ['2006', '2022', '2017', '2024', 'Ministerial Order 1388', 'Ministerial Order 1006', 'Ministerial Order 1389', 'Ministerial Order 1451', 'Ministerial Order 1454', 'VCAA'], summary: 'The Minister for Education has the power under the Education and Training Reform Act 2006 to make orders relating to the employment of teaching service employees, school council employees and the government early learning centre (Government ELC) workforce.', url: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/resources' },
+    chapters: [
+      { title: 'Overview — 2006, 2022, Ministerial Order 1388, Ministerial Order 1006, ELC, overview', url: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/overview' },
+      { title: 'Policy and Guidelines — there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/policy-and-guidelines' },
+      { title: 'Resources — 2017, 2022, Ministerial Order 1006, Ministerial Order 1388, Ministerial Order 1389, Ministerial Order 1389', url: 'https://www2.education.vic.gov.au/pal/ministerial-orders-employment/resources' }
+    ]
+  },
+  { id: 348, title: 'Mobile Area Resource Centre and Mobile Art Craft Centre Services', category: 'Curriculum', tags: ['MARC', 'MACC', 'SRP', 'FTE', 'FISO', 'minimum', 'expectations', 'mobile', 'area', 'resource'], summary: 'This policy sets out the minimum expectations for Mobile Area Resource Centre (MARC) and Mobile Art Craft Centre (MACC) services operating in Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/marc-macc-services', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/marc-macc-services/guidance', resources: 'https://www2.education.vic.gov.au/pal/marc-macc-services/resources' },
+    chapters: [
+      { title: 'Roles and responsibilities — MARC, MACC, roles, responsibilities, base, principals', url: 'https://www2.education.vic.gov.au/pal/marc-macc-services/guidance/roles-responsibilities' },
+      { title: 'Service coverage and timetabling — MARC, MACC, service, coverage, timetabling, committee', url: 'https://www2.education.vic.gov.au/pal/marc-macc-services/guidance/service-coverage-timetabling' },
+      { title: 'Driving and vehicle maintenance — MARC, MACC, driving, vehicle, maintenance, work-related', url: 'https://www2.education.vic.gov.au/pal/marc-macc-services/guidance/driving-vehicle-maintenance' },
+      { title: 'Annual report — CASES21, MARC, MACC, DOCX, annual, report', url: 'https://www2.education.vic.gov.au/pal/marc-macc-services/guidance/annual-report' }
+    ]
+  },
+  { id: 349, title: 'Mobility Assistance', category: 'OHS', tags: ['1992', '2010', '2004', 'DOCX', 'purpose', 'students', 'assistance', 'transferred', 'positioned', 'attend'], summary: 'The purpose of this policy is to ensure students who need assistance being transferred and positioned can attend school.', url: 'https://www2.education.vic.gov.au/pal/mobility-assistance', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/mobility-assistance/guidance', resources: 'https://www2.education.vic.gov.au/pal/mobility-assistance/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, purpose, students, assistance, transferred, positioned', url: 'https://www2.education.vic.gov.au/pal/mobility-assistance/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/mobility-assistance/guidance' },
+      { title: 'Resources — DOCX, resources, templates, student, health, plan', url: 'https://www2.education.vic.gov.au/pal/mobility-assistance/resources' }
+    ],
+    resources: [
+      { title: 'Disability Discrimination Act 1992(Cth)External Link', note: 'Disability Discrimination Act 1992 (Cth) External Link', url: 'https://www.legislation.gov.au/Details/C2018C00125' },
+      { title: 'Equal Opportunity Act 2010(Vic)External Link', note: 'Equal Opportunity Act 2010 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010' },
+      { title: 'Occupational Health and Safety Act 2004(Vic)External Link', note: 'Occupational Health and Safety Act 2004 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004' }
+    ]
+  },
+  { id: 350, title: 'Modified (Reduced Hours) Timetable', category: 'Students', tags: ['1992', '2005', '2006', '2010', 'SSG', 'DOCX', 'IEP', 'requirements', 'implementing', 'modified'], summary: 'This policy sets out the requirements for implementing a modified (reduced hours) timetable for an individual student.', url: 'https://www2.education.vic.gov.au/modified-reduced-hours-timetable', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance', resources: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/resources' },
+    chapters: [
+      { title: 'Situations in which a modified timetable can be considered — situations, modified, timetable, considered, re-engagement, implemented', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/situations-in-which-a-modified-timetable-can-be-considered' },
+      { title: 'Situations where a modified timetable is not permitted', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/situations-where-a-modified-timetable-is-not-permitted' },
+      { title: 'Development of a modified timetable — SSG, DOCX, development, modified, timetable, broader', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/development-of-a-modified-timetable' },
+      { title: 'Support for students on a modified timetable — students, modified, timetable, agreement, guidance, student', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/support-for-students-on-a-modified-timetable' },
+      { title: 'Consultation and approval of a modified timetable — SSG, DOCX, consultation, approval, modified, timetable', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/consultation-and-approval-of-a-modified-timetable' },
+      { title: 'Duration of a modified timetable — SSG, duration, modified, timetable, consultation, parent', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/duration-of-a-modified-timetable' },
+      { title: 'Recording of a modified timetable in CASES21 — 2026, CASES21, DOCX, recording, modified, timetable', url: 'https://www2.education.vic.gov.au/pal/modified-reduced-hours-timetable/guidance/recording-of-a-modified-timetable-in-cases21' }
+    ],
+    resources: [
+      { title: 'regionalofficeExternal Link', note: 'Contact the relevant regional office External Link health, wellbeing and specialist services teams for advice and support in managing modified timetables and attendance issues.', url: 'https://www.vic.gov.au/office-locations-department-education' },
+      { title: 'Disability Discrimination Act 1992(Cth)External Link', note: 'Disability Discrimination Act 1992 (Cth) External Link', url: 'https://www.legislation.gov.au/C2004A04426/latest/text' },
+      { title: 'Disability Standards for Education 2005(Cth)External Link', note: 'Disability Standards for Education 2005 (Cth) External Link', url: 'https://www.legislation.gov.au/F2005L00767/latest/text' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Equal Opportunity Act 2010(Vic)External Link', note: 'Equal Opportunity Act 2010 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/equal-opportunity-act-2010' }
+    ]
+  },
+  { id: 351, title: 'Mosquito Risk Management', category: 'Infrastructure', tags: ['2019', 'VSBA', 'SRP', 'COVID', 'DEET', 'AIMS', 'PDF', 'actions', 'control', 'mosquito'], summary: 'This policy sets out the actions that schools must take to control any mosquito breeding grounds on school premises.', url: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management/guidance', resources: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management/resources' },
+    chapters: [
+      { title: 'Policy — 2019, actions, control, mosquito, breeding, grounds', url: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management/policy' },
+      { title: 'Guidance — AVPMA, DEET, insect, repellent, safety, topical', url: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management/guidance' },
+      { title: 'Resources — DOCX, resources, reducing, risk, mosquito-borne, viruses', url: 'https://www2.education.vic.gov.au/pal/mosquito-risk-management/resources' }
+    ],
+    resources: [
+      { title: 'Mosquitoes can carry diseases – Better HealthChannelExternal Link', note: 'For more information on reducing the risk of mosquito-borne viruses, refer to: Mosquitoes can carry diseases – Better Health Channel External Link .', url: 'https://www.betterhealth.vic.gov.au/health/healthyliving/mosquitoes-can-carry-diseases' },
+      { title: 'Template newsletter content for all schools during mosquito season (DOCX) (staff loginrequired)External Link', note: 'For a template to support communications about mosquito-borne disease with the school community during mosquito season, refer to: Template newsletter content for all schools during mosquito season (DO', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Mosquito-borne-diseases-template-newsletter-content-general.docx' },
+      { title: 'Template newsletter content for schools directed to take active precautions (DOCX) (staff loginrequired)External Link', note: 'For a template to support communications about additional precautions taken to prevent mosquito-borne disease, refer to: Template newsletter content for schools directed to take active precautions (DO', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Mosquito-borne-diseases-template-newsletter-content-active-precaution-areas.docx' }
+    ]
+  },
+  { id: 352, title: 'Nationally Consistent Collection of Data on School Students with Disability', category: 'Students (?ambig)', tags: ['1992', '2005', '2010', 'NCCD', 'CASES21', 'eduPay', 'DDA', 'DSE', 'PDF', 'IEP'], summary: 'This policy outlines the requirements and resources available for schools to participate in the Nationally Consistent Collection of Data on School Students with Disability (NCCD).', url: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/guidance', resources: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/resources' },
+    chapters: [
+      { title: 'Process and data entry in CASES21 — CASES21, NCCD, PDF, data, entry, requires', url: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/guidance/process-and-data-entry-in-cases21' },
+      { title: 'Student eligibility for inclusion in the NCCD — 1992, NCCD, student, eligibility, inclusion, students', url: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/guidance/student-eligibility-for-inclusion-in-the-nccd' },
+      { title: 'NCCD and funding — NCCD, PSD, funding, data, generate, disability', url: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/guidance/nccd-and-funding' },
+      { title: 'NCCD and Disability Inclusion — NCCD, disability, inclusion, guidance, government, better', url: 'https://www2.education.vic.gov.au/pal/nccd-students-with-disability/guidance/nccd-and-disability-inclusion' }
+    ],
+    resources: [
+      { title: 'NCCD PortalExternal Link', note: 'The NCCD Portal External Link provides information and professional learning resources for teachers, school leaders, support staff, parents and carers. The portal includes a significant amount of info', url: 'https://www.nccd.edu.au/' },
+      { title: 'NCCDguidelinesExternal Link', note: 'NCCD guidelines External Link', url: 'https://www.nccd.edu.au/tools/nccd-guidelines-1' },
+      { title: 'NCCD quickguideExternal Link', note: 'NCCD quick guide External Link', url: 'https://www.nccd.edu.au/tools/nccd-quick-guide-0' },
+      { title: 'Resources for principals andadministratorsExternal Link', note: 'Resources for principals and administrators External Link', url: 'https://www.nccd.edu.au/resources-and-tools/roles/principals-and-nccd-team-12' },
+      { title: 'Resources forteachersExternal Link', note: 'Resources for teachers External Link', url: 'https://www.nccd.edu.au/resources-and-tools/roles/teachers-13' },
+      { title: 'CasestudiesExternal Link', note: 'Case studies External Link', url: 'https://www.nccd.edu.au/resources-and-tools/case-studies' },
+      { title: 'PrimaryteachersExternal Link', note: 'Primary teachers External Link', url: 'https://www.nccd.edu.au/professional-learning/nccd-case-study-e-learning-primary-schools' },
+      { title: 'SecondaryteachersExternal Link', note: 'Secondary teachers External Link', url: 'https://www.nccd.edu.au/professional-learning/nccd-case-study-e-learning-secondary-schools' },
+      { title: 'Illustrations ofpracticeExternal Link', note: 'Illustrations of practice External Link', url: 'https://www.nccd.edu.au/resources-and-tools/illustrations-of-practice' },
+      { title: 'Student summarysheetExternal Link', note: 'Student summary sheet External Link', url: 'https://www.nccd.edu.au/tools/student-summary-sheet' },
+      { title: 'Strategies to support decisionmakingExternal Link', note: 'Strategies to support decision making External Link', url: 'https://www.nccd.edu.au/tools/strategies-support-decision-making' },
+      { title: 'ModerationprocessExternal Link', note: 'Moderation process External Link Moderation process professional learning webinar External Link', url: 'https://www.nccd.edu.au/wider-support-materials/undertake-moderation-confirm-decision-making-consistent' },
+      { title: 'Moderation process professional learningwebinarExternal Link', note: 'Moderation process professional learning webinar External Link', url: 'https://www.nccd.edu.au/professional-learning/moderation-nccd-webinar' },
+      { title: 'ReflectionToolExternal Link', note: 'Reflection Tool External Link', url: 'https://www.nccd.edu.au/tools/reflection-tool' },
+      { title: 'GlossaryExternal Link', note: 'Glossary External Link', url: 'https://www.nccd.edu.au/help-and-support/glossary' },
+      { title: 'Sample letter for parents, guardians and carers(DOCX)External Link', note: 'Sample letter for parents, guardians and carers (DOCX) External Link', url: 'https://www.nccd.edu.au/tools/sample-letter-parents-guardians-and-carers' },
+      { title: 'Data collectionlegislationExternal Link', note: 'Data collection legislation External Link', url: 'https://www.nccd.edu.au/wider-support-materials/what-underpinning-legislation?parent=/understanding&activity=/wider-support-materials/what-nccd&step=0' },
+      { title: 'Notice for schools and schoolprincipalsExternal Link', note: 'Notice for schools and school principals External Link', url: 'https://www.nccd.edu.au/tools/notice-schools-and-school-principals' },
+      { title: 'Public informationnoticeExternal Link', note: 'Public information notice External Link', url: 'https://www.dese.gov.au/swd/resources/nationally-consistent-collection-data-school-students-disability-public-information-notice' }
+    ]
+  },
+  { id: 353, title: 'Navigator Program', category: 'Students', tags: ['DOCX', 'purpose', 'outline', 'referral', 'consent', 'requirements', 'relating', 'navigator', 'program', 'responsibilities'], summary: 'The purpose of this policy is to outline the referral and consent process and requirements relating to the department’s Navigator Program (Navigator), and school responsibilities for Navigator Program participants.', url: 'https://www2.education.vic.gov.au/pal/navigator-program', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/navigator-program/guidance', resources: 'https://www2.education.vic.gov.au/pal/navigator-program/resources' },
+    chapters: [
+      { title: 'Policy — purpose, outline, referral, consent, requirements, relating', url: 'https://www2.education.vic.gov.au/pal/navigator-program/policy' },
+      { title: 'Guidance — responsibilities, supporting, student, engagement, navigator, program', url: 'https://www2.education.vic.gov.au/pal/navigator-program/guidance' },
+      { title: 'Resources — DOCX, resources, navigator, program, external, short', url: 'https://www2.education.vic.gov.au/pal/navigator-program/resources' }
+    ],
+    resources: [
+      { title: 'About NavigatorExternal Link', note: 'About Navigator External Link – a short video that includes interviews with young people who have been Navigator participants and provides an overview of the program.', url: 'https://player.vimeo.com/video/345583832?title=0&byline=0&portrait=0' },
+      { title: 'Navigator online referralformExternal Link', note: 'Navigator online referral form External Link – where all referrals to Navigator need to be made.', url: 'https://surveyapac.deloitte.com/jfe/form/SV_51330sS8BzvGnnE' },
+      { title: 'Attendance and missingschoolExternal Link', note: 'Attendance and missing school External Link – information and strategies for parents and carers to support them increase and maintain their child’s attendance at school', url: 'https://www.vic.gov.au/attendance-and-missing-school' }
+    ]
+  },
+  { id: 354, title: 'NBN Installation', category: 'IT & Privacy', tags: ['1997', 'NBN', 'OHS', 'EFTPOS', 'responsibilities', 'managing', 'installation', 'national', 'broadband', 'network'], summary: 'This policy sets out schools’ responsibilities for managing the installation of the National Broadband Network, including contractors on site, the impact of National Broadband Network (NBN) installation on fixed line services, and possible physical disturbances to school sites.', url: 'https://www2.education.vic.gov.au/pal/nbn-installation', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/nbn-installation/guidance', resources: 'https://www2.education.vic.gov.au/pal/nbn-installation/resources' },
+    chapters: [
+      { title: 'Policy — 1997, NBN, responsibilities, managing, installation, national', url: 'https://www2.education.vic.gov.au/pal/nbn-installation/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/nbn-installation/guidance' },
+      { title: 'Resources — NBN, resources, useful, websites, external, website', url: 'https://www2.education.vic.gov.au/pal/nbn-installation/resources' }
+    ],
+    resources: [
+      { title: 'NBNCoExternal Link', note: 'NBN Co External Link — a website that contains information about the NBN rollout across Australia and provides further information about the company.', url: 'https://www.nbnco.com.au/' }
+    ]
+  },
+  { id: 355, title: 'NDIS Funded Therapy in Schools', category: 'Students', tags: ['2023', '1992', '2010', '2013', 'NDIS', 'NDIA', 'PDF', 'EC', 'LAC', 'PSD'], summary: 'The purpose of this policy is to explain how schools can support students who receive National Disability Insurance Scheme (NDIS) funded therapy.', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance', resources: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/resources' },
+    chapters: [
+      { title: 'Background — NDIS, NDIA, background, some, opportunities, national', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/department-education-and-training-department-position' },
+      { title: 'Key considerations — NDIS, considerations, principals, consider, factors, deciding', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/key-considerations' },
+      { title: 'Step 1 – Request information — NDIS, DOCX, step, request, requests, funded', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/step-1-request-information' },
+      { title: 'Step 2 – Make a decision — NDIS, DOCX, step, decision, decide, whether', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/step-2-make-decision' },
+      { title: 'Step 3 – Practical arrangements — NDIS, step, practical, arrangements, considering, factors', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/step-3-practical-arrangements' },
+      { title: 'Definitions — definitions, terminology, throughout, guidance, defined, below', url: 'https://www2.education.vic.gov.au/pal/ndis-funded-therapy/guidance/definitions' }
+    ],
+    resources: [
+      { title: 'Request form and parent and carers consent form(DOCX)External Link', note: 'Request form and parent and carers consent form (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/ndis-funded-therapy-request-parent-consent-form.docx' },
+      { title: 'Template letter to parents(DOCX)External Link', note: 'Template letter to parents (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/ndis-funded-therapy-parent-letter.docx' },
+      { title: 'Licensing agreement and information sharing deed(DOCX)External Link', note: 'Licensing agreement and information sharing deed (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/ndis-licensing-agreement-information-sharing-deed.docx' },
+      { title: 'Virtual licensing agreement and information sharing deed(DOCX)External Link', note: 'Virtual licensing agreement and information sharing deed (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/ndis-virtual-agreement-information-sharing-deed.docx' },
+      { title: 'Guide to completing the template school council licence agreement(DOCX)External Link', note: 'Guide to completing the template school council licence agreement (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/ndis-guide-to-completing-licence-agreement.docx' },
+      { title: 'NDIS andschoolsExternal Link', note: 'NDIS and schools External Link', url: 'https://www.vic.gov.au/ndis-and-schools' },
+      { title: 'NDIS School Leaver Employment Support (SLES) information including materials forteachersExternal Link', note: 'Information for teachers of students with disabilities of school-leaving age is available from the NDIS website. Refer to: NDIS School Leaver Employment Support (SLES) information including materials', url: 'https://www.ndis.gov.au/providers/working-provider/school-leavers-employment-supports-sles' }
+    ]
+  },
+  { id: 356, title: 'NDIS Navigators', category: 'Students', tags: ['2023', '2022', 'NDIS', 'NDIA', 'FTE', 'ES', 'purpose', 'overview', 'national', 'disability'], summary: 'The purpose of this policy is to provide an overview of the National Disability Insurance Scheme (NDIS) Navigators initiative in Victorian government specialist schools. The NDIS Navigator supports parents and carers to understand, navigate and access the supports available to them under the NDIS.', url: 'https://www2.education.vic.gov.au/pal/ndis-navigators', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/ndis-navigators/guidance', resources: 'https://www2.education.vic.gov.au/pal/ndis-navigators/resources' },
+    chapters: [
+      { title: 'Recruitment — 2027, NDIS, ES, recruitment, responsible, employing', url: 'https://www2.education.vic.gov.au/pal/ndis-navigators/guidance/recruitment' },
+      { title: 'Roles and responsibilities — NDIS, NDIA, roles, responsibilities, navigator, role', url: 'https://www2.education.vic.gov.au/pal/ndis-navigators/guidance/roles-and-responsibilities' },
+      { title: 'Induction and training — NDIS, induction, training, delegate, induct, navigator', url: 'https://www2.education.vic.gov.au/pal/ndis-navigators/guidance/induction-training' },
+      { title: 'Department policies and guidelines — NDIS, policies, overview, navigators, familiar, related', url: 'https://www2.education.vic.gov.au/pal/ndis-navigators/guidance/department-policies-and-guidelines' }
+    ],
+    resources: [
+      { title: 'Information collection and sharing consent form for parents and carers (DOCX) (staff loginrequired)External Link', note: 'Information collection and sharing consent form for parents and carers (DOCX) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/NDIS-navigators-information-collection-consent-form.docx' },
+      { title: 'Position description (DOCX) (staff loginrequired)External Link', note: 'Position description (DOCX) (staff login required) External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/NDIS-navigators-position-description.docx' }
+    ]
+  },
+  { id: 357, title: 'Noise Management', category: 'OHS', tags: ['2004', '2017', '2019', 'OHS', 'PPE', 'HSR', 'DHSR', 'DOCX', 'HPE', 'NIHL'], summary: 'This policy outlines the health, safety and wellbeing requirements relating to the prevention and management of excessive noise in schools.', url: 'https://www2.education.vic.gov.au/pal/noise-management', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/noise-management/resources' },
+    chapters: [
+      { title: '1. Preparing, planning and ongoing management of noise — OHS, preparing, planning, ongoing, management, excessive', url: 'https://www2.education.vic.gov.au/pal/noise-management/procedure/preparing-planning' },
+      { title: '2. Understanding noise hazards and risks — understanding, noise, hazards, risks, there, activities', url: 'https://www2.education.vic.gov.au/pal/noise-management/procedure/understanding-noise-hazards' },
+      { title: '3. Identifying and assessing noise hazards and risks — identifying, assessing, noise, hazards, risks, delegate', url: 'https://www2.education.vic.gov.au/pal/noise-management/procedure/identifying-noise-hazards' },
+      { title: '4. Controlling noise exposure risks — controlling, noise, exposure, risks, many, eliminated', url: 'https://www2.education.vic.gov.au/pal/noise-management/procedure/controlling-noise-exposure-risks' },
+      { title: '5. Reporting and record keeping — OHS, XLSX, reporting, record, keeping, member', url: 'https://www2.education.vic.gov.au/pal/noise-management/procedure/reporting-record-keeping' }
+    ],
+    resources: [
+      { title: 'Model Code of Practice: Managing noise and preventing hearing loss atworkExternal Link', note: 'Model Code of Practice: Managing noise and preventing hearing loss at work External Link , July 2020', url: 'https://www.safeworkaustralia.gov.au/sites/default/files/2020-07/model_code_of_practice_managing_noise_and_preventing_hearing_loss_at_work.pdf' },
+      { title: 'WorkSafe Victoria Compliance Code:NoiseExternal Link', note: 'WorkSafe Victoria Compliance Code: Noise External Link , Edition 2, December 2019', url: 'https://www.worksafe.vic.gov.au/resources/compliance-code-noise' },
+      { title: 'Safe Work Australia – Noise:OverviewExternal Link', note: 'Safe Work Australia – Noise: Overview External Link', url: 'https://www.safeworkaustralia.gov.au/safety-topic/hazards/noise/overview' }
+    ]
+  },
+  { id: 358, title: 'Notebooks for School Staff Program', category: 'IT & Privacy', tags: ['eduPay', 'ICT', 'VCE', 'ES', 'AMS', 'outlines', 'requirements', 'obtain', 'manage', 'notebooks'], summary: 'This policy outlines requirements for schools to obtain and manage notebooks provided by the Notebooks for School Staff Program (the program).', url: 'https://www2.education.vic.gov.au/pal/notebook-program', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance', resources: 'https://www2.education.vic.gov.au/pal/notebook-program/resources' },
+    chapters: [
+      { title: 'Overview — 1999, overview, notebooks, program, since, continues', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/introduction' },
+      { title: 'Program eligibility — eduPay, ES, SNC, program, eligibility, eligible', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/program-eligibility' },
+      { title: 'School provision entitlement — eduPay, provision, entitlement, tranche, based, eligible', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/school-provision-entitlement' },
+      { title: 'Program provisioning options — program, provisioning, options, notebook, whole-of-school, basis', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/program-provisioning-options' },
+      { title: 'Program-provisioned notebooks — program-provisioned, notebooks, owned, allocated, custodian, eligible', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/program-provisioned-notebooks' },
+      { title: 'School-provisioned notebooks (alternate-provision allowance) — school-provisioned, notebooks, alternate-provision, allowance, purchased, owned', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/school-provisioned-notebooks-alternate-provision-allowance' },
+      { title: 'Program tranches — program, tranches, undertakes, delivery, year, during', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/program-tranches' },
+      { title: 'End-of-life collections — end-of-life, collections, program-provisioned, notebook, program, collect', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/end-life-collections' },
+      { title: 'Software — software, windows, program-provisioned, notebooks, supplied, built', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/software' },
+      { title: 'Warranty and protection overview — VCE, warranty, protection, overview, notebook, guidance', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/warranty-and-insurance' },
+      { title: 'Acer notebook – notebook protection claim submission guidance — acer, notebook, protection, claim, submission, guidance', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/acer-notebook' },
+      { title: 'VCE Apple notebook – notebook protection claim submission guidance — VCE, apple, notebook, protection, claim, submission', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/vce-apple-notebook' },
+      { title: 'Roles and responsibilities — roles, responsibilities, responsible, validating, nominations, program\'s', url: 'https://www2.education.vic.gov.au/pal/notebook-program/guidance/roles-and-responsibilities' }
+    ],
+    resources: [
+      { title: 'NSSP program conditions – program provisioned notebooks(PDF)External Link', note: 'NSSP program conditions – program provisioned notebooks (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Program%20Conditions_Program%20Provisioned%20Notebooks.pdf?Web=1' },
+      { title: 'NSSP program conditions – school provisionednotebooks (PDF)External Link', note: 'NSSP program conditions – school provisioned notebooks (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Program%20Conditions_School%20Provisioned%20Notebooks.pdf?Web=1' },
+      { title: 'NSSP alternate provision (Apple allowance) application(DOCX)External Link', note: 'NSSP alternate provision (Apple allowance) application (DOCX) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Alternate%20provision_(Apple%20allowance)%20Application.docx?Web=1' },
+      { title: 'NSSP alternate provision (enhanced Windows allowance) application(DOCX)External Link', note: 'NSSP alternate provision (enhanced Windows allowance) application (DOCX) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Alternate%20provision_(EW%20allowance)%20Application.docx?Web=1' },
+      { title: 'NSSP high-level tranche processes(PDF)External Link', note: 'NSSP high-level tranche processes (PDF) External Link (staff login required) – this page provides an overview of the process and timelines involved in requesting Program-provisioned notebooks', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_High%20Level%20Tranche%20Processes.pdf?Web=1' },
+      { title: 'NSSP notebook participant agreement template(DOCX)External Link', note: 'NSSP notebook participant agreement template (DOCX) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Notebook%20Participant%20Agreement%20Template.docx?Web=1' },
+      { title: 'NSSP getting started – SNC key tasks – tranche nominations(PDF)External Link', note: 'NSSP getting started – SNC key tasks – tranche nominations (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Getting%20Started_SNC%20Key%20Tasks_Tranche%20Nominations.pdf?Web=1' },
+      { title: 'NSSP getting started – SNC key tasks – reallocating a notebook(PDF)External Link', note: 'NSSP getting started – SNC key tasks – reallocating a notebook (PDF) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Getting%20Started_SNC%20Key%20Tasks_Reallocating%20a%20Notebook.pdf?Web=1' },
+      { title: 'NSSP – Asset Management System – user guide(DOCX)External Link', note: 'NSSP – Asset Management System – user guide (DOCX) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Asset%20Management%20System_User%20Guide.pdf?Web=1' },
+      { title: 'Asset Management System(AMS)External Link', note: 'Asset Management System (AMS) External Link (staff login required)', url: 'https://apps.edustar.vic.edu.au/notebooks/' },
+      { title: 'School TargetedFunding PortalExternal Link', note: 'School Targeted Funding Portal External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/stfg/Pages/default.aspx' },
+      { title: 'Secure Disposal of ICT Equipment(PDF)External Link', note: 'Secure Disposal of ICT Equipment (PDF) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/sites/InformationSecurity/Shared%20Documents/Secure%20Disposal%20of%20ICT%20Equipment%20Policy-published.pdf' },
+      { title: 'NSSP protection claims form(DOCX)External Link', note: 'NSSP protection claims form (DOCX) External Link (staff login required)', url: 'https://edugate.eduweb.vic.gov.au/Services/IT/ITServices/TeacherNotebooks/Getting%20Started/NSSP_Protection%20claims%20form.docx?Web=1' }
+    ]
+  },
+  { id: 359, title: 'Nurses – Transfer to the Teaching Service', category: 'HR - Pay (?ambig)', tags: ['2021', 'VSNP', 'overview', 'effective', 'september', 'registered', 'nurses', 'employed', 'nursing', 'program'], summary: 'Effective 26 September 2021 registered nurses employed in the Victorian School Nursing Program (VSNP) were transferred from the Public Service to the Teaching Service. The Department has prepared information to assist with understanding matters related to the transfer of the nurses.', url: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — 2021, VSNP, overview, effective, september, registered', url: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, resources', url: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/policy-and-guidelines' },
+      { title: 'Resources — PDF, resources, nurse, transfer, frequently, asked', url: 'https://www2.education.vic.gov.au/pal/nurses-transfer-teaching-service/resources' }
+    ]
+  },
+  { id: 360, title: 'OHS Consultation and Communication', category: 'OHS', tags: ['2004', '2017', '2008', 'HSR', 'OHS', 'DWG', 'DHSR', 'outlines', 'health', 'safety'], summary: 'This policy outlines the health and safety regulatory and internal requirements relating to workplace consultation and communication in schools.', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/policy', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure', resources: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/resources' },
+    chapters: [
+      { title: '1. Preparing and planning for health and safety consultation and communication — 3 months, 2004, OHS, HSR, PDF', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure/preparing-planning' },
+      { title: '2. Designated work groups and health and safety representatives — 3 years, 2 weeks, 12 months, 3 months, 2004', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure/designated-work-groups' },
+      { title: '3. Consulting with school staff and health and safety representatives — consulting, health, safety, representatives, reasonably', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure/consulting-school-staff' },
+      { title: '4. Resolving issues and reviewing consultation arrangements — 3 years, 12 months, OHS, DOCX, HSR', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure/resolving-issues' },
+      { title: '5. Record keeping — OHS, HSR, DHSR, record, keeping', url: 'https://www2.education.vic.gov.au/pal/ohs-consultation-communication/procedure/record-keeping' }
+    ]
+  },
+  { id: 361, title: 'OHS Risk Planning and Management', category: 'OHS', tags: ['3 years', '2004', '2017', '2018', 'OHS', 'HSR', 'XLSX', 'SWMS', 'DOCX', 'PDF'], summary: 'This policy outlines the health, safety and wellbeing risk planning and management requirements for schools to ensure occupational health and safety (OHS) hazards and risks associated with school activities, including those on and off school grounds, are identified, assessed and managed.', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/policy', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure', resources: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/resources' },
+    chapters: [
+      { title: 'Planning for effective OHS risk management — 3 years, OHS, HSR, SWMS, DOCX', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/planning-for-effective-ohs-risk-management' },
+      { title: 'Developing and maintaining an OHS risk register for health, safety and wellbeing risks — OHS, XLSX, PIA, developing, maintaining', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/developing-maintaining-an-ohs-risk-register' },
+      { title: 'Identifying hazards — OHS, HSR, DOCX, identifying, hazards', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/identifying-hazards' },
+      { title: 'Assessing risks — 48 hours, 7 days, OHS, DOCX, assessing', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/assessing-risks' },
+      { title: 'Controlling risks — HSR, OHS, controlling, risks, once', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/controlling-risks' },
+      { title: 'Reviewing and monitoring risk controls — HSR, OHS, XLSX, reviewing, monitoring', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/reviewing-monitoring-risk-controls' },
+      { title: 'Record keeping — OHS, record, keeping, maintain, records', url: 'https://www2.education.vic.gov.au/pal/ohs-risk-management-planning/procedure/record-keeping' }
+    ]
+  },
+  { id: 362, title: 'Sorry!', category: 'HR - Recruitment', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/other-employment', popular: false },
+  { id: 363, title: 'Outdoor Activities and Working Outdoors', category: 'OHS', tags: ['2004', 'UV', 'HSR', 'OHS', 'outlines', 'requirements', 'prevent', 'manage', 'risks', 'hazards'], summary: 'This policy outlines the requirements for schools to prevent and manage the risks and hazards associated with school staff engaging in outdoor activities or working outdoors on school grounds.', url: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/policy', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/procedure', resources: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/resources' },
+    chapters: [
+      { title: 'Ongoing management of outdoor activities and working outdoors — OHS, ongoing, management, outdoor, activities', url: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/procedure/ongoing-management-outdoor-activities-and' },
+      { title: 'Identifying hazards and assessing the risks related to outdoor activities and working outdoors — PE, UV, DOCX, OHS, identifying', url: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/procedure/identifying-hazards-and-assessing-risks' },
+      { title: 'Controlling the risks — HSR, UV, SPF, controlling, risks', url: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/procedure/controlling-risks' },
+      { title: 'Hazard, incident and near miss reporting — hazard, incident, near, miss, reporting', url: 'https://www2.education.vic.gov.au/pal/outdoor-activities-and-working-outdoors/procedure/hazard-incident-and-near-miss-reporting' }
+    ]
+  },
+  { id: 364, title: 'Outdoor Education Schools', category: 'School Operations', tags: ['2021', '2006', 'VCE', 'VET', 'II', 'form act', 'purpose', 'support', 'outdoor', 'education'], summary: 'Outdoor education engages students to develop positive relationships with self, others and with outdoor environments through interaction with the natural world. Distinct from outdoor learning, which is a broad term used to describe any learning outside the classroom, outdoor education usually involves residential or journey-based experiences to impart personal, social and critical thinking capabilities, physical skills, and subject-specific knowledge.', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/policy', guidance: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/resources' },
+    chapters: [
+      { title: 'Value of outdoor education — 2015, UK, value, outdoor, education', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance/value-outdoor-education' },
+      { title: 'The Department’s outdoor education schools — ROSA, FISO, HITS, outdoor, education', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance/departments-outdoor-education-schools' },
+      { title: 'Curriculum planning and delivery — VCE, VET, curriculum, planning, delivery', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance/curriculum-planning-and-delivery' },
+      { title: 'Allocation of places — ROSA, allocation, places, principles, recommended', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance/allocation-places' },
+      { title: 'Staff experience and qualifications — experience, qualifications, outdoor, education, ensure', url: 'https://www2.education.vic.gov.au/pal/outdoor-education-schools/guidance/staff-experience-and-qualifications' }
+    ]
+  },
+  { id: 365, title: 'Sorry!', category: 'HR - Recruitment', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service', popular: false },
+  { id: 366, title: 'Participating in Parliamentary Inquiries and Royal Commissions', category: 'School Operations', tags: ['2014', '2003', '1902', 'form investigations', 'purpose', 'support', 'participating', 'parliamentary', 'inquiries', 'royal'], summary: 'The purpose of this policy is to provide information and support for staff participating in parliamentary inquiries and royal commissions.', url: 'https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions/policy', guidance: 'https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions/guidance', resources: 'https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions/resources' },
+    chapters: [
+      { title: 'Return to Participating in Parliamentary Inquiries and Royal CommissionsParticipating in Parliame... — 2014, 2003, 1902, form investigations, purpose', url: 'https://www2.education.vic.gov.au/pal/participating-parliamentary-inquiries-and-royal-commissions' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 367, title: 'Sorry!', category: 'HR - Pay', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/pay-advice-online', popular: false },
+  { id: 368, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/personal-details-changes', popular: false },
+  { id: 369, title: 'Personal Hygiene', category: 'Students', tags: ['2025', '2027', '2006', '1992', '2010', '1984', 'SRP', 'LGBTIQA', 'DOCX', 'form external'], summary: 'The purpose of this policy is to protect the health of the school community and help students manage their own personal hygiene routines.', url: 'https://www2.education.vic.gov.au/pal/personal-hygiene', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/personal-hygiene/policy', guidance: 'https://www2.education.vic.gov.au/pal/personal-hygiene/guidance', resources: 'https://www2.education.vic.gov.au/pal/personal-hygiene/resources' },
+    chapters: [
+      { title: '1. Information on the Free Period Products in all Government Schools Initiative — 2019, form external, free, period, products', url: 'https://www2.education.vic.gov.au/pal/personal-hygiene/guidance/free-sanitary-pads-tampons-initiative' },
+      { title: '2. How to promote positive menstrual health in schools — 4 hours, 2025, 2027, DOCX, PPTX', url: 'https://www2.education.vic.gov.au/pal/personal-hygiene/guidance/2-how-promote-positive-menstrual-health-schools' },
+      { title: '3. Preventing misuse of period products — form students, preventing, misuse, period, products', url: 'https://www2.education.vic.gov.au/pal/personal-hygiene/guidance/3-preventing-misuse-sanitary-items' }
+    ]
+  },
+  { id: 370, title: 'Personal Liability of School Employees and Volunteers', category: 'School Operations', tags: ['purpose', 'confirm', 'teaching', 'service', 'public', 'volunteer', 'workers', 'council', 'usually', 'indemnified'], summary: 'The purpose of this policy is to confirm that Departmental employees in schools (including teaching service and public service employees), volunteer school and student workers, and school council employees will usually be indemnified in relation to legal claims made about and against them by or on behalf of students (or others) where the claim arises as a direct consequence of the employee or worker legitimately and properly performing duties in a Victorian government school.', url: 'https://www2.education.vic.gov.au/pal/personal-liability-school-employees', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/personal-liability-school-employees/policy', guidance: 'https://www2.education.vic.gov.au/pal/personal-liability-school-employees/guidance', resources: 'https://www2.education.vic.gov.au/pal/personal-liability-school-employees/resources' },
+    chapters: [
+      { title: 'Return to Personal Liability of School Employees and VolunteersPersonal Liability of Sch... — purpose, confirm, teaching, service, public', url: 'https://www2.education.vic.gov.au/pal/personal-liability-school-employees' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 371, title: 'Philanthropic Partnerships', category: 'School Council', tags: ['$250,000', '$250,000,', 'DOCX', 'purpose', 'ensure', 'plan', 'manage', 'administer', 'philanthropic', 'partnerships'], summary: 'The purpose of this policy is to ensure schools plan for, manage and administer philanthropic partnerships in accordance with Department requirements and principles relating to philanthropic partnerships.', url: 'https://www2.education.vic.gov.au/pal/philanthropic-partnerships', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/philanthropic-partnerships/policy', guidance: 'https://www2.education.vic.gov.au/pal/philanthropic-partnerships/guidance', resources: 'https://www2.education.vic.gov.au/pal/philanthropic-partnerships/resources' },
+    chapters: [
+      { title: 'Return to Philanthropic PartnershipsPhilanthropic Partnership... — $250,000, $250,000,, DOCX, purpose, ensure', url: 'https://www2.education.vic.gov.au/pal/philanthropic-partnerships' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ],
+    resources: [
+      { title: 'Department of Education and Training Policy Statement on Public-philanthropic Partnership(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/policy-statement-on-public-philanthropic-partnerships-1114' }
+    ]
+  },
+  { id: 372, title: 'Photographing, Filming and Recording Staff and Other Adults', category: 'IT & Privacy', tags: ['2000', '1968', '2014', 'CCTV', 'ID', 'form with', 'purpose', 'ensure', 'collection', 'photographs'], summary: 'The purpose of this policy is to ensure the collection and use of photographs, films and recordings of staff and other adults in schools complies with relevant legislation and Department policy.', url: 'https://www2.education.vic.gov.au/pal/photographing-staff', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/photographing-staff/policy', guidance: 'https://www2.education.vic.gov.au/pal/photographing-staff/guidance', resources: 'https://www2.education.vic.gov.au/pal/photographing-staff/resources' },
+    chapters: [
+      { title: 'Return to Photographing, Filming and Recording Staff and Other AdultsPhotographing, Filming an... — 2000, 1968, 2014, CCTV, ID', url: 'https://www2.education.vic.gov.au/pal/photographing-staff' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 373, title: 'Photographing, Filming and Recording Students', category: 'IT & Privacy', tags: ['2014', '2025', '2000', '1968', 'DOCX', 'CCTV', 'SMS', 'MP', 'form for', 'form must'], summary: 'The purpose of this policy is to ensure the collection and use of photographs, films and recordings of students in schools complies with relevant legislation and department policy.', url: 'https://www2.education.vic.gov.au/pal/photographing-students', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/photographing-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/photographing-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/photographing-students/resources' },
+    chapters: [
+      { title: 'Return to Photographing, Filming and Recording StudentsPhotographing, Filming an... — 2014, 2025, 2000, 1968, DOCX', url: 'https://www2.education.vic.gov.au/pal/photographing-students' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 374, title: 'Physical and Sport Education – Safety', category: 'OHS', tags: ['purpose', 'ensure', 'physical', 'education', 'classes', 'sporting', 'activities', 'conducted', 'safely', 'summary'], summary: 'The purpose of this policy is to ensure that all physical education classes and sporting activities are conducted safely.', url: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety/policy', guidance: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety/guidance', resources: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety/resources' },
+    chapters: [
+      { title: 'Return to Physical and Sport Education – SafetyPhysical and Sport Educat... — purpose, ensure, physical, education, classes', url: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-safety' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 375, title: 'Physical and Sport Education — Delivery Requirements', category: 'Curriculum', tags: ['1 hour', 'form of', 'purpose', 'ensure', 'conduct', 'minimum', 'amount', 'physical', 'sport', 'education'], summary: 'The purpose of this policy is to ensure schools conduct the minimum required amount of physical and sport education.', url: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements/policy', guidance: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements/guidance', resources: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements/resources' },
+    chapters: [
+      { title: 'Return to Physical and Sport Education — Delivery RequirementsPhysical and Sport Educat... — 1 hour, form of, purpose, ensure, conduct', url: 'https://www2.education.vic.gov.au/pal/physical-and-sport-education-delivery-requirements' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 376, title: 'Physical Security', category: 'Infrastructure', tags: ['EMP', 'DOCX', 'CCTV', 'ISOC', 'form development', 'overview', 'brings', 'together', 'policies', 'support'], summary: 'This overview brings together policies to support schools in identifying and mitigating physical security threats.', url: 'https://www2.education.vic.gov.au/pal/physical-security', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/physical-security/policy', guidance: 'https://www2.education.vic.gov.au/pal/physical-security/guidance', resources: 'https://www2.education.vic.gov.au/pal/physical-security/resources' },
+    chapters: [
+      { title: 'Return to Physical SecurityPhysical Security — EMP, DOCX, CCTV, ISOC, form development', url: 'https://www2.education.vic.gov.au/pal/physical-security' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ],
+    resources: [
+      { title: 'Securing your school – an information guide for principals and school leaders (DOCX) (staff loginrequired)External Link', note: 'Securing your school – an information guide for principals and school leaders (DOCX) (staff loginreq', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Securing-your-school.docx' },
+      { title: 'Physical security assessment template (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Physical-security-assessment.docx' },
+      { title: 'Evacuation diagram template(PPTX)External Link', note: 'Evacuation diagram template(PPTX)External Link– provides a sample layout and icons to assist schools', url: 'https://content.sdp.education.vic.gov.au/media/evacuation-diagram-template-1503' },
+      { title: 'Evacuation diagram checklist(DOCX)External Link', note: 'Evacuation diagram checklist(DOCX)External Link– to assist schools in developing their evacuation di', url: 'https://content.sdp.education.vic.gov.au/media/evacuation-diagram-checklist-1502' },
+      { title: 'Bomb threat checklist (DOCX) (staff loginrequired)External Link', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Telephone-bomb-threat-checklist.docx' },
+      { title: 'Managing incidents in my school – poster (PDF) (staff loginrequired)External Link', note: 'Managing incidents in my school – poster (PDF) (staff loginrequired)External Link– can be displayed', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/managing-incidents-in-my-school.pdf' },
+      { title: 'Risk management process for schools pocket guide(PDF)External Link', url: 'https://content.sdp.education.vic.gov.au/media/risk-management-schools-pocket-guide-2259' }
+    ]
+  },
+  { id: 377, title: 'Planned Maintenance Program', category: 'Infrastructure', tags: ['$2 million', '$50,000', '12 months', '9 months', '2026', '1994', 'PMP', 'RFE', 'VSBA', 'AIMS'], summary: 'This policy sets out the purpose of the planned maintenance program funding, and the requirements for a project based on funding amount and project type.', url: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program/policy', guidance: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program/guidance', resources: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program/resources' },
+    chapters: [
+      { title: 'Guidelines for school-led funding allocations — $50,000, 9 months, 1994, PMP, RFE', url: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program/guidance/guidelines-school-led-funding-allocations' },
+      { title: 'Guidelines for VSBA-led funding allocations — $50,000, VSBA, RFE, funding, allocations', url: 'https://www2.education.vic.gov.au/pal/planned-maintenance-program/guidance/guidelines-vsba-led-funding-allocations' }
+    ],
+    resources: [
+      { title: 'School Maintenance Plans and Rolling FacilitiesEvaluationsExternal Link', url: 'https://www2.education.vic.gov.au/pal/school-maintenance-plans-rfe/policy' },
+      { title: 'Funding Declaration for allocations up to $50,000(DOCX)External Link', note: 'Funding Declaration for allocations up to $50,000(DOCX)External LinkSchools that receive up to $50,0', url: 'https://content.sdp.education.vic.gov.au/media/planned-maintenance-program-funding-declaration-form-2406' },
+      { title: 'Condition AssessmentportalExternal Link', note: 'Condition AssessmentportalExternal Link(login required — school account)Using the school login detai', url: 'https://edugate.eduweb.vic.gov.au/Services/Schools/Infrastructure/maintassess/default.aspx' }
+    ]
+  },
+  { id: 378, title: 'Plant and Equipment Management', category: 'Infrastructure', tags: ['2025', '2004', '2017', 'OHS', 'OHSMS', 'DOCX', 'HSR', 'XLSX', 'PPE', 'form external'], summary: 'In limited circumstances, schools can apply for a department-approved exemption to the plant and machinery age restriction requirements which are detailed in this policy. This exemption may be requested to allow for middle years (years 9 and 10) students to be permitted to use items classified as restricted for the purposes of curriculum or educational program delivery, where reasonable and necessary.', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/policy', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure', resources: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/resources' },
+    chapters: [
+      { title: '1. Identify plant and equipment — HSR, XLSX, DOCX, identify, plant', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/1-identify-plant-and-equipment' },
+      { title: '2. Risk assessment of plant and equipment — DOCX, HSR, risk, assessment, plant', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/2-risk-assessment-plant-and-equipment' },
+      { title: '3. Purchase or acquisition of plant — OHS, DOCX, HSR, purchase, acquisition', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/3-purchase-or-acquisition-plant' },
+      { title: '4. Controlling plant and equipment risks — 5 years, HSR, OHS, DOCX, PPE', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/4-controlling-plant-and-equipment-risks' },
+      { title: '5. OHS Risk Register — OHS, XLSX, risk, register, principal', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/50-ohs-risk-register' },
+      { title: '6. Legislation, codes of practice, standards and guidance — 2004, 2017, 2019, legislation, codes', url: 'https://www2.education.vic.gov.au/pal/plant-and-equipment-management/procedure/6-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 379, title: 'Plantations', category: 'Infrastructure', tags: ['VSBA', 'CFA', 'sets', 'management', 'requirements', 'plantations', 'summary', 'councils', 'responsible', 'managing'], summary: 'This policy sets out the use and management requirements for school plantations.', url: 'https://www2.education.vic.gov.au/pal/plantations', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/plantations/policy', guidance: 'https://www2.education.vic.gov.au/pal/plantations/guidance', resources: 'https://www2.education.vic.gov.au/pal/plantations/resources' },
+    chapters: [
+      { title: 'Return to PlantationsPlantations — VSBA, CFA, sets, management, requirements', url: 'https://www2.education.vic.gov.au/pal/plantations' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 380, title: 'Police and Child Protection Interviews', category: 'School Operations', tags: ['18 years', '2006', '1958', 'PDF', 'form the', 'form act', 'purpose', 'assist', 'principals', 'respond'], summary: 'The purpose of this policy is to assist principals to respond to a request by Victoria Police or Department of Families, Fairness and Housing Child Protection (Child Protection) workers to interview a student at school.', url: 'https://www2.education.vic.gov.au/pal/police-child-protection-interviews', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/police-child-protection-interviews/policy', guidance: 'https://www2.education.vic.gov.au/pal/police-child-protection-interviews/guidance', resources: 'https://www2.education.vic.gov.au/pal/police-child-protection-interviews/resources' },
+    chapters: [
+      { title: 'Return to Police and Child Protection InterviewsPolice and Child Protecti... — 18 years, 2006, 1958, PDF, form the', url: 'https://www2.education.vic.gov.au/pal/police-child-protection-interviews' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 381, title: 'Police – Department Protocol on Reporting Criminal Activity', category: 'Students (?ambig)', tags: ['2005', '2006', '2001', '2014', 'form act', 'outlines', 'protocol', 'operates', 'police', 'crime'], summary: 'This policy outlines the protocol that operates between the department and Victoria Police when a crime is alleged to have been committed by students at school, travelling directly to or from school, or during school activities.', url: 'https://www2.education.vic.gov.au/pal/reporting-criminal-activity', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/reporting-criminal-activity/policy', guidance: 'https://www2.education.vic.gov.au/pal/reporting-criminal-activity/guidance', resources: 'https://www2.education.vic.gov.au/pal/reporting-criminal-activity/resources' },
+    chapters: [
+      { title: 'Return to Police – Department Protocol on Reporting Criminal ActivityPolice – Department Proto... — 2005, 2006, 2001, 2014, form act', url: 'https://www2.education.vic.gov.au/pal/reporting-criminal-activity' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 382, title: 'Political Activities', category: 'School Operations', tags: ['2006', '1975', '2010', '2009', '2004', 'IT', 'PDF', 'form all', 'form and', 'form their'], summary: 'This policy outlines the rights and obligations of Victorian government school employees when participating in political activities.', url: 'https://www2.education.vic.gov.au/pal/political-activities', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/political-activities/policy', guidance: 'https://www2.education.vic.gov.au/pal/political-activities/guidance', resources: 'https://www2.education.vic.gov.au/pal/political-activities/resources' },
+    chapters: [
+      { title: 'Return to Political ActivitiesPolitical Activities — 2006, 1975, 2010, 2009, 2004', url: 'https://www2.education.vic.gov.au/pal/political-activities' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 383, title: 'Sorry!', category: 'HR - Pay', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments', popular: false },
+  { id: 384, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program', popular: false },
+  { id: 385, title: 'Pre-service Teacher Placements in Victorian Government Schools', category: 'HR - Pay (?ambig)', tags: ['$36.08', '$36.80', '$1.80', '$1.84', '2 Weeks', '2 week', '2024', '2025', '2022', 'PST'], summary: 'This policy outlines the practices and processes required in relation to pre-service teacher (PST) professional practice placements in Victorian government schools, as agreed between the department and all Victorian universities and other initial teacher education (ITE) providers.', url: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placements', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placements/policy', guidance: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placements/guidance', resources: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placements/resources' },
+    chapters: [
+      { title: 'Return to Pre-service Teacher Placements in Victorian Government SchoolsPre-service Teacher Place... — $36.08, $36.80, $1.80, $1.84, 2 Weeks', url: 'https://www2.education.vic.gov.au/pal/pre-service-teacher-placements' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ],
+    resources: [
+      { title: 'Memorandum of Understanding for PST placements with ITE providers(PDF)External Link', note: 'TheMemorandum of Understanding for PST placements with ITE providers(PDF)External Linkprovides the b', url: 'https://content.sdp.education.vic.gov.au/media/pre-service-teacher-placements-mou-between-de-ite-providers-2413' },
+      { title: 'pre-service teacherhubExternal Link', note: 'For information on the supports available for pre-service teachers (PSTs) completing placements in V', url: 'https://www.vic.gov.au/pre-service-teacher-hub' }
+    ]
+  },
+  { id: 386, title: 'Pre-service Teachers Working with Permission to Teach (General)', category: 'HR - Pay (?ambig)', tags: ['2023', 'PTT', 'ITE', 'MOU', 'FTE', 'VIT', 'form of', 'outlines', 'practices', 'processes'], summary: 'This policy outlines the practices and processes required in relation to pre-service teachers (PSTs) working in Victorian government schools with Permission to Teach (PTT) (General), as agreed between the department and Victorian initial teacher education (ITE) providers.', url: 'https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach/policy', guidance: 'https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach/guidance', resources: 'https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach/resources' },
+    chapters: [
+      { title: 'Return to Pre-service Teachers Working with Permission to Teach (General)Pre-service Teachers Work... — 2023, PTT, ITE, MOU, FTE', url: 'https://www2.education.vic.gov.au/pal/pre-service-teachers-permission-to-teach' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ],
+    resources: [
+      { title: 'Memorandum of Understanding on Pre-service Teachers working with PTT (General)(PDF)External Link', note: 'TheMemorandum of Understanding on Pre-service Teachers working with PTT (General)(PDF)External Links', url: 'https://content.sdp.education.vic.gov.au/media/mou-pre-service-teachers-working-with-ptt-2367' },
+      { title: 'Victorian Institute of Teaching – permission toteachExternal Link', url: 'https://www.vit.vic.edu.au/register/categories/ptt' },
+      { title: 'Frequently asked questions for Victorian government schools on employing pre-service teachers with Permission to Teach (General)(DOCX)External Link', url: 'https://content.sdp.education.vic.gov.au/media/pre-service-teachers-with-ptt-faq-2414' }
+    ]
+  },
+  { id: 387, title: 'Pregnancy and Parenting – Students', category: 'Students (?ambig)', tags: ['34 weeks', '3 years', 'CEF', 'VCE', 'VPC', 'VET', 'purpose', 'ensure', 'support', 'pregnant'], summary: 'The purpose of this policy is to ensure schools support pregnant and parenting students.', url: 'https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students/policy', guidance: 'https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students/resources' },
+    chapters: [
+      { title: 'Return to Pregnancy and Parenting – StudentsPregnancy and Parenting –... — 34 weeks, 3 years, CEF, VCE, VPC', url: 'https://www2.education.vic.gov.au/pal/pregnancy-and-parenting-students' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ],
+    resources: [
+      { title: 'Better HealthChannelExternal Link', url: 'http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Teenage_pregnancy' },
+      { title: 'Family PlanningVictoriaExternal Link', url: 'http://www.fpv.org.au/' },
+      { title: 'Marie StopesInternationalExternal Link', url: 'http://www.mariestopes.org.au/' },
+      { title: 'The Council of Single Mothers and their Children (CSMC)VictoriaExternal Link', url: 'http://www.csmc.org.au/' }
+    ]
+  },
+  { id: 388, title: 'Policy', category: 'School Operations', tags: ['2006', '2005', '2010', '2001', '1975', 'PDF', 'ISOC', 'EAL', 'VAEAI', 'translated'], summary: 'For translated versions of the policy and suggested website text to help schools communicate a link to the policy on their school website, refer to theResources tab – Communicating with your schoolcommunityExternal Link.', url: 'https://www2.education.vic.gov.au/pal/preventing-addressing-racism-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/preventing-addressing-racism-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/preventing-addressing-racism-schools/resources' },
+    chapters: [
+      { title: 'Return to Preventing and Addressing Racism in SchoolsPreventing and Addressing... — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' }
+    ]
+  },
+  { id: 389, title: 'Prevention of Falls when Working at Heights', category: 'OHS', tags: ['2 years', '2004', '2017', 'OHS', 'SWMS', 'HSR', 'PDF', 'ladder', 'licences', 'exist'], summary: '\'Ladder licences\' do not exist under Victorian Occupational Health and Safety (OHS) legislation. Individuals required to work at heights must complete the competency-based ‘work safely at heights’ training course (RIIWHS204E).', url: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/policy', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/procedure', resources: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/resources' },
+    chapters: [
+      { title: '1. Identifying working at heights hazards — HSR, OHS, identifying, heights, hazards', url: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/procedure/identifying-working-at-heights-hazards' },
+      { title: '2. Assessing and controlling the risks — 2 years, SWMS, OHS, NZS, AIMS', url: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/procedure/assessing-and-controlling-the-risks' },
+      { title: '3. Hazard, incident and near miss reporting — HSR, hazard, incident, near, miss', url: 'https://www2.education.vic.gov.au/pal/prevention-falls-when-working-heights/procedure/hazard-incident-and-near-miss-reporting' }
+    ]
+  },
+  { id: 390, title: 'Primary to Secondary School Transition', category: 'Curriculum', tags: ['3 months', 'CISS', 'FISO', 'form transition', 'support', 'transition', 'primary', 'secondary', 'outlines', 'implement'], summary: 'Schools are required to support students as they transition from primary to secondary school. This policy outlines how schools can implement effective transition programs and support for their students from Year 5 to Year 8.', url: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition/policy', guidance: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition/guidance', resources: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition/resources' },
+    chapters: [
+      { title: 'Four phases of transition to secondary school — DOCX, form transition, form tier, form learning, four', url: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition/guidance/four-phases-of-transition-to-secondary-school' },
+      { title: 'Contributors to a positive transition — EAL, SSG, CATS, IEP, PSD', url: 'https://www2.education.vic.gov.au/pal/primary-secondary-school-transition/guidance/contributors-to-positive-transition' }
+    ]
+  },
+  { id: 391, title: 'Principal Health and Wellbeing', category: 'OHS', tags: ['2018', '2004', 'page', 'explains', 'principal', 'health', 'wellbeing', 'strategy', 'initiatives', 'promote'], summary: 'This page explains the department\'s Principal Health and Wellbeing Strategy and the initiatives to promote a safe and supportive environment for school leaders to be their best.', url: 'https://www2.education.vic.gov.au/pal/principal-health-and-wellbeing', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/principal-health-and-wellbeing/procedure', resources: 'https://www2.education.vic.gov.au/pal/principal-health-and-wellbeing/resources' },
+    chapters: [
+      { title: 'Return to Principal Health and WellbeingPrincipal Health and Well... — 2018, 2004, page, explains, principal', url: 'https://www2.education.vic.gov.au/pal/principal-health-and-wellbeing' },
+      { title: 'Home — external, link, early, childhood, education', url: 'https://www2.education.vic.gov.au/' },
+      { title: 'Policy and Advisory Library — filter, topics, category', url: 'https://www2.education.vic.gov.au/pal' }
+    ]
+  },
+  { id: 392, title: 'Sorry!', category: 'HR - Recruitment', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/probation-teaching-service', popular: false },
+  { id: 393, title: 'Professional Learning Communities', category: 'Curriculum', tags: ['2028', 'PLC', 'ES', 'VTLM', 'SSP', 'AIP', 'FISO', 'outlines', 'operation', 'professional'], summary: 'This policy outlines the operation of professional learning communities (PLC) in government schools.', url: 'https://www2.education.vic.gov.au/pal/professional-learning-communities', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/professional-learning-communities/policy', guidance: 'https://www2.education.vic.gov.au/pal/professional-learning-communities/guidance', resources: 'https://www2.education.vic.gov.au/pal/professional-learning-communities/resources' },
+    chapters: [
+      { title: 'Effective professional learning communities — PLC, SEIL, EIL, form decision, form the', url: 'https://www2.education.vic.gov.au/pal/professional-learning-communities/guidance/effective-professional-learning-communities' },
+      { title: 'Implementing professional learning communities — SSP, AIP, PLC, FISO, VTLM', url: 'https://www2.education.vic.gov.au/pal/professional-learning-communities/guidance/implementing-professional-learning-communities' }
+    ]
+  },
+  { id: 394, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/professional-practice-days', popular: false },
+  { id: 395, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/public-holidays', popular: false },
+  { id: 396, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/public-service-medal', popular: false },
+  { id: 397, title: 'Purchasing Vocational Education and Training', category: 'Curriculum', tags: ['2025', '2026', 'VET', 'VDSS', 'DE', 'RTO', 'TAFE', 'VRQA', 'ASQA', 'VCE'], summary: 'This policy outlines the requirements for purchasing vocational education and training (VET) from registered training organisations (RTOs), including the role of different RTOs in the VET delivered to school students (VDSS) system, and the different VET delivery models.', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/policy', guidance: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance', resources: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/resources' },
+    chapters: [
+      { title: 'Overview — VET, RTO, TAFE, CECV, ISV', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/introduction' },
+      { title: 'Context — 2006, VET, RTO, VRQA, ASQA', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/context' },
+      { title: 'Strengthening the role of TAFE in VCE VET — 2030, TAFE, VCE, VET, DE', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/strengthening-the-role-of-tafe-in-vce-vet' },
+      { title: 'Step by step guide for schools — RTO, VET, VCAA, VCE, SWL', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/step-step-guide-schools' },
+      { title: 'Roles and responsibilities — 2001, VET, RTO, VRQA, ASQA', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/roles-and-responsibilities' },
+      { title: 'Fees and charges — VET, TAFE, RTO, form or, fees', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/fees-and-charges' },
+      { title: 'Contracts and agreements between the parties — VET, RTO, contracts, agreements, parties', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/contracts-and-agreements-between-parties' },
+      { title: 'Accountabilities of schools and RTOs — Safety, wellbeing and engagement — 2020, 2014, 2006, VET, RTO', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/accountabilities-schools-and-rtos-safety-wellbeing-and' },
+      { title: 'Students with a disability — 1992, 2005, disability, discrimination, external', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/students-disabilities' },
+      { title: 'Managing disputes, concerns and issues — 14 days, 2006, VET, RTO, ACDC', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/managing-disputes-concerns-and-issues' },
+      { title: 'Glossary — 2015, AQF, ASQA, CECV, DE', url: 'https://www2.education.vic.gov.au/pal/purchasing-vocational-education-training/guidance/glossary' }
+    ]
+  },
+  { id: 398, title: 'Re-engagement Programs (Years 7 to 10)', category: 'Curriculum', tags: ['RTO', 'VRQA', 'ASQA', 'DOCX', 'sets', 'requirements', 'relation', 'engagement', 'programs', 'delivered'], summary: 'This policy sets out the requirements for schools in relation to re-engagement programs. It only applies to programs that are delivered offsite by third-party registered training organisation (RTO) providers, for secondary school students in Years 7 to 10.', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/policy', guidance: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance', resources: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/resources' },
+    chapters: [
+      { title: 'Re-engagement programs and providers — VRQA, ASQA, VET, IEP, SSG', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance/re-engagement-programs-and-providers' },
+      { title: 'Re-engagement programs versus flexible learning options — RTO, DOCX, FLO, engagement, programs', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance/re-engagement-programs-versus-flexible-learning-options' },
+      { title: 'Referring a student to a re-engagement program — 2014, form obtained, referring, engagement, program', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance/referring-student-re-engagement-program-0' },
+      { title: 'Duty of care, contract arrangements, program fees — $46.47, $232.35, 2026, 2025, MO', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance/duty-care-contract-arrangements-program-fees' },
+      { title: 'Managing students in re-engagement programs — IEP, PAL, form as, managing, engagement', url: 'https://www2.education.vic.gov.au/pal/re-engagement-programs/guidance/managing-students-re-engagement-programs' }
+    ],
+    resources: [
+      { title: 'Standard 7 to 10 contract(DOCX)External Link', note: 'AStandard 7 to 10 contract(DOCX)External Link(staff login required) is to be used by schools for enr', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/re-engagement-programs-standard-7-10-contract-template.docx' },
+      { title: 'Contract cover sheet(DOCX)External Link', note: 'Accompanying the standard 7 to 10 contract is a newContract cover sheet(DOCX)External Link(staff log', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/re-engagement-programs-contract-cover-sheet-template.docx' },
+      { title: 'Fact sheet: Re-engagement Programs (Years 7 to 10)(DOCX)External Link', note: 'Fact sheet: Re-engagement Programs (Years 7 to 10)(DOCX)External Link– this fact sheet resource prov', url: 'https://content.sdp.education.vic.gov.au/media/re-engagement-programs-7-to-10-factsheet-2335' }
+    ]
+  },
+  { id: 399, title: 'Sorry!', category: 'HR - Pay (?ambig)', tags: ['maintenance', 'sorry', 'site', 'currently', 'undergoing', 'back', 'online', 'soon', 'home'], summary: 'We\'re currently undergoing maintenance on this site, we\'ll be back online soon.', url: 'https://www2.education.vic.gov.au/pal/records-management-employee-information', popular: false },
+  { id: 400, title: 'Release of Staff to Non-school Locations', category: 'HR - Pay (?ambig)', tags: ['January 2026', 'November 2025', 'release', 'non-school', 'locations', 'topic', 'content', 'advisory'], summary: 'This topic has been retired. The relevant policy can now be found at Transfer and Promotion for Teaching Service External Link .', url: 'https://www2.education.vic.gov.au/pal/release-non-school-locations', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/release-non-school-locations/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/release-non-school-locations/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/release-non-school-locations/resources' }
+  },
+  { id: 401, title: 'Religious Observance', category: 'HR - Pay (?ambig)', tags: ['February 2025', 'June 2020', 'HR', 'religious', 'observance', 'resources', 'content', 'advisory', 'library'], summary: 'Refer to Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/religious-observance', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/religious-observance/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/religious-observance/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/religious-observance/resources' }
+  },
+  { id: 402, title: 'Repeating a Year Level', category: 'Curriculum', tags: ['October 2025', '3 months', '2 years', 'DOCX', 'SSS', 'VCE', 'repeating', 'repeat', 'decision', 'parents'], summary: 'This policy explains the department’s requirements on students repeating a year level.', url: 'https://www2.education.vic.gov.au/pal/repeating-year-level', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/repeating-year-level/guidance', resources: 'https://www2.education.vic.gov.au/pal/repeating-year-level/resources' },
+    chapters: [
+      { title: 'Policy — 3 months, 2 years, DOCX, SSS, VCE, repeating', url: 'https://www2.education.vic.gov.au/pal/repeating-year-level/policy' }
+    ],
+    resources: [
+      { title: 'Repeating a year level information for principals(DOCX)External Link', note: 'Repeating a year level information for principals (DOCX) External Link – this is a summary of the po', url: 'https://content.sdp.education.vic.gov.au/media/repeating-year-level-information-for-principals-2353' },
+      { title: 'Repeating a year level information for families(DOCX)External Link', note: 'Repeating a year level information for families (DOCX) External Link – this is a summary of the poli', url: 'https://content.sdp.education.vic.gov.au/media/repeating-year-level-information-for-families-2352' }
+    ]
+  },
+  { id: 403, title: 'Report Fraud or Corruption', category: 'HR - Pay (?ambig)', tags: ['March 2026', 'June 2020', 'Commission External Link Public Interest Disclosures Act 2012', 'The Public Interest Disclosures Act 2012', 'Public Interest Disclosures Act 2012', 'PID', 'DOCX', 'IBAC', 'GPO', 'public'], summary: 'If you have knowledge or reason to believe a departmental employee, contractor or service provider has been involved in fraudulent or corrupt conduct, you should report it as a complaint or public interest disclosure.', url: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption/resources' },
+    chapters: [
+      { title: 'Make a complaint — phone, email, fraud, control, avenues, taylor', url: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#make-a-complaint' },
+      { title: 'Make a public interest disclosure — IBAC, GPO, public, interest, disclosure, officers', url: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#make-a-public-interest-disclosure' },
+      { title: 'Public Interest Disclosures Act 2012 — the public interest disclosures act 2012, PID, DOCX, public, interest, disclosure', url: 'https://www2.education.vic.gov.au/pal/report-fraud-or-corruption#public-interest-disclosures-act-2012' }
+    ],
+    resources: [
+      { title: 'Making, handling and managing public interest disclosures(Word)External Link', note: 'Making, handling and managing public interest disclosures (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-06/Making%2C%20handling%20and%20managing%20public%20interest%20disclosures%20-%20procedures.docx' }
+    ]
+  },
+  { id: 404, title: 'Repurposing and Renaming School Spaces', category: 'Infrastructure', tags: ['February 2024', 'June 2020', 'SAMS', 'AIMS', 'VSBA', 'ESM', 'spaces', 'repurposing', 'renaming', 'changes'], summary: 'This policy sets out requirements for schools repurposing or renaming spaces.', url: 'https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/guidance', resources: 'https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/resources' },
+    chapters: [
+      { title: 'Policy — SAMS, AIMS, ESM, changes, spaces, space', url: 'https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces/policy' }
+    ],
+    resources: [
+      { title: 'School Asset Drawing ChangesChecklistExternal Link', note: 'School Asset Drawing Changes Checklist External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/schoolassetdrawingchanges-checklist.pdf' },
+      { title: 'Application Form for Repurposing ofSpacesExternal Link', note: 'Application Form for Repurposing of Spaces External Link — principals must complete and submit this', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/repurposing-spaces-application-form.docx' }
+    ]
+  },
+  { id: 405, title: 'Requests for Information about Students', category: 'IT & Privacy', tags: ['December 2019', 'March 2026', 'Families Act 2005', 'Safety Act 2005', 'ICL', 'IBAC', 'ISE', 'FOI', 'sharing', 'child'], summary: 'The purpose of this policy is to help schools determine when to disclose information about students to persons or entities external to the school and the Department.', url: 'https://www2.education.vic.gov.au/pal/requests-about-students', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/requests-about-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/requests-about-students/resources' },
+    chapters: [
+      { title: 'Policy — families act 2005, ICL, IBAC, ISE, sharing, child', url: 'https://www2.education.vic.gov.au/pal/requests-about-students/policy' }
+    ],
+    resources: [
+      { title: 'Privacy and Information Sharing', note: 'This policy applies to external requests for information about students. For policy and guidance on', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'For policy and guidance on sharing information under the Child Information Sharing Scheme and the Fa', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Responding to Legal Claims, Subpoenas, Summonses and Other Legal Documents', note: 'If a school or staff member is served with a summons, subpoena, or court order, contact the Legal Di', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'Some Victorian court officials (such as Koorie Education Children’s Court Liaison Officers, Regional', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'In addition to sharing information with Child Protection for the above purposes, Child Protection ar', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'In addition to sharing information with health professionals for the above purposes, some health pro', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'For Department policy and guidance on managing requests for information using the Information Sharin', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Legal Claims, Subpoenas, Summonses and Other Legal Documents', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy' },
+      { title: 'Freedom of Information', note: 'Parents, guardians, and informal carers requesting other documents (for example staff diary notes, i', url: 'https://www2.education.vic.gov.au/pal/freedom-of-information/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'All Victorian schools are prescribed Information Sharing Entities under the Child Information Sharin', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Freedom of Information', note: 'Refer to:', url: 'https://www2.education.vic.gov.au/pal/freedom-of-information/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'In addition to sharing information with Victorian Police for the above purposes, Victoria Police are', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Freedom of Information', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/freedom-of-information/policy' },
+      { title: 'Legal Claims, Subpoenas, Summonses and Other Legal Documentation', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/legal-claims-subpoenas-summonses-and-other-legal-documents/policy' }
+    ]
+  },
+  { id: 406, title: 'Research and Evaluation in Schools', category: 'School Operations', tags: ['January 2024', 'March 2023', '18 years', 'RISEC', 'DOCX', 'research', 'evaluation', 'researchers', 'requests', 'conduct'], summary: 'The purpose of this policy is to advise schools on processes to manage requests to conduct research in schools.', url: 'https://www2.education.vic.gov.au/pal/research-in-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/research-in-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/research-in-schools/resources' },
+    chapters: [
+      { title: 'Policy — 18 years, RISEC, DOCX, research, researchers, settings', url: 'https://www2.education.vic.gov.au/pal/research-in-schools/policy' }
+    ],
+    resources: [
+      { title: 'Privacy and Information Sharing', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy' }
+    ]
+  },
+  { id: 407, title: 'Restraint and Seclusion', category: 'OHS', tags: ['April 2026', 'Ministerial Order 1388', 'Ministerial Order 1359', 'Responsibilities Act 2006', 'Safety Act 2005', 'External Link Disability Discrimination Act 1992', 'ISOC', 'EWSS', 'PROTECT', 'NDIS'], summary: 'This policy outlines when physical restraint and seclusion are permitted to be used in Victorian government schools and lists practices that are not permitted to be used in Victorian government schools. This policy details reporting and notification requirements and the responsibilities school and department staff have in relation to incidents of physical restraint and seclusion.', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance', resources: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/resources' },
+    chapters: [
+      { title: 'Critical information about restraint and seclusion — restraint, seclusion, physical, prevent, expected, behaviour', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/critical-information-about-restraint-and-seclusion' },
+      { title: 'When physical restraint and seclusion are permitted — physical, restraint, physically, being, restrained, seclusion', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/when-physical-restraint-and-seclusion-are-permitted' },
+      { title: 'When physical restraint and seclusion are prohibited — DOCX, COVID, physical, restraint, seclusion, prohibited', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/when-physical-restraint-and-seclusion-are-prohibited' },
+      { title: 'Use of physical restraint and seclusion — seclusion, physical, restraint, immediately, necessary, protect', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/use-physical-restraint-and-seclusion' },
+      { title: 'Immediate response to a physical restraint or seclusion incident — incident, emergency, physical, restraint, seclusion, immediate', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/immediate-response' },
+      { title: 'Reporting — 3 hours, safety act 2004, ISOC, EWSS, incident, incidents', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/reporting' },
+      { title: 'Provide support — EWSS, wellbeing, physical, restraint, seclusion, employee', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/provide-support' },
+      { title: 'Document the incident — incident, physical, restraint, seclusion, records, document', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/document-incident' },
+      { title: 'Reflect on, review and learn from the physical restraint or seclusion incident — DOCX, incident, physical, restraint, seclusion, school-based', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/reflect-review-learn' },
+      { title: 'Professional development — EOI, TESSA, PIT, training, protective, external', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/professional-development-0' },
+      { title: 'The Principal Behaviour Support Adviser Unit — PBSA, ISOC, SEIL, restraint, seclusion, physical', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/principal-behaviour-support-adviser' },
+      { title: 'Department roles and responsibilities — PBSA, ISOC, restraint, seclusion, directors, regional', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/department-roles-and-responsibilities' },
+      { title: 'Definitions for restraint and seclusion — BSP, BCBA, RMP, behaviour, restraint, physical', url: 'https://www2.education.vic.gov.au/pal/restraint-seclusion/guidance/definitions' }
+    ],
+    resources: [
+      { title: 'Mechanical restraint transition plan template(DOCX)External Link', note: 'Mechanical restraint transition plan template (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/mechanical-restraint-transition-plan-template-1979' },
+      { title: 'Responding to self-injurious behaviour(DOCX)External Link', note: 'Responding to self-injurious behaviour (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/responding-to-SIB.docx' },
+      { title: 'Restraint and Seclusion Policy information for students(DOCX)External Link', note: 'Restraint and Seclusion Policy information for students (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-students-2255' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers(DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers (DOCX) External Link .', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-2231' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – Arabic(DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Arabic (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-arabic-docx-2232' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – Arabic(PDF)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Arabic (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-arabic-pdf-2233' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – Assyrian(DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Assyrian (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-assyrian-docx-2236' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – Assyrian(PDF)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Assyrian (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-assyrian-pdf-2238' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – ChinHakha (DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Chin Hakha (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-chin-hakha-docx-2239' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers – ChinHakha (PDF)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Chin Hakha (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-chin-hakha-pdf-2240' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers –Dari (DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Dari (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-dari-docx-2241' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers –Dari (PDF)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Dari (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-dari-pdf-2242' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers –Karen (DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Karen (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-karen-docx-2243' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers –Karen (PDF)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Karen (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-karen-pdf-2244' },
+      { title: 'Restraint and Seclusion Policy information for parents/carers –Khmer (DOCX)External Link', note: 'Restraint and Seclusion Policy information for parents/carers – Khmer (DOCX) External Link', url: 'https://content.sdp.education.vic.gov.au/media/restraint-and-seclusion-policy-information-for-parents-carers-khmer-docx-2245' }
+    ]
+  },
+  { id: 408, title: 'Right to Disconnect', category: 'HR - Pay (?ambig)', tags: ['February 2025', 'October 2024', 'Fair Work Act 2009', 'HR', 'right', 'disconnect', 'class', 'content', 'advisory', 'library'], summary: 'This policy provides guidance to principals and managers on respecting employees\' right to disconnect from work-related communications outside of their working hours in accordance with the provisions of the Fair Work Act 2009.', url: 'https://www2.education.vic.gov.au/right-to-disconnect', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/right-to-disconnect/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/right-to-disconnect/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/right-to-disconnect/resources' },
+    chapters: [
+      { title: 'Introduction — fair work act 2009, class, managers, respecting, right, disconnect', url: 'https://www2.education.vic.gov.au/right-to-disconnect#introduction' },
+      { title: 'Contact information', url: 'https://www2.education.vic.gov.au/right-to-disconnect#contact-information' }
+    ]
+  },
+  { id: 409, title: 'Risk Management – Schools', category: 'School Operations', tags: ['September 2025', '6 months', 'Public Administration Act 2004', 'OHS', 'OHSMS', 'AIP', 'SSP', 'risks', 'register', 'controls'], summary: 'This policy sets out the requirements for schools to identify and manage risks that might affect their students, staff or operations.', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance', resources: 'https://www2.education.vic.gov.au/pal/risk-management-schools/resources' },
+    chapters: [
+      { title: 'Step 1 – Establish the context', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-1-establish-context' },
+      { title: 'Step 2 – Risk identification', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-2-risk-identification' },
+      { title: 'Step 3 – Risk analysis', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-3-risk-analysis' },
+      { title: 'Step 4 – Evaluation', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-4-evaluation' },
+      { title: 'Step 5 – Risk treatment', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-5-risk-treatment' },
+      { title: 'Step 6 – Communication and consultation', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-6-communication-and-consultation' },
+      { title: 'Step 7 – Monitoring and review', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-7-monitor-and-review' },
+      { title: 'Step 8 – Recording and reporting', url: 'https://www2.education.vic.gov.au/pal/risk-management-schools/guidance/step-8-record-and-report' }
+    ],
+    resources: [
+      { title: 'Information Security', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/information-security/policy' },
+      { title: 'Information Security', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/information-security/policy' }
+    ]
+  },
+  { id: 410, title: 'Roles and Responsibilities — Teaching Service', category: 'HR - Pay (?ambig)', tags: ['February 2025', 'January 2025', 'teaching', 'class', 'advisory', 'position', 'development', 'library'], summary: 'The roles and responsibilities that can be expected of employees at the various classification levels in the Teaching Service are set out in the Guidelines and incorporate Schedule 2 and 3 of the Victorian Government Schools Agreement 2022.', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/resources' },
+    chapters: [
+      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/introduction' },
+      { title: 'Principals', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/principals' },
+      { title: 'Assistant principals', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/assistant-principals' },
+      { title: 'Leading teachers', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/leading-teachers' },
+      { title: 'Learning specialists', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/learning-specialists' },
+      { title: 'Classroom teachers', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/classroom-teachers' },
+      { title: 'Paraprofessionals', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/paraprofessionals' },
+      { title: 'Education support class', url: 'https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service/policy-and-guidelines/education-support-class' }
+    ]
+  },
+  { id: 411, title: 'Sabbatical Leave — Teaching Service', category: 'HR - Leave', tags: ['February 2025', 'June 2020', '1 year', '4 years', 'leave', 'sabbatical', 'teaching', 'period', 'resources', 'scheme'], summary: 'Sabbatical leave is a professional renewal incentive scheme designed to provide employees with a flexible arrangement whereby they can fund a period of sabbatical leave.', url: 'https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service/resources' }
+  },
+  { id: 412, title: 'Salary Rates', category: 'HR - Pay', tags: ['September 2022', 'DOCX', 'ESC', 'HR', 'rates', 'external', 'salary', 'updated', 'august', 'employment'], summary: 'For details of current salary rates, select the relevant employment category from the following:', url: 'https://www2.education.vic.gov.au/pal/salary-rates', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/salary-rates/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/salary-rates/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/salary-rates/resources' }
+  },
+  { id: 413, title: 'Scholarships for Secondary Teaching Degrees', category: 'HR - Pay (?ambig)', tags: ['$93.2 million', '$9,600', '$5,700', 'January 2026', '15 months', 'STS', 'ITE', 'VIT', 'FTE', 'teaching'], summary: 'The Victorian Government has invested more than $93.2 million to deliver scholarships to support secondary and specialist initial teacher education students who enrolled in 2024 and 2025, with the cost of studying and living.', url: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees/resources' },
+    chapters: [
+      { title: 'Study phase — $9,600, $5,700, FTE, STS, study, phase', url: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees#study-phase' },
+      { title: 'Employment phase — $8,400, $18,000, 15 months, STS, ITE, VIT', url: 'https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees#employment-phase' }
+    ]
+  },
+  { id: 414, title: 'School and Campus Naming', category: 'School Operations', tags: ['November 2025', '2 years', 'Geographic Place Names Act 1998', 'VAEAI', 'GNV', 'ETRA', 'naming', 'names', 'existing', 'campus'], summary: 'This policy sets out the requirements and process for naming new and existing Victorian government schools, educational services, campuses, school buildings and school spaces.', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/resources' },
+    chapters: [
+      { title: 'Naming a new school', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-new-school' },
+      { title: 'Renaming an existing school due to changed education provision', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-due-to-changed-education' },
+      { title: 'Renaming an existing school due to a reorganisation (merger, demerger or relocation)', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-due-to-a-reorganisation-merger' },
+      { title: 'Renaming an existing school as initiated by school council', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/renaming-an-existing-school-as-initiated-by-school-council' },
+      { title: 'Naming a new or temporary campus, or renaming an existing campus as initiated by school council', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-a-new-or-temporary-campus-or-renaming-an-existing' },
+      { title: 'Naming a new school building funded by the Victorian Government', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-a-new-school-building-funded-by-the-victorian' },
+      { title: 'Naming an existing school building or school space', url: 'https://www2.education.vic.gov.au/pal/school-and-campus-naming/guidance/naming-an-existing-school-building-or-a-school-space' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 415, title: 'School Communications Toolkit', category: 'IT & Privacy', tags: ['November 2025', 'June 2020', '14 year', 'Disability Discrimination Act 1992', 'SEIL', 'communications', 'media', 'toolkit', 'content', 'community'], summary: 'The following pages are available on the School Communications Toolkit External Link . A DE login is required for access.', url: 'https://www2.education.vic.gov.au/pal/school-communications-toolkit', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-communications-toolkit/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-communications-toolkit/resources' },
+    chapters: [
+      { title: 'Advice', url: 'https://www2.education.vic.gov.au/pal/school-communications-toolkit/policy' }
+    ],
+    resources: [
+      { title: 'School Policy Templates Portal (staff loginrequired)External Link', note: 'The School Policy Templates Portal (staff login required) External Link provides template consent fo', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Photographing-filming-and-recording-students.aspx' }
+    ]
+  },
+  { id: 416, title: 'School Community Safety Orders', category: 'OHS', tags: ['April 2026', '18 years', '12 months', '14 days', 'Training Reform Act 2006', 'Safety Act 2005', 'External Link Disability Discrimination Act 1992', 'OHS', 'safety', 'community'], summary: 'This policy supports Victorian government schools to use the school community safety order scheme (Scheme) to manage the risks to the safety of school staff, students and the broader school community from a small minority of parents, carers and other adults who engage in harmful, threatening or abusive behaviour.', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/resources' },
+    chapters: [
+      { title: 'People authorised to issue, vary or revoke orders', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/people-authorised-issue-vary-or-revoke-orders' },
+      { title: 'Grounds for issuing an order', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/grounds-issuing-order' },
+      { title: 'Mandatory considerations before issuing an order', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/mandatory-considerations-issuing-order' },
+      { title: 'Procedures for issuing orders', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/procedures-issuing-orders' },
+      { title: 'Varying and revoking orders', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/varying-and-revoking-orders' },
+      { title: 'Interaction with other statutory schemes', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/interaction-other-statutory-schemes' },
+      { title: 'Minimising impacts on students', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/minimising-impacts-students' },
+      { title: 'Psychological safety and wellbeing support for school staff', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/psychological-safety-and-wellbeing-support-school-staff' },
+      { title: 'Monitoring compliance with and enforcing school community safety orders', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/monitoring-compliance-and-enforcing-school-community' },
+      { title: 'Rebuilding relationships with persons subject to an order', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/re-building-relationships-persons-subject-order' },
+      { title: 'Internal and external review of an ongoing order', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/internal-and-external-review-ongoing-order' },
+      { title: 'Reporting an order', url: 'https://www2.education.vic.gov.au/pal/school-community-safety-orders/guidance/reporting-order' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'The Education and Training Reform Act 2006 (Vic) External Link (Act) was amended by the Education an', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Amendment (Protection of School Communities) Act2021External Link', note: 'The Education and Training Reform Act 2006 (Vic) External Link (Act) was amended by the Education an', url: 'https://www.legislation.vic.gov.au/as-made/acts/education-and-training-reform-amendment-protection-school-communities-act-2021' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Education and Training Reform Act2006 (Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Amendment (Protection of School Communities) Act2021External Link', note: 'Education and Training Reform Amendment (Protection of School Communities) Act 2021 External Link', url: 'https://www.legislation.vic.gov.au/bills/education-and-training-reform-amendment-protection-school-communities-bill-2021' },
+      { title: 'Occupational Health and Safety Act2004 (Vic)External Link', note: 'Occupational Health and Safety Act 2004 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 417, title: 'School Community Work', category: 'School Operations', tags: ['August 2024', 'Ministerial Order 1359', 'Training Reform Act 2006', 'OHS', 'PROTECT', 'community', 'arrangements', 'requirements', 'learning', 'child'], summary: 'This policy sets out the requirements for students undertaking school community work.', url: 'https://www2.education.vic.gov.au/pal/school-community-work', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-community-work/resources' },
+    chapters: [
+      { title: 'Definitions under the Education and Training Reform Act 2006', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/1-education-and-training-reform-act-2006' },
+      { title: 'What is school community work?', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/what-school-community-work' },
+      { title: 'Host organisations that can offer school community work', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/host-organisations-can-offer-school-community-work' },
+      { title: 'Age of volunteer student workers', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/age-volunteer-student-workers' },
+      { title: 'Duty of care and school community work', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/duty-care' },
+      { title: 'Assessment of a host organisation’s suitability', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/1-assessment-host-organisations-suitability' },
+      { title: 'Assessment of the host organisation’s induction and supervision arrangements', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/2-assessment-host-organisations-induction-and-supervision' },
+      { title: 'Appropriateness of tasks and settings', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/3-appropriateness-tasks-and-settings' },
+      { title: 'Student understanding of OHS requirements', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/4-student-understanding-ohs-requirements' },
+      { title: 'Hours and duration of school community work', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/5-hours-and-duration-school-community-work' },
+      { title: 'Travel arrangements', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/6-travel-arrangements' },
+      { title: 'Parent/carer approval', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/7-parent/carer-approval' },
+      { title: 'Victorian government school arrangement form for school community work', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/8-victorian-government-school-arrangement-form-school-community' },
+      { title: 'Student medical information', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/9-student-medical-information' },
+      { title: 'Addressing issues and concerns during school community work', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/10-addressing-issues-and-concerns-during-school-community-work' },
+      { title: 'Insurance for school community work arrangements', url: 'https://www2.education.vic.gov.au/pal/school-community-work/guidance/insurance' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 418, title: 'School Council Employment', category: 'HR - Recruitment', tags: ['January 2026', 'Ministerial Order 1389', 'Ministerial Order 1280', 'Responsibilities Act 2006', 'Training Reform Act 2006', 'External Link Equal Opportunity Act 2010', 'DOCX', 'HR', 'employment', 'external'], summary: 'Refer to Policy and Guidelines tab for:', url: 'https://www2.education.vic.gov.au/pal/school-council-employment', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/school-council-employment/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-council-employment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/school-council-employment/resources' },
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 419, title: 'School Council – Composition, Eligibility and Office Bearers', category: 'School Council', tags: ['February 2026', '8 hours', '90 days', 'Ministerial Order 1280', 'Public Administration Act 2004', 'Sex Offenders Registration Act 2004', 'WWCC', 'DOCX', 'VIT', 'VRQA'], summary: 'From the 2026 school year, school council members, except VIT registered teachers and students, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026) school council members are not required to obtain a WWCC until they nominate for re-election/co-option.', url: 'https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers/policy' }
+    ],
+    resources: [
+      { title: 'Form 15: Co-option to a community member position on school council(PDF)External Link', note: 'Form 15: Co-option to a community member position on school council (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/form-15-co-option-to-a-community-member-position-on-school-council-3527' },
+      { title: 'Form 16: Co-option to a casual vacancy on school council(PDF)External Link', note: 'Form 16: Co-option to a casual vacancy on school council (PDF) External Link', url: 'https://content.sdp.education.vic.gov.au/media/form-16-co-option-to-a-casual-vacancy-on-school-council-3528' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 420, title: 'School Council – Conduct and Conflict of Interest', category: 'School Council', tags: ['May 2024', 'August 2023', 'Ministerial Order 1280', 'Public Administration Act 2004', 'Training Reform Act 2006', 'DOCX', 'conflict', 'interest', 'conduct', 'public'], summary: 'The purpose of this policy is to ensure school council members are aware of their obligations in relation to their Code of Conduct and conflict of interest and to provide guidance on managing school council conduct and conflict of interest issues.', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-conduct/resources' },
+    chapters: [
+      { title: 'Code of Conduct', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/code-conduct' },
+      { title: 'Misconduct', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/misconduct-1' },
+      { title: 'Avoiding or preventing conflict or conduct issues on school council', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/avoiding-or-preventing-conflict-or-conduct-issues-school' },
+      { title: 'Managing conflict and the conduct of meetings', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-conflict-and-conduct-meetings' },
+      { title: 'Managing ongoing school council conflict', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-ongoing-school-council-conflict' },
+      { title: 'Managing school council misconduct', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-school-council-misconduct' },
+      { title: 'Conflict of interest', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/conflict-interest' },
+      { title: 'Managing a conflict of interest', url: 'https://www2.education.vic.gov.au/pal/school-council-conduct/guidance/managing-conflict-interest' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Regulations 2017(Vic)External Link', note: 'Education and Training Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 421, title: 'School Council – Elections', category: 'School Council', tags: ['February 2026', '14 days', 'Ministerial Order 1280', 'Training Act 2006', 'External Link Financial Management Act 1994', 'External Link Public Administration Act 2004', 'WWCC', 'DOCX', 'VIT', 'elections'], summary: 'From the 2026 school year, school council members, except VIT registered teachers and students, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026) school council members are not required to obtain a WWCC until they nominate for re-election/co-option.', url: 'https://www2.education.vic.gov.au/pal/school-council-elections', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-elections/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-elections/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-council-elections/policy' }
+    ],
+    resources: [
+      { title: 'Education and Training Act 2006(Vic)External Link', note: 'Education and Training Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 422, title: 'School Council – Establishing a New School Council', category: 'School Council', tags: ['February 2026', 'January 2022', '6 week', '2 months', 'Ministerial Order 1280', 'Training Reform Act 2006', 'DOCX', 'interim', 'operations', 'governance'], summary: 'This policy outlines the process and documentation required in establishing a new school council.', url: 'https://www2.education.vic.gov.au/pal/establishing-new-school-council', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/establishing-new-school-council/guidance', resources: 'https://www2.education.vic.gov.au/pal/establishing-new-school-council/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/establishing-new-school-council/policy' }
+    ],
+    resources: [
+      { title: 'Expression of interest in appointment as an initial member of a school council – new school(DOCX)External Link', note: 'Each proposed appointee to the new interim school council must complete an Expression of interest in', url: 'http://www.education.vic.gov.au/Documents/school/principals/management/eoiapptscmember.docx' },
+      { title: 'External Link', note: 'Prior to sending the request for a new school council to the regional director, the principal must', url: 'https://www.education.vic.gov.au/Documents/school/principals/management/scnewguidelatt.docx' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 423, title: 'School Council – Liability and Legal Proceedings', category: 'School Council', tags: ['May 2024', 'June 2020', 'Ministerial Order 52', 'Ministerial Order 1280', 'Financial Management Act 1994', 'Reform Act 2006', 'GST', 'DOCX', 'legal', 'liability'], summary: 'This policy assists principals to understand the extent of legal liability for school councils and school council members and sets out the processes for seeking assistance with legal claims.', url: 'https://www2.education.vic.gov.au/pal/school-council-liability', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-liability/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-liability/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-council-liability/policy' }
+    ],
+    resources: [
+      { title: 'Education Training and Reform Act 2006(Vic)External Link', note: 'Education Training and Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' },
+      { title: 'Ministerial Order 52: School Council Composition andElectionsExternal Link', note: 'Ministerial Order 52: School Council Composition and Elections External Link', url: 'https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/2147/MO52.pdf' }
+    ]
+  },
+  { id: 424, title: 'School Council – Overview', category: 'School Council', tags: ['February 2026', 'August 2022', 'Training Reform Act 2006', 'OHS', 'PAL', 'outlines', 'training', 'policies', 'requirements', 'governance'], summary: 'This policy provides an overview of the policies, guidance and resources available to support school councils to understand their roles, responsibilities and school council processes.', url: 'https://www2.education.vic.gov.au/pal/school-council-overview', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/school-council-overview/overview', guidance: 'https://www2.education.vic.gov.au/pal/school-council-overview/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-overview/resources' },
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 425, title: 'School Council – Subcommittees', category: 'School Council', tags: ['June 2024', 'June 2020', 'Ministerial Order 1280', 'Training Reform Act 2006', 'DOCX', 'subcommittees', 'subcommittee', 'finance', 'report', 'recommendations'], summary: 'The purpose of this policy is to enable school councils to form subcommittees to assist the council.', url: 'https://www2.education.vic.gov.au/pal/school-council-subcommittees', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-subcommittees/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-subcommittees/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-council-subcommittees/policy' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link , Division 2, Regulation 38 Sub-c', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 426, title: 'School Council – Training and Good Governance', category: 'School Council', tags: ['April 2026', '3 years', 'Ministerial Order 1280', 'Ministerial Order 1359', 'Training Reform Act 2006', 'DOCX', 'WWCC', 'ISG', 'VIT', 'training'], summary: 'From the 2026 school year, school council members, except VIT registered teachers and student members, are required to hold a Working with Children Clearance (WWCC) (either a volunteer WWCC, or employee WWCC if they already have this), when nominating for a role on school council. Current (as at commencement of Term 1 2026) school council members are not required to obtain a WWCC until they nominate for re-election/co-option.', url: 'https://www2.education.vic.gov.au/pal/school-council-training', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-council-training/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-council-training/resources' },
+    chapters: [
+      { title: 'Effective governance', url: 'https://www2.education.vic.gov.au/pal/school-council-training/guidance/effective-governance' },
+      { title: 'Building school council capacity', url: 'https://www2.education.vic.gov.au/pal/school-council-training/guidance/building-school-council-capacity' }
+    ],
+    resources: [
+      { title: 'Sample agenda and minutes template – Meeting 1(DOCX)External Link', note: 'It is recommended that principals go through the Improving school governance induction checklist (DO', url: 'https://content.sdp.education.vic.gov.au/media/sample-school-council-agenda-and-minutes-template-meeting-1-3070' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 427, title: 'School Crossings', category: 'Infrastructure', tags: ['January 2026', 'Road Safety Act 1986', 'crossing', 'crossings', 'supervisor', 'children', 'safety', 'local'], summary: 'This policy explains responsibilities for school crossings and supports schools to reduce the risk of accident or injury at and around school crossings.', url: 'https://www2.education.vic.gov.au/pal/school-crossings', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-crossings/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-crossings/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-crossings/policy' }
+    ]
+  },
+  { id: 428, title: 'School Dates', category: 'School Operations', tags: ['July 2025', '5 year', '2 weeks', '12 Year', 'Public Holidays Act 1993', 'External Link Public Holidays Act 1993', 'VCE', 'PPD', 'VET', 'VASS'], summary: 'The purpose of this policy is to ensure Victorian government schools are open on school days for student instruction, to outline the process for establishing and communicating student-free days and to explain responsibilities for Year 7 orientation days.', url: 'https://www2.education.vic.gov.au/pal/school-dates', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-dates/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-dates/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-dates/policy' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 429, title: 'School Hours (including variation to hours)', category: 'School Operations', tags: ['September 2023', 'June 2022', '25 hours', '4 days', '3 days', 'hours', 'times', 'including', 'variation', 'circumstances'], summary: 'This policy outlines the requirements relating to school hours and any changes to schools hours.', url: 'https://www2.education.vic.gov.au/pal/school-hours', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-hours/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-hours/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/school-hours/policy' }
+    ]
+  },
+  { id: 430, title: 'School Merger or Closure — Staffing', category: 'HR - Pay (?ambig)', tags: ['February 2025', 'September 2022', 'merger', 'closure', 'staffing', 'advisory', 'library', 'resources'], summary: 'In the event of a merger of two or more schools or the closure of a school the staffing arrangements that will apply are set out in the School Merger or Closure Staffing Guide, which is available from the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/resources' },
+    chapters: [
+      { title: 'Introduction', url: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/introduction' },
+      { title: 'School merger', url: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/school-merger' },
+      { title: 'School closure', url: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/school-closure' },
+      { title: 'Special staffing provisions', url: 'https://www2.education.vic.gov.au/pal/school-merger-or-closure/policy-and-guidelines/special-staffing-provisions' }
+    ]
+  },
+  { id: 431, title: 'School Networks', category: 'School Operations', tags: ['April 2026', 'SEIL', 'FISO', 'networks', 'network', 'advisory', 'library', 'purpose', 'operation'], summary: 'This policy outlines the purpose and operation of school networks.', url: 'https://www2.education.vic.gov.au/pal/school-networks', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-networks/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-networks/resources' },
+    chapters: [
+      { title: 'School network operations', url: 'https://www2.education.vic.gov.au/pal/school-networks/guidance/school-network-operations' },
+      { title: 'School network roles and responsibilities', url: 'https://www2.education.vic.gov.au/pal/school-networks/guidance/school-network-roles-responsibilities' }
+    ]
+  },
+  { id: 432, title: 'School Performance Reporting and Data', category: 'Curriculum', tags: ['October 2025', 'AIP', 'DPSM', 'NAPLAN', 'PAT', 'performance', 'panorama', 'reports', 'external', 'dashboards'], summary: 'School Performance Reports are generated each year and contain details of how the school has performed on a selected set of student outcome measures, compared to all other government schools, by allocation to a performance group.', url: 'https://www2.education.vic.gov.au/pal/performance-reporting', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/performance-reporting/guidance', resources: 'https://www2.education.vic.gov.au/pal/performance-reporting/resources' },
+    chapters: [
+      { title: 'Advice', url: 'https://www2.education.vic.gov.au/pal/performance-reporting/advice' }
+    ],
+    resources: [
+      { title: 'Return to School Performance Reporting and DataSchool Performance Report...', note: 'Return to School Performance Reporting and Data School Performance Report...', url: 'https://www2.education.vic.gov.au/pal/performance-reporting' },
+      { title: 'School Performance Reporting and Data', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/performance-reporting' },
+      { title: 'Advice', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/performance-reporting/advice' },
+      { title: 'School PerformanceReportsExternal Link', note: 'To access a School Performance Report, refer to: School Performance Reports External Link (staff log', url: 'https://www.eduweb.vic.gov.au/forms/school/spreports/default.asp' },
+      { title: 'School PerformanceReportsExternal Link', note: 'Save the School Performance Reports External Link link in the \'applications\' section of My workspace', url: 'https://www.eduweb.vic.gov.au/forms/school/spreports/default.asp' },
+      { title: 'Privacy and Information Sharing policy', note: 'The information provided through Panorama is intended to support detailed and structured conversatio', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy' },
+      { title: 'school.performance.data@education.vic.gov.au', note: 'Schools can also email with questions about data shown in Panorama dashboards and reports.', url: 'mailto:school.performance.data@education.vic.gov.au' },
+      { title: 'School Performance Reporting and DataAccessing performance data and data coach services', note: 'School Performance Reporting and Data Accessing performance data and data coach services', url: 'https://www2.education.vic.gov.au/pal/performance-reporting' },
+      { title: 'Print whole topic', note: 'Document resource', url: 'http://www2.education.vic.gov.au/pal/performance-reporting/print-all' },
+      { title: 'school.performance.data@education.vic.gov.au', note: 'Document resource', url: 'mailto:school.performance.data@education.vic.gov.au' }
+    ]
+  },
+  { id: 433, title: 'School Review', category: 'Curriculum', tags: ['September 2025', '4 years', 'Training Reform Act 2006', 'PRSE', 'FISO', 'SSP', 'SEIL', 'minimum', 'compliance', 'advisory'], summary: 'This policy sets out the process and requirements for school reviews.', url: 'https://www2.education.vic.gov.au/pal/school-review', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-review/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-review/resources' },
+    chapters: [
+      { title: '1. School review panels', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/school-review-panels' },
+      { title: '2. Preparing for a school review', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/preparing-school-review' },
+      { title: '3. Pre-review self-evaluation', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/pre-review-self-evaluation' },
+      { title: '4. What happens during a school review', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/what-happens-during-school-review' },
+      { title: '5. School review report', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/school-review-report' },
+      { title: '6. Improving outcomes for Koorie students', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/improving-outcomes-for-koorie-students' },
+      { title: '7. Advice for small schools', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/8-advice-for-small-schools' },
+      { title: '8. Advice for specialist schools and designated purpose settings', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/9-advice-for-specialist-and-specific-purpose-school-settings' },
+      { title: '9. Assessing compliance with the Curriculum and Student Learning Minimum Standard and department policy requirements', url: 'https://www2.education.vic.gov.au/pal/school-review/guidance/10-assessing-compliance-with-the-curriculum-and-student-learning-minimum-standard-and-department' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 434, title: 'School Strategic Plan', category: 'Curriculum', tags: ['October 2025', '4 year', '4 years', 'Ministerial Order 470', 'Training Reform Act 2006', 'SSP', 'SPOT', 'KIS', 'SEIL', 'strategic'], summary: 'This policy sets out the requirement for schools to develop a 4-year School Strategic Plan.', url: 'https://www2.education.vic.gov.au/pal/school-strategic-plan', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-strategic-plan/resources' },
+    chapters: [
+      { title: '1. Preparing the School Strategic Plan', url: 'https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/preparing-school-strategic-plan' },
+      { title: '2. Developing the key directions for the School Strategic Plan', url: 'https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/developing-key-directions-for-school-strategic-plan' },
+      { title: '3. Advice on target setting for small schools', url: 'https://www2.education.vic.gov.au/pal/school-strategic-plan/guidance/advice-on-target-setting-for-small-schools' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Under the Education and Training Reform Act 2006 (Vic) External Link and Ministerial Order 470 Exter', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Ministerial Order470External Link', note: 'Under the Education and Training Reform Act 2006 (Vic) External Link and Ministerial Order 470 Exter', url: 'https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/1895/MO784.pdf' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Ministerial Order470External Link', note: 'Ministerial Order 470 External Link', url: 'https://portal.eduweb.vic.gov.au/collaboration/teams/legislationservices/Lists/Ministerial%20Orders%20Register/Attachments/1895/MO784.pdf' }
+    ]
+  },
+  { id: 435, title: 'School-Based Apprenticeships and Traineeships', category: 'Curriculum', tags: ['September 2025', 'August 2025', '15 years', '13 hours', '7 hours', 'Ministerial Order 1359', 'Training Reform Act 2006', 'VCE', 'SBAT', 'VPC'], summary: 'This policy sets out the requirements for schools to run and manage school-based apprenticeships and traineeships for secondary school students.', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/resources' },
+    chapters: [
+      { title: 'About SBATs', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/about-sbats' },
+      { title: 'About Head Start', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/about-head-start' },
+      { title: 'Child safety and duty of care', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/child-safety-duty-of-care' },
+      { title: 'Student eligibility and readiness', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/student-eligibility-readiness' },
+      { title: 'Identifying a suitable employer, training course and hours', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/identifying-suitable-employer-training' },
+      { title: 'SBAT documentation', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/required-sbat-documentation' },
+      { title: 'Delivery and monitoring of SBATs', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/delivery-and-monitoring-sbats' },
+      { title: 'Completion and transition', url: 'https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships/guidance/completion-and-transition' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' }
+    ]
+  },
+  { id: 436, title: 'School-funded Capital Projects', category: 'Infrastructure', tags: ['$150,000', 'December 2027', 'March 2026', '4 weeks', '8 weeks', '30 days', 'Construction Management Act 1994', 'Fauna Guarantee Act 1988', 'Environment Act 1987', 'VSBA'], summary: 'This policy sets out requirements for schools contributing or raising money to build new facilities, upgrade existing facilities, or undertake maintenance projects where the project includes ramps or the total value of the project is estimated to exceed $150,000 (including GST). This includes school-funded contributions to building projects led by the Victorian School Building Authority (VSBA).', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance', resources: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/resources' },
+    chapters: [
+      { title: 'Step 1: Planning for investment in capital or maintenance projects', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-1' },
+      { title: 'Step 2: Submitting an online project proposal approval form', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-2-submitting-online-project-proposal-approval-form' },
+      { title: 'Step 3: Proceeding to tender and contract for project delivery', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-3' },
+      { title: 'Step 4: Completion of the project', url: 'https://www2.education.vic.gov.au/pal/school-funded-capital-projects/guidance/step-4-completion-project-completion-construction-works' }
+    ],
+    resources: [
+      { title: 'School Asset Drawing Changes Checklist(PDF)External Link', note: 'For projects up to $150,000 schools must follow the related polices aligned to their project which m', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/schoolassetdrawingchanges-checklist.pdf' }
+    ]
+  },
+  { id: 437, title: 'Self-Harm and Attempted Suicide Response', category: 'Students', tags: ['March 2026', 'August 2025', '18 years', '24 hours', '7 days', 'Safety Act 2005', 'External Link Health Records Act 2001', 'External Link Family Violence Protection Act 2008', 'ISOC', 'SSS'], summary: 'In an emergency', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance', overview: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/overview', resources: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/resources' },
+    chapters: [
+      { title: 'Recognising self-harm', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/recognising-self-harm' },
+      { title: 'Definitions and myths about self-harm', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/definitions-and-myths-about-self-harm' },
+      { title: 'Supporting mental health and wellbeing, and preventing self-harm', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/supporting-mental-health-and-wellbeing-and-preventing-self-harm' },
+      { title: 'Responding to self-harm incidents', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/responding-self-harm-incidents' },
+      { title: 'Managing communication', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/managing-communication' },
+      { title: 'Communicating with secondary school-aged students', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/communicating-with-secondary-school-aged-students' },
+      { title: 'Student recovery and healing', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/student-recovery-healing' },
+      { title: 'Self-care for school staff', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/self-care-school-staff' },
+      { title: 'Mental health and wellbeing and whole-school approaches', url: 'https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response/guidance/mental-health-and-wellbeing-and-whole-school-approaches' }
+    ],
+    resources: [
+      { title: 'Concussion Recognition Tool(PDF)External Link', note: 'For more information, refer to the Concussion Recognition Tool (PDF) External Link and Blood Spills', url: 'https://bjsm.bmj.com/content/bjsports/57/11/692.full.pdf' },
+      { title: 'Privacy and Information Sharing', note: 'Personal and health information must be collected and managed appropriately in accordance with relev', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing/policy' },
+      { title: 'Child and Family Violence Information Sharing Schemes', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/information-sharing-schemes/policy' },
+      { title: 'Child Wellbeing and Safety (Information Sharing) Regulations 2018(Vic)External Link', note: 'Child Wellbeing and Safety (Information Sharing) Regulations 2018 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/child-wellbeing-and-safety-information-sharing-regulations-2018' },
+      { title: 'Family Violence Protection (Information Sharing and Risk Management) Regulations 2018(Vic)External Link', note: 'Family Violence Protection (Information Sharing and Risk Management) Regulations 2018 (Vic) External', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/family-violence-protection-information-sharing-and-risk-management' }
+    ]
+  },
+  { id: 438, title: 'Sensory Rooms and Equipment', category: 'Infrastructure', tags: ['December 2024', 'February 2022', 'Ministerial Order 1388', 'Ministerial Order 1389', 'Ministerial Order 1359', 'Responsibilities Act 2006', 'External Link Disability Discrimination Act 1992', 'Training Reform Act 2006', 'IEP', 'DOCX'], summary: 'This policy describes the purpose of a sensory room and sets out the requirements for when and how a sensory room may be used by a school to support a student.', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance', resources: 'https://www2.education.vic.gov.au/pal/sensory-rooms/resources' },
+    chapters: [
+      { title: 'Definition of sensory room', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/definition-sensory-room' },
+      { title: 'Definition of sensory processing', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/definition-sensory-processing' },
+      { title: 'Sensory processing differences', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/sensory-processing-differences' },
+      { title: 'Sensory experiences', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/sensory-experiences' },
+      { title: 'Furnishing sensory rooms', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/furnishing-sensory-rooms' },
+      { title: 'Occupational Therapists', url: 'https://www2.education.vic.gov.au/pal/sensory-rooms/guidance/occupational-therapists' }
+    ],
+    resources: [
+      { title: 'Use of sensory room statement template(DOCX)External Link', note: 'Schools that have a sensory room must develop a statement that articulates how the sensory room is t', url: 'https://content.sdp.education.vic.gov.au/media/use-of-sensory-room-statement-template-2541' },
+      { title: 'Equipment prescription template(DOCX)External Link', note: 'It is recommended, but not mandatory, that occupational therapists use the department’s Equipment pr', url: 'https://content.sdp.education.vic.gov.au/media/equipment-prescription-template-1495' },
+      { title: 'Performance and Development for Teacher Class Employees', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/performance-and-development-teacher-class-employees' },
+      { title: 'Privacy and Information Sharing', note: 'Document resource', url: 'https://www2.education.vic.gov.au/pal/privacy-information-sharing' },
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 439, title: 'Sexuality and Consent Education', category: 'Curriculum', tags: ['April 2026', 'LGBTIQA', 'VCAA', 'FUSE', 'sexuality', 'consent', 'teaching', 'community', 'curriculum', 'resources'], summary: 'The purpose of this policy is to emphasise the importance of sexuality education in Victorian government schools, including the teaching of consent, and to explain the role that principals, teaching staff and the school community, play in providing sexuality education to students.', url: 'https://www2.education.vic.gov.au/pal/sexuality-education', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/sexuality-education/guidance', resources: 'https://www2.education.vic.gov.au/pal/sexuality-education/resources' },
+    chapters: [
+      { title: 'Policy', url: 'https://www2.education.vic.gov.au/pal/sexuality-education/policy' }
+    ]
+  },
+  { id: 440, title: 'Shade Sails', category: 'Infrastructure', tags: ['VSBA', 'BQSH', 'UV', 'COLA', 'PDF', 'SAMS', 'AIMS', 'requirements', 'construct', 'manage'], summary: 'This policy sets the requirements for schools to construct, manage and maintain shade sails.', url: 'https://www2.education.vic.gov.au/pal/shade-sails', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/shade-sails/guidance', resources: 'https://www2.education.vic.gov.au/pal/shade-sails/resources' },
+    chapters: [
+      { title: 'Policy — BQSH, requirements, construct, manage, maintain, shade', url: 'https://www2.education.vic.gov.au/pal/shade-sails/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/shade-sails/guidance' },
+      { title: 'Resources — VSBA, PDF, AIMS, resources, checklists, asset', url: 'https://www2.education.vic.gov.au/pal/shade-sails/resources' }
+    ],
+    resources: [
+      { title: 'Building Quality StandardsHandbookExternal Link', note: 'Building Quality Standards Handbook External Link – sets the minimum quality criteria for all Department of Education capital projects, including new construction, refurbishment and maintenance works.', url: 'https://www.schoolbuildings.vic.gov.au/building-quality-standards-handbook' },
+      { title: 'AIMS Knowledge Centre – Routine Maintenance Tasks Guides (PDF) (staff loginrequired)External Link', note: 'AIMS Knowledge Centre – Routine Maintenance Tasks Guides (PDF) (staff login required) External Link – schools can find information on the routine maintenance tasks for shade sails here', url: 'https://eduvic.sharepoint.com/sites/AIMSKnowledgeCentre/Shared%20Documents/Forms/AllItems.aspx?viewid=2157c08e%2D68e6%2D47b2%2Db70f%2D3ebe12832444&id=%2Fsites%2FAIMSKnowledgeCentre%2FShared%20Documents%2FRoutine%20Maintenance%20Guides%2Epdf&parent=%2Fsites%2FAIMSKnowledgeCentre%2FShared%20Documents' }
+    ]
+  },
+  { id: 441, title: 'Shelter-in-Place Buildings', category: 'Infrastructure', tags: ['VSBA', 'BARR', 'SIP', 'EMP', 'outlines', 'requirement', 'nominate', 'building', 'site', 'last'], summary: 'This policy outlines the requirement for all schools to nominate a building(s) on the school site that provide a last resort temporary shelter-in-place option during an emergency event, and its design and expected performance criteria.', url: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings/guidance', resources: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings/resources' },
+    chapters: [
+      { title: 'Policy — outlines, requirement, nominate, building, site, last', url: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings/guidance' },
+      { title: 'Resources — NCC, BCA, PCA, resources, landscaping, bushfire', url: 'https://www2.education.vic.gov.au/pal/shelter-place-buildings/resources' }
+    ],
+    resources: [
+      { title: 'Landscaping for Bushfire ProneAreasExternal Link', note: 'Landscaping for Bushfire Prone Areas External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/landscaping-bushfire-areas.pdf' },
+      { title: 'School Site Bushfire / Grassfire ReadinessChecklistExternal Link', note: 'School Site Bushfire / Grassfire Readiness Checklist External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/emergmgmt/Resource%20Library/School%20Site%20Bushfire%20Readiness%20Review%20Checklist.docx' },
+      { title: 'National ConstructionCodeExternal Link', note: 'The National Construction Code External Link (NCC)', url: 'https://www.abcb.gov.au/ncc-online/NCC?pageNumber=1&searchTerm=&sort=&results=&generalParam=%7b%22applications%22:%5b%5d%2c%22years%22:%5b%22%7bC4166DCC-D939-41A9-855D-D66F2AACC2D3%7d%22%5d%7d' },
+      { title: 'Australian Building CodesBoardExternal Link', note: 'Australian Building Codes Board External Link', url: 'http://www.abcb.gov.au/' },
+      { title: 'Australian Standard AS3959: Construction of Buildings in Bushfire ProneAreasExternal Link', note: 'Australian Standard AS3959: Construction of Buildings in Bushfire Prone Areas External Link', url: 'https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwiTzbnL9IbcAhXFmpQKHaJcBfoQFghEMAQ&url=https://www.saiglobal.com/PDFTemp/Previews/OSH/as/as3000/3900/3959-2009.pdf&usg=AOvVaw07__rXYFy4x-Nfksul1QC_' },
+      { title: 'Building Amendment (Specific Use Bushfire Protected Buildings and Other Matters) Regulations 2016(Vic)External Link', note: 'Building Amendment (Specific Use Bushfire Protected Buildings and Other Matters) Regulations 2016 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/as-made/statutory-rules/building-amendment-specific-use-bushfire-protected-buildings-and-other' },
+      { title: 'Essential SafetyMeasures: Maintenance ManualExternal Link', note: 'Essential Safety Measures: Maintenance Manual External Link', url: 'https://www.vba.vic.gov.au/consumers/guides/essential-safety-measures' },
+      { title: 'Landscaping for Bushfire: Country FireAuthorityExternal Link', note: 'Landscaping for Bushfire: Country Fire Authority External Link', url: 'https://www.cfa.vic.gov.au/plan-prepare/how-to-prepare-your-property/landscaping' },
+      { title: 'Neighbourhood Safer Places AssessmentGuidelinesExternal Link', note: 'Neighbourhood Safer Places Assessment Guidelines External Link', url: 'https://www.cfa.vic.gov.au/ArticleDocuments/533/Guideline-CFA-NSP-BPLR-Assessment-Guideline-July-2020.pdf.aspx?Embed=Y' },
+      { title: 'Victorian BuildingAuthorityExternal Link', note: 'Victorian Building Authority External Link Guide to retrofitting certain existing Class 9 buildings for better protection from bushfire ember attack (VBA) External Link', url: 'http://www.vba.vic.gov.au/' },
+      { title: 'Guide to retrofitting certain existing Class 9 buildings for better protection from bushfire ember attack(VBA)External Link', note: 'Guide to retrofitting certain existing Class 9 buildings for better protection from bushfire ember attack (VBA) External Link', url: 'https://www.vba.vic.gov.au/__data/assets/pdf_file/0011/99470/A-guide-to-retrofitting-certain-Class-9-buildings.pdf' },
+      { title: 'VRQA Guidelines on Bushfire Preparedness - RegisteredSchoolsExternal Link', note: 'VRQA Guidelines on Bushfire Preparedness - Registered Schools External Link', url: 'https://www.vrqa.vic.gov.au/schools/Pages/bushfire-preparedness.aspx' }
+    ]
+  },
+  { id: 442, title: 'Shipping Containers', category: 'Infrastructure', tags: ['2004', 'VSBA', 'OHS', 'DOCX', 'responsibilities', 'shipping', 'containers', 'grounds', 'legal', 'compliance'], summary: 'This policy sets out schools’ responsibilities for shipping containers on their grounds, including use, legal compliance and possible building permit requirements.', url: 'https://www2.education.vic.gov.au/pal/shipping-containers', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/shipping-containers/guidance', resources: 'https://www2.education.vic.gov.au/pal/shipping-containers/resources' },
+    chapters: [
+      { title: 'Policy — 2004, responsibilities, shipping, containers, grounds, legal', url: 'https://www2.education.vic.gov.au/pal/shipping-containers/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/shipping-containers/guidance' },
+      { title: 'Resources — DOCX, resources, australian, building, codes, board', url: 'https://www2.education.vic.gov.au/pal/shipping-containers/resources' }
+    ],
+    resources: [
+      { title: 'Australian Building CodesBoardExternal Link', note: 'Australian Building Codes Board External Link – a website that contains the National Construction Code External Link This helps schools and building surveyors determine if a building permit is require', url: 'https://www.abcb.gov.au/' },
+      { title: 'National ConstructionCodeExternal Link', note: 'Australian Building Codes Board External Link – a website that contains the National Construction Code External Link This helps schools and building surveyors determine if a building permit is require', url: 'https://www.abcb.gov.au/Connect/Categories/National-Construction-Code' },
+      { title: 'Hardcopy records storage checklist (DOCX) (staff loginrequired)External Link', note: 'Hardcopy records storage checklist (DOCX) (staff login required) External Link – this checklist helps schools to review and address risks relating to hardcopy records storage', url: 'https://eduvic.sharepoint.com/:w:/r/sites/SchoolsSecure/Shared%20Documents/Hardcopy-records-storage-checklist.docx' }
+    ]
+  },
+  { id: 443, title: 'Single-Use Plastics Ban', category: 'School Operations', tags: ['2023', '2024', '2026', '2017', '2021', '2022', 'PDF', 'outlines', 'government', 'single'], summary: 'This policy outlines the Victorian government’s single use plastics ban which comes into effect on 1 February 2023 and which applies to all organisations and businesses, including schools.', url: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban/guidance', resources: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban/resources' },
+    chapters: [
+      { title: 'Policy — 2023, outlines, government, single, plastics, comes', url: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban/policy' },
+      { title: 'Guidance — guidance, there, topic, resources, fact, sheets', url: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban/guidance' },
+      { title: 'Resources — 2022, DOCX, PDF, resources, update, article', url: 'https://www2.education.vic.gov.au/pal/single-use-plastics-ban/resources' }
+    ],
+    resources: [
+      { title: 'Single-use plastics ban – 29 November2022External Link', note: 'Single-use plastics ban – 29 November 2022 External Link (staff login required)', url: 'https://eduvic.sharepoint.com/sites/SchoolUpdate/SitePages/Single-use-plastics-ban.aspx' },
+      { title: 'Sample newsletter content for school communications to their community about the single use plastics ban(DOCX)External Link', note: 'Sample newsletter content for school communications to their community about the single use plastics ban (DOCX) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/single-use-plastics-ban-sample-newslettter-content.docx' },
+      { title: 'Victorian Government single-use plasticswebsiteExternal Link', note: 'There are a number of useful resources about the single-use plastics ban available on the Victorian Government single-use plastics website External Link :', url: 'https://www.vic.gov.au/single-use-plastics' },
+      { title: 'Factsheet: Single-use plastics ban(PDF)External Link', note: 'Factsheet: Single-use plastics ban (PDF) External Link', url: 'https://www.vic.gov.au/sites/default/files/2022-11/Single-use-plastics-Ban-factsheet.pdf' },
+      { title: 'FAQs: Single-use plastics guide for business(PDF)External Link', note: 'FAQs: Single-use plastics guide for business (PDF) External Link', url: 'https://www.vic.gov.au/sites/default/files/2022-11/Victorian-Plastics-Ban-Guide-for-Business-FAQs.pdf' },
+      { title: 'A4 poster: Single-use plastics ban(PDF)External Link', note: 'A4 poster: Single-use plastics ban (PDF) External Link – useful for canteens and school events where food and drinks are provided or sold', url: 'https://www.vic.gov.au/sites/default/files/2022-11/Single-use-plastics-ban-A4-Poster.pdf' },
+      { title: 'A6 postcard: Single-use plastics ban(PDF)External Link', note: 'A6 postcard: Single-use plastics ban (PDF) External Link – useful for canteens and school events where food and drinks are provided or sold', url: 'https://www.vic.gov.au/sites/default/files/2022-11/Single-use-plastics-ban-A6-Postcard.pdf' },
+      { title: 'Sustainability Victoria: single-use plasticsbanExternal Link', note: 'A number of helpful resources are available at: Sustainability Victoria: single-use plastics ban External Link including posters and communications materials in a number of languages other than Englis', url: 'https://www.sustainability.vic.gov.au/plastics' },
+      { title: 'communications materials in a number of languages other thanEnglishExternal Link', note: 'A number of helpful resources are available at: Sustainability Victoria: single-use plastics ban External Link including posters and communications materials in a number of languages other than Englis', url: 'https://campaigns.sustainability.vic.gov.au/asset-library/single-use-plastics-ban/additional-languages' },
+      { title: 'Single-use plastics ban – exemptions guidance(PDF)External Link', note: 'Single-use plastics ban – exemptions guidance (PDF) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/single-use-plastics-ban-exemption-guidance.pdf' }
+    ]
+  },
+  { id: 444, title: 'Sister School Partnerships', category: 'Curriculum', tags: ['2020', '2006', 'Ministerial Order 819', 'ISP', 'requirements', 'regarding', 'sister', 'partnerships', 'visits', 'overseas'], summary: 'This policy sets out the requirements for schools regarding sister school partnerships, including visits by overseas students to Victorian schools and visits by Victorian students to sister schools overseas.', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance', resources: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/resources' },
+    chapters: [
+      { title: 'Arrangements with overseas partners — 2020, arrangements, overseas, partners, engagement, international', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance/arrangements-overseas-partners' },
+      { title: 'Victorian students and staff travelling to sister schools — students, travelling, sister, visits, overseas, comply', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance/victorian-students-and-staff-travelling-sister-schools' },
+      { title: 'Sister schools travelling to Victoria — sister, travelling, reasonable, steps, discharge, duty', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance/sister-schools-travelling-victoria' },
+      { title: 'Exchange of school information and student work — 2014, exchange, student, privacy, identify, names', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance/exchange-school-information-and-student-work' },
+      { title: 'Types of overseas arrangements — CASES21, types, overseas, arrangements, features, different', url: 'https://www2.education.vic.gov.au/pal/sister-school-partnerships/guidance/types-overseas-arrangements' }
+    ],
+    resources: [
+      { title: 'Global learningprogramsExternal Link', note: 'Global learning programs External Link', url: 'https://www.study.vic.gov.au/en/global-learning-and-engagement' },
+      { title: 'Online public register of foreignarrangementsExternal Link', note: 'Online public register of foreign arrangements External Link', url: 'https://www.foreignarrangements.gov.au/public-register' }
+    ]
+  },
+  { id: 445, title: 'Slips, Trips and Falls Prevention', category: 'OHS', tags: ['2004', '2017', 'OHS', 'PDF', 'HSR', 'outlines', 'health', 'safety', 'wellbeing', 'requirements'], summary: 'This policy:', url: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls/resources' },
+    chapters: [
+      { title: '1. Ongoing management of slips, trips and falls prevention — OHS, HSW, ongoing, management, slips, trips', url: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls/procedure/ongoing-management' },
+      { title: '2. Identifying and assessing slip, trip and fall risks and hazards — identifying, assessing, slip, trip, fall, risks', url: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls/procedure/identifying-assessing-hazards' },
+      { title: '3. Controlling the risks — controlling, risks, many, slip, trip, fall', url: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls/procedure/controlling-risks' },
+      { title: '4. Hazard, incident and near miss reporting — HSR, hazard, incident, near, miss, reporting', url: 'https://www2.education.vic.gov.au/pal/slips-trips-and-falls/procedure/hazard-incident-reporting' }
+    ],
+    resources: [
+      { title: 'Preventing slips, trips, and falls under 2metresExternal Link', note: 'Preventing slips, trips, and falls under 2 metres External Link', url: 'https://www.worksafe.vic.gov.au/preventing-slips-trips-and-falls-under-2-metres' },
+      { title: 'Checklist and guidance that may help employers eliminate or reduce the risks of slips, trips and falls under 2metresExternal Link', note: 'Checklist and guidance that may help employers eliminate or reduce the risks of slips, trips and falls under 2 metres External Link', url: 'https://www.worksafe.vic.gov.au/resources/preventing-slips-trips-and-falls-under-2-metres' }
+    ]
+  },
+  { id: 446, title: 'Smoking and Vaping Ban', category: 'Students', tags: ['1981', '2006', '2017', '1987', 'Ministerial Order 1125', 'GP', 'PDF', 'purpose', 'public', 'health'], summary: 'The purpose of this policy is to support public health objectives and ensure there is no smoking or use of e-cigarettes External Link (vaping) on school premises (buildings and grounds), within 4 metres of school entrances or at school sanctioned events held off-premises.', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance', resources: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/resources' },
+    chapters: [
+      { title: 'Background — background, e-cigarette, known, vape, battery-powered, device', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/background' },
+      { title: 'Identifying vaping — USB, identifying, vaping, there, many, different', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/identifying-vaping' },
+      { title: 'Prevention — prevention, vaping, best, managed, whole-school, approach', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/prevention' },
+      { title: 'Supporting students to stop vaping — supporting, students, stop, vaping, student, self-referral', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/supporting-students-stop-vaping' },
+      { title: 'Managing vaping incidents — managing, vaping, incidents, below, procedures, follow', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/managing-vaping-incidents' },
+      { title: 'Signage requirements — COS, signage, requirements, display, smoking, signs', url: 'https://www2.education.vic.gov.au/pal/smoking-vaping-ban/guidance/signage-requirements' }
+    ],
+    resources: [
+      { title: 'Quit Victoria: SchoolresourcesExternal Link', note: 'Quit Victoria: School resources External Link – contains fact sheets and resources that are added and updated on an ongoing basis', url: 'https://www.vapingfacts.org.au/other-school-resources' },
+      { title: 'Quit Victoria and VicHealth: Get the facts onvapingExternal Link', note: 'Quit Victoria and VicHealth: Get the facts on vaping External Link – contains information for parents, carers, and influential adults to inform conversations about vaping with young people in their li', url: 'https://www.vapingfacts.org.au/' },
+      { title: 'Quit Victoria: Start theconversationExternal Link', note: 'Quit Victoria: Start the conversation External Link – practical tips to help speak to young people about the risks of vaping', url: 'https://www.vapingfacts.org.au/start-the-conversation' },
+      { title: 'VicHealth: Talk to your teen aboutvapingExternal Link', note: 'VicHealth: Talk to your teen about vaping External Link – conversation guide that considers a young person’s attitude and behaviours', url: 'https://www.vichealth.vic.gov.au/resources/resource-download/vaping-conversation-guide-parents' },
+      { title: 'Royal Children’s Hospital: e-cigarettes andteensExternal Link', note: 'Royal Children’s Hospital: e-cigarettes and teens External Link – contains information on how to talk to teens about the health risks of using e-cigarettes, including video with paediatricians', url: 'https://www.rch.org.au/kidsinfo/fact_sheets/E-cigarettes_and_teens/' },
+      { title: 'Alcohol and Drug Foundation: talking about vaping with youngpeopleExternal Link', note: 'Alcohol and Drug Foundation: talking about vaping with young people External Link – practical tips to help speak to young people about the risks of vaping', url: 'https://adf.org.au/talking-about-drugs/vaping/vaping-youth/talking-about-vaping/' },
+      { title: 'Department of Education: Smoking and vaping: advice forparentsExternal Link', note: 'Department of Education: Smoking and vaping: advice for parents External Link – information for parents and carers about the impacts of smoking and vaping with their children', url: 'https://www.vic.gov.au/smoking-and-vaping-advice-parents' },
+      { title: 'Vaping – everything you need toknowExternal Link', note: 'Vaping – everything you need to know External Link – a Royal Children\'s Hospital factsheet for teenagers', url: 'https://www.rch.org.au/teeninfo/fact-sheets/Vaping_%E2%80%93_everything_you_need_to_know/' },
+      { title: 'Quit Victoria – free primary and secondary school teaching and learningresourcesExternal Link', note: 'Quit Victoria – free primary and secondary school teaching and learning resources External Link that focus on vaping health and media literacy, critical thinking and promoting community health. They h', url: 'https://www.vapingfacts.org.au/for-schools' },
+      { title: 'Life EducationVictoriaExternal Link', note: 'Life Education Victoria External Link – primary school teaching and learning programs about smoking and vaping', url: 'https://www.lifeedvic.org.au/schools/core-program/drugs-alcohol' },
+      { title: 'ung Foundation Australia, Na Joomelah and Tackling Indigenous SmokingProgramExternal Link', note: 'L ung Foundation Australia, Na Joomelah and Tackling Indigenous Smoking Program External Link – vaping awareness resources for First Nations youth and communities', url: 'https://lungfoundation.com.au/lung-health/protecting-your-lungs/e-cigarettes-and-vaping/first-nations/' },
+      { title: 'Healthy Schools AchievementProgramExternal Link', note: 'Healthy Schools Achievement Program External Link – provides a whole of school framework for health and wellbeing. It includes a focused health area on tobacco, alcohol and other drugs', url: 'https://www.achievementprogram.health.vic.gov.au/education/schools' },
+      { title: 'PositiveChoicesExternal Link', note: 'Positive Choices External Link – resources and drug prevention programs for schools developed by University of Sydney. Includes drug and alcohol booklets for parents, teachers and students covering e-', url: 'https://positivechoices.org.au/drugs-a-z/tobacco' },
+      { title: 'alcohol and drugeducationExternal Link', note: 'Schools Mental Health Menu – includes alcohol and drug education External Link', url: 'https://www.schools.vic.gov.au/schools-mental-health-menu-search' },
+      { title: 'Department of Health: Learning environments: smoke-free andvape-freeExternal Link', note: 'Department of Health: Learning environments: smoke-free and vape-free External Link – detailed advice, factsheets and diagrams for schools to comply with the smoking and vaping ban', url: 'https://www.health.vic.gov.au/tobacco-reform/learning-environments-smoke-free-and-vape-free' },
+      { title: 'Department of Health – free ‘No Smoking or Vaping’resourcesExternal Link', note: 'Department of Health – free ‘No Smoking or Vaping’ resources External Link to download', url: 'https://www.health.vic.gov.au/tobacco-reform/resources-and-factsheets-tobacco-reform' },
+      { title: 'QuitlineExternal Link', note: 'Quitline External Link provide advice and confidential counselling, including for children from 8 am to 8 pm Monday to Friday – phone 13 78 48 , text or request a call back or online webchat', url: 'http://www.quit.org.au/' },
+      { title: 'DirectLineExternal Link', note: 'DirectLine External Link is a state-wide alcohol and other drugs advice service offering confidential counselling and referral 24 hours a day, 7 days a week – phone 1800 888 236', url: 'https://www.directline.org.au/' },
+      { title: 'Alcohol and DrugFoundationExternal Link', note: 'Alcohol and Drug Foundation External Link – online chatbot', url: 'https://adf.org.au/' },
+      { title: 'HeadspaceExternal Link', note: 'Headspace External Link offer mental health support online, by phone and in person through headspace centres', url: 'http://www.headspace.org.au/' },
+      { title: 'Australian Government: Give Up ForGoodExternal Link', note: 'Australian Government: Give Up For Good External Link – national campaign and resources for quitting smoking and vaping', url: 'https://www.health.gov.au/give-up-for-good' },
+      { title: 'Alcohol and Drug Foundation: nicotinefactsExternal Link', note: 'Alcohol and Drug Foundation: nicotine facts External Link – contains information about effects of nicotine, including withdrawal', url: 'https://adf.org.au/drug-facts/nicotine/' },
+      { title: 'Better HealthChannelExternal Link', note: 'Better Health Channel External Link – contains information on the health effects of smoking, strategies for quitting, statistics and Victoria’s laws on smoking', url: 'https://www.betterhealth.vic.gov.au/healthyliving/smoking-and-tobacco' },
+      { title: 'Better Health Channel:e-cigarettesExternal Link', note: 'Better Health Channel: e-cigarettes External Link – contains information on the dangers of e-cigarettes', url: 'https://www.betterhealth.vic.gov.au/health/HealthyLiving/e-cigarettes' },
+      { title: 'Better Health Channel:e-liquidsExternal Link', note: 'Better Health Channel: e-liquids External Link – contains information the liquid used in e-cigarettes and the dangers of nicotine poisoning', url: 'https://www.betterhealth.vic.gov.au/health/HealthyLiving/e-liquids-for-use-in-e-cigarettes' },
+      { title: 'QuitVictoriaExternal Link', note: 'Quit Victoria External Link – contains a summary of Australia’s vaping laws', url: 'https://www.quit.org.au/articles/australias-2024-vaping-regulations-what-you-need-to-know' },
+      { title: 'Royal Children’sHospitalExternal Link', note: 'Royal Children’s Hospital External Link – contains a video suitable for school staff and parents/carers on health risks of using e-cigarettes', url: 'https://www.rchfoundation.org.au/2020/02/child-health-poll-on-e-cigarettes-vaping-and-teens/' },
+      { title: 'UncloudExternal Link', note: 'Uncloud External Link – national campaign funded by the Minderoo Foundation for young people aged 14 to 25 years old', url: 'https://www.uncloud.org/' }
+    ]
+  },
+  { id: 447, title: 'Software and Administration Systems', category: 'IT & Privacy', tags: ['2028', '2005', '1982', '2001', '2014', '1973', 'Ministerial Order 1359', 'ICT', 'PIA', 'CCTV'], summary: 'This policy defines the mandatory systems of record for student and school administration. It also outlines requirements for schools to use the Safer Technologies 4 Schools (ST4S) risk assessment reports for assessing both existing and new software and administration systems prior to use at a school.', url: 'https://www2.education.vic.gov.au/pal/software-administration-systems', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/software-administration-systems/guidance', resources: 'https://www2.education.vic.gov.au/pal/software-administration-systems/resources' },
+    chapters: [
+      { title: 'Policy — defines, mandatory, systems, record, student, administration', url: 'https://www2.education.vic.gov.au/pal/software-administration-systems/policy' },
+      { title: 'Guidance — CASES21, guidance, systems, record, using, department-provided', url: 'https://www2.education.vic.gov.au/pal/software-administration-systems/guidance' },
+      { title: 'Resources — CASES21, DOCX, VASS, resources, software, catalogue', url: 'https://www2.education.vic.gov.au/pal/software-administration-systems/resources' }
+    ],
+    resources: [
+      { title: 'ArcSoftwareExternal Link', note: 'Arc Software External Link hosts a list of software titles provided by the department to schools and other software and administration systems that has been assessed in relation to ST4S.', url: 'https://arc.educationapps.vic.gov.au/software/catalogue' },
+      { title: 'Computerised Administrative System Environment for Schools(CASES21)External Link', note: 'Computerised Administrative System Environment for Schools (CASES21) External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/bussys/cases21/Pages/Home.aspx' },
+      { title: 'Victorian Assessment Software System(VASS)External Link', note: 'Victorian Assessment Software System (VASS) External Link', url: 'https://www.vass.vic.edu.au/' },
+      { title: 'Insight AssessmentPlatformExternal Link', note: 'Insight Assessment Platform External Link', url: 'https://www.vcaa.vic.edu.au/assessment/f-10assessment/insight/Pages/login.aspx' },
+      { title: 'Student Activity Locator(SAL)External Link', note: 'Student Activity Locator (SAL) External Link', url: 'https://sal.educationapps.vic.gov.au/' },
+      { title: 'eduSafePlusExternal Link', note: 'eduSafe Plus External Link', url: 'https://services.educationapps.vic.gov.au/edusafeplus' },
+      { title: 'Program for Students with Disabilities Management System(PSDMS)External Link', note: 'Program for Students with Disabilities Management System (PSDMS) External Link', url: 'https://psdms.eduweb.vic.gov.au/home/Home.aspx' },
+      { title: 'Student Resource Package (SRP) interactivesiteExternal Link', note: 'Student Resource Package (SRP) interactive site External Link', url: 'https://www.eduweb.vic.gov.au/srp' },
+      { title: 'Strategic Planning Online Tool(SPOT)External Link', note: 'Strategic Planning Online Tool (SPOT) External Link', url: 'https://apps.edustar.vic.edu.au/spot' },
+      { title: 'Schools Targeted Funding Governance (STFG)PortalExternal Link', note: 'Schools Targeted Funding Governance (STFG) Portal External Link', url: 'https://stfg.educationapps.vic.gov.au/' },
+      { title: 'Camps, Sports and Excursions Fund (CSEF)systemExternal Link', note: 'Camps, Sports and Excursions Fund (CSEF) system External Link', url: 'https://www.eduweb.vic.gov.au/csef/Home.aspx' },
+      { title: 'Asset Information Management System(AIMS)External Link', note: 'Asset Information Management System (AIMS) External Link', url: 'https://vsba-aims.maxicloud.co/maximo/ui' },
+      { title: 'eduPayExternal Link', note: 'eduPay External Link', url: 'https://edupay.eduweb.vic.gov.au/' },
+      { title: 'School JobsVicExternal Link', note: 'School Jobs Vic External Link', url: 'https://www.vic.gov.au/school-jobs' },
+      { title: 'School Conveyance Allowance System(SCAS)External Link', note: 'School Conveyance Allowance System (SCAS) External Link', url: 'https://scas.eduweb.vic.gov.au/scas/' }
+    ]
+  },
+  { id: 448, title: 'Soil, Mulch or Loose Fill', category: 'OHS', tags: ['2004', '2017', 'VSBA', 'AIMS', 'purpose', 'inadvertently', 'bring', 'asbestos', 'contaminants', 'onsite'], summary: 'The purpose of this policy is to:', url: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill/guidance', resources: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill/resources' },
+    chapters: [
+      { title: 'Policy — VSBA, purpose, inadvertently, bring, asbestos, contaminants', url: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/soil-mulch-loose-fill/resources' }
+    ],
+    resources: [
+      { title: 'safety datasheetsExternal Link', note: 'Schools may refer to the WorkSafe website for more information on safety data sheets External Link .', url: 'https://www.worksafe.vic.gov.au/safety-data-sheets' },
+      { title: 'Occupational Health and Safety Act 2004(Vic)External Link', note: 'Occupational Health and Safety Act 2004 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004' },
+      { title: 'Occupational Health and Safety Regulations 2017(Vic)External Link', note: 'Occupational Health and Safety Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/occupational-health-and-safety-regulations-2017' }
+    ]
+  },
+  { id: 449, title: 'Special Religious Instruction', category: 'Curriculum', tags: ['2006', '2001', 'VIT', 'LGBTIQA', 'SRI', 'DOCX', 'PDF', 'WWC', 'UJEB', 'requirements'], summary: 'This policy sets out requirements for the delivery of Special Religious Instruction in Victorian government schools', url: 'https://www2.education.vic.gov.au/pal/special-religious-instruction', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/special-religious-instruction/guidance', resources: 'https://www2.education.vic.gov.au/pal/special-religious-instruction/resources' },
+    chapters: [
+      { title: 'Policy — requirements, delivery, special, religious, instruction, government', url: 'https://www2.education.vic.gov.au/pal/special-religious-instruction/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/special-religious-instruction/guidance' },
+      { title: 'Resources — SRI, DOCX, PDF, resources, record, decision-making', url: 'https://www2.education.vic.gov.au/pal/special-religious-instruction/resources' }
+    ],
+    resources: [
+      { title: 'KorusConnectExternal Link', note: 'Korus Connect External Link – Christianity', url: 'https://www.korusconnect.org.au/' },
+      { title: 'Arkan Toledo/Islamic Council ofVictoriaExternal Link', note: 'Arkan Toledo/Islamic Council of Victoria External Link – Islam', url: 'http://arkan.org.au/' },
+      { title: 'United Jewish EducationBoardExternal Link', note: 'United Jewish Education Board External Link – Judaism', url: 'http://www.ujeb.org.au/' }
+    ]
+  },
+  { id: 450, title: 'Sporting Competitions Leave for Teaching Service', category: 'HR - Leave', tags: ['HR', 'overview', 'related', 'policies', 'leave', 'teaching', 'service', 'legislation', 'delegations', 'industrial'], summary: 'Refer to the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, related, policies, leave, teaching', url: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/overview' },
+      { title: 'Policy and Guidelines — sporting, competitions, leave, teaching, service, granted', url: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/sporting-competitions-leave-teaching-service/resources' }
+    ]
+  },
+  { id: 451, title: 'Spouse Leave for Teaching Service', category: 'HR - Leave', tags: ['HR', 'overview', 'related', 'policies', 'leave', 'teaching', 'service', 'legislation', 'delegations', 'industrial'], summary: 'Refer to Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, related, policies, leave, teaching', url: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/overview' },
+      { title: 'Policy and Guidelines — employee, leave, accompany, spouse, domestic, partner', url: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/policy-and-guidelines' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/spouse-leave-teaching-service/resources' }
+    ]
+  },
+  { id: 452, title: 'State Schools’ Relief', category: 'School Operations', tags: ['SSR', 'state', 'relief', 'autonomous', 'charitable', 'organisation', 'assists', 'government', 'students', 'experiencing'], summary: 'State Schools\' Relief (SSR) is an autonomous, charitable organisation that assists Victorian government school students who are experiencing financial disadvantage because of short-term crisis or long-term chronic need.', url: 'https://www2.education.vic.gov.au/pal/state-schools-relief', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/state-schools-relief/guidance', resources: 'https://www2.education.vic.gov.au/pal/state-schools-relief/resources' },
+    chapters: [
+      { title: 'Advice — SSR, state, relief, autonomous, charitable, organisation', url: 'https://www2.education.vic.gov.au/pal/state-schools-relief/advice' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/state-schools-relief/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/state-schools-relief/resources' }
+    ],
+    resources: [
+      { title: 'State Schools\'ReliefExternal Link', note: 'For further information, refer to State Schools\' Relief External Link .', url: 'https://stateschoolsrelief.org.au/' }
+    ]
+  },
+  { id: 453, title: 'Statutory Declarations and Affidavits', category: 'HR - Pay (?ambig)', tags: ['2018', 'HR', 'overview', 'throughout', 'course', 'employment', 'employee', 'requested', 'witness', 'statutory'], summary: 'Throughout the course of employment an employee may be required to provide, or may be requested to witness, a statutory declaration or an affidavit.', url: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits/overview', resources: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits/resources' },
+    chapters: [
+      { title: 'Overview — 2018, HR, overview, throughout, course, employment', url: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits/overview' },
+      { title: 'Policy and Guidelines — statutory, declarations, purposes, declaration, writing, using', url: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits/policy-and-guidance' },
+      { title: 'Resources — resources, statutory, declarations, external, justice, community', url: 'https://www2.education.vic.gov.au/pal/statutory-declarations-and-affidavits/resources' }
+    ],
+    resources: [
+      { title: 'StatutoryDeclarationsExternal Link', note: 'Statutory Declarations External Link — Department of Justice and Community Safety', url: 'https://www.justice.vic.gov.au/statdecs' },
+      { title: 'AffidavitsExternal Link', note: 'Affidavits External Link — Department of Justice and Community Safety', url: 'https://www.justice.vic.gov.au/affidavits' }
+    ]
+  },
+  { id: 454, title: 'Stop Pay', category: 'HR - Pay', tags: ['HR', 'overview', 'related', 'policies', 'absent', 'leave', 'unauthorised', 'absences', 'direct', 'crediting'], summary: 'Refer to the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/stop-pay', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/stop-pay/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/stop-pay/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/stop-pay/resources' },
+    chapters: [
+      { title: 'Overview — HR, overview, related, policies, absent, leave', url: 'https://www2.education.vic.gov.au/pal/stop-pay/overview' },
+      { title: 'Policy and Guidelines — there, circumstances, necessary, stop, employee, temporary', url: 'https://www2.education.vic.gov.au/pal/stop-pay/policy-and-guidelines' },
+      { title: 'Resources — eduPay, TAC, resources, procedures, processing, stop', url: 'https://www2.education.vic.gov.au/pal/stop-pay/resources' }
+    ],
+    resources: [
+      { title: 'eduPay UserGuidesExternal Link', note: 'For information on processing a stop pay on the payroll, refer to the Absences or WorkCover (now Workers\' Compensation) and TAC eduPay User Guide, available at eduPay User Guides External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/HR/Pages/eduPay_UGuides.aspx' }
+    ]
+  },
+  { id: 455, title: 'Student Dress Code', category: 'Students (?ambig)', tags: ['2025', '2004', '2006', '1992', '2017', '2010', '2001', '1975', '1984', 'LGBTIQA'], summary: 'Changes to the Student Dress Code policy to improve uniform affordability were announced on 2 April 2025. The resources for this policy have been updated and expanded to support implementation of these changes. This includes an updated local student dress code policy template. Further information on implementing the uniform affordability changes is available in the Student Dress Code policy FAQ (DOCX) External Link .', url: 'https://www2.education.vic.gov.au/pal/student-dress-code', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-dress-code/resources' },
+    chapters: [
+      { title: 'Developing and reviewing student dress codes — DOCX, developing, reviewing, student, dress, codes', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/developing-and-reviewing-dress-codes' },
+      { title: 'Uniform branding and cost considerations — uniform, branding, cost, considerations, councils, factor', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/uniform-branding-and-cost-considerations' },
+      { title: 'Exemption procedures — exemption, procedures, councils, local, school-based, student', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/exemption-procedures' },
+      { title: 'Health and safety considerations — UV, health, safety, considerations, protection, uniform', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/health-and-safety-considerations' },
+      { title: 'Human rights requirements — human, rights, requirements, upholding, anti-discrimination, legislation', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/human-rights-requirements' },
+      { title: 'Implementing and enforcing student dress codes — implementing, enforcing, student, dress, codes, communicating', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/implementing-and-enforcing-student-dress-codes' },
+      { title: 'Parent complaints — parent, complaints, parents, carers, students, raise', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/parent-complaints' },
+      { title: 'Uniform supply arrangements — uniform, supply, arrangements, considerations, deciding, supplier', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/uniform-supply-arrangements' },
+      { title: 'Dress code legislation — 2006, 2017, dress, code, legislation, describes', url: 'https://www2.education.vic.gov.au/pal/student-dress-code/guidance/dress-code-legislation' }
+    ],
+    resources: [
+      { title: 'Student dress code policy template (staff loginrequired)External Link', note: 'Student dress code policy template (staff login required) External Link', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal/SitePages/Dress-code-students.aspx' },
+      { title: 'School council licence – school uniform business (DOCX) (staff loginrequired)External Link', note: 'School council licence – school uniform business (DOCX) (staff login required) External Link', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Licence%20-%20Uniform%20Business.docx' },
+      { title: 'School council agreement for the appointment of school uniform supplier (DOCX) (staff loginrequired)External Link', note: 'School council agreement for the appointment of school uniform supplier (DOCX) (staff login required) External Link (school uniforms to be supplied at non school premises)', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Agreement%20-%20Appointment%20of%20School%20Uniform%20Supplier%20-%20Non%20school%20premises.docx' },
+      { title: 'School council agreement for the purchase of school uniforms (DOCX) (staff loginrequired)External Link', note: 'School council agreement for the purchase of school uniforms (DOCX) (staff login required) External Link (for on-sale by the School Council)', url: 'https://edugate.eduweb.vic.gov.au/Services/legal/Intranet%20templates/School%20Council%20Agreement%20-%20Purchase%20of%20school%20uniforms%20for%20sale%20by%20school.docx' }
+    ]
+  },
+  { id: 456, title: 'Student Enrolment Census', category: 'Students (?ambig)', tags: ['CASES21', 'SRP', 'SFO', 'SFE', 'purpose', 'requirements', 'student', 'enrolment', 'data', 'funding'], summary: 'The purpose of this policy is to set out requirements for schools to:', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/resources' },
+    chapters: [
+      { title: '1. Introduction — SRP, introduction, education, conducts, census, occasions', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/1-introduction' },
+      { title: '2. Time fraction assessment — FTE, VCE, fraction, assessment, recorded, student', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/time-fraction-assessment' },
+      { title: '3. Attendance criteria — SRP, attendance, criteria, principals, records, relating', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/3-attendance-criteria' },
+      { title: '4. Eligibility for Student Resource Package funding — SRP, eligibility, student, resource, package, funding', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/4-eligibility-student-resource-package-funding' },
+      { title: '5. Conducting the census count — CASES21, SRP, conducting, census, count, principals', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/5-conducting-census-count' },
+      { title: '6. Amending and resubmitting census returns in case of error — SRP, amending, resubmitting, census, returns, case', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/6-amending-and-resubmitting-census-returns-case-error' },
+      { title: '7. Census data verification reviews — SRP, census, data, verification, effective, targeting', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/7-census-data-reviews' },
+      { title: '8. Key contacts — PO, MELBOURNE, ISSU, VRQA, census, conducting', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/8-key-contacts' },
+      { title: 'Appendix – additional CASES21 instructions — CASES21, appendix, instructions, full, prepare, submit', url: 'https://www2.education.vic.gov.au/pal/student-enrolment-census/guidance/appendix-cases21-instructions' }
+    ],
+    resources: [
+      { title: 'Checklist for Student EnrolmentCensusExternal Link', note: 'Checklist for Student Enrolment Census External Link — details steps in the process of preparing for, conducting and submitting the student enrolment census.', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-07/Student-Enrolment-Census-checklist.docx' },
+      { title: 'Start of School Year inputformExternal Link', note: 'Start of School Year input form External Link (school or principal edumail account required).', url: 'https://www.eduweb.vic.gov.au/ppsosy/Collection.aspx' },
+      { title: 'Updating school contact information inCASES21External Link', note: 'Updating school contact information in CASES21 External Link (CASES21 portal — edumail account required)', url: 'https://edugate.eduweb.vic.gov.au/Services/bussys/cases21/User%20Guides/C21%20ADMINISTRATION%20User%20Guides/Chapter%2016%20School%20Management.docx' }
+    ]
+  },
+  { id: 457, title: 'Student Exchange Programs', category: 'Curriculum', tags: ['VRQA', 'ISP', 'overview', 'student', 'exchange', 'programs', 'two-way', 'exchanges', 'students', 'study'], summary: 'Student Exchange Programs:', url: 'https://www2.education.vic.gov.au/pal/student-exchange-programs', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-exchange-programs/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-exchange-programs/resources' },
+    chapters: [
+      { title: 'Policy — VRQA, overview, student, exchange, programs, two-way', url: 'https://www2.education.vic.gov.au/pal/student-exchange-programs/policy' },
+      { title: 'Guidance — CASES21, guidance, features, different, visits, exchange', url: 'https://www2.education.vic.gov.au/pal/student-exchange-programs/guidance' },
+      { title: 'Resources — VRQA, resources, useful, student, exchange, external', url: 'https://www2.education.vic.gov.au/pal/student-exchange-programs/resources' }
+    ],
+    resources: [
+      { title: 'StudentexchangeExternal Link', note: 'Student exchange External Link – VRQA website', url: 'https://www2.vrqa.vic.gov.au/student-exchange' }
+    ]
+  },
+  { id: 458, title: 'Student Support Groups', category: 'Students (?ambig)', tags: ['2006', '1992', '2005', '2010', 'SSG', 'PSD', 'IEP', 'OOHC', 'purpose', 'assist'], summary: 'The purpose of this policy is to assist Victorian government schools to support students with disability and diverse learning needs.', url: 'https://www2.education.vic.gov.au/pal/student-support-groups', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-support-groups/resources' },
+    chapters: [
+      { title: '1 Introduction — SSG, PSD, introduction, effective, collaboration, requires', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/1-introduction' },
+      { title: '2 Aims — SSG, aims, student, group, most, knowledge', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/2-aims' },
+      { title: '3 Responsibilities — SSG, IEP, responsibilities, order, achieve, aims', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/3-responsibilities' },
+      { title: '4 Membership — SSG, membership, student, group, consists, parent', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/4-membership' },
+      { title: '5 Operation — SSG, operation, nominee, parent, carer, access', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/5-operation' },
+      { title: '6 Personalised learning and planning support — SSG, personalised, learning, planning, focus, student', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/6-personalised-learning-and-planning-support' },
+      { title: '7 Transition to post-school options — SSG, transition, post-school, options, student, final', url: 'https://www2.education.vic.gov.au/pal/student-support-groups/guidance/7-transition-post-school-options' }
+    ],
+    resources: [
+      { title: 'Template 1 — Understanding theStudent (Word)External Link', note: 'Template 1 — Understanding the Student (Word) External Link — may assist schools to gather and analyse relevant information to develop a profile of the student as a learner', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG%20Resource%20Template%201%20Understanding%20the%20Student.docx' },
+      { title: 'Template 2 — Goal Setting(Word)External Link', note: 'Template 2 — Goal Setting (Word) External Link — may assist schools to identify information that will support the development of educational goals', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG%20Resource%20Template%202%20Goal%20Setting.docx' },
+      { title: 'Template 3 — Recording Achievement(Word)External Link', note: 'Template 3 — Recording Achievement (Word) External Link — will assist schools after they have completed the Abilities Based Learning and Education Support (ABLES) assessments to develop an ABLES and V', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG%20Resources%20Template%203%20Recording%20Achievement.docx' },
+      { title: 'Template 4 — Program Evaluation(Word)External Link', note: 'Template 4 — Program Evaluation (Word) External Link — can support schools to monitor the current progress of the student at the same time as mapping the future learning opportunities for the student', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG%20Resource%20Template%204%20Program%20Evaluation.docx' },
+      { title: 'SSG — Sample 1(Agenda) (Word)External Link', note: 'SSG — Sample 1 (Agenda) (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG%20Resource_SSG%20Sample%201_1.docx' },
+      { title: 'SSG — Sample 2 (Educational Programming)(Word)External Link', note: 'SSG — Sample 2 (Educational Programming) (Word) External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSS%20Resource_SSG%20Sample%202.docx' },
+      { title: 'Roles and Responsibilities of theSSGExternal Link', note: 'Roles and Responsibilities of the SSG External Link', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-04/SSG_Resource_Roles_Responsibilities.docx' },
+      { title: 'Marrung, Aboriginal Education Plan2016-2026External Link', note: 'Marrung, Aboriginal Education Plan 2016-2026 External Link', url: 'https://www.vic.gov.au/marrung' }
+    ]
+  },
+  { id: 459, title: 'Student Support Services', category: 'Students', tags: ['1992', '2005', '2006', '2018', '2010', '2008', '2001', '2014', 'SSS', 'HWKC'], summary: 'This policy sets out how schools access Student Support Services and how this service works as part of the department’s Health, Wellbeing and Inclusion Workforces to support schools and students to achieve their learning and wellbeing goals.', url: 'https://www2.education.vic.gov.au/pal/student-support-services', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-support-services/resources' },
+    chapters: [
+      { title: '1. The role of Student Support Services — SSS, role, student, services, comprise, broad', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/role-student-support-services' },
+      { title: '2. Services provided by Student Support Services — PSD, services, provided, student, psychologists, recommend', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/services-provided-student-support-services' },
+      { title: '3. Student Support Services practice in key areas of work — SSS, PDF, DOCX, student, services, practice', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/student-support-services-practice-key-areas-work' },
+      { title: '4. Other professional support available — SSS, LOOKOUT, professional, access, health, wellbeing', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/other-professional-support-available' },
+      { title: '5. Student Support Services Key Contact — SSS, KC, HWKC, student, services, every', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/sss-key-contact' },
+      { title: '6. Student Support Services referral process — 2025, SSS, PDF, student, services, referral', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/student-support-services-referral-process' },
+      { title: '7. Student Support Services statewide service priorities — SSS, student, services, statewide, service, priorities', url: 'https://www2.education.vic.gov.au/pal/student-support-services/guidance/sss-statewide-service-priorities' }
+    ],
+    resources: [
+      { title: 'Student Online Case System (SOCS) (staff loginrequired)External Link', note: 'Student Online Case System (SOCS) (staff login required) External Link – all referrals to SSS must be lodged on the SOCS platform. The student information form and the SSS and VTS consent form are upl', url: 'https://www.eduweb.vic.gov.au/studentsupportservices/ADUserAccount.aspx/LogOn' },
+      { title: 'Regional maps content list (staff loginrequired)External Link', note: 'Regional maps content list (staff login required) External Link – schools can search for their schools and identify the key SSS contact for their school or area', url: 'https://edugate.eduweb.vic.gov.au/edrms/organisation/regions/SitePages/Default.aspx#!/home' }
+    ]
+  },
+  { id: 460, title: 'Student Voice, Agency and Leadership', category: 'Students', tags: ['Ministerial Order 1359', 'PROTECT', 'FISO', 'HITS', 'VTLM', 'DOCX', 'PDF', 'purpose', 'give', 'overview'], summary: 'The purpose of this page is to give an overview of the role of schools in promoting student voice, agency and leadership, and to outline where relevant guidance and programs can be found.', url: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership/resources' },
+    chapters: [
+      { title: 'Policy — purpose, give, overview, role, promoting, student', url: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership/guidance' },
+      { title: 'Resources — PROTECT, DOCX, resources, student, voice, practice', url: 'https://www2.education.vic.gov.au/pal/student-voice-agency-leadership/resources' }
+    ],
+    resources: [
+      { title: 'PROTECTwebsiteExternal Link', note: 'PROTECT website External Link for templates, guidance and checklists to support compliance with the Child Safe Standards', url: 'https://www.vic.gov.au/protect' },
+      { title: 'School Policy Templates Portal (staff loginrequired)External Link', note: 'School Policy Templates Portal (staff login required) External Link for templates including for complaints and to support compliance with the Child Safe Standards', url: 'https://eduvic.sharepoint.com/sites/SchoolPolicyTemplatesPortal' },
+      { title: 'Report racism or religious discrimination inschoolsExternal Link', note: 'Report racism or religious discrimination in schools External Link', url: 'https://www.vic.gov.au/report-racism-or-religious-discrimination-schools#contact-the-report-racism-hotline' },
+      { title: 'Victorian Student RepresentativeCouncilExternal Link', note: 'Victorian Student Representative Council External Link', url: 'https://vicsrc.org.au/' },
+      { title: 'Commission for Children and Young People: Empowerment and participationguideExternal Link', note: 'Commission for Children and Young People: Empowerment and participation guide External Link', url: 'https://ccyp.vic.gov.au/resources/child-safe-standards/#TOC-14' }
+    ]
+  },
+  { id: 461, title: 'Student-to-Student Abuse and Harmful Sexual Behaviour', category: 'Students', tags: ['2005', '1958', '2006', '2017', 'Ministerial Order 1359', 'PROTECT', 'DE', 'PDF', 'purpose', 'understand'], summary: 'The purpose of this policy is to ensure schools understand how to identify and respond to:', url: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/guidance', resources: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/resources' },
+    chapters: [
+      { title: 'Content warning and support for staff — content, warning, supporting, students, experiencing, child', url: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/guidance/content-warning-and-support-for-staff' },
+      { title: 'PROTECT guidance — PROTECT, guidance, external, child, safety, teachers', url: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/guidance/protect-guidance' },
+      { title: 'Recognising different types of child abuse — recognising, different, types, child, abuse, sexual', url: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/guidance/recognising-different-types-of-child-abuse' },
+      { title: 'Harmful sexual behaviour in children under 12 — harmful, sexual, behaviour, children, most, young', url: 'https://www2.education.vic.gov.au/pal/student-to-student-abuse-harmful-sexual-behaviour/guidance/harmful-sexual-behaviour-in-children-under-12' }
+    ],
+    resources: [
+      { title: '4 Critical Actions referenceguidesExternal Link', note: '4 Critical Actions reference guides External Link are for use in staff areas to provide a quick reference to guidance on the PROTECT website.', url: 'https://www.vic.gov.au/protect-resources-schools' },
+      { title: 'PROTECTExternal Link', note: 'PROTECT External Link – provides child safety information for teachers, educators and staff in schools. It\'s designed to help school staff meet their child safety obligations, identify and respond to', url: 'https://www.vic.gov.au/protect' },
+      { title: 'Sexual Assault Services Victoria(SASVic)External Link', note: 'Sexual Assault Services Victoria (SASVic) External Link – SASVic is the peak body for Victoria’s 19 specialist sexual assault and harmful sexual behaviour services. SASVic promotes rights, recovery an', url: 'https://sasvic.org.au/' },
+      { title: 'Find a sexual assault service inVictoriaExternal Link', note: 'Find a sexual assault service in Victoria External Link – find a sexual assault or harmful sexual behaviour service in your local area', url: 'https://peak.sasvic.org.au/servicemap#gsc.tab=0' }
+    ]
+  },
+  { id: 462, title: 'Students Absconding or Going Missing from School', category: 'Students (?ambig)', tags: ['2006', '2017', 'PROTECT', 'requirements', 'event', 'student', 'running', 'away', 'going', 'missing'], summary: 'This policy sets out the requirements for schools in the event of a student running away, or going missing from school or a school approved activity.', url: 'https://www2.education.vic.gov.au/pal/students-absconding', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/students-absconding/guidance', resources: 'https://www2.education.vic.gov.au/pal/students-absconding/resources' },
+    chapters: [
+      { title: 'Policy — requirements, event, student, running, away, going', url: 'https://www2.education.vic.gov.au/pal/students-absconding/policy' },
+      { title: 'Guidance — guidance, there, topic', url: 'https://www2.education.vic.gov.au/pal/students-absconding/guidance' },
+      { title: 'Resources — resources, currently, there, topic', url: 'https://www2.education.vic.gov.au/pal/students-absconding/resources' }
+    ],
+    resources: [
+      { title: 'Education and Training Reform Act 2006(Vic)External Link', note: 'Education and Training Reform Act 2006 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/education-and-training-reform-act-2006' },
+      { title: 'Education and Training Reform Regulations 2017(Vic)External Link', note: 'Education and Training Reform Regulations 2017 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/education-and-training-reform-regulations-2017' }
+    ]
+  },
+  { id: 463, title: 'Students with Disability', category: 'Students', tags: ['2010', '1992', '2005', 'NDIS', 'PSD', 'requirements', 'inclusion', 'students', 'disability', 'government'], summary: 'This policy sets out requirements to support the inclusion of students with disability and additional needs in government schools.', url: 'https://www2.education.vic.gov.au/pal/students-disability', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/students-disability/guidance', resources: 'https://www2.education.vic.gov.au/pal/students-disability/resources' },
+    chapters: [
+      { title: 'Chapter 1: Victorian SHARE principles for inclusive education — 2006, SHARE, chapter, principles, inclusive, education', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/victorian-share-principles-for-inclusive-education' },
+      { title: 'Chapter 2: Making reasonable adjustments — 2005, chapter, making, reasonable, adjustments, adjustment', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/making-reasonable-adjustments' },
+      { title: 'Chapter 3: Complex communication needs — CCN, chapter, complex, communication, students, difficulty', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/complex-communication-needs' },
+      { title: 'Chapter 4: Working with families of children with additional needs — chapter, families, children, closely, helps, give', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/working-with-families-of-children-with-additional-needs' },
+      { title: 'Chapter 5: Funding and support programs — 2021, 2025, PSD, LLDSP, DOCX, chapter', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/funding-and-support-programs' },
+      { title: 'Chapter 6: Transition Support Funding — 2021, 2025, PSD, chapter, transition, funding', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/transition-support-funding' },
+      { title: 'Chapter 7: Assessment service for students with disability — chapter, assessment, service, students, disability, assessments', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/assessment-service-for-students-with-disability' },
+      { title: 'Chapter 8: Program for Students with Disabilities Management System — PSDMS, PSD, DOCX, chapter, program, students', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/program-for-students-with-disabilities-management-system' },
+      { title: 'Chapter 9: Students turning 19 or 20 with individualised disability funding completing an accredited senior or foundation secondary course — 2017, PSD, chapter, students, turning, individualised', url: 'https://www2.education.vic.gov.au/pal/students-disability/guidance/students-turning-19-or-20-with-individualised-disability-funding-completing-an-accredited-senior-or' }
+    ],
+    resources: [
+      { title: 'Inclusive education for students withdisabilitiesExternal Link', note: 'For further information, refer to Inclusive education for students with disabilities External Link .', url: 'https://www.vic.gov.au/inclusive-education-for-students-with-disabilities' },
+      { title: 'Training for department staff by Cerebral Palsy Education Centre(CPEC)External Link', note: 'Training for department staff by Cerebral Palsy Education Centre (CPEC) External Link – professional learning opportunities for schools.', url: 'https://www.cpec.org.au/training-for-victorian-de-staff' },
+      { title: 'Communication Hub – Communication aids andsupportsExternal Link', note: 'Communication Hub – Communication aids and supports External Link – a site developed by Speech Pathology Australia and the Australian Group Supporting Communication Inclusion (AGOSCI) for people with', url: 'https://communicationhub.com.au/AidsAndSupports' },
+      { title: 'AGOSCIExternal Link', note: 'AGOSCI External Link – supporting people with complex communication needs, their families, and their professional and community networks.', url: 'https://www.agosci.org.au/About-Us' },
+      { title: 'Complex communication needs booklet(PDF)External Link', note: 'Complex communication needs booklet (PDF) External Link – CCN resource developed by the Queensland Government.', url: 'https://www.qld.gov.au/__data/assets/pdf_file/0022/58540/complex-communication-needs.pdf' },
+      { title: 'Complex communication needs and an introduction to AAC – SourceKidsExternal Link', note: 'Complex communication needs and an introduction to AAC – Source Kids External Link – site developed by members of New South Wales AGOSCI.', url: 'https://sourcekids.com.au/complex-communication-needs-and-an-introduction-to-aac/' },
+      { title: 'Augmentative and alternativecommunicationExternal Link', note: 'Augmentative and alternative communication External Link – resources from Speech Pathology Australia.', url: 'https://www.speechpathologyaustralia.org.au/Public/Public/Comm-swallow/Aug-alt-strategies/Augmentative-Alternative-Communication.aspx' },
+      { title: 'NDIS: Supporting your child\'s communication with assistivetechnologyExternal Link', note: 'NDIS: Supporting your child\'s communication with assistive technology External Link – an NDIS guide for families and carers of children with developmental delay or physical or intellectual disability.', url: 'https://ourguidelines.ndis.gov.au/understanding-supports/supporting-your-child-assistive-technology/supporting-your-childs-communication-assistive-technology' },
+      { title: 'AKGHealthExternal Link', note: 'For more information about the assessment service, visit AKG Health External Link .', url: 'https://www.maxsolutions.com.au/what-we-do/max-health/program-for-students-with-disabilities' },
+      { title: 'Inclusive Classrooms professional learningprogramExternal Link', note: 'Inclusive Classrooms professional learning program External Link offers a suite of blended learning courses for school staff focused on practical teaching strategies, adjustments and supports at the s', url: 'https://www.deafeducation.vic.edu.au/professional-learning/inclusive-classrooms-catalogue?categoryfilter-categoryid=12' },
+      { title: 'Statewide Vision ResourceCentreExternal Link', note: 'Statewide Vision Resource Centre External Link provides professional learning opportunities for school staff and allied health professionals in addition to specialised and professional assistance and', url: 'https://www.svrc.vic.edu.au/' },
+      { title: 'Victorian Deaf EducationInstituteExternal Link', note: 'Victorian Deaf Education Institute External Link provides professional learning opportunities for school staff to improve learning and wellbeing outcomes for deaf or hard of hearing students', url: 'https://www.deafeducation.vic.edu.au/Pages/home.aspx' },
+      { title: 'Diverse LearnersHubExternal Link', note: 'Diverse Learners Hub External Link provides evidence-based advice, information, resources and professional learning opportunities for school staff on how to identify and support ‘diverse learners’, in', url: 'https://www.vic.gov.au/diverse-learners-hub' },
+      { title: 'A job welldoneExternal Link', note: 'A job well done External Link provides access to a set of resources to help students with disability prepare for work experience and understand their occupational health and safety responsibilities.', url: 'https://arc.educationapps.vic.gov.au/learning/sites/a-job-well-done' },
+      { title: 'Career education and workplace learning for students withdisabilityExternal Link', note: 'Career education and workplace learning for students with disability External Link includes a range of tools and resources to support students with disability, their career practitioners and teachers,', url: 'https://www.schools.vic.gov.au/career-education/equity-support' },
+      { title: 'Abilities Based Learning and Education Support(ABLES)External Link', note: 'Abilities Based Learning and Education Support (ABLES) External Link is an assessment and reporting suite for identifying and monitoring the learning readiness and progress of students with disability', url: 'https://www.schools.vic.gov.au/ables' },
+      { title: 'ABLES professional learningmodulesExternal Link', note: 'Abilities Based Learning and Education Support (ABLES) External Link is an assessment and reporting suite for identifying and monitoring the learning readiness and progress of students with disability', url: 'https://www.deafeducation.vic.edu.au/professional-learning/template?eventtemplate=173-abilities-based-learning-and-education-support-ables.' },
+      { title: 'Equipment Boost forSchoolsExternal Link', note: 'Equipment Boost for Schools External Link includes comprehensive professional practice guides to support schools to identify, purchase and implement inclusive equipment and assistive technology that w', url: 'https://www.schools.vic.gov.au/equipment-boost-schools' },
+      { title: 'Inclusive SchoolsFundExternal Link', note: 'Inclusive Schools Fund External Link supports small innovative building projects to meet the educational and social needs of all children and young people, including those with disabilities and additi', url: 'https://www.schoolbuildings.vic.gov.au/inclusive-schools-fund' }
+    ]
+  },
+  { id: 464, title: 'Study Tours', category: 'Curriculum', tags: ['2006', 'Ministerial Order 819', 'DOCX', 'PDF', 'EAL', 'ISP', 'outlines', 'roles', 'responsibilities', 'coordinating'], summary: 'This policy outlines the roles and responsibilities for schools when coordinating a short-term study tour for students visiting from overseas.', url: 'https://www2.education.vic.gov.au/pal/study-tours', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/study-tours/guidance', resources: 'https://www2.education.vic.gov.au/pal/study-tours/resources' },
+    chapters: [
+      { title: 'Policy — DOCX, outlines, roles, responsibilities, coordinating, short-term', url: 'https://www2.education.vic.gov.au/pal/study-tours/policy' },
+      { title: 'Guidance — EAL, DOCX, guidance, become, study, tours', url: 'https://www2.education.vic.gov.au/pal/study-tours/guidance' },
+      { title: 'Resources — Ministerial Order 819, PDF, resources, useful, global, learning', url: 'https://www2.education.vic.gov.au/pal/study-tours/resources' }
+    ],
+    resources: [
+      { title: 'Global LearningProgramsExternal Link', note: 'Global Learning Programs External Link', url: 'https://www.study.vic.gov.au/en/global-learning-and-engagement' },
+      { title: 'StudyToursExternal Link', note: 'Study Tours External Link', url: 'https://www.study.vic.gov.au/en/international-student-program/schools-and-programs/study-tours' },
+      { title: 'Ministerial Order 819 – Fees for Overseas Students in GovernmentSchools (PDF)External Link', note: 'Ministerial Order 819 – Fees for Overseas Students in Government Schools (PDF) External Link', url: 'https://www.study.vic.gov.au/__data/assets/pdf_file/0016/2365/MinisterialOrder819.pdf' }
+    ]
+  },
+  { id: 465, title: 'Suicide Response (Postvention)', category: 'Students', tags: ['2005', '2018', '2008', '2001', '2014', 'ISOC', 'SSS', 'ISP', 'soon', 'practicable'], summary: 'As soon as practicable, call:', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance', resources: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/resources' },
+    chapters: [
+      { title: 'When to use this Guide — EMP, SSS, guide, critical, confirm, death', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/when-to-use-guide' },
+      { title: 'Suicide related terminology — suicide, related, terminology, aims, enhance, your', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/suicide-related-terminology' },
+      { title: 'Understanding suicide — 2018, understanding, suicide, talking, important, understand', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/understanding-suicide' },
+      { title: 'Self-care for school staff following the suicide or suspected suicide of a student — EMP, self-care, suicide, suspected, student, particularly', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/self-care-school-staff-following-suicide-or-suspected' },
+      { title: 'Mental health and wellbeing following exposure to a suicide — NIP, mental, health, wellbeing, exposure, suicide', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/mental-health-and-wellbeing-following-exposure-suicide' },
+      { title: 'Immediate response (24 hours to 48 hours) — ISOC, immediate, response, hours, steps, actions', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/immediate-response-24-hours-48-hours' },
+      { title: 'Nuanced suicide postvention responses — LGBTIQA, FLO, nuanced, suicide, postvention, responses', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/nuanced-suicide-postvention-responses' },
+      { title: 'Short-term response (1 week to 3 months) — short-term, response, week, months, stage, focuses', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/short-term-response-1-week-3-months' },
+      { title: 'Longer-term response (3 months to 12 months) — longer-term, response, months, stage, recovery, focus', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/longer-term-response-3-months-12-months' },
+      { title: 'Glossary of key department terms — 2005, CISS, glossary, terms, external, beyond', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/glossary-key-department-terms' },
+      { title: 'References — 2009, 2017, 2018, 2014, 2020, 2021', url: 'https://www2.education.vic.gov.au/pal/suicide-response-postvention/guidance/references' }
+    ],
+    resources: [
+      { title: 'Emergency ManagementPlanExternal Link', note: 'Emergency Management Plan External Link', url: 'https://emergencymanagement.eduweb.vic.gov.au/' },
+      { title: 'Managing Trauma: A guide to responding to a critical incident(PDF)External Link', note: 'Managing Trauma: A guide to responding to a critical incident (PDF) External Link (staff login required)', url: 'https://eduvic.sharepoint.com/:b:/r/sites/SchoolsSecure/Shared%20Documents/Managing%20Trauma.pdf?Web=1' },
+      { title: 'RespectfulRelationshipsExternal Link', note: 'Respectful Relationships External Link', url: 'https://www.vic.gov.au/respectful-relationships' },
+      { title: 'SAFEMinds – safetymapExternal Link', note: 'SAFEMinds – safety map External Link', url: 'https://safeminds.org.au/schools/resources-for-schools/' },
+      { title: 'SafeSchoolsExternal Link', note: 'Safe Schools External Link .', url: 'https://www.vic.gov.au/safe-schools' },
+      { title: 'Dealing With Grief And Loss and The Effects on MentalHealthExternal Link', note: 'Dealing With Grief And Loss and The Effects on Mental Health External Link – headspace', url: 'https://headspace.org.au/young-people/dealing-with-grief-and-loss-and-the-effects-on-mental-health/' },
+      { title: 'Tips To Keep Good Mental Health – for YoungPeopleExternal Link', note: 'Tips To Keep Good Mental Health – for Young People External Link – headspace', url: 'https://headspace.org.au/young-people/tips-for-a-healthy-headspace/' },
+      { title: 'How To Help A Friend With Their MentalHealthExternal Link', note: 'How To Help A Friend With Their Mental Health External Link – headspace', url: 'https://headspace.org.au/young-people/how-to-help-a-friend/' },
+      { title: 'Are you okay? Young people and mentalhealthExternal Link', note: 'Are you okay? Young people and mental health External Link – Centre for Multicultural Youth.', url: 'https://www.cmy.net.au/resource/are-you-okay-young-people-and-mental-health/' },
+      { title: 'BeYouExternal Link', note: 'Be You External Link : Suicide in Schools – information for families', url: 'https://beyou.edu.au/resources/suicide-prevention-and-response/suicide-postvention' },
+      { title: 'headspaceExternal Link', note: 'headspace External Link (Grief, Supporting Young People)', url: 'https://headspace.org.au/friends-and-family/what-is-self-harm-in-children/?stage=Live' },
+      { title: 'ConversationsMatterExternal Link', note: 'Conversations Matter External Link (Telling a child about suicide).', url: 'http://www.conversationsmatter.com.au/community-resources' },
+      { title: 'Supporting CALD communities to talk about suicide – a guide forprofessionalsExternal Link', note: 'Supporting CALD communities to talk about suicide – a guide for professionals External Link', url: 'https://conversationsmatter.org.au/resources/resources-for-cald-communities/' },
+      { title: 'When communities are affected bysuicideExternal Link', note: 'When communities are affected by suicide External Link', url: 'https://conversationsmatter.org.au/resources/when-communities-are-affected-by-suicide/' },
+      { title: 'Embrace multicultural mentalhealthExternal Link', note: 'Embrace multicultural mental health External Link ; Embrace Multicultural Mental Health (the Embrace Project) is run by Mental Health Australia and provides a national focus on mental health and suici', url: 'https://embracementalhealth.org.au/' },
+      { title: 'School’s In forRefugeesExternal Link', note: 'School’s In for Refugees External Link', url: 'https://sifr.foundationhouse.org.au/' },
+      { title: 'Foundation House Trauma RecoveryFrameworkExternal Link', note: 'Foundation House Trauma Recovery Framework External Link', url: 'https://sifr.foundationhouse.org.au/refugee-experiences/supporting-trauma-recovery/' },
+      { title: 'headspaceExternal Link', note: 'headspace External Link', url: 'https://headspace.org.au/' },
+      { title: 'BeyondBlueExternal Link', note: 'Beyond Blue External Link : Mental health conditions in young people – suicide External Link Suicide Prevention – After a suicide loss External Link', url: 'https://www.beyondblue.org.au/' },
+      { title: 'Mental health conditions in young people– suicideExternal Link', note: 'Mental health conditions in young people – suicide External Link', url: 'https://healthyfamilies.beyondblue.org.au/age-13/mental-health-conditions-in-young-people/suicide' },
+      { title: 'Suicide Prevention – After a suicidelossExternal Link', note: 'Suicide Prevention – After a suicide loss External Link', url: 'https://www.beyondblue.org.au/the-facts/suicide-prevention/after-a-suicide-loss' },
+      { title: 'KidsHelplineExternal Link', note: 'Kids Helpline External Link', url: 'https://kidshelpline.com.au/' },
+      { title: 'LifelineExternal Link', note: 'Lifeline External Link', url: 'https://www.lifeline.org.au/' },
+      { title: 'National CommunicationsCharterExternal Link', note: 'National Communications Charter External Link', url: 'https://lifeinmind.org.au/the-charter' },
+      { title: 'BeYouExternal Link', note: 'Be You External Link : Wellbeing tools for you External Link Mental health continuum External Link Be You – responding to a death that can’t be referred to as a suicide External Link Be You Organising', url: 'https://beyou.edu.au/' },
+      { title: 'Wellbeing tools foryouExternal Link', note: 'Wellbeing tools for you External Link', url: 'https://beyou.edu.au/resources/tools-and-guides/wellbeing-tools-for-you' },
+      { title: 'Mental healthcontinuumExternal Link', note: 'Mental health continuum External Link', url: 'https://beyou.edu.au/resources/mental-health-continuum' },
+      { title: 'Be You Organising SpeakersGuideExternal Link', note: 'Be You Organising Speakers Guide External Link', url: 'https://beyou.edu.au/resources/tools-and-guides/organising-speakers-guide' },
+      { title: 'Those bereaved bysuicideExternal Link', note: 'Those bereaved by suicide External Link', url: 'https://conversationsmatter.org.au/resources/those-bereaved-by-suicide/' },
+      { title: 'Telling a child aboutsuicideExternal Link', note: 'Telling a child about suicide External Link', url: 'https://conversationsmatter.org.au/resources/telling-a-child-about-suicide/' },
+      { title: 'Orygen SpecialistProgramExternal Link', note: 'Orygen Specialist Program External Link : #ChatSafe External Link', url: 'https://oyh.org.au/our-services' },
+      { title: '#ChatSafeExternal Link', note: '#ChatSafe External Link', url: 'https://www.orygen.org.au/chatsafe' },
+      { title: '5 Ways towellbeingExternal Link', note: '5 Ways to wellbeing External Link', url: 'https://5waystowellbeing.org.au/' },
+      { title: 'The Australian Centre for Grief andBereavementExternal Link', note: 'The Australian Centre for Grief and Bereavement External Link : Children and grief External Link Grief information factsheets External Link', url: 'https://www.grief.org.au/' },
+      { title: 'Children andgriefExternal Link', note: 'Children and grief External Link', url: 'https://www.grief.org.au/ACGB/Publications/Resources_Bereaved/Grief_Information_Sheets/ACGB/ACGB_Publications/Resources_for_the_Bereaved/Grief_Information_Sheets.aspx?hkey=19bfe37f-d79f-4e70-85e7-82b94bca248b' },
+      { title: 'Victorian Aboriginal Education AssociationInc.External Link', note: 'Victorian Aboriginal Education Association Inc. External Link', url: 'http://www.vaeai.org.au/' },
+      { title: 'Victorian Aboriginal HealthServiceExternal Link', note: 'Victorian Aboriginal Health Service External Link', url: 'https://www.vahs.org.au/' },
+      { title: 'Victorian Aboriginal Community Controlled HealthOrganisationExternal Link', note: 'Victorian Aboriginal Community Controlled Health Organisation External Link', url: 'https://www.vaccho.org.au/' },
+      { title: 'Suicide in Schools: Information for Aboriginal and Torres Strait Islander families(PDF)External Link', note: 'Suicide in Schools: Information for Aboriginal and Torres Strait Islander families (PDF) External Link', url: 'https://headspace.org.au/assets/School-Support/Suicide-in-schools-Information-for-Aboriginal-and-Torres-Strait-Islander-families-web.pdf' },
+      { title: 'Grief: how Aboriginal and Torres Strait Islander young people might respond to suicide(PDF)External Link', note: 'Grief: how Aboriginal and Torres Strait Islander young people might respond to suicide (PDF) External Link', url: 'https://headspace.org.au/assets/School-Support/Grief-How-Aboriginal-and-Torres-Strait-Islander-young-people-might-respond-to-suicide-web.pdf' },
+      { title: 'RainbowNetworkExternal Link', note: 'Rainbow Network External Link', url: 'https://www.rainbownetwork.com.au/' }
+    ]
+  },
+  { id: 466, title: 'Suitability for Employment Checks', category: 'HR - Recruitment', tags: ['2020', '2006', '2004', 'overview', 'maintaining', 'high', 'standards', 'conduct', 'professionalism', 'workplace'], summary: 'As part of the process for maintaining high standards of conduct and professionalism in the workplace, it is essential that principals or managers ensure that the Department\'s procedures for criminal record checks are implemented.', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/resources' },
+    chapters: [
+      { title: 'Introduction — introduction, education, training, councils, responsibility, safety', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/introduction' },
+      { title: 'Working with Children — 2020, WWC, children, check, scheme, established', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/working-children' },
+      { title: 'Conducting a department criminal record check — PROCS, WWC, conducting, criminal, record, check', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/conducting-department-criminal-record-check' },
+      { title: 'School locations — 2006, VIT, WWC, CRC, locations, teacher', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/school-locations' },
+      { title: 'Non school locations — VPS, WWC, locations, employment, public, service', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/non-school-locations' },
+      { title: 'Right of appeal — WWC, right, appeal, children, check, applicant', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/right-appeal' },
+      { title: 'Further policy updates — 2007, WWC, updates, circular, external, children', url: 'https://www2.education.vic.gov.au/pal/suitability-employment-checks/policy-and-guidelines/further-policy-updates' }
+    ],
+    resources: [
+      { title: 'National Police Record Check Data Entry InternetSiteExternal Link', note: 'National Police Record Check Data Entry Internet Site External Link (authorised users only, password required)', url: 'https://www.eduweb.vic.gov.au/PROCS/' }
+    ]
+  },
+  { id: 467, title: 'Sun and UV Protection', category: 'OHS', tags: ['2004', '2016', 'OHS', 'UV', 'PA', 'UPF', 'NZS', 'EPF', 'purpose', 'create'], summary: 'The purpose of this policy is to create school environments that support sun protection behaviours to minimise the risk of health problems from sun overexposure, including skin cancer.', url: 'https://www2.education.vic.gov.au/pal/sun-protection', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/sun-protection/guidance', resources: 'https://www2.education.vic.gov.au/pal/sun-protection/resources' },
+    chapters: [
+      { title: 'Policy — UV, purpose, create, environments, protection, behaviours', url: 'https://www2.education.vic.gov.au/pal/sun-protection/policy' },
+      { title: 'Guidance — UV, guidance, encouraged, students, combination, protection', url: 'https://www2.education.vic.gov.au/pal/sun-protection/guidance' },
+      { title: 'Resources — OHS, UV, resources, occupational, health, safety', url: 'https://www2.education.vic.gov.au/pal/sun-protection/resources' }
+    ],
+    resources: [
+      { title: 'WorkSafe Victoria: SunprotectionExternal Link', note: 'WorkSafe Victoria: Sun protection External Link', url: 'http://www.worksafe.vic.gov.au/safety-and-prevention/health-and-safety-topics/sun-protection' },
+      { title: 'Safe Work Australia: Guidance note for the protection of workers from the ultraviolet (UV) radiation insunlightExternal Link', note: 'Safe Work Australia: Guidance note for the protection of workers from the ultraviolet (UV) radiation in sunlight External Link', url: 'https://www.safeworkaustralia.gov.au/doc/guidance-note-protection-workers-ultraviolet-radiation-sunlight' },
+      { title: 'SunSmart SchoolsProgramExternal Link', note: 'the SunSmart Schools Program External Link', url: 'https://www.sunsmart.com.au/advice-for/schools-early-childhood' },
+      { title: 'online learning courses for schoolstaffExternal Link', note: 'free professional online learning courses for school staff External Link', url: 'https://www.sunsmart.com.au/advice-for/schools-early-childhood/online-learning-courses' },
+      { title: 'primaryschoolsExternal Link', note: 'free classroom resources for primary schools External Link and secondary schools External Link', url: 'https://www.sunsmart.com.au/advice-for/schools-early-childhood/education-resources/primary-school-resources' },
+      { title: 'secondaryschoolsExternal Link', note: 'free classroom resources for primary schools External Link and secondary schools External Link', url: 'https://www.sunsmart.com.au/advice-for/secondary-schools' },
+      { title: 'sunscreen poster for schools(PDF)External Link', note: 'a sunscreen poster for schools (PDF) External Link', url: 'https://www.sunsmart.com.au/downloads/schools-early-childhood/curriculum/sunscreen-poster.pdf' },
+      { title: 'sunscreen information factsheet(PDF)External Link', note: 'a sunscreen information factsheet (PDF) External Link', url: 'https://www.sunsmart.com.au/downloads/resources/info-sheets/sunscreen-info-sheet.pdf' },
+      { title: 'Achievement Program’s SunSmartpolicyExternal Link', note: 'the Achievement Program’s SunSmart policy External Link (Note: schools will need to register for the program to gain access to these resources).', url: 'http://www.achievementprogram.health.vic.gov.au/schools' },
+      { title: 'sunburnExternal Link', note: 'Better Health Channel – further information on sunburn External Link , skin cancer prevention in children External Link , and sun protection at the snow External Link', url: 'https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/sunburn' },
+      { title: 'skin cancer prevention inchildrenExternal Link', note: 'Better Health Channel – further information on sunburn External Link , skin cancer prevention in children External Link , and sun protection at the snow External Link', url: 'https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/skin-cancer-children' },
+      { title: 'sun protection at thesnowExternal Link', note: 'Better Health Channel – further information on sunburn External Link , skin cancer prevention in children External Link , and sun protection at the snow External Link', url: 'https://www.betterhealth.vic.gov.au/health/healthyliving/sun-protection-at-the-snow' },
+      { title: 'sun safety information for parents andcarersExternal Link', note: 'Raising Children – sun safety information for parents and carers External Link .', url: 'https://raisingchildren.net.au/newborns/safety/outdoor-sun-safety/sun-safety#:~:text=If%20your%20child%20is%20younger,likely%20to%20cause%20skin%20irritation.' },
+      { title: 'shadeprovisionExternal Link', note: 'SunSmart provides advice on shade provision External Link . It includes additional resources, such as the shade guidelines and the shade comparison check, which can assist schools in determining the n', url: 'https://www.sunsmart.com.au/protect-your-skin/seek-shade' },
+      { title: 'SunSmart app andwidgetExternal Link', note: 'via the free SunSmart app and widget External Link', url: 'https://www.sunsmart.com.au/resources' },
+      { title: 'SunSmartExternal Link', note: 'on the SunSmart External Link and Bureau of Meteorology External Link websites', url: 'https://www.sunsmart.com.au/' },
+      { title: 'Bureau ofMeteorologyExternal Link', note: 'on the SunSmart External Link and Bureau of Meteorology External Link websites', url: 'http://www.bom.gov.au/' },
+      { title: 'AS/NZS 1067.1:2016 Eye and face protection – Sunglasses and fashionspectaclesExternal Link', note: 'AS/NZS 1067.1:2016 Eye and face protection – Sunglasses and fashion spectacles External Link', url: 'https://www.standards.org.au/standards-catalogue/standard-details?designation=as-1067-1-2016' },
+      { title: 'AS 4399:2020 Sun protective clothing – Evaluation andclassificationExternal Link', note: 'AS 4399:2020 Sun protective clothing – Evaluation and classification External Link', url: 'https://www.standards.org.au/standards-catalogue/standard-details?designation=as-4399-2020' },
+      { title: 'AS/NZS 2604:2021 Sunscreen products – Evaluation andclassificationExternal Link', note: 'AS/NZS 2604:2021 Sunscreen products – Evaluation and classification External Link', url: 'https://www.standards.org.au/standards-catalogue/sa-snz/other/cs-042/as-slash-nzs--2604-colon-2021' }
+    ]
+  },
+  { id: 468, title: 'Superannuation', category: 'HR - Pay', tags: ['HR', 'overview', 'related', 'policies', 'remuneration', 'teaching', 'service', 'salary', 'packing', 'superstream'], summary: 'Refer to the Policy and Guidelines tab.', url: 'https://www2.education.vic.gov.au/pal/superannuation', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/superannuation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/superannuation/resources' },
+    chapters: [
+      { title: 'General — eduPay, SG, provided, here, only, assist', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/general' },
+      { title: 'Information in relation to current employees — relation, current, members, emergency, services, state', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/information-relation-current-employees' },
+      { title: 'Employee contributions whilst on leave without pay — LWOP, employee, contributions, whilst, leave, member', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/employee-contributions-whilst-leave-without-pay' },
+      { title: 'Cessation of employment — eduPay, cessation, employment, emergency, services, state', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/cessation-employment' },
+      { title: 'Employees with previous membership of an ESSS scheme — ESSS, previous, membership, scheme, employee, member', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/employees-previous-membership-esss-scheme' },
+      { title: 'Information in relation to new employees, including Choice of Fund — eduPay, SG, relation, choice, fund, council', url: 'https://www2.education.vic.gov.au/pal/superannuation/policy-and-guidelines/information-relation-new-employees-including-choice-fund' }
+    ],
+    resources: [
+      { title: 'Choice ofFundExternal Link', note: 'Choice of Fund External Link form for school council employees paid on the School Local Payroll', url: 'https://www.ato.gov.au/Forms/Superannuation-%28super%29-standard-choice-form/' },
+      { title: 'Emergency Services and StateSuperExternal Link', note: 'Emergency Services and State Super External Link', url: 'http://www.esssuper.com.au/' },
+      { title: 'Aware Super - Aware Super FutureSaverExternal Link', note: 'Aware Super - Aware Super Future Saver External Link (formerly VicSuper FutureSaver) (department default fund)', url: 'https://aware.com.au/' },
+      { title: 'Public Sector Executive RemunerationPolicyExternal Link', note: 'The Victorian Public Sector Commission (VPSC) manages executive remuneration and employment policy for the Victorian Public Service. Information about executive remuneration and conditions, including', url: 'https://vpsc.vic.gov.au/executive-employment/victorian-public-entity-executive-employment/' },
+      { title: 'general superannuation information forindividualsExternal Link', note: 'general superannuation information for individuals External Link', url: 'http://www.ato.gov.au/Individuals/Super/' },
+      { title: 'general superannuation information foremployersExternal Link', note: 'general superannuation information for employers External Link', url: 'https://www.ato.gov.au/business/super-for-employers/' }
+    ]
+  },
+  { id: 469, title: 'SuperStream — Updating Choice of Superannuation', category: 'HR - Pay', tags: ['eduPay', 'HR', 'overview', 'introduction', 'superannuation', 'choice', 'fund', 'updates', 'related', 'policies'], summary: 'Refer to the Policy and Guidelines tab for:', url: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/resources' },
+    chapters: [
+      { title: 'Overview — eduPay, HR, overview, introduction, superannuation, choice', url: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/overview' },
+      { title: 'Policy and Guidelines — ATO, eduPay, ESS, introduction, superstream, introduced', url: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/policy-and-guidelines' },
+      { title: 'Resources — eduPay, ESS, QRG, SLP, resources, procedures', url: 'https://www2.education.vic.gov.au/pal/superstream-updating-choice-superannuation/resources' }
+    ],
+    resources: [
+      { title: 'Enter or Update SuperannuationDetailsExternal Link', note: 'Enter or Update Superannuation Details External Link (select the Enter or Update Superannuation Details guide in the QRG section)', url: 'https://edugate.eduweb.vic.gov.au/Services/HR/Pages/eduPay-ESShelp.aspx' },
+      { title: 'Australian Taxation Office superannuation standardchoice formExternal Link', note: 'Australian Taxation Office superannuation standard choice form External Link for School Local Payroll (SLP) on eduPay employees', url: 'https://www.ato.gov.au/Forms/Superannuation-(super)-standard-choice-form/' }
+    ]
+  },
+  { id: 470, title: 'Supporting High-Ability Students', category: 'Curriculum', tags: ['$25,000', 'HAPL', 'CHES', 'PDF', 'IEPS', 'outlines', 'arrangements', 'supporting', 'high-ability', 'students'], summary: 'This policy outlines arrangements for supporting high-ability students in government schools, including implementation of the Student Excellence Program.', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/resources' },
+    chapters: [
+      { title: 'About high-ability students — high-ability, students, high, ability, umbrella, term', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/about-high-ability-students' },
+      { title: 'Understanding underachievement in high-ability students — understanding, underachievement, high-ability, students, some, risk', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/understanding-underachievement-high-ability-students' },
+      { title: 'Supporting the wellbeing needs of high-ability students — supporting, wellbeing, high-ability, students, like, vary', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/supporting-the-wellbeing-needs-of-high-ability-students' },
+      { title: 'Planning a whole-school approach to high ability — VTLM, planning, whole-school, approach, high, ability', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/planning-a-whole-school-approach-to-high-ability' },
+      { title: 'Planning for student level supports — VTLM, planning, student, supports, begins, whole-class', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/planning-for-student-level-supports' },
+      { title: 'Student Excellence Program — 2020, SEP, student, excellence, program, introduced', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/student-excellence-program' },
+      { title: 'Supporting high-ability First Nations students — supporting, high-ability, first, nations, students, cultural', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/supporting-high-ability-first-nations-students' },
+      { title: 'Supporting twice-exceptional students — ADHD, supporting, twice-exceptional, students, high, ability', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/supporting-twice-exceptional-students' },
+      { title: 'Planning for extension, challenge, and enrichment — VTLM, planning, extension, challenge, enrichment, responsive', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/planning-for-extension-challenge-and-enrichment' },
+      { title: 'Acceleration — acceleration, some, high-ability, students, benefit, intellectual', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/acceleration' },
+      { title: 'Schools and settings targeted to high-ability students — settings, targeted, high-ability, students, many, government', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/schools-settings-targeted-to-high-ability-students' },
+      { title: 'Case studies — case, studies, vignette, high, ability, tyson', url: 'https://www2.education.vic.gov.au/pal/supporting-high-ability-students/guidance/case-studies' }
+    ],
+    resources: [
+      { title: 'Guide to identifying high-abilitystudentsExternal Link', note: 'Guide to identifying high-ability students External Link – this resource is designed to assist schools and teachers in identifying high-achieving and high-ability students to inform planning. It inclu', url: 'https://arc.educationapps.vic.gov.au/learning/resource/81421/identifying-high-ability' },
+      { title: 'Adjusting the learning for extension, challenge, andenrichmentExternal Link', note: 'Adjusting the learning for extension, challenge, and enrichment External Link – this resource details approaches that teachers can use to adjust and adapt learning sequences and classroom tasks to sup', url: 'https://arc.educationapps.vic.gov.au/learning/resource/81422/adjusting-learning-for-extension' },
+      { title: 'ArcExternal Link', note: 'Videos related to supporting high-ability students can be found on Arc External Link .', url: 'https://arc.educationapps.vic.gov.au/learning/sites/supporting-high-ability-students/4374/Illustrations-of-practice' },
+      { title: 'professionallearningExternal Link', note: 'The Centre for Higher Education Studies (CHES) was established as a ‘centre of excellence’ and is a statewide provider of professional learning External Link ; building the capability of teachers in g', url: 'https://www.ches.vic.edu.au/professional-learning' },
+      { title: 'Professional learningopportunitiesExternal Link', note: 'Professional learning opportunities External Link are promoted directly to HAPLs as well as through the regular School Update.', url: 'https://arc.educationapps.vic.gov.au/providers/SEP' },
+      { title: 'TechschoolsExternal Link', note: 'Tech schools External Link – provide free high-tech STEM programs to local students, who remain enrolled in their local secondary school', url: 'https://www.vic.gov.au/tech-schools' },
+      { title: 'Science and mathematics specialistcentresExternal Link', note: 'Science and mathematics specialist centres External Link – a network of 6 specialist centres offering students the opportunity to engage in contemporary, authentic science, technology, engineering and', url: 'https://www.schools.vic.gov.au/science-and-mathematics-specialist-centres' },
+      { title: 'Centre for Higher EducationStudiesExternal Link', note: 'Centre for Higher Education Studies External Link – a series of semester-long electives designed as foundational courses for select VCE subjects, offering enrichment and extension beyond the school cu', url: 'https://www.ches.vic.edu.au/studying-at-ches/ee' },
+      { title: 'School SportVictoriaExternal Link', note: 'School Sport Victoria External Link – interschool sport and representative school sport for schools and students in Victoria', url: 'https://www.ssv.vic.edu.au/' },
+      { title: 'Victorian State SchoolsSpectacularExternal Link', note: 'Victorian State Schools Spectacular External Link – an annual event providing students in the performing arts with opportunities to showcase their talents', url: 'https://www.vic.gov.au/victorian-state-schools-spectacular' },
+      { title: 'The Victorian Student RepresentativeCouncilExternal Link', note: 'The Victorian Student Representative Council External Link – a student-led organisation offering opportunities to extend leadership, collaboration, and communication skills', url: 'https://vicsrc.org.au/' },
+      { title: 'Virtual SchoolVictoriaExternal Link', note: 'Virtual School Victoria External Link – a provider of online teaching and learning, enabling high-ability students to access a wide range of subjects at advanced levels where appropriate', url: 'https://www.vsv.vic.edu.au/' },
+      { title: 'Koorie Academy ofExcellenceExternal Link', note: 'Koorie Academy of Excellence External Link – the Koorie Academy of Excellence is an out of school hours program supporting young Aboriginal and Torres Strait Islander students to develop a connection', url: 'https://www.vaeai.org.au/koorie-academy-of-excellence/' },
+      { title: 'The Victorian Association for Gifted and TalentedChildrenExternal Link', note: 'The Victorian Association for Gifted and Talented Children External Link (VAGTC) is a parent and educator-led not-for-profit organisation that advocates for high-ability students. They offer a range o', url: 'https://vagtc.org.au/' }
+    ]
+  },
+  { id: 471, title: 'Sustainable and Climate Resilient Facilities', category: 'Infrastructure', tags: ['2004', '2017', '1988', 'VSBA', 'BQSH', 'PDF', 'HVAC', 'PAL', 'UV', 'responsibilities'], summary: 'This policy sets out schools’ responsibilities to reduce their environmental impact, apply environmentally sustainable design principles and increase climate resilience when planning new or upgraded facilities or undertaking maintenance.', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance', resources: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/resources' },
+    chapters: [
+      { title: 'Benchmarks for utility usage — CO, benchmarks, utility, usage, maximum, student', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/benchmarks-for-utility-usage' },
+      { title: 'Solar and wind energy systems overview — solar, wind, energy, systems, overview, designed', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/solar-wind-energy-systems-overview' },
+      { title: 'Installation of solar and wind energy in schools — installation, solar, wind, energy, encourages, install', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/installation-solar-wind-energy-schools' },
+      { title: 'Solar energy — VSBA, NETCC, CEC, solar, energy, overview', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/solar-energy' },
+      { title: 'Wind energy — wind, energy, permitted, install, systems, suitable', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/wind-energy' },
+      { title: 'Use of synthetic turf — synthetic, turf, strongly, encourages, natural, grass', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/use-of-synthetic-turf' },
+      { title: 'Definitions — DC, AC, definitions, inverter, converts, energy', url: 'https://www2.education.vic.gov.au/pal/sustainable-climate-resilient-facilities/guidance/definitions' }
+    ],
+    resources: [
+      { title: 'Schools Water EfficiencyProgramExternal Link', note: 'To register for this program, please visit: Schools Water Efficiency Program External Link .', url: 'https://www.myswep.com.au/' },
+      { title: 'Sustainability Victoria ResourceSmartSchoolsExternal Link', note: 'To register for this program, please visit: Sustainability Victoria ResourceSmart Schools External Link .', url: 'https://www.sustainability.vic.gov.au/schools' },
+      { title: 'Building Quality StandardsHandbookExternal Link', note: 'The Building Quality Standards Handbook External Link sets the minimum quality criteria for all building projects, including new construction, refurbishment and maintenance works.', url: 'https://www.schoolbuildings.vic.gov.au/building-quality-standards-handbook' }
+    ]
+  },
+  { id: 472, title: 'Swimming Instruction and Water Safety Education', category: 'Curriculum', tags: ['2017', '2024', 'VCAA', 'CASES21', 'LSV', 'FMS', 'LPA', 'CA', 'PDF', 'SRP'], summary: 'The purpose of this policy is to ensure that all school swimming and water safety programs meet the Victorian Curriculum F–10 and provide students with the knowledge and confidence to participate in aquatic activities.', url: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education/guidance', resources: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education/resources' },
+    chapters: [
+      { title: 'Policy — 2017, 2024, purpose, swimming, water, safety', url: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education/policy' },
+      { title: 'Guidance — DOCX, LSV, guidance, swimming, water-based, activities', url: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education/guidance' },
+      { title: 'Resources — VCAA, resources, swimming, water, safety, teaching', url: 'https://www2.education.vic.gov.au/pal/swimming-instruction-and-water-safety-education/resources' }
+    ],
+    resources: [
+      { title: 'VCAA swimming and water safety teachingresourcesExternal Link', note: 'VCAA swimming and water safety teaching resources External Link – sample swimming and water safety activities have been developed to support teachers to identify the content descriptors, focus areas a', url: 'https://www.vcaa.vic.edu.au/curriculum/foundation-10/resources/health-and-physical-education/Pages/Help-me-find-a-teaching-resource.aspx' },
+      { title: 'Swimming inschoolsExternal Link', note: 'Swimming in schools External Link – provides an overview of the Victorian Government initiative and funding, which assists with the delivery of quality swimming and water safety education for students', url: 'https://www.vic.gov.au/swimming-in-schools' },
+      { title: 'Life Saving VictoriaToolkitExternal Link', note: 'Life Saving Victoria Toolkit External Link – a website commissioned by the department to provide resources, training and professional development for the education sector as well as the aquatic indust', url: 'https://lsv.com.au/toolkit/' },
+      { title: 'LSV on ArcLearningExternal Link', note: 'LSV on Arc Learning External Link – LSV page on Arc Learning listing upcoming events and professional development for teachers, and a link to the LSV education team', url: 'https://arc.educationapps.vic.gov.au/providers/LSV' },
+      { title: 'Water Safety1External Link', note: 'Water Safety 1 External Link', url: 'https://lsv.app.axcelerate.com/showDoc.cfm?DocID=458783' },
+      { title: 'Water Safety2External Link', note: 'Water Safety 2 External Link', url: 'https://lsv.app.axcelerate.com/showDoc.cfm?DocID=458782' },
+      { title: 'Water Safety3External Link', note: 'Water Safety 3 External Link', url: 'https://lsv.app.axcelerate.com/showDoc.cfm?DocID=458781' },
+      { title: 'BeachsafeExternal Link', note: 'Beachsafe External Link – Surf Life Saving Australia website and app providing information and conditions for every beach in Australia, including patrol services, hazards, facilities, weather, swell a', url: 'https://beachsafe.org.au/' },
+      { title: 'Kangaroo Beach – Water SafetyEducationExternal Link', note: 'Kangaroo Beach – Water Safety Education External Link – short clips from the ABC TV series, endorsed by Surf Life Saving Australia, demonstrating water safety for specific situations such as rips, wav', url: 'https://www.kangaroobeach.tv/water-safety' },
+      { title: 'Vic Emergency – Get to know our WarningSignsExternal Link', note: 'Vic Emergency – Get to know our Warning Signs External Link – a range of materials, available in multiple languages, to help educate on the warning signs of bushfires, floods, storms and extreme heat', url: 'https://ausws.emergency.vic.gov.au/index.html' },
+      { title: 'Swim ClubAustraliaExternal Link', note: 'Swim Club Australia External Link – Worksheets designed to encourage students to use their imagination and utilise their water safety knowledge taught in the classroom', url: 'https://swimclubaustralia.com.au/pages/little-flipper-activities' },
+      { title: 'Water Safety Education books by LouiseLambethExternal Link', note: 'Water Safety Education books by Louise Lambeth External Link – written by a surf lifesaver, available in 5 different languages and endorsed by organisations such as Surf Life Saving Australia and Roya', url: 'https://louiselambeth.com/' },
+      { title: 'LSV School Swimming and Water SafetyToolkitExternal Link', note: 'Case studies of various schools’ swimming programs provide examples of cost-effective ways of delivering swimming programs in line with the Victorian Curriculum and are available on the LSV School Swi', url: 'https://lsv.com.au/toolkit/resources.php#cs-sec' }
+    ]
+  },
+  { id: 473, title: 'Swimming Pools on School Grounds', category: 'Infrastructure', tags: ['2004', '2019', '2020', '2017', '2022', '2021', '1985', 'OHS', 'OHSMS', 'DOCX'], summary: 'This policy outlines the risk management requirements for schools that own or manage a swimming pool on their site.', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds', popular: false,
+    tabs: { resources: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/resources' },
+    chapters: [
+      { title: '1 Hazard identification — hazard, identification, there, many, potential, hazards', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/1-hazard-identification' },
+      { title: '2 Swimming Pool Inspection Checklist — HSR, DOCX, swimming, pool, inspection, checklist', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/2-swimming-pool-inspection-checklist' },
+      { title: '3 Risk management — HSR, XLSX, risk, management, pool, site', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/3-risk-management' },
+      { title: '4 Water Quality Risk Management Plan — 2019, 2020, water, quality, risk, management', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/4-water-quality-risk-management-plan' },
+      { title: '5 Risk assessment — OHS, HSR, XLSX, DOCX, risk, management', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/4-risk-assessment' },
+      { title: '6 Legislation, Codes of Practice, Standards and Guidance — 1985, 2022, 2004, 2017, legislation, codes', url: 'https://www2.education.vic.gov.au/pal/swimming-pools-school-grounds/procedure/5-legislation-codes-practice-standards-and-guidance' }
+    ],
+    resources: [
+      { title: 'Occupational Health and Safety (OHS) Act2004 (Vic)External Link', note: 'The Occupational Health and Safety (OHS) Act 2004 (Vic) External Link requires the department to provide or maintain systems of work and working environment that are, so far as is reasonably practicab', url: 'https://www.legislation.vic.gov.au/in-force/acts/occupational-health-and-safety-act-2004' },
+      { title: 'Public Health and Wellbeing Regulations 2019(Vic)External Link', note: 'The Public Health and Wellbeing Regulations 2019 (Vic) External Link outline a number of actions that must be taken to ensure the safety of swimming pools, spa pools and any interactive water features', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/public-health-and-wellbeing-regulations-2019' },
+      { title: 'OHS Regulations2017 (Vic)External Link', note: 'The OHS Regulations 2017 (Vic) External Link and the Dangerous Goods (Storage and Handling) Regulations 2022 (Vic) External Link requires the department to manage the risks associated with dangerous g', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/occupational-health-and-safety-regulations-2017' },
+      { title: 'Dangerous Goods (Storage and Handling) Regulations 2022(Vic)External Link', note: 'The OHS Regulations 2017 (Vic) External Link and the Dangerous Goods (Storage and Handling) Regulations 2022 (Vic) External Link requires the department to manage the risks associated with dangerous g', url: 'https://www.legislation.vic.gov.au/in-force/statutory-rules/dangerous-goods-storage-and-handling-regulations-2022' },
+      { title: 'Water quality guidelines for public aquatic facilities – managing public healthrisksExternal Link', note: 'Principals or their delegate are responsible for ensuring that the standards and requirements for a category 1 aquatic facility on school grounds are met. The Water quality guidelines for public aquat', url: 'https://www2.health.vic.gov.au/public-health/water/aquatic-facilities/quality-guidelines' },
+      { title: 'Dangerous Goods Act 1985(Vic)External Link', note: 'Dangerous Goods Act 1985 (Vic) External Link', url: 'https://www.legislation.vic.gov.au/in-force/acts/dangerous-goods-act-1985' }
+    ]
+  },
+  { id: 474, title: 'Syringe Disposals and Injuries', category: 'OHS', tags: ['2004', '2008', 'CASES21', 'requirements', 'safely', 'manage', 'discarded', 'needles', 'needle', 'stick'], summary: 'This policy sets out the requirements for schools to safely manage used/discarded needles and needle stick injuries.', url: 'https://www2.education.vic.gov.au/pal/syringe-disposal', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/syringe-disposal/guidance', resources: 'https://www2.education.vic.gov.au/pal/syringe-disposal/resources' },
+    chapters: [
+      { title: 'Policy — requirements, safely, manage, discarded, needles, needle', url: 'https://www2.education.vic.gov.au/pal/syringe-disposal/policy' },
+      { title: 'Guidance — guidance, there, topic, resources', url: 'https://www2.education.vic.gov.au/pal/syringe-disposal/guidance' },
+      { title: 'Resources — DOCX, resources, useful, websites, better, health', url: 'https://www2.education.vic.gov.au/pal/syringe-disposal/resources' }
+    ],
+    resources: [
+      { title: 'Better Health Channel — Needle stickinjuriesExternal Link', note: 'Better Health Channel — Needle stick injuries External Link — an overview of how to handle needle stick injuries, ways to reduce risk of infection and where to get help', url: 'https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/needlestick-injury' }
+    ]
+  },
+  { id: 475, title: 'Targeted Literacy and Numeracy Intervention – Small Group Learning', category: 'Curriculum', tags: ['AERO', 'MTSS', 'PDF', 'VTLM', 'LNEIP', 'MYLNS', 'EAL', 'FISO', 'EIL', 'KLNP'], summary: 'This policy outlines considerations for the delivery of targeted small group intervention for students who are identified as performing significantly below their age-expected standard in one or both of literacy and numeracy.', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance', resources: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/resources' },
+    chapters: [
+      { title: 'Alignment with Victoria’s teaching and learning reforms — 2028, VTLM, alignment, teaching, learning, reforms', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/alignment-with-victorias-teaching-learning-reforms' },
+      { title: 'Delivering small group learning in primary settings — LNEIP, KLNP, delivering, small, group, learning', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/delivering-small-group-learning-primary-settings' },
+      { title: 'Delivering small group learning in secondary settings — MYLNS, delivering, small, group, learning, secondary', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/delivering-small-group-learning-secondary-settings' },
+      { title: 'Delivering small group learning to diverse cohorts — EAL, delivering, small, group, learning, diverse', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/delivering-small-group-learning-diverse-cohorts' },
+      { title: 'Literacy and Numeracy Early Intervention Program — LNEIP, VTLM, literacy, numeracy, early, intervention', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/literacy-numeracy-early-intervention-program' },
+      { title: 'Koorie Literacy and Numeracy Program — KLNP, koorie, literacy, numeracy, program, government', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/koorie-literacy-numeracy-program' },
+      { title: 'Middle Years Literacy and Numeracy Support initiative — NAPLAN, CASES21, MYLNS, middle, years, literacy', url: 'https://www2.education.vic.gov.au/pal/targeted-literacy-numeracy-intervention-small-group-learning/guidance/middle-years-literacy-numeracy-support-initiative' }
+    ],
+    resources: [
+      { title: 'Literacy and Numeracy Early Intervention Program Overview and funding placemats(PPTX)External Link', note: 'Literacy and Numeracy Early Intervention Program Overview and funding placemats (PPTX) External Link (staff login required) – resource providing an overview and case studies on how to implement small', url: 'https://eduvic.sharepoint.com/:p:/r/sites/SchoolsSecure/Shared%20Documents/LNEIP_Funding_placemats.pptx?d=wa956647ce2154699aeb0374b42ee2066&csf=1&web=1&e=IVNu4A' },
+      { title: 'Victorian Teaching and Learning Model (VTLM2.0)External Link', note: 'Victorian Teaching and Learning Model (VTLM 2.0) External Link – Arc information and resource page', url: 'https://arc.educationapps.vic.gov.au/learning/sites/vtlmresources/1258/Victorian-Teaching-and-Learning-Model-VTLM-20' },
+      { title: 'Victoria’s approach to teaching readingF–2External Link', note: 'Victoria’s approach to teaching reading F–2 External Link – Arc information and resource page', url: 'https://arc.educationapps.vic.gov.au/learning/sites/literacy/2484/Victorias-approach-to-teaching-reading-F-2' },
+      { title: 'Mathematics positionstatementExternal Link', note: 'Mathematics position statement External Link – Arc information page', url: 'https://arc.educationapps.vic.gov.au/learning/sites/mathematics-site/2486/Mathematics-position-statement' },
+      { title: 'Introduction to a multi-tiered system of supports(PDF)External Link', note: 'Introduction to a multi-tiered system of supports (PDF) External Link – AERO explainer', url: 'https://www.edresearch.edu.au/sites/default/files/2024-10/introduction-multi-tiered-system-supports-aa.pdf' },
+      { title: 'Supporting students significantly behind in literacy and numeracy (PDF)–External Link', note: 'Supporting students significantly behind in literacy and numeracy (PDF) – External Link AERO professional review', url: 'https://www.edresearch.edu.au/sites/default/files/2023-05/aero-supporting-students-significantly-behind-literacy-numeracy.pdf' },
+      { title: 'Tackling under-achievement: Why Australia should embed high-quality small-group tuition(PDF)External Link', note: 'Tackling under-achievement: Why Australia should embed high-quality small-group tuition (PDF) External Link – professional reading', url: 'https://grattan.edu.au/wp-content/uploads/2023/01/Tackling-under-achievement-Grattan-report.pdf' },
+      { title: 'Small grouptuitionExternal Link', note: 'Small group tuition External Link – evidence for learning professional reading', url: 'https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/small-group-tuition' },
+      { title: 'Marrung Aboriginal Education Plan2016-2026External Link', note: 'Marrung Aboriginal Education Plan 2016-2026 External Link', url: 'https://www.vic.gov.au/marrung' },
+      { title: 'Diverse LearnersHubExternal Link', note: 'Diverse Learners Hub External Link – vic.gov.au information and resource page', url: 'https://www.vic.gov.au/diverse-learners-hub' },
+      { title: 'English as an Additional Language(EAL)External Link', note: 'English as an Additional Language (EAL) External Link – vic.gov.au information page', url: 'https://www.schools.vic.gov.au/eal' },
+      { title: 'Reading and Vocabulary Assessment Tool for students with English as an Additional Language(RVEAL)External Link', note: 'Reading and Vocabulary Assessment Tool for students with English as an Additional Language (RVEAL) External Link – assessment tool for EAL students', url: 'https://teal.global2.vic.edu.au/assessment-tools/common-reading-and-vocab-tasks/rveal/' },
+      { title: 'Supporting students from refugeebackgroundsExternal Link', note: 'Supporting students from refugee backgrounds External Link – vic.gov.au information and resource page', url: 'https://www.schools.vic.gov.au/supporting-students-refugee-backgrounds' },
+      { title: 'Literacy TeachingToolkitExternal Link', note: 'Literacy Teaching Toolkit External Link – Arc teaching resource page', url: 'https://arc.educationapps.vic.gov.au/learning/sites/literacy/1786/Literacy-Teaching-Toolkit' },
+      { title: 'English LessonPlansExternal Link', note: 'English Lesson Plans External Link – Arc teaching resources', url: 'https://arc.educationapps.vic.gov.au/learning/sites/lesson-plans-guidance/2264/Victorian-Lesson-Plans-guidance-English' },
+      { title: 'Mathematics TeachingToolkitExternal Link', note: 'Mathematics Teaching Toolkit External Link – Arc teaching resource page', url: 'https://arc.educationapps.vic.gov.au/learning/sites/mathematics-site' },
+      { title: 'Mathematics LessonPlansExternal Link', note: 'Mathematics Lesson Plans External Link – Arc teaching resources', url: 'https://arc.educationapps.vic.gov.au/learning/sites/lesson-plans-guidance/1820/Victorian-Lesson-Plans-guidance-Mathematics' },
+      { title: 'National Numeracy LearningProgressionsExternal Link', note: 'National Numeracy Learning Progressions External Link – Australian curriculum tool', url: 'https://v8.australiancurriculum.edu.au/resources/national-literacy-and-numeracy-learning-progressions/national-numeracy-learning-progression/' },
+      { title: 'National Literacy LearningProgressionsExternal Link', note: 'National Literacy Learning Progressions External Link – Australian curriculum tool', url: 'https://v8.australiancurriculum.edu.au/resources/national-literacy-and-numeracy-learning-progressions/national-literacy-learning-progression/' },
+      { title: 'Abilities Based Learning and Education Support(ABLES)External Link', note: 'Abilities Based Learning and Education Support (ABLES) External Link – vic.gov.au information page', url: 'https://www.schools.vic.gov.au/ables' },
+      { title: 'Digital Assessment Library(DAL)External Link', note: 'Digital Assessment Library (DAL) External Link', url: 'https://www.vcaa.vic.edu.au/assessment/foundation-10/digital-assessment-library/digital-assessment-library' },
+      { title: 'PAT Online Assessment and ReportingSystemExternal Link', note: 'PAT Online Assessment and Reporting System External Link – assessment and reporting tool', url: 'https://oars.acer.edu.au/clients/search' },
+      { title: 'PanoramaExternal Link', note: 'Panorama External Link – school performance data system', url: 'https://edugate.eduweb.vic.gov.au/edrms/keyprocess/TEB/Panorama/Pages/panorama.aspx' },
+      { title: 'VCAA Insight AssessmentPlatformExternal Link', note: 'VCAA Insight Assessment Platform External Link', url: 'https://www.vcaa.vic.edu.au/assessment/foundation-10/insight-assessment-platform/insight-assessment-platform-5' },
+      { title: 'VCAA NAPLAN DataServiceExternal Link', note: 'VCAA NAPLAN Data Service External Link', url: 'https://dataservice.vcaa.vic.edu.au/Account/Login?ReturnUrl=%2F' }
+    ]
+  },
+  { id: 476, title: 'Taxation — Employees and Income Tax', category: 'HR - Pay (?ambig)', tags: ['TFN', 'HELP', 'SFSS', 'PAYG', 'HR', 'overview', 'file', 'number', 'declaration', 'tax-free'], summary: 'Refer to the Policy and Guidelines tab for:', url: 'https://www2.education.vic.gov.au/pal/taxation', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/taxation/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/taxation/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/taxation/resources' },
+    chapters: [
+      { title: 'Overview — TFN, HELP, SFSS, PAYG, HR, overview', url: 'https://www2.education.vic.gov.au/pal/taxation/overview' },
+      { title: 'Policy and Guidelines — eduPay, ATO, SLP, provided, here, only', url: 'https://www2.education.vic.gov.au/pal/taxation/policy-and-guidelines' },
+      { title: 'Resources — ATO, resources, procedures, taxation, administration, word', url: 'https://www2.education.vic.gov.au/pal/taxation/resources' }
+    ],
+    resources: [
+      { title: 'Australian Taxation Office(ATO)External Link', note: 'Australian Taxation Office (ATO) External Link website', url: 'http://www.ato.gov.au' },
+      { title: 'Higher Education LoanSchemesExternal Link', note: 'Higher Education Loan Schemes External Link', url: 'https://www.ato.gov.au/Individuals/Study-and-training-support-loans/Types-of-loans/' },
+      { title: 'Tax file number declaration electronicformExternal Link', note: 'Tax file number declaration electronic form External Link', url: 'https://www.ato.gov.au/forms/tfn-declaration/' },
+      { title: 'Tax instalmentcalculatorExternal Link', note: 'Tax instalment calculator External Link', url: 'https://www.ato.gov.au/calculators-and-tools/tax-withheld-calculator/' },
+      { title: 'TaxtablesExternal Link', note: 'Tax tables External Link', url: 'https://www.ato.gov.au/Rates/Tax-tables/' },
+      { title: 'Vehicle and travel expenses forindividualsExternal Link', note: 'Vehicle and travel expenses for individuals External Link', url: 'https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/cars-transport-and-travel' }
+    ]
+  },
+  { id: 477, title: 'Teach the Future Fellowship Program', category: 'HR - Pay (?ambig)', tags: ['$10,000', '$8,000', '$2,000', '2026', 'VIT', 'TFF', 'ITE', 'ATAR', 'TPA', 'EFTSL'], summary: 'The Teach the Future Fellowship (TFF) is a Victorian Department of Education initiative that supports students commencing an eligible undergraduate initial teacher education (ITE) degree in 2026 in areas of workforce shortage.', url: 'https://www2.education.vic.gov.au/teach-the-future-fellowship-program', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/resources' },
+    chapters: [
+      { title: 'Overview — $10,000, 2026, TFF, ITE, ATAR, overview', url: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, resources', url: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/policy-and-guidelines' },
+      { title: 'Resources — TFF, resources, frequently, asked, questions, program', url: 'https://www2.education.vic.gov.au/pal/teach-the-future-fellowship-program/resources' }
+    ],
+    resources: [
+      { title: 'Teach the Future FellowshipprogramExternal Link', note: 'Applicants can apply for the Teach the Future Fellowship (TFF) via the online form available on the Department of Education website: Teach the Future Fellowship program External Link .', url: 'https://www.vic.gov.au/teach-future-fellowship-program' }
+    ]
+  },
+  { id: 478, title: 'Teacher Housing', category: 'Infrastructure', tags: ['VSBA', 'responsibilities', 'teacher', 'housing', 'allocation', 'eligibility', 'management', 'summary', 'teachers', 'business'], summary: 'This policy sets out schools’ responsibilities for teacher housing allocation, eligibility and management.', url: 'https://www2.education.vic.gov.au/pal/teacher-housing', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance', resources: 'https://www2.education.vic.gov.au/pal/teacher-housing/resources' },
+    chapters: [
+      { title: '1 Definitions for the Teacher Housing Portfolio — 2012, ACL, definitions, teacher, housing, portfolio', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/1-definitions-teacher-housing-portfolio' },
+      { title: '2 Introduction — 1996, RTA, introduction, minister, landlord, owns', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/1-introduction' },
+      { title: '3 Legislative background — RTA, legislative, background, leases, most, residential', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/3-legislative-background' },
+      { title: '4 Budget and maintenance — budget, maintenance, currently, manages, teacher, housing', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/4-budget-and-maintenance' },
+      { title: '5 Allocation of Premises — VSBA, RTA, allocation, premises, principals, host', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/5-allocation-premises' },
+      { title: '6 Entering into an Agreement — VSBA, entering, agreement, leases, teacher, housing', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/6-entering-agreement' },
+      { title: '7 Assignment and Sub-letting — assignment, sub-letting, tenants, allow, anyone, than', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/7-assignment-and-sub-letting' },
+      { title: '8 Condition of Property — VSBA, condition, property, commencement, lease, except', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/8-condition-property' },
+      { title: '9 Rent — 2006, rent, periodically, between, tenancies, consultation', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/9-rent' },
+      { title: '10 Tenant and Landlord Obligations during the Lease — tenant, landlord, obligations, during, lease, obligation', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/10-tenant-and-landlord-obligations-during-lease' },
+      { title: '11 Repairs — Urgent and Non–Urgent — VSBA, repairs, urgent, non-urgent, teacher, tenant', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/11-repairs-urgent-and-non-urgent' },
+      { title: '12 Right of Entry — right, entry, lease, grant, exclusive, possession', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/12-right-entry' },
+      { title: '13 Change in Employment Conditions — VSBA, change, employment, conditions, appointment, teacher', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/13-change-employment-conditions' },
+      { title: '14 Breach of Tenancy Agreement — breach, tenancy, agreement, teacher, tenant, terminate', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/14-breach-tenancy-agreement' },
+      { title: '15 Vacating the Premises — vacating, premises, teacher, tenant, agreement, giving', url: 'https://www2.education.vic.gov.au/pal/teacher-housing/guidance/15-vacating-premises' }
+    ],
+    resources: [
+      { title: 'Victorian School BuildingAuthorityExternal Link', note: 'Principals, in consultation with the Victorian School Building Authority External Link (VSBA), are responsible for allocating teacher housing.', url: 'https://www.schoolbuildings.vic.gov.au/' },
+      { title: 'Teacher Housing TenancyAgreementExternal Link', note: 'To enter a lease, the allocated teacher must complete a Teacher Housing Tenancy Agreement External Link endorsed by the principal and VSBA property manager.', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/teacher-tenancy-agreement.docx' },
+      { title: 'Teacher Tenancy Guidelines for Renting a TeacherHouseExternal Link', note: 'The tenant, principal and Department share responsibility for managing the property. The lease specifies these responsibilities. For more detailed information, refer to the Teacher Housing Property Ma', url: 'https://content.sdp.education.vic.gov.au/sites/default/files/2020-02/teacher-tenancy-guidelines.docx' }
+    ]
+  },
+  { id: 479, title: 'Teacher Registration', category: 'HR - Pay (?ambig)', tags: ['2006', 'PTT', 'overview', 'education', 'training', 'reform', 'requires', 'teachers', 'obtain', 'registration'], summary: 'The Education and Training Reform Act 2006 requires that all teachers in Victoria obtain registration or permission to teach (PTT) from the Victorian Institute of Teaching (the Institute) before they can be employed in any Victorian school, including Victorian Government schools or an early childhood education setting.', url: 'https://www2.education.vic.gov.au/pal/teacher-registration', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/teacher-registration/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/teacher-registration/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/teacher-registration/resources' },
+    chapters: [
+      { title: 'Overview — 2006, PTT, overview, education, training, reform', url: 'https://www2.education.vic.gov.au/pal/teacher-registration/overview' },
+      { title: 'Policy and Guidelines — there, guidance, topic, resources', url: 'https://www2.education.vic.gov.au/pal/teacher-registration/policy-and-guidelines' },
+      { title: 'Resources — resources, useful, institute, teaching, external', url: 'https://www2.education.vic.gov.au/pal/teacher-registration/resources' }
+    ],
+    resources: [
+      { title: 'Victorian Institute ofTeachingExternal Link', note: 'Victorian Institute of Teaching External Link', url: 'https://www.vit.vic.edu.au/' }
+    ]
+  },
+  { id: 480, title: 'Teaching and Learning Resources – Selecting Appropriate Materials', category: 'Curriculum', tags: ['learning', 'selecting', 'teaching', 'ask', 'computer', 'concerning', 'contain', 'controversial'], summary: 'Department of Education policy guidance on teaching and learning resources – selecting appropriate materials.', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance', resources: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/resources' },
+    chapters: [
+      { title: 'Overview — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/introduction' },
+      { title: 'Questions to ask when selecting teaching and learning resources — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/questions-to-ask' },
+      { title: 'Selecting films or computer games — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/selecting-films-computer-games' },
+      { title: 'Staging public events or school performances — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/staging-public-events' },
+      { title: 'Controversial topics — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/controversial-topics' },
+      { title: 'Resolving issues concerning objections to teaching and learning resources — learning, selecting, teaching, ask, computer, concerning, contain, controversial', url: 'https://www2.education.vic.gov.au/pal/selecting-suitable-teaching-resources/guidance/resolving-issues' }
+    ]
+  },
+  { id: 481, title: 'Teaching with Animals', category: 'Curriculum', tags: ['animal', 'VSAEC', 'animals', 'report', 'teaching', 'welfare', 'approval', 'audits'], summary: 'This guidance provides advice for Victorian schools seeking to keep or use animals for teaching and non-teaching purposes.', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance', resources: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/resources' },
+    chapters: [
+      { title: 'Requirements for schools — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/requirements-schools' },
+      { title: 'VSAEC application and approval process — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/vsaec-application-and-approval-process' },
+      { title: 'Forms and record keeping — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/forms-record-keeping' },
+      { title: 'School audits — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/school-audits' },
+      { title: 'About the Victorian Schools Animal Ethics Committee — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/about-victorian-schools-animal-ethics-committee' },
+      { title: 'Complaints and grievances — animal, VSAEC, animals, report, welfare, approval, audits, care', url: 'https://www2.education.vic.gov.au/pal/teaching-with-animals/guidance/complaints-and-grievances' }
+    ]
+  },
+  { id: 482, title: 'Testing and Tagging of Electrical Equipment', category: 'OHS', tags: ['electrical', 'equipment', 'testing', 'tagging', 'OHS', 'safety', 'health', 'act'], summary: 'This policy outlines the Occupational Health and Safety requirements in workplaces for testing and tagging of electrical equipment.', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/resources' },
+    chapters: [
+      { title: '1 Testing and tagging of electrical equipment — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/1-testing-and-tagging-electrical-equipment' },
+      { title: '2 Testing and tagging of newly purchased electrical equipment — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/2-testing-and-tagging-newly-purchased' },
+      { title: '3 Testing and tagging of electrical equipment brought into the school — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/3-testing-and-tagging-electrical-equipment' },
+      { title: '4 Testing and tagging of hire and loan electrical equipment — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/4-testing-and-tagging-hire-and-loan' },
+      { title: '5 Testing of flexible cords used as installation wiring — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/5-testing-flexible-cords-used-installation' },
+      { title: '6 Double adapters and power boards — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/6-double-adapters-and-power-boards' },
+      { title: '7 Extension leads — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/7-extension-leads' },
+      { title: '8 Faulty or damaged electrical equipment — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/8-faulty-or-damaged-electrical-equipment' },
+      { title: '9 Disposal of electrical equipment — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/9-disposal-electrical-equipment' },
+      { title: '10 Legislation, codes of practice, standards and guidance — electrical, equipment, health, safety, employees, OHS, act, occupational', url: 'https://www2.education.vic.gov.au/pal/testing-and-tagging-electrical-equipment/procedure/10-legislation-codes-practice-standards-and' }
+    ]
+  },
+  { id: 483, title: 'Time in Lieu – Teaching Service', category: 'HR - Pay (?ambig)', tags: ['time', 'lieu', 'attendance', 'hours', 'agreement', 'class', 'work', 'employee'], summary: 'The Victorian Government Schools Agreement 2022 (the agreement) provides that a principal can require a teacher or education support class employee to attend work outside their normal attendance or hours of work where the attendance is unavoidable and reasonable notice is provided.', url: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/resources' },
+    chapters: [
+      { title: 'Overview — agreement, attendance, class, employee, hours, attend, normal, teacher', url: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/#overview' },
+      { title: 'Related policies — service, teaching, attendance, grievances, hours, related, teachers, work', url: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/#related-policies' },
+      { title: 'Relevant legislation — employment, industrial, legislation, agreements, awards, delegations, ministerial, orders', url: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/#relevant-legislation' },
+      { title: 'Contact — contact', url: 'https://www2.education.vic.gov.au/pal/time-in-lieu-teaching-service/#contact' }
+    ]
+  },
+  { id: 484, title: 'Trade Training Centres', category: 'Curriculum', tags: ['trade', 'training', 'centres'], summary: 'Department of Education policy guidance on trade training centres.', url: 'https://www2.education.vic.gov.au/pal/trade-training-centres', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/trade-training-centres/overview' }
+  },
+  { id: 485, title: 'Trade Union Training Leave', category: 'HR - Leave', tags: ['training', 'union', 'leave', 'trade', 'contact', 'employment', 'industrial', 'legislation'], summary: 'Trade union training leave may be granted to an employee who has been nominated by a relevant union and has been accepted by a training provider to attend an appropriate trade union training course.', url: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/resources' },
+    chapters: [
+      { title: 'Overview — training, union, trade, accepted, attend, course, employee, granted', url: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/#overview' },
+      { title: 'Related policies — OHS, health, induction, leave, occupational, related, safety, service', url: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/#related-policies' },
+      { title: 'Relevant legislation — employment, industrial, legislation, agreements, awards, delegations, ministerial, orders', url: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/#relevant-legislation' },
+      { title: 'Contact information — contact', url: 'https://www2.education.vic.gov.au/pal/trade-union-training-leave/#contact-information' }
+    ]
+  },
+  { id: 486, title: 'Traffic Management', category: 'Infrastructure', tags: ['traffic', 'OHS', 'management', 'risk', 'plan', 'health', 'related', 'risks'], summary: 'The purpose of this policy is to ensure all risks associated with traffic on school sites are identified and managed.', url: 'https://www2.education.vic.gov.au/pal/traffic-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/traffic-management/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/traffic-management/resources' },
+    chapters: [
+      { title: '1 Traffic Management Plan — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/1-traffic-management-plan' },
+      { title: '2 Identify hazards associated with traffic — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/2-identify-hazards-associated-traffic' },
+      { title: '3 Risk assessment process — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/3-risk-assessment-process' },
+      { title: '4 Controlling risks posed by traffic — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/4-controlling-risks-posed-traffic' },
+      { title: '5 Incident/accident reporting — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/5-incident/accident-reporting' },
+      { title: '6 Reviewing controls — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/5-reviewing-controls' },
+      { title: '7 Reviewing OHS Risk Register and Traffic Management Plan — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/6-reviewing-ohs-risk-register-and-traffic-management-plan' },
+      { title: '8 Legislation, codes of practice, standards and guidance — traffic, associated, risks, safety, OHS, act, delegate, employees', url: 'https://www2.education.vic.gov.au/pal/traffic-management/procedure/7-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 487, title: 'Transition – Early Childhood to School', category: 'Curriculum', tags: ['transition', 'childhood', 'early', 'TLDS', 'access', 'children', 'families', 'online'], summary: 'This guidance outlines how schools can access and use the Transition Learning and Development Statement (TLDS) and work with families, children, and other professionals to support a smooth and positive transition between early childhood and school.', url: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/guidance', resources: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/resources' },
+    chapters: [
+      { title: 'Transition statements – information for schools — transition, childhood, early, TLDS, access, children, families, online', url: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/guidance/1-transition-statements' },
+      { title: 'Access online transition statements for new prep students — transition, childhood, early, TLDS, access, children, families, online', url: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/guidance/access-online-transition-statements-new-prep' },
+      { title: 'Working with families when children are transitioning to school — transition, childhood, early, TLDS, access, children, families, online', url: 'https://www2.education.vic.gov.au/pal/transition-early-childhood-school/guidance/working-families-when-children-are-transitioning' }
+    ]
+  },
+  { id: 488, title: 'Transport Accident Commission (TAC) Leave', category: 'HR - Leave', tags: ['leave', 'TAC', 'accident', 'commission', 'contact', 'transport', 'duty', 'fitness'], summary: 'Transport Accident Commission (TAC) leave provides entitlements for employees who are unable to work due to injuries sustained in a transport accident.', url: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/resources' },
+    chapters: [
+      { title: 'Overview — TAC, accident, commission, leave, transport', url: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/#overview' },
+      { title: 'Related policies — duty, fitness, leave, personal, related, service, teaching', url: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/#related-policies' },
+      { title: 'Contact information — contact', url: 'https://www2.education.vic.gov.au/pal/transport-accident-commission-leave/#contact-information' }
+    ]
+  },
+  { id: 489, title: 'Transport Event', category: 'HR - Pay (?ambig)', tags: ['transport', 'employee', 'event', 'leave', 'work', 'alternate', 'contact', 'duty'], summary: 'Should a significant transport related event such as a petrol shortage or a transport strike occur, the expectation is that employees will report for duty at their usual place of work. Where a principal or manager is satisfied that an employee has no practical alternative to attend for duty as a result of a transport related event another work arrangement, such as working from home or at an alternate Department location, may be agreed between the principal or manager and employee.', url: 'https://www2.education.vic.gov.au/pal/transport-event', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/transport-event/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/transport-event/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/transport-event/resources' },
+    chapters: [
+      { title: 'Overview — transport, duty, employee, event, manager, occur, principal, related', url: 'https://www2.education.vic.gov.au/pal/transport-event/#overview' },
+      { title: 'Relevant legislation — employment, industrial, legislation, agreements, awards, delegations, ministerial, orders', url: 'https://www2.education.vic.gov.au/pal/transport-event/#relevant-legislation' },
+      { title: 'Contact information — contact', url: 'https://www2.education.vic.gov.au/pal/transport-event/#contact-information' }
+    ]
+  },
+  { id: 490, title: 'Tree and Vegetation Management', category: 'Infrastructure', tags: ['planning', 'vic', 'VSBA', 'trees', 'vegetation', 'act', 'biodiversity', 'projects'], summary: 'This policy sets out requirements for schools and the Victorian School Building Authority(VSBA) to preserve or replace vegetation affected by capital building projects.', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/guidance', resources: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/resources' },
+    chapters: [
+      { title: 'Legal requirements — vegetation, removal, arborist, legal, report, retention, VSBA, access', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#legal-requirements' },
+      { title: 'Departmental requirements — PDF, building, handbook, quality, standards, trees, areas, around', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#departmental-requirements' },
+      { title: 'Planning schemes — planning, local, scheme, capital, consider, infrastructure, projects, schemes', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#planning-schemes' },
+      { title: 'Local laws — local, laws, significant, trees, VSBA, always, authority, check', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#local-laws' },
+      { title: 'Environmental considerations — VSBA, environmental, local, planning, schemes, community, consult, vegetation', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#environmental-considerations' },
+      { title: 'Bushfire preparedness — bushfire, buildings, emergency, management, preparedness, schedule, vegetation, VSBA', url: 'https://www2.education.vic.gov.au/pal/tree-vegetation-management/#bushfire-preparedness' }
+    ]
+  },
+  { id: 491, title: 'Trespass', category: 'School Operations', tags: ['trespass'], summary: 'Department of Education policy guidance on trespass.', url: 'https://www2.education.vic.gov.au/pal/trespass', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/trespass/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/trespass/guidance', resources: 'https://www2.education.vic.gov.au/pal/trespass/resources' },
+    chapters: [
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/trespass/#guidance' }
+    ]
+  },
+  { id: 492, title: 'Ventilation and Air Purification', category: 'Infrastructure', tags: ['air', 'ventilation', 'purifiers', 'operation', 'placement', 'learning', 'natural', 'spaces'], summary: 'This guidance advises on the operation and placement of air purifiers and outlines possible risks of catching or passing airborne infectious diseases in particular types of school spaces.', url: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/guidance', resources: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/resources' },
+    chapters: [
+      { title: 'Using ventilation to improve indoor air quality — air, ventilation, purifiers, operation, placement, learning, natural, spaces', url: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/guidance/using-ventilation-improve-indoor-air-quality' },
+      { title: 'Operation and placement of air purifiers — air, ventilation, purifiers, operation, placement, learning, natural, spaces', url: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/guidance/operation-placement-air-purifiers' },
+      { title: 'Maintenance and cleaning of air purifiers — air, ventilation, purifiers, operation, placement, learning, natural, spaces', url: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/guidance/maintenance-and-cleaning-air-purifiers' },
+      { title: 'Room risk rating and management strategies — air, ventilation, purifiers, operation, placement, learning, natural, spaces', url: 'https://www2.education.vic.gov.au/pal/ventilation-air-purification/guidance/room-risk-rating-management-strategies' }
+    ]
+  },
+  { id: 493, title: 'Victorian Public Sector Employment Principles and Standards', category: 'HR - Recruitment', tags: ['public', 'sector', 'employment', 'principles', 'employees', 'standards', 'processes', 'service'], summary: 'Part 2 of the Public Administration Act 2004 establishes the public sector values and employment principles that apply in all Victorian public sector bodies, including schools.', url: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/resources' },
+    chapters: [
+      { title: 'Overview — public, sector, employment, principles, processes, service, standards, VPSC', url: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/#overview' },
+      { title: 'Related topics — values, VPS, code, conduct, employees, grievances, recruitment, related', url: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/#related-topics' },
+      { title: 'Relevant legislation — act, administration, legislation, public, vic', url: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/#relevant-legislation' },
+      { title: 'Contact information — contact', url: 'https://www2.education.vic.gov.au/pal/victorian-public-sector-employment-principles-and-standards/#contact-information' }
+    ]
+  },
+  { id: 494, title: 'Victorian School Nursing Program', category: 'Students', tags: ['health', 'program', 'nursing', 'nurses', 'primary', 'secondary', 'students', 'wellbeing'], summary: 'This page outlines the key features and services offered by the Victorian School Nursing Program in primary and secondary schools.', url: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program', popular: false,
+    tabs: { guidance: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program/guidance', resources: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program/resources' },
+    chapters: [
+      { title: 'Victorian School Nursing Guidelines — nurses, nursing, program, PAA, SNP, achieve, act, administration', url: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program/#victorian-school-nursing-guidelines' },
+      { title: 'Primary School Nursing Program — children, health, primary, PSNP, wellbeing, advice, assessment, attending', url: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program/#primary-school-nursing-program' },
+      { title: 'Secondary School Nursing Program — secondary, SSNP, health, most, nurses, people, program, young', url: 'https://www2.education.vic.gov.au/pal/victorian-school-nursing-program/#secondary-school-nursing-program' }
+    ]
+  },
+  { id: 495, title: 'Victorian Teaching and Learning Model 2.0', category: 'Curriculum', tags: ['teaching', 'learning', 'model', 'VTLM', 'practice', 'excellence', 'high', 'impact'], summary: 'The Victorian Teaching and Learning Model (VTLM 2.0) is a framework that guides effective teaching practice across Victorian government schools.', url: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model/guidance', resources: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model/resources' },
+    chapters: [
+      { title: 'Victorian Teaching and Learning Model — teaching, learning, model, VTLM, practice, excellence, high, impact', url: 'https://www2.education.vic.gov.au/pal/victorian-teaching-learning-model/#victorian-teaching-and-learning-model' }
+    ]
+  },
+  { id: 496, title: 'Visual and Performing Arts – Safety', category: 'OHS', tags: ['safety', 'health', 'equipment', 'OHS', 'management', 'occupational', 'environments', 'plant'], summary: 'The purpose of this policy is to ensure teaching environments and equipment are safe for use by employees and students.', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/resources' },
+    chapters: [
+      { title: '1. Introduction — safety, environments, health, equipment, teaching, arts, associated, occupational', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/procedure/1-introduction' },
+      { title: '2. Identify hazards in the art teaching environments — safety, environments, health, equipment, teaching, arts, associated, occupational', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/procedure/2-identify-hazards-art-teaching-environments' },
+      { title: '3. Controlling identified hazards — safety, environments, health, equipment, teaching, arts, associated, occupational', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/procedure/3-controlling-identified-hazards' },
+      { title: '4. Risk management — safety, environments, health, equipment, teaching, arts, associated, occupational', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/procedure/4-risk-management' },
+      { title: '5. Legislation, codes of practice, standards and guidance — safety, environments, health, equipment, teaching, arts, associated, occupational', url: 'https://www2.education.vic.gov.au/pal/safety-visual-and-performing-arts/procedure/5-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 497, title: 'Vocational Education and Training Clusters', category: 'Curriculum', tags: ['vocational', 'training', 'clusters'], summary: 'Department of Education policy guidance on vocational education and training clusters.', url: 'https://www2.education.vic.gov.au/pal/vocational-education-training-clusters', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/vocational-education-training-clusters/overview' }
+  },
+  { id: 498, title: 'Vocational Education and Training Delivered to School Students', category: 'Curriculum', tags: ['delivered', 'students', 'training', 'vocational'], summary: 'Department of Education policy guidance on vocational education and training delivered to school students.', url: 'https://www2.education.vic.gov.au/pal/vet-delivered-school-students', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/vet-delivered-school-students/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/vet-delivered-school-students/guidance', resources: 'https://www2.education.vic.gov.au/pal/vet-delivered-school-students/resources' },
+    chapters: [
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/vet-delivered-school-students/#guidance' }
+    ]
+  },
+  { id: 499, title: 'Voice Care for Teachers', category: 'OHS', tags: ['health', 'risk', 'OHS', 'voice', 'teachers', 'vocal', 'safety', 'care'], summary: 'This policy outlines the requirements in schools for voice care for teachers.', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/resources' },
+    chapters: [
+      { title: '1 Introduction — health, safety, employees, OHS, act, care, create, risk', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/procedure/1-introduction' },
+      { title: '2 Identify areas/activities that may pose a risk to teachers’ vocal health — health, safety, employees, OHS, act, care, create, risk', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/procedure/2-identify-areas/activities-may-pose-risk-teachers-vocal-health' },
+      { title: '3 Risk assess — health, safety, employees, OHS, act, care, create, risk', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/procedure/3-risk-assess' },
+      { title: '4 Implement controls — health, safety, employees, OHS, act, care, create, risk', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/procedure/4-implement-controls' },
+      { title: '5 Legislation, codes of practice, standards and guidance — health, safety, employees, OHS, act, care, create, risk', url: 'https://www2.education.vic.gov.au/pal/voice-care-teachers/procedure/5-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 500, title: 'Volunteer OHS Management', category: 'OHS', tags: ['volunteers', 'OHS', 'work', 'management', 'health', 'risk', 'safety', 'hazardous'], summary: 'This policy outlines the Occupational Health and Safety requirements in schools for managing volunteers.', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/resources' },
+    chapters: [
+      { title: '1 Engaging volunteers — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/engaging-volunteers' },
+      { title: '2 Risk management — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/risk-management' },
+      { title: '3 COVID-19 vaccination requirements — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/covid-19-vaccination-requirements' },
+      { title: '4 Volunteer OHS induction — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/volunteer-ohs-induction' },
+      { title: '5 Supervision — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/supervision' },
+      { title: '6 Workers’ compensation insurance policy — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/workers-compensation-insurance-policy' },
+      { title: '7 Hazard, incident and injury reporting — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/hazard-incident-and-injury-reporting' },
+      { title: '8 Record keeping — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/record-keeping' },
+      { title: '9 Legislation, compliance codes, standards and guidance — OHS, volunteers, health, safety, act, occupational, safe, access', url: 'https://www2.education.vic.gov.au/pal/volunteer-ohs-management/procedure/legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 501, title: 'Walk to School Activities', category: 'School Operations', tags: ['activities', 'walk'], summary: 'Department of Education policy guidance on walk to school activities.', url: 'https://www2.education.vic.gov.au/pal/walk-school-activities', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/walk-school-activities/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/walk-school-activities/guidance', resources: 'https://www2.education.vic.gov.au/pal/walk-school-activities/resources' },
+    chapters: [
+      { title: 'Guidance', url: 'https://www2.education.vic.gov.au/pal/walk-school-activities/#guidance' }
+    ]
+  },
+  { id: 502, title: 'Wastewater Treatment Systems', category: 'Infrastructure', tags: ['management', 'system', 'systems', 'wastewater', 'decommissioning', 'defects', 'disposal', 'emergency'], summary: 'Department of Education policy guidance on wastewater treatment systems.', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance', resources: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/resources' },
+    chapters: [
+      { title: 'Risks and hazards — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/risks-hazards' },
+      { title: 'System types — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/system-types' },
+      { title: 'Disposal methods — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/disposal-methods' },
+      { title: 'Permits and licences — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/permits-licences' },
+      { title: 'Routine maintenance — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/routine-maintenance' },
+      { title: 'New system installations, replacements and decommissioning — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/new-system-installations' },
+      { title: 'Emergency management — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/emergency-management' },
+      { title: 'Defects — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/defects' },
+      { title: 'Support for schools — management, system, systems, wastewater, decommissioning, defects, disposal, emergency', url: 'https://www2.education.vic.gov.au/pal/wastewater-treatment-systems/guidance/support-schools' }
+    ]
+  },
+  { id: 503, title: 'Water – Private Drinking Water', category: 'Infrastructure', tags: ['water', 'drinking', 'private', 'supply', 'management', 'activities', 'decommissioning', 'developing'], summary: 'Department of Education policy guidance on water – private drinking water.', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/private-drinking-water/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance', resources: 'https://www2.education.vic.gov.au/pal/private-drinking-water/resources' },
+    chapters: [
+      { title: 'Private drinking water supply risks and hazards — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/risks-and-hazards' },
+      { title: 'Developing a private drinking water supply management plan — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/developing-management-plan' },
+      { title: 'Inspection and maintenance activities — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/inspection-and-maintenance-activities' },
+      { title: 'Water quality testing — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/water-quality-testing' },
+      { title: 'Urban mains water feasibility — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/urban-mains-water-feasibility' },
+      { title: 'Decommissioning private drinking water systems — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/decommissioning-private-drinking-water-systems' },
+      { title: 'Support for schools — water, drinking, private, supply, management, activities, decommissioning, developing', url: 'https://www2.education.vic.gov.au/pal/private-drinking-water/guidance/support-schools' }
+    ]
+  },
+  { id: 504, title: 'Weapons and Other Harmful Items – Banning, Searching and Seizing', category: 'School Operations', tags: ['harmful', 'items', 'banning', 'search', 'searching', 'seizing', 'powers', 'reform'], summary: 'These Guidelines are intended to assist schools to ban, search for and seize certain prescribed harmful items in accordance with the provisions of the Education and Training Reform Act 2006 (Vic) and Education and Training Reform (School Safety) Regulations 2011 (Vic). They contain the following chapters:', url: 'https://www2.education.vic.gov.au/pal/weapons', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/weapons/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/weapons/guidance', resources: 'https://www2.education.vic.gov.au/pal/weapons/resources' },
+    chapters: [
+      { title: 'Harmful items that apply to the banning, searching and seizing powers — harmful, items, banning, search, searching, seizing, powers, reform', url: 'https://www2.education.vic.gov.au/pal/weapons/guidance/1-harmful-items-apply-banning-searching-and-seizing-powers' },
+      { title: 'Declaration of harmful items — harmful, items, banning, search, searching, seizing, powers, reform', url: 'https://www2.education.vic.gov.au/pal/weapons/guidance/2-declaration-harmful-items' },
+      { title: 'Powers to search for and seize harmful items — harmful, items, banning, search, searching, seizing, powers, reform', url: 'https://www2.education.vic.gov.au/pal/weapons/guidance/3-powers-search-and-seize-harmful-items' },
+      { title: 'Action to be taken after a search and seizure — harmful, items, banning, search, searching, seizing, powers, reform', url: 'https://www2.education.vic.gov.au/pal/weapons/guidance/4-action-be-taken-after-search-and-seizure' },
+      { title: 'Authorisation of teacher — harmful, items, banning, search, searching, seizing, powers, reform', url: 'https://www2.education.vic.gov.au/pal/weapons/guidance/5-authorisation-teacher' }
+    ]
+  },
+  { id: 505, title: 'Work Requirements — Teachers', category: 'HR - Pay (?ambig)', tags: ['work', 'teaching', 'management', 'teacher', 'related', 'class', 'classes', 'duties'], summary: 'Within the state-wide parameters set out in the Management of Teacher Work Guide (found in thePolicy and Guidelinestab), each school has responsibility for determining the allocation of teacher work consistent with the requirements of the Victorian Government Schools Agreement 2022.', url: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/resources' },
+    chapters: [
+      { title: 'Introduction — work, teacher, management, teaching, class, classes, duties, face-to-face', url: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/policy-and-guidelines/introduction' },
+      { title: 'Allocation of teacher work — work, teacher, management, teaching, class, classes, duties, face-to-face', url: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/policy-and-guidelines/allocation-teacher-work' },
+      { title: 'Teacher work grievances — work, teacher, management, teaching, class, classes, duties, face-to-face', url: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/policy-and-guidelines/teacher-work-grievances' },
+      { title: 'Further assistance — work, teacher, management, teaching, class, classes, duties, face-to-face', url: 'https://www2.education.vic.gov.au/pal/work-requirements-teachers/policy-and-guidelines/further-assistance' }
+    ]
+  },
+  { id: 506, title: 'Work-Related Driving', category: 'OHS', tags: ['driving', 'safety', 'work-related', 'buses', 'hired', 'employees', 'management', 'owned'], summary: 'This policy outlines the responsibilities and processes to identify and manage risks associated with work-related driving.', url: 'https://www2.education.vic.gov.au/pal/work-related-driving', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/work-related-driving/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/work-related-driving/resources' },
+    chapters: [
+      { title: '1 Identify hazards associated with work-related driving — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/1-identify-hazards-associated-work-related-driving' },
+      { title: '2 Controlling risks associated with driving — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/2-controlling-risks-associated-driving' },
+      { title: '3 Planning the trip — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/3-planning-trip' },
+      { title: '4 Managing risk factors on the road — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/4-managing-risk-factors-road' },
+      { title: '5 Incident/accident reporting — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/6-incident/accident-reporting' },
+      { title: '6 Monitor and review work-related driving safety — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/6-monitor-and-review-work-related-driving-safety' },
+      { title: '7 Legislation, codes of practice, standards and guidance — driving, work-related, OHS, associated, risks, safety, act, employees', url: 'https://www2.education.vic.gov.au/pal/work-related-driving/procedure/7-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 507, title: 'Workforce Management — Schools', category: 'HR - Pay (?ambig)', tags: ['staff', 'management', 'service', 'teaching', 'workforce', 'performance', 'class', 'development'], summary: 'Workforce management is a planning and accountability framework for principals and managers that ensures the Department\'s strategic priorities and objectives are delivered in an efficient and cost effective way, whilst providing for fairness in human resource management practices.', url: 'https://www2.education.vic.gov.au/pal/workforce-management-schools', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/resources' },
+    chapters: [
+      { title: 'Workforce planning — planning, workforce, based, budget, career, consultation, design, inclusive', url: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/#workforce-planning' },
+      { title: 'Recruitment and selecting staff — recruitment, basis, employment, legal, payments, principal, selecting, selection', url: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/#recruitment-and-selecting-staff' },
+      { title: 'Appointing staff — staff, appointing, checks, employment, inducting, payroll, pre-employment, probation', url: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/#appointing-staff' },
+      { title: 'Staff management — performance, class, development, employees, service, teaching, attendance, complaints', url: 'https://www2.education.vic.gov.au/pal/workforce-management-schools/#staff-management' }
+    ]
+  },
+  { id: 508, title: 'Working Alone, in Isolation or from Home', category: 'HR - Pay (?ambig)', tags: ['work', 'working', 'agreement', 'flexible', 'employees', 'alone', 'home', 'isolation'], summary: 'The purpose of this policy is to ensure the safety, health and security of department employees who are working alone or in isolation, including working from home.', url: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/resources' },
+    chapters: [
+      { title: '1. Flexible Work Agreement — working, employees, health, safety, home, OHS, act, alone', url: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/procedure/1-flexible-work-agreement' },
+      { title: '2. Management of working alone, in isolation, from home or after hours — working, employees, health, safety, home, OHS, act, alone', url: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/procedure/2-management-working-alone-isolation-home-or-after' },
+      { title: '3. Suggested standard types and approval levels — working, employees, health, safety, home, OHS, act, alone', url: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/procedure/3-suggested-standard-types-and-approval-levels' },
+      { title: '4. Legislation, codes of practice, standards and guidance — working, employees, health, safety, home, OHS, act, alone', url: 'https://www2.education.vic.gov.au/pal/working-alone-isolation-or-home/procedure/4-legislation-codes-practice-standards-and-guidance' }
+    ]
+  },
+  { id: 509, title: 'Working in More Than One School', category: 'HR - Pay (?ambig)', tags: ['staffing', 'employment', 'teaching', 'best', 'cooperation', 'government', 'needs', 'staff'], summary: 'The administration of government schools continues to be based upon the principle of self-management but with scope for cooperation with other schools.', url: 'https://www2.education.vic.gov.au/pal/working-more-one-school', popular: false,
+    tabs: { overview: 'https://www2.education.vic.gov.au/pal/working-more-one-school/overview', policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/working-more-one-school/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/working-more-one-school/resources' },
+    chapters: [
+      { title: 'Staffing cooperation — introduction — staffing, best, government, educational, enable, financial, human, needs', url: 'https://www2.education.vic.gov.au/pal/working-more-one-school/policy-and-guidelines/staffing-cooperation-guide' },
+      { title: 'Employees who work in more than one school — staffing, best, government, educational, enable, financial, human, needs', url: 'https://www2.education.vic.gov.au/pal/working-more-one-school/policy-and-guidelines/employees-who-work-more-one-school' },
+      { title: 'Multi-school staffing model — staffing, best, government, educational, enable, financial, human, needs', url: 'https://www2.education.vic.gov.au/pal/working-more-one-school/policy-and-guidelines/multi-school-staffing-model' }
+    ]
+  },
+  { id: 510, title: 'Working with Children Checks and other Suitability Checks for School Volunteers and Visitors', category: 'School Operations', tags: ['children', 'work', 'working', 'checks', 'suitability', 'child-related', 'person', 'volunteers'], summary: 'This guidance assists schools in determining whether a volunteer or a visitor (including contractors or employees of contracted service providers) requires a Working with Children Check and/or other form of suitability check.', url: 'https://www2.education.vic.gov.au/pal/suitability-checks', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/suitability-checks/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/suitability-checks/guidance', resources: 'https://www2.education.vic.gov.au/pal/suitability-checks/resources' },
+    chapters: [
+      { title: 'Introduction — check, employees, suitability, boarding, checks, children, contracted, contractors', url: 'https://www2.education.vic.gov.au/pal/suitability-checks/#introduction' },
+      { title: 'Determining whether the work is child-related or child-connected — child-connected, child-related, work, checks, suitability, PPTX, below, check', url: 'https://www2.education.vic.gov.au/pal/suitability-checks/#determining-whether-the-work-is-child-related-or-child-connected' },
+      { title: 'Child-related work — work, child-related, children, working, act, contact, involves, screening', url: 'https://www2.education.vic.gov.au/pal/suitability-checks/#child-related-work' },
+      { title: 'Child-connected work — work, child-connected, templates, checks, child, suitability, authorised, authority', url: 'https://www2.education.vic.gov.au/pal/suitability-checks/#child-connected-work' },
+      { title: 'Other suitability checks – child-related and child-connected work — checks, children, contracted, person, providers, service, suitability, work', url: 'https://www2.education.vic.gov.au/pal/suitability-checks/#other-suitability-checks-–-child-related-and-child-connected-work' }
+    ]
+  },
+  { id: 511, title: 'Workplace Safety Inspections', category: 'OHS', tags: ['safety', 'workplace', 'hazards', 'inspections', 'risk', 'OHS', 'health', 'staff'], summary: 'This policy outlines the requirements for schools to prevent, identify and manage hazards in schools by conducting workplace inspections.', url: 'https://www2.education.vic.gov.au/pal/workplace-inspections', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/workplace-inspections/policy-and-guidelines', resources: 'https://www2.education.vic.gov.au/pal/workplace-inspections/resources' },
+    chapters: [
+      { title: 'Planning and allocating workplace safety inspections — workplace, hazards, inspections, safety, identified, monitored, potential, prevent', url: 'https://www2.education.vic.gov.au/pal/workplace-inspections/procedure/planning-allocating-workplace-safety-inspections' },
+      { title: 'Identifying risks and hazards using workplace safety inspections — workplace, hazards, inspections, safety, identified, monitored, potential, prevent', url: 'https://www2.education.vic.gov.au/pal/workplace-inspections/procedure/identifying-risks-hazards' },
+      { title: 'Controlling risks arising from workplace safety inspections — workplace, hazards, inspections, safety, identified, monitored, potential, prevent', url: 'https://www2.education.vic.gov.au/pal/workplace-inspections/procedure/controlling-risks' },
+      { title: 'Monitoring, reviewing and recording — workplace, hazards, inspections, safety, identified, monitored, potential, prevent', url: 'https://www2.education.vic.gov.au/pal/workplace-inspections/procedure/monitoring-reviewing-recording' }
+    ]
+  },
+  { id: 512, title: 'Young Carers – Identification and Support', category: 'Students', tags: ['carers', 'young', 'identification', 'introduction', 'providers', 'response', 'role', 'supporting'], summary: 'Department of Education policy guidance on young carers – identification and support.', url: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/guidance', resources: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/resources' },
+    chapters: [
+      { title: 'Introduction — carers, young, identification, introduction, providers, response, role, supporting', url: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/guidance/introduction' },
+      { title: 'About young carers — carers, young, identification, introduction, providers, response, role, supporting', url: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/guidance/about-young-carers' },
+      { title: 'The role of schools in identification, response and support — carers, young, identification, introduction, providers, response, role, supporting', url: 'https://www2.education.vic.gov.au/pal/young-carers-identification-and-support/guidance/role-schools-identification-response-and' }
+    ]
+  },
+  { id: 513, title: 'Youth Justice – Additional Support for Young People', category: 'Students', tags: ['young', 'justice', 'people', 'youth', 'learning', 'person', 'supporting', 'alert'], summary: 'Department of Education policy guidance on youth justice – additional support for young people.', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people', popular: false,
+    tabs: { policyAndGuidelines: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/policy-and-guidelines', guidance: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance', resources: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/resources' },
+    chapters: [
+      { title: '1 About young people in youth justice — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/about-young-people-youth-justice' },
+      { title: '2 Guiding principles for supporting a young person in youth justice — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/guiding-principles-supporting-young' },
+      { title: '3 Appointing a learning mentor — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/appointing-learning-mentor' },
+      { title: '4 Establishing a Student Support Group — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/establishing-student-support-group' },
+      { title: '5 Developing and reviewing an Individual Education Plan — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/develop-and-review-individual-education' },
+      { title: '6 Ensuring that learning environments are positive, culturally safe and inclusive, and free from stigma — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/ensuring-learning-environments-are' },
+      { title: '7 Monitor engagement and alert the area team if a young person is at risk, despite local interventions — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/monitor-engagement-and-alert-area-team' },
+      { title: '8 Supporting young people in custody — young, justice, people, youth, learning, person, supporting, alert', url: 'https://www2.education.vic.gov.au/pal/youth-justice-additional-support-young-people/guidance/supporting-young-people-custody' }
+    ]
   }
+
 ];
 
 const CATEGORIES = [

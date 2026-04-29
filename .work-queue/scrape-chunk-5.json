@@ -1,0 +1,325 @@
+{
+  "chunk_idx": 5,
+  "items": [
+    {
+      "title": "Release of Staff to Non-school Locations",
+      "url": "https://www2.education.vic.gov.au/pal/release-non-school-locations",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-12",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 400
+    },
+    {
+      "title": "Religious Observance",
+      "url": "https://www2.education.vic.gov.au/pal/religious-observance",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-03-09",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 401
+    },
+    {
+      "title": "Repeating a Year Level",
+      "url": "https://www2.education.vic.gov.au/pal/repeating-year-level",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2025-10-06",
+      "suggested_db_category": "Curriculum",
+      "new_id": 402
+    },
+    {
+      "title": "Report Fraud or Corruption",
+      "url": "https://www2.education.vic.gov.au/pal/report-fraud-or-corruption",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-04-16",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 403
+    },
+    {
+      "title": "Repurposing and Renaming School Spaces",
+      "url": "https://www2.education.vic.gov.au/pal/repurposing-and-renaming-school-spaces",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-03-23",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 404
+    },
+    {
+      "title": "Requests for Information about Students",
+      "url": "https://www2.education.vic.gov.au/pal/requests-about-students",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 405
+    },
+    {
+      "title": "Research and Evaluation in Schools",
+      "url": "https://www2.education.vic.gov.au/pal/research-in-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2024-01-19",
+      "suggested_db_category": "School Operations",
+      "new_id": 406
+    },
+    {
+      "title": "Restraint and Seclusion",
+      "url": "https://www2.education.vic.gov.au/pal/restraint-seclusion",
+      "category": "Occupational health and safety",
+      "last_updated": "2020-03-04",
+      "suggested_db_category": "OHS",
+      "new_id": 407
+    },
+    {
+      "title": "Right to Disconnect",
+      "url": "https://www2.education.vic.gov.au/right-to-disconnect",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2024-10-22",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 408
+    },
+    {
+      "title": "Risk Management \u2013 Schools",
+      "url": "https://www2.education.vic.gov.au/pal/risk-management-schools",
+      "category": "School operations and student administration",
+      "last_updated": "2023-05-11",
+      "suggested_db_category": "School Operations",
+      "new_id": 409
+    },
+    {
+      "title": "Roles and Responsibilities \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/roles-and-responsibilities-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 410
+    },
+    {
+      "title": "Sabbatical Leave \u2014 Teaching Service",
+      "url": "https://www2.education.vic.gov.au/pal/sabbatical-leave-teaching-service",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Leave",
+      "new_id": 411
+    },
+    {
+      "title": "Salary Rates",
+      "url": "https://www2.education.vic.gov.au/pal/salary-rates",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-14",
+      "suggested_db_category": "HR - Pay",
+      "new_id": 412
+    },
+    {
+      "title": "Scholarships for Secondary Teaching Degrees",
+      "url": "https://www2.education.vic.gov.au/pal/scholarships-for-secondary-teaching-degrees",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2026-01-07",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 413
+    },
+    {
+      "title": "School and Campus Naming",
+      "url": "https://www2.education.vic.gov.au/pal/school-and-campus-naming",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-26",
+      "suggested_db_category": "School Operations",
+      "new_id": 414
+    },
+    {
+      "title": "School Communications Toolkit",
+      "url": "https://www2.education.vic.gov.au/pal/school-communications-toolkit",
+      "category": "Information management, technology and security",
+      "last_updated": "2020-03-24",
+      "suggested_db_category": "IT & Privacy",
+      "new_id": 415
+    },
+    {
+      "title": "School Community Safety Orders",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-safety-orders",
+      "category": "Occupational health and safety",
+      "last_updated": "2022-07-11",
+      "suggested_db_category": "OHS",
+      "new_id": 416
+    },
+    {
+      "title": "School Community Work",
+      "url": "https://www2.education.vic.gov.au/pal/school-community-work",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-25",
+      "suggested_db_category": "School Operations",
+      "new_id": 417
+    },
+    {
+      "title": "School Council Employment",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-employment",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-02-27",
+      "suggested_db_category": "HR - Recruitment",
+      "new_id": 418
+    },
+    {
+      "title": "School Council \u2013 Composition, Eligibility and Office Bearers",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-composition-eligibility-office-bearers",
+      "category": "School councils",
+      "last_updated": "2026-02-09",
+      "suggested_db_category": "School Council",
+      "new_id": 419
+    },
+    {
+      "title": "School Council \u2013 Conduct and Conflict of Interest",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-conduct",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 420
+    },
+    {
+      "title": "School Council \u2013 Elections",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-elections",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 421
+    },
+    {
+      "title": "School Council \u2013 Establishing a New School Council",
+      "url": "https://www2.education.vic.gov.au/pal/establishing-new-school-council",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 422
+    },
+    {
+      "title": "School Council \u2013 Liability and Legal Proceedings",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-liability",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 423
+    },
+    {
+      "title": "School Council \u2013 Overview",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-overview",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 424
+    },
+    {
+      "title": "School Council \u2013 Subcommittees",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-subcommittees",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 425
+    },
+    {
+      "title": "School Council \u2013 Training and Good Governance",
+      "url": "https://www2.education.vic.gov.au/pal/school-council-training",
+      "category": "School councils",
+      "last_updated": "2023-04-13",
+      "suggested_db_category": "School Council",
+      "new_id": 426
+    },
+    {
+      "title": "School Crossings",
+      "url": "https://www2.education.vic.gov.au/pal/school-crossings",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 427
+    },
+    {
+      "title": "School Dates",
+      "url": "https://www2.education.vic.gov.au/pal/school-dates",
+      "category": "School operations and student administration",
+      "last_updated": "2020-04-20",
+      "suggested_db_category": "School Operations",
+      "new_id": 428
+    },
+    {
+      "title": "School Hours (including variation to hours)",
+      "url": "https://www2.education.vic.gov.au/pal/school-hours",
+      "category": "School operations and student administration",
+      "last_updated": "2020-03-05",
+      "suggested_db_category": "School Operations",
+      "new_id": 429
+    },
+    {
+      "title": "School Merger or Closure \u2014 Staffing",
+      "url": "https://www2.education.vic.gov.au/pal/school-merger-or-closure",
+      "category": "Human resources: HRWeb",
+      "last_updated": "2020-05-20",
+      "suggested_db_category": "HR - Pay (?ambig)",
+      "new_id": 430
+    },
+    {
+      "title": "School Networks",
+      "url": "https://www2.education.vic.gov.au/pal/school-networks",
+      "category": "School operations and student administration",
+      "last_updated": "2025-06-13",
+      "suggested_db_category": "School Operations",
+      "new_id": 431
+    },
+    {
+      "title": "School Performance Reporting and Data",
+      "url": "https://www2.education.vic.gov.au/pal/performance-reporting",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-10-05",
+      "suggested_db_category": "Curriculum",
+      "new_id": 432
+    },
+    {
+      "title": "School Review",
+      "url": "https://www2.education.vic.gov.au/pal/school-review",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "Curriculum",
+      "new_id": 433
+    },
+    {
+      "title": "School Strategic Plan",
+      "url": "https://www2.education.vic.gov.au/pal/school-strategic-plan",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2020-10-05",
+      "suggested_db_category": "Curriculum",
+      "new_id": 434
+    },
+    {
+      "title": "School-Based Apprenticeships and Traineeships",
+      "url": "https://www2.education.vic.gov.au/pal/school-based-apprenticeships-and-traineeships",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2024-02-28",
+      "suggested_db_category": "Curriculum",
+      "new_id": 435
+    },
+    {
+      "title": "School-funded Capital Projects",
+      "url": "https://www2.education.vic.gov.au/pal/school-funded-capital-projects",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2020-05-21",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 436
+    },
+    {
+      "title": "Self-Harm and Attempted Suicide Response",
+      "url": "https://www2.education.vic.gov.au/pal/self-harm-attempted-suicide-response",
+      "category": "Student health, safety, wellbeing and engagement",
+      "last_updated": "2021-10-14",
+      "suggested_db_category": "Students",
+      "new_id": 437
+    },
+    {
+      "title": "Sensory Rooms and Equipment",
+      "url": "https://www2.education.vic.gov.au/pal/sensory-rooms",
+      "category": "Infrastructure and facilities",
+      "last_updated": "2022-02-14",
+      "suggested_db_category": "Infrastructure",
+      "new_id": 438
+    },
+    {
+      "title": "Sexuality and Consent Education",
+      "url": "https://www2.education.vic.gov.au/pal/sexuality-education",
+      "category": "Learning, teaching, curriculum and improvement",
+      "last_updated": "2021-04-16",
+      "suggested_db_category": "Curriculum",
+      "new_id": 439
+    }
+  ]
+}
