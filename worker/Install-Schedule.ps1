@@ -4,7 +4,7 @@
   Register the PAL-Search-Phase2-Worker scheduled task.
 
 .DESCRIPTION
-  Creates a Windows Task Scheduler task that runs Run-Worker.ps1 every 5 minutes,
+  Creates a Windows Task Scheduler task that runs Run-Worker.ps1 every 2 minutes,
   starting now, repeating indefinitely. Runs as the current logged-in user only.
   Idempotent -- re-registering replaces the existing task.
 #>
@@ -44,13 +44,13 @@ $action = New-ScheduledTaskAction `
     -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$workerScript`"" `
     -WorkingDirectory $projectRoot
 
-# Trigger every 5 minutes, indefinitely, starting 1 minute from now to give the
+# Trigger every 2 minutes, indefinitely, starting 1 minute from now to give the
 # install command time to return.
 $startTime = (Get-Date).AddMinutes(1)
 $trigger = New-ScheduledTaskTrigger `
     -Once `
     -At $startTime `
-    -RepetitionInterval (New-TimeSpan -Minutes 5) `
+    -RepetitionInterval (New-TimeSpan -Minutes 2) `
     -RepetitionDuration ([TimeSpan]::FromDays(3650))   # ~10 years = effectively indefinite
 
 $settings = New-ScheduledTaskSettingsSet `

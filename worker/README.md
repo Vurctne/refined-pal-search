@@ -1,7 +1,7 @@
 # PAL Quick Search — Phase 2 Worker
 
 A self-driving Windows worker that processes the Phase 2 enrichment queue.
-Triggered every 5 minutes by Windows Task Scheduler, runs natively on Windows
+Triggered every 2 minutes by Windows Task Scheduler, runs natively on Windows
 PowerShell (no WSL), enriches one batch of entries per run, builds, commits,
 deploys, and self-disables when the queue empties.
 
@@ -37,7 +37,7 @@ powershell.exe -ExecutionPolicy Bypass -File worker\Install-Schedule.ps1
 ```
 
 This registers a scheduled task named `PAL-Search-Phase2-Worker` that fires
-every 5 minutes, running as the current user, only while the user is logged in.
+every 2 minutes, running as the current user, only while the user is logged in.
 
 ## Verify the schedule
 

@@ -6,7 +6,7 @@
 .DESCRIPTION
   Locks the queue, processes a small batch of pending entries, builds, commits,
   deploys, and self-disables when the queue empties. Designed to be triggered
-  every 5 minutes by Windows Task Scheduler.
+  every 2 minutes by Windows Task Scheduler.
 #>
 
 $ErrorActionPreference = 'Stop'
@@ -230,13 +230,15 @@ try {
     if ($succeeded.Count -gt 0 -and $buildOk) {
         $idsCsv = ($succeededIds -join ',')
         Write-Log "COMMIT_START ids=$idsCsv"
-        & git add 'src\PALSearch.jsx' '.work-queue/' 2>&1 | Out-Null
+        $gitAddOutput = & git add 'src\PALSearch.jsx' '.work-queue/' 2>&1
+        if ($LASTEXITCODE -ne 0) { Write-Log "GIT_ADD_FAILED exit=$LASTEXITCODE output=$($gitAddOutput -join ' ')" }
         $commitMsg = "enrich(phase2): batch ids $idsCsv [$($succeeded.Count) entries]"
-        & git commit -m $commitMsg 2>&1 | Out-Null
+        $gitCommitOutput = & git -c commit.gpgsign=false commit -m $commitMsg 2>&1
         if ($LASTEXITCODE -eq 0) {
             Write-Log "COMMITTED ids=$idsCsv"
         } else {
-            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE (continuing -- possibly nothing to commit)"
+            $tail = (($gitCommitOutput | Select-Object -Last 8) -join " | ")
+            Write-Log "COMMIT_FAILED exit=$LASTEXITCODE output=$tail (continuing -- possibly nothing to commit)"
         }
 
         # Load .env.local into process env so wrangler/npm-deploy can authenticate.
@@ -258,7 +260,8 @@ try {
             if ($LASTEXITCODE -eq 0) {
                 Write-Log "DEPLOYED"
             } else {
-                Write-Log "DEPLOY_FAILED exit=$LASTEXITCODE -- will retry next run"
+                $tail = (($deployOutput | Select-Object -Last 8) -join ' | ')
+                Write-Log "DEPLOY_FAILED exit=$LASTEXITCODE output=$tail -- will retry next run"
             }
         } catch {
             Write-Log "DEPLOY_ERROR $($_.Exception.Message)"
