@@ -1,0 +1,363 @@
+{
+  "generated_at": "2026-05-03T04:29:10Z",
+  "entries": [
+    {
+      "id": 362,
+      "status": "ok",
+      "current_category": "HR - Recruitment",
+      "patch": {
+        "id": 362,
+        "title": "Other Employment",
+        "category": "HR - Recruitment",
+        "tags": [
+          "other employment",
+          "conflict of interest",
+          "paid work",
+          "business",
+          "profession",
+          "part-time",
+          "permission",
+          "outside department"
+        ],
+        "summary": "Full-time employees require express permission to engage in any paid employment outside the department or their school or engage in the conduct of a business, profession or trade. Part-time employees may not engage in paid employment outside the department or their school that conflicts with the proper performance of the employee's duties.",
+        "url": "https://www2.education.vic.gov.au/pal/other-employment",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/other-employment/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/other-employment/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/other-employment/resources"
+        },
+        "chapters": []
+      },
+      "notes": ""
+    },
+    {
+      "id": 365,
+      "status": "ok",
+      "current_category": "HR - Recruitment",
+      "patch": {
+        "id": 365,
+        "title": "Part-time Employment — Teaching Service",
+        "category": "HR - Recruitment",
+        "tags": [
+          "part-time",
+          "time fraction",
+          "teaching service",
+          "76 hours",
+          "fortnightly",
+          "pro rata",
+          "attendance",
+          "employment"
+        ],
+        "summary": "A person employed part-time is employed to work an agreed number of regular hours less than 76 hours a fortnight. The time fraction is fixed and constant over a normal fortnightly period.",
+        "url": "https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/part-time-employment-teaching-service/resources"
+        },
+        "chapters": []
+      },
+      "notes": ""
+    },
+    {
+      "id": 367,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 367,
+        "title": "Pay Advice Online",
+        "category": "HR - Pay",
+        "tags": [
+          "pay advice",
+          "eduPay",
+          "ESS",
+          "employee self service",
+          "PDF",
+          "fortnightly",
+          "payslip",
+          "online"
+        ],
+        "summary": "All current employees in receipt of a fortnightly pay can log into eduPay to access their pay advice using Employee Self Service (ESS). A pay advice can be viewed, printed, saved or emailed as required, and is available in PDF format.",
+        "url": "https://www2.education.vic.gov.au/pal/pay-advice-online",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/pay-advice-online/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/pay-advice-online/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/pay-advice-online/resources"
+        },
+        "chapters": []
+      },
+      "notes": ""
+    },
+    {
+      "id": 368,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 368,
+        "title": "Personal Details Changes",
+        "category": "HR - Pay",
+        "tags": [
+          "personal details",
+          "name change",
+          "address",
+          "payroll",
+          "PAYG",
+          "marriage",
+          "employee",
+          "update"
+        ],
+        "summary": "An employee may choose to change their name as a result of, for example, marriage, divorce, or change of name by registration. The employee must provide official evidence of their name change such as a certified copy of their change of name certificate or their updated standard birth certificate.",
+        "url": "https://www2.education.vic.gov.au/pal/personal-details-changes",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/personal-details-changes/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/personal-details-changes/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/personal-details-changes/resources"
+        },
+        "chapters": []
+      },
+      "notes": "Category was ?ambig; assigned HR - Pay because the page is about updating payroll/HR records (name and address on the Department's payroll system)."
+    },
+    {
+      "id": 383,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 383,
+        "title": "Practice (Student) Teaching Supervision Payments",
+        "category": "HR - Pay",
+        "tags": [
+          "practice teaching",
+          "student supervision",
+          "payments",
+          "allowance",
+          "Higher Education",
+          "1990 Award",
+          "teacher",
+          "fee-for-service"
+        ],
+        "summary": "The Commonwealth Government provides funding to Higher Education Institutions for practice teaching supervision which in turn contract directly with individual schools for the provision of this supervision on a fee-for-service basis.",
+        "url": "https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments/policy-and-guidance",
+          "resources": "https://www2.education.vic.gov.au/pal/practice-student-teaching-supervision-payments/resources"
+        },
+        "chapters": []
+      },
+      "notes": ""
+    },
+    {
+      "id": 384,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 384,
+        "title": "Pre-service Teacher Placement Grant Program",
+        "category": "HR - Pay",
+        "tags": [
+          "pre-service teacher",
+          "placement grant",
+          "PST",
+          "regional",
+          "remote",
+          "specialist school",
+          "grant payment",
+          "PPG"
+        ],
+        "summary": "Daily grant payments are available to pre-service teachers (PSTs) completing a teaching placement in an eligible regional, remote or specialist Victorian government school. PSTs can speak to a university coordinator about their next teaching placement and the opportunity to complete a placement at an eligible school.",
+        "url": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program/overview-0",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program/policy-and-guidelines-0",
+          "resources": "https://www2.education.vic.gov.au/pal/pre-service-teacher-placement-grant-program/resources-0"
+        },
+        "chapters": []
+      },
+      "notes": "Category was ?ambig; assigned HR - Pay because the policy is about a grant payment program for pre-service teachers completing placements in eligible schools."
+    },
+    {
+      "id": 392,
+      "status": "ok",
+      "current_category": "HR - Recruitment",
+      "patch": {
+        "id": 392,
+        "title": "Probation — Teaching Service",
+        "category": "HR - Recruitment",
+        "tags": [
+          "probation",
+          "teaching service",
+          "12 months",
+          "6 months",
+          "ongoing employment",
+          "VIT",
+          "performance",
+          "2022"
+        ],
+        "summary": "On employment in an ongoing position it is expected that a person who is not an ongoing employee will be subject to a period of probation.",
+        "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/probation-teaching-service/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance",
+          "resources": "https://www2.education.vic.gov.au/pal/probation-teaching-service/resources"
+        },
+        "chapters": [
+          {
+            "title": "Introduction — probation, ongoing employment, teaching service, purpose",
+            "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance/introduction"
+          },
+          {
+            "title": "Probationary process — 12 months, 6 months, principal, delegate, conduct",
+            "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance/probationary-process"
+          },
+          {
+            "title": "Probation and registration with the Victorian Institute of Teaching — VIT, registration, ongoing",
+            "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance/probation-and-registration-victorian-institute"
+          },
+          {
+            "title": "Salary progression and probation — increment, range, progression, pay",
+            "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance/salary-progression-and-probation"
+          },
+          {
+            "title": "Leave while on probation — leave, probationary period, extension, absence",
+            "url": "https://www2.education.vic.gov.au/pal/probation-teaching-service/policy-and-guidance/leave-while-probation"
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "id": 394,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 394,
+        "title": "Professional Practice Days",
+        "category": "HR - Pay",
+        "tags": [
+          "professional practice",
+          "teachers",
+          "release",
+          "teaching",
+          "Victorian Government Schools Agreement",
+          "2022",
+          "pro rata",
+          "pupil-free"
+        ],
+        "summary": "Professional Practice days provide teachers with release from their scheduled duties (all duties which would have been otherwise scheduled, including teaching) to focus on the improved delivery of high quality teaching and learning.",
+        "url": "https://www2.education.vic.gov.au/pal/professional-practice-days",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/professional-practice-days/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/professional-practice-days/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/professional-practice-days/resources"
+        },
+        "chapters": []
+      },
+      "notes": "Category was ?ambig; assigned HR - Pay because professional practice days are a paid leave entitlement under the Victorian Government Schools Agreement 2022."
+    },
+    {
+      "id": 395,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 395,
+        "title": "Public Holidays",
+        "category": "HR - Leave",
+        "tags": [
+          "public holidays",
+          "Christmas",
+          "ANZAC Day",
+          "Easter",
+          "Melbourne Cup",
+          "AFL",
+          "casual employees",
+          "entitlement"
+        ],
+        "summary": "Employees (other than casual employees) are entitled to the following public holidays. Information relating to public holidays and leave arrangements is available on the applicable leave pages under 'Related policies' below.",
+        "url": "https://www2.education.vic.gov.au/pal/public-holidays",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/public-holidays/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/public-holidays/policy-and-guidance",
+          "resources": "https://www2.education.vic.gov.au/pal/public-holidays/resources"
+        },
+        "chapters": []
+      },
+      "notes": "Category was ?ambig; assigned HR - Leave because public holidays are a leave entitlement (not a pay calculation), and the page cross-references the applicable leave pages."
+    },
+    {
+      "id": 396,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 396,
+        "title": "Public Service Medal",
+        "category": "HR - Performance",
+        "tags": [
+          "Public Service Medal",
+          "honours",
+          "Australia Day",
+          "Queen's Birthday",
+          "nomination",
+          "public sector",
+          "recognition",
+          "award"
+        ],
+        "summary": "The Public Service Medal is awarded to staff in the public sector twice a year, to coincide with the Australia Day and Queen's Birthday Honours Lists. A maximum of 100 medals can be awarded in Australia in any year, with 17 medals available to Victorians.",
+        "url": "https://www2.education.vic.gov.au/pal/public-service-medal",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/public-service-medal/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/public-service-medal/policy-and-guidance",
+          "resources": "https://www2.education.vic.gov.au/pal/public-service-medal/resources"
+        },
+        "chapters": []
+      },
+      "notes": "Assigned HR - Performance because the Public Service Medal recognises outstanding public service and performance, making it a closer fit than HR - Conduct which covers misconduct/discipline responses."
+    },
+    {
+      "id": 399,
+      "status": "ok",
+      "current_category": "HR - Pay",
+      "patch": {
+        "id": 399,
+        "title": "Records Management — Employee Information",
+        "category": "IT & Privacy",
+        "tags": [
+          "records management",
+          "employee information",
+          "personnel files",
+          "HRIS",
+          "privacy",
+          "access",
+          "HR",
+          "legislation"
+        ],
+        "summary": "Employee information is collected and stored by the Department for a number of purposes. In order to comply with privacy requirements, employees must be advised of the purpose for which the information is required and the bodies or agencies to whom the Department may disclose personal information.",
+        "url": "https://www2.education.vic.gov.au/pal/records-management-employee-information",
+        "popular": false,
+        "tabs": {
+          "overview": "https://www2.education.vic.gov.au/pal/records-management-employee-information/overview",
+          "policyAndGuidelines": "https://www2.education.vic.gov.au/pal/records-management-employee-information/policy-and-guidelines",
+          "resources": "https://www2.education.vic.gov.au/pal/records-management-employee-information/resources"
+        },
+        "chapters": []
+      },
+      "notes": "Category was ?ambig; assigned IT & Privacy because the policy centres on employee data collection, storage, access controls, and compliance with privacy legislation rather than a pay or leave matter."
+    }
+  ],
+  "summary": {
+    "ok": 11,
+    "still_maintenance": 0,
+    "redirected_unexpectedly": 0,
+    "404": 0
+  },
+  "fetch_failures": []
+}
